@@ -1,0 +1,1356 @@
+=== PAGE 1 ===
+APPLIED SCIENCES AND ENGINEERING
+In situ modula tion of intes tinal organoid epithelial
+curva tur e thr ough photoinduced viscoelas ticity dir ects
+crypt morphogenesis
+F . Max Y a vitt
+1,2
+, Bruce E. Kirkpa trick
+1,2,3
+, Michael R. Bla tchle y
+1,2
+, Kelly F . Speckl
+1,2
+,
+Erfan Mohagheghian
+4
+, Radu Moldo van
+5
+, Ning W ang
+4
+, P eter J. Dempse y
+6
+, Kris ti S. Anseth
+1,2
+*
+Spa tiotempor ally coordina ted tr ansforma tions in epithelial curva tur e ar e necessary to gener a te crypt-villus
+s tructur es during intes tinal dev elopment. Ho w ev er, the tempor al r egula tion of mechanotr ansduction pa thw a y s
+tha t driv e crypt morphogenesis r emains unders tudied. Intes tinal organoids ha v e pr o v en useful to s tudy crypt
+morphogenesis in vitr o, y et the r eliance on s ta tic cultur e sca ffolds limits the ability to assess the tempor al effects
+of changing curva tur e. Her e, a photoinduced hydr ogel cr oss-link e xchange r ea ction is used to spa tiotempor ally
+alter epithelial curva tur e and s tudy ho w dynamic changes in curva tur e influence mechanotr ansduction pa th-
+w a y s to ins truct crypt morphogenesis. Photopa tterned curva tur e incr eased membr ane tension and depolariza-
+tion, which w as r equir ed for subsequent nuclear localiza tion of y es-associa ted pr otein 1 (Y AP) observ ed 24
+hours follo wing curva tur e change. Curva tur e-dir ected crypt morphogenesis only occurr ed follo wing a dela y
+in the induction of differ entia tion tha t coincided with the dela y in spa tially r es tricted Y AP localiza tion, indica ting
+tha t dynamic changes in curva tur e initia te epithelial curva tur e–dependent mechanotr ansduction pa thw a y s tha t
+tempor ally r egula te crypt morphogenesis.
+C opyright © 2023 The
+Authors, some
+rights r eserv ed;
+ex clusiv e licensee
+American Associa tion
+for the Advancement
+of Science. No claim to
+original U.S. Go v ernment
+W orks. Dis tributed
+under a Cr ea tiv e
+C ommons Attribution
+License 4.0 (CC BY).
+INTR ODUCTION
+The mammalian intes tine is a highly comple x and dynamic organ
+tha t serv es a variety of essential functions, including the absorption
+of nutrients fr om diges ted foods. T o aid in this function, the intes-
+tinal epithelium forms dis tinctiv e finger-lik e pr otrusions into the
+lumen, called villi, tha t maximize the surfa ce ar ea of the intes tine
+and enhance its absorptiv e capa city (1). Intes tinal crypts ar e invag-
+ina tions loca ted betw een villi tha t house the secr etory P aneth cells
+and leucine-rich r epea t containing G pr otein–coupled r eceptor 5
+(Lgr5)–positiv e intes tinal s tem cells (ISCs). ISCs ar e r esponsible
+for r eplenishing the various absorptiv e and secr etory cell types
+tha t maintain intes tinal function, while P aneth cells help to
+support ISC maintenance thr ough cell-cell inter a ctions and secr et-
+ed signals (2). While the crypt niche is essential for maintaining the
+ISC popula tion and thus intes tinal function, the mechanisms tha t
+dir ect and initia te crypt morphogenesis r emain incompletely un-
+ders tood [as r evie w ed by Kwon et al. (3)].
+Intes tinal organoids ar e po w erful in vitr o models tha t r ecapitu-
+la te the s tructur e and function of the intes tinal epithelium, enabling
+inv es tiga tions into the mechanisms tha t r egula te crypt morphogen-
+esis (4). When encapsula ted in a cell cultur e sca ffold, a single ISC
+firs t pr olifer a tes to form a hollo w spher oid, composed of a single-
+cell la y er of ISCs. Upon the induction of differ entia tion conditions
+(i.e., r emo val of CHIR99021 and valpr oic a cid), this spher oid
+undergoes a s ymmetry br eaking ev ent tha t r esults in differ entia tion
+to P aneth cells and pr oduces crypt s tructur es tha t pr otrude fr om the
+centr al body , forming a similar crypt-villus ar chitectur e as seen in
+viv o (5, 6). Hartl et al. (7) tr a ck ed changes in cell morphology
+during intes tinal organoid crypt dev elopment and found tha t spa-
+tially r es tricted changes in cell shape, specifically cellular elonga tion
+and apical narr o wing in the r egion pr eceding crypt forma tion, w er e
+necessary to initia te crypt morphogenesis. Gjor evski et al. (8) e x-
+ploited this geometric r equir ement by using micr opa tterned w ells
+in soft hydr ogels to for ce intes tinal organoids into anisotr opic ge-
+ometries, wher e local differ ences in epithelial curva tur e dir ected the
+determinis tic forma tion of crypts. It w as sho wn tha t changes in
+tissue curva tur e, and the associa ted cellular shape and pa cking,
+induced spa tial differ ences in y es-associa ted pr otein 1 (Y AP) local-
+iza tion. C ell shape gener a tes mechanical tension tha t is tr ansmitted
+thr ough cytosk eletal components to open nuclear por e comple xes,
+enabling r apid tr ansloca tion of Y AP into the nucleus (9). In micr o-
+pa tterned epithelial monola y ers, Y AP nuclear tr ansloca tion has also
+been sho wn to be spa tially r egula ted by tension-dependent varia-
+tions in r es ting membr ane potential (10), as w ell as intr anuclear dis-
+tance and nuclear shape (11), mirr oring findings r ela ting to cell
+shape and nuclear pa cking within the crypt. Nuclear Y AP binds
+to tr anscription fa ctors to r egula te gene e xpr ession (12), including
+the e xpr ession of delta-lik e canonical Notch ligand 1, a Notch
+ligand and kno wn Y AP target gene (13–15). In intes tinal organoids,
+the s ymmetry br eaking e xpr ession of Notch ligands confers secr e-
+tory specifica tion in Y AP-a ctiva ted cells tha t leads to the gener a tion
+of the firs t P aneth cell and subsequent crypt forma tion (16).
+While intes tinal organoids ha v e been used to inv es tiga te ho w ep-
+ithelial curva tur e-induced Y AP localiza tion guides s ymmetry
+br eaking ev ents and crypt forma tion, gr ea ter kno wledge of when
+and ho w cells commit to differ entia tion follo wing changes in
+tissue curva tur e is needed to r obus tly char a cterize and engineer
+these living s y s tems. Specifically , fe w s tudies ha v e e xamined the
+1
+Department of Chemical and Biological Engineering, Univ ersity of C olor ado
+Boulder, Boulder, C O 80309, USA.
+2
+BioFr ontiers Ins titute, Univ ersity of C olor ado
+Boulder, Boulder, C O 80309, USA.
+3
+Medical Scientis t T r aining Pr ogr am, Univ ersity
+of C olor ado Anschutz Medical Campus, Aur or a, C O 80045, USA.
+4
+Department of
+Mechanical Science and Engineering, The Gr ainger C ollege of Engineering, Univ er-
+sity of Illinois a t Urbana-Champaign, Urbana, IL 61801, USA.
+5
+Advanced Light Mi-
+cr oscopy C ore F a cility , Univ ersity of C olor ado Anschutz Medical Campus, Aur or a,
+C O 80045, USA.
+6
+Section of Dev elopmental Biology , Department of P edia trics, Uni-
+v ersity of C olor ado, Denv er, C O 80204, USA.
+*C orr esponding author email: Kris ti.anseth@color ado.edu
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 1 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 2 ===
+spa tiotempor al r egula tion of Y AP localiza tion follo wing changes in
+tissue curva tur e. This la ck in unders tanding is due, in part, to the
+r eliance on s ta tic, user-defined surfa ces tha t for ce epithelial cells
+into specific tissue geometries, which limits the s tudy of dynamic
+pr ocesses tha t influence tissue morphogenesis. In particular, crypt
+morphogenesis in viv o is influenced by time-dependent changes in
+tissue geometry tha t occur during dev elopment and r egener a tion.
+F or e xample, the forma tion of intes tinal villi during intes tinal dev el-
+opment wrinkles the intes tinal epithelium, altering the local curva-
+tur e within specific intervillus domains tha t pr ecede the loca tion of
+intes tinal crypts (17–19). Ho w ev er, these dynamic beha viors cannot
+be r eplica ted in vitr o using ma terials with s ta tic pr operties. Hence,
+little is kno wn about ho w dynamic changes in curva tur e influence
+cell signaling and crypt forma tion.
+In this work, w e sought to dev elop a ma terial pla tform tha t
+enables spa tiotempor al contr ol o v er tissue curva tur e to assess the
+r ole of dynamic cell shape changes on crypt forma tion. Pr evious
+work using photodegr aded channels to locally guide crypt forma-
+tion in intes tinal organoids sugges ted tha t tempor ally dependent
+changes in cellular shape and nuclear spa cing initia te crypt forma-
+tion (8). Ho w ev er, this work r elied on local degr ada tion of the hy-
+dr ogel, which is kno wn to a ffect crypt dev elopment (20, 21).
+Meanwhile, photomedia ted r ea ctions tha t spa tiotempor ally
+contr ol hydr ogel viscoelas ticity ha v e been used to locally alter the
+shape of mesenchymal s tem cells without changing hydr ogel s tiff-
+ness to decouple the two phenomena (22). Her e, w e use a photoin-
+duced allyl sulfide e xchange r ea ction to gener a te changes in
+hydr ogel viscoelas ticity , ther eby locally and contr ollably deforming
+intes tinal organoid epithelial shape to r ev eal a time-dela y ed change
+in Y AP localiza tion in r esponse to cell shape modula tion and the
+associa ted incr ease in mechanical tension and depolariza tion of
+the epithelial r es ting membr ane potential. By varying the timing
+of the intr oduction of differ entia tion cues, w e sho w tha t this
+dela y ed localiza tion of Y AP is necessary to ins truct the cell
+shape–dependent pa tterning of crypt morphogenesis.
+RESUL TS
+Allyl sulfide–media ted bond r earr angement fa cilita tes
+photoinduced viscoelas ticity
+W ith the intention of using light to modify epithelial shape in situ,
+w e sought to design a hydr ogel pla tform containing photosensitiv e
+allyl sulfide gr oups tha t also permitted thr ee-dimensional (3D) en-
+capsula tion of intes tinal organoids. Cr oss-link ed hydr ogels w er e
+formed thr ough a s tr ain-pr omoted azide-alkyne cycloaddition
+(SP AA C) r ea ction betw een 8-arm poly(ethylene glycol) dibenzylcy-
+clooctyne (PEG-8DBC O) and allyl sulfide bis(PEG3-azide)
+(Fig. 1A). The gela tion of this SP AA C hydr ogel chemis try occurs
+r apidly in solution a t phy siological conditions and has been
+sho wn pr eviously to be cytocompa tible for 3D encapsula tion of in-
+tes tinal organoids (21, 23, 24). Rheological char a cteriza tion of gela-
+tion indica ted tha t the gel point, es tima ted by the cr osso v er of the
+s tor age (G′) and loss (G″) moduli, occurr ed within 30 s, while 90%
+of the final G′ w as a chiev ed in 236 ± 12 s (Fig. 1B). F ollo wing gela-
+tion, G′ r ea ched a pla teau modulus of 1170 ± 150 P a, which did not
+significantly change a fter gels w er e swollen to equilibrium in neutr al
+phospha te-buffer ed saline (PBS; Fig. 1C). The final equilibr a ted G′
+w as chosen on the basis of pr evious work tha t defined the optimal
+r ange of modulus values for intes tinal organoid forma tion under
+s tem-inducing conditions (G′ = ~1.3 kP a) in s ynthetic hydr ogels
+(20, 23). Equilibr a ted hydr ogels displa y no fr equency dependence
+in the absence of light (fig. S1A).
+Incorpor a tion of the ally sulfide moiety within the network
+enables photoinduced, on-demand changes in hydr ogel viscoelas-
+ticity . In this appr oa ch, ultr a violet (UV) light irr adia tion gener a tes
+r adicals fr om soluble photoinitia tors tha t r ea ct with pendant alk ene
+gr oups of the allyl sulfide cr oss-links, r esulting in clea vage of the
+allyl sulfide to gener a te network-tether ed thiyl r adicals (Fig. 1D).
+These r adical species then r ea ct with other allyl sulfide cr oss-links
+thr ough a r ev ersible addition fr agmenta tion chain tr ansfer r ea ction,
+gener a ting ne w tether ed thiyl r adicals tha t can pr opaga te and cause
+subsequent e xchange r ea ctions (Fig. 1E). Exchange r ea ctions
+betw een network tether ed r ea ctiv e gr oups lead to bond r earr ange-
+ment but do not significantly alter cr oss-link density , ther efor e tem-
+por arily incr easing the hydr ogel loss modulus (G″) while causing a
+minimal decr ease to the s tor age modulus during irr adia tion (G′).
+This mechanism of bond r earr angement is differ ent than wha t
+has been r eported in other work using allyl sulfide hydr ogels (21,
+23, 25), which r ely on clea vage of the allyl sulfide cr oss-link using
+a soluble monofunctional thiol species to s trictly soften hydr ogels
+(i.e., r eduction in G′). T o assess photoinduced viscoelas ticity , hy-
+dr ogels w er e equilibr a ted with 1 mM of the photoinitia tor lithium
+phenyl-2,4,6-trimethylbenzoylphosphina te (LAP), and a rheometer
+with a light curing a ccessory w as used to tr a ck in situ changes in G′,
+G″, and s tr ess (σ) during irr adia tion (10 mW cm
+−2
+of a 405-nm
+light). Because this r ea ction is driv en by photoinduced r adical gen-
+er a tion, bond r earr angement only occurs for the dur a tion of light
+e xposur e, pr o viding tempor al contr ol o v er photoinduced bond r e-
+arr angement. G″ monotonically incr eases during irr adia tion, indi-
+ca ting incr eased viscoelas ticity , and immedia tely decr eases
+follo wing shuttering of the light (fig. S1B). In addition, the normal-
+ized s tr ess decr eases thr oughout the dur a tion of irr adia tion (fig.
+S1C). Figur e 1F sho ws the normalized G′ and σ follo wing incr easing
+e xposur e times. At short e xposur e times of 30 and 60 s, the normal-
+ized σ significantly decr eases, while ther e is no change in the nor-
+malized G′. Ho w ev er, a t longer e xposur e times of 120 and 180 s,
+ther e is a significant decr ease in both the normalized G′ and σ.
+Longer e xposur e times gener a te a higher concentr a tion of LAP r ad-
+icals, which subsequently consume mor e allyl sulfide cr oss-links
+thr ough irr ev ersible clea vage ev ents to significantly degr ade the
+network (fig. S2A). Despite the dependency of the r a te of photoini-
+tia tion on the incident light intensity , it w as found tha t the change
+in ma trix pr operties w as dependent on the total light dose (intensity
+× time), r a ther than the light intensity , indica ting tha t concentr a tion
+of r adicals w as s till r ela tiv ely lo w compar ed to the concentr a tion of
+allyl sulfide cr oss-links (fig. S2B). These r esults indica te tha t bond
+r earr angement occurs in the absence of degr ada tion a t lo w er light
+doses, pr o viding a mechanism for photoinduced bond r earr ange-
+ment with minimal changes to the local hydr ogel s tor age modulus.
+Magnetic r ota tional spectr oscopy r ev eals minimal change
+in G′ follo wing spa tial photopa tterning
+While rheology w as used to char a cterize the bulk changes in visco-
+elas tic beha vior in r esponse to flood e xposur e to lo w doses of UV
+light, w e ne xt sought to assess local changes in rheological pr oper-
+ties in r esponse to spa tially pa tterned light. Her e, a laser scanning
+confocal micr oscope w as used to photopa ttern r egions of induced
+viscoelas ticity . A laser deliv ers a much higher light dose o v er a
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 2 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 3 ===
+shorter time, compar ed to a UV lamp, which influences the concen-
+tr a tion of photoinitia ted r adicals and thus the kinetics of the allyl
+sulfide bond r earr angement r ea ction (21). T o char a cterize local
+changes in the hydr ogel pr operties and identify photopa tterning
+conditions tha t do not a ffect G′, w e used magnetic r ota tional spec-
+tr oscopy (26, 27), a micr orheological technique, to monitor G′ in
+photopa tterned r egions (Fig. 2A). Magnetic micr obars measuring
+31.6 ± 1.6 μm in length and 12.6 ± 1.4 μm in width w er e firs t en-
+capsula ted within allyl sulfide hydr ogels (Fig. 2B). Hydr ogels w er e
+then equilibr a ted with 1 mM LAP , and a laser scanning confocal
+micr oscope w as used to apply light (405 nm, 10 to 90% laser
+po w er) to squar e pa tterned r egions in a single plane surr ounding
+encapsula ted micr obars to initia te bond r earr angement. Because
+of laser light tr a v eling thr ough the ma terial, irr adia tion of a single
+plane gener a tes a r oughly uniform pa ttern thr oughout the depth of
+the hydr ogel (fig. S3, A and B). An oscilla ting magnetic field w as
+applied, causing the micr obars to r ota te (Fig. 2C), fr om which the
+amplitude of r ota tion w as used to calcula te the shear s tor age
+modulus within the photopa tterned r egions (28). R esults sho w
+tha t G′ r emains cons tant until a laser po w er of 70% is used,
+corr esponding to a light dose of 4 J cm
+−2
+(Fig. 2D). At this point,
+irr ev ersible fr agmenta tion fr om photoclea v ed LAP molecules led to
+degr ada tion of the network tha t significantly decr eased G′, as ob-
+serv ed by an incr ease in the micr obar r ota tion. This r esult is consis-
+tent with bulk rheological measur ements, which sho w ed incr eased
+degr ada tion a t higher light doses. In addition, these da ta motiva te
+the selection of 30% laser po w er, corr esponding to a light dose of
+1.80 J cm
+−2
+, as appr opria te photopa tterning conditions to induce
+viscoelas tic changes in cell laden hydr ogels with minimal r eduction
+in G′. This light dose is an order of magnitude lo w er than doses r e-
+ported to cause damage to cells in liter a tur e (29).
+Photopa tterning of viscoelas ticity enables contr ol o v er
+epithelial curva tur e
+After quantifying the changes to the hydr ogel mechanical pr oper-
+ties as a function of light dose, selected conditions for the photoin-
+duced viscoelas ticity mechanism w er e used to intr oduce spa tially
+defined deforma tions in intes tinal organoid epithelia. Because the
+applica tion of light a ffords spa tial contr ol o v er the ma terial pr operty
+changes, intes tinal organoids w er e encapsula ted within allyl sulfide
+Fig. 1. Hydr ogel forma tion and photoinduced viscoelas tic r esponse. (A) Chemical s tructur es of 8-arm poly(ethylene glycol) dibenzylcyclooctyne (PEG-8DBC O) and
+allyl sulfide diazide, which r ea ct thr ough s tr ain-pr omoted azide-alkyne cycloaddition (SP AA C) to form a hydr ogel. (B) The shear s tor age modulus (G′; bla ck) incr eased
+during gela tion, r ea ching 90% of the pla teau values a t 236 ± 12 s, while the shear loss modulus (G″; gr a y) r emains cons tant. Rheological plot sho ws r epr esenta tiv e tr a ce.
+(C) Hydr ogels a chiev ed a final s tor age modulus of 1170 ± 150 P a upon gela tion, with no significant differ ence upon equilibr a tion. Significance w as determined by t tes t,
+N = 4 gels, means ± SD. (D) Incident ultr a violet (UV) light gener a tes r adicals fr om soluble lithium phenyl-2,4,6-trimethylbenzoylphosphina te (LAP) that r ea ct with allyl
+sulfide cr oss-links to gener a te network tether ed thiyl r adical species thr ough irr ev ersible fr agmenta tion. (E) Network-tether ed thiyl r adical species then r ea ct with other
+allyl sulfides in an e xchange r ea ction, r egener a ting an allyl sulfide cr oss-link and a network-tether ed thiyl r adical species, which can then participa te in other e xchange
+r ea ctions. (F) The normalized modulus (bla ck) and s tr ess (white) of allyl sulfide cr oss-link ed hydr ogels decr eased follo wing incr easing e xposur e times 405 nm light a t 10
+mW cm
+−2
+. Ea ch sample w as normalized to the modulus or s tr ess value befor e irr adia tion. Significance w as determined by two-w a y analy sis of variance (ANO V A) with
+T uk e y’s multiple comparison tes t; number sign (#) denotes significance compar ed to a 30-s normalized modulus condition, and as terisk (*) denotes significance com-
+par ed to a 30-s normalized s tr ess condition; ###P < 0.001; #### and ****P < 0.0001; N = 3 gels per condition, means ± SD. N.S., not significant.
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 3 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 4 ===
+hydr ogels and equilibr a ted with photoinitia tor, and a laser scanning
+confocal micr oscope w as subsequently used to r as ter local r egions of
+network bond r earr angements adja cent to encapsula ted organoids
+(Fig. 3A). Intes tinal organoids w er e uniformly dis tributed thr ough-
+out the depth of hydr ogel, such tha t light a ttenua tion has an insig-
+nificant effect on the hydr ogel pr operties (fig. S3C). Specifically ,
+irr adia tion initia tes the photoinduced bond r earr angement mecha-
+nism to r elax a portion of the s tr ess within the photopa tterned
+r egions, r esulting in localized deforma tion of the epithelium.
+Under gr o wth conditions, the phy sical e xpansion of encapsula ted
+organoids is r es tricted by elas tic confinement of the hydr ogel
+network tha t gener a tes local s tr esses. R elaxa tion of these s tr esses
+via the photoinduced bond r earr angement r ea ction leads to a phy s-
+ical deforma tion of the organoid epithelia tha t can be seen imme-
+dia tely a fter photopa tterning (fig. S4). Once the light is shutter ed,
+the bond r earr angement r ea ction is s topped, and the hydr ogel
+r eturns to an elas tic s ta te to pr eserv e the s ta te of deforma tion. By
+contr olling the spa tial dis tribution of the photopa tterned r egions,
+the shape of the organoid epithelium can be contr olled. Figur e 3B
+sho ws the pa tterning of eight dis tinct bud-lik e r egions within a
+single organoid. In addition, the width of the photopa tterned
+r egions ultima tely determines the curva tur e of the deforma tion,
+with smaller pa tterned r egions r esulting in decr eases in the r adius
+of curva tur e (Fig. 3C). A 10-μm wide pa ttern did not gener a te a
+change in the epithelial curva tur e compar ed to unpa tterned
+organoids. Pr esumably , the 10-μm pa ttern is too small to allo w
+for deforma tion. Meanwhile, 30-, 50-, and 70-μm wide pa tterns
+gener a ted deforma tions with r adii of curva tur e of 32 ± 6.7,
+40.8 ± 7.6, and 54.6 ± 11.2 μm, r espectiv ely , based on measur ed cur-
+va tur e values (Fig. 3D). In addition, the epithelial curva tur e w as in-
+sensitiv e to the length of the photopa tterned r egion (fig. S5).
+C ollectiv ely , these r esults demons tr a ted tha t the photopa tterned
+r egion size can be used to tune the specific epithelial curva tur e.
+R egions of photopa tterned curva tur e templa te and dir ect
+the forma tion of crypts
+T o determine whether photopa tterned curva tur e changes could
+dir ect crypt forma tion, four ev enly spa ced photopa tterned r egions
+(50 μm in width) w er e firs t applied to r egions adja cent to encapsu-
+la ted organoids, deforming initially spherical organoids into cr oss-
+shape organoids. T w enty-four hours a fter pa tterning of the epithe-
+lial curva tur e, organoids w er e then e xposed to differ entia tion con-
+ditions (bulk hydr ogel degr ada tion and r emo val of CHIR99021 and
+valpr oic a cid) to initia te crypt forma tion (Fig. 4A) (21). Befor e dif-
+fer entia tion, the applica tion of photopa tterned viscoelas ticity did
+not impede isometric e xpansion in s tem gr o wth conditions (fig.
+S6). The angle of the r esulting crypt forma tion w as measur ed r ela-
+tiv e to the initial pa tterned r egions and used to calcula te the orien-
+ta tion order par ameter, which is a measur e of the spa tial entr opy of
+the s y s tem (see fig. S7 and Ma terials and Methods for further
+Fig. 2. Micr orheology within photopa tterned r egions. (A) Magnetic micr obars w er e encapsula ted within an allyl sulfide hydr ogel network, and an oscilla ting magnetic
+field w as applied, causing the micr obars to r ota te. Images of micr obar oscilla tions w er e obtained and used to determine the local rheological pr operties, as the amplitude
+of r ota tion is a measur e of the local hydr ogel modulus. A laser scanning confocal micr oscope w as then used to photopa ttern r egions for photoinduced viscoelas ticity
+ar ound the encapsula ted micr obars. In this case, degr ada tion fr om the allyl sulfide bond e xchange r ea ction causes an incr ease in the amplitude. (B) Encapsula ted micr o-
+bars w er e 31.6 ± 1.6 μm in length and 12.6 ± 1.4 μm in width. Scale bar, 30 μm. (C) Micr obars within r egions photopa tterned with 0 (left) and 90% (right) laser po w er
+oscilla ted betw een a minimum (blue) and maximum (r ed) amplitude. The angle of r ota tion is sho wn for micr obars oscilla ting follo wing 0% (gr a y) and 90% (bla ck) laser
+po w er to visualize the amplitude of r ota tion. (D) The amplitude of micr obar r ota tion w as used to calcula te G′ (see the Supplementary Ma terials), which decr eased a t
+higher light doses, indica ting local hydr ogel degr ada tion due to irr ev ersible fr agmenta tion ev ents. Significance w as determined by one-w a y ANO V A with T uk e y’s multiple
+comparison tes t; **P < 0.01; ****P < 0.0001; N = 5, 5, 10, 5, and 4 micr obars for 0, 30, 50, 70, and 90% laser po w er, r espectiv ely . Bla ck bar denotes a v er age ± SD, while gr a y
+points denote measur ements fr om individual micr obars.
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 4 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 5 ===
+e xplana tion) (30). R esults in Fig. 4B r ev eal tha t crypts origina ting
+fr om shape pa tterned organoids displa y a higher orienta tion
+order par ameter, compar ed to unpa tterned spherical organoids,
+meaning tha t crypts form mor e often fr om r egions of photopa t-
+terned shape change and tha t the dir ectionality of crypt forma tion
+is mor e aligned. In addition, immunos taining confirmed the pr es-
+ence of ly sozyme, a mark er for P aneth cells, r esiding within the
+crypt r egions (Fig. 4C). An equal number of crypts contained ly so-
+zyme positiv e cells in pa tterned (54 ± 13%) and unpa tterned
+(49 ± 2%) organoids, while mor e ly sozyme positiv e crypts e xis ted
+specifically within pa tterned r egions of pa tterned organoids
+(72 ± 9%), compar ed to unpa tterned organoids binned in a
+similar manner (50 ± 12%) (Fig. 4D). Fr om these r esults, w e posit
+tha t the photoinduced changes to the local s tr ess dis tribution prime
+pa tterned r egions within the organoid for crypt forma tion thr ough
+cell shape–induced mechanotr ansduction.
+Photopa tterned curva tur e r esults in incr eased tension and
+membr ane depolariza tion
+T o unders tand ho w photoinduced curva tur e locally a ctiva tes me-
+chanotr ansduction pa thw a y s, w e firs t sought to elucida te the
+change in mechanical tension and r es ting membr ane potential.
+R ecent work using micr opa tterned mammary epithelial monola y ers
+demons tr a ted tha t r egions of incr eased tension also sho w ed gr ea ter
+r es ting membr ane potential (depolariza tion) and subsequent
+nuclear localiza tion of Y AP tha t dr o v e corr esponding pa tterns of
+pr olifer a tion. T r ea tment with the conne xin hemichannel inhibitor,
+T A T-gap19, block ed ion channels to diminish the spa tially localized
+pa tterning in membr ane potential and Y AP localiza tion (10). Ap-
+pr ecia ting the potential r ela tionship betw een epithelial curva tur e,
+membr ane tension, and localized a ctiva tion of s tr etch-sensitiv e
+ion channels (Fig. 5A), w e firs t aimed to determine whether mem-
+br ane tension w as a ffected by photoinduced shape change. W ithin 2
+to 4 hours of photopa tterning, organoids w er e s tained with the
+membr ane tension r eporter dy e Flipper-TR (31) for fluor escence
+lifetime imaging micr oscopy (FLIM) analy sis. FlipperTR localizes
+to the cell membr ane and has a fluor escence lifetime on the order
+of nanoseconds, which incr eases or decr eases when the membr ane
+is in tension or compr ession, r espectiv ely . Using a phasor appr oa ch
+to fr equency domain FLIM analy sis (fig. S8A) (32), w e measur ed an
+incr ease in a v er age fluor escence lifetime of 182 ± 52 ps in pa tterned
+r egions compar ed to unpa tterned r egions (Fig. 5B). Ha ving es tab-
+lished tha t photopa tterning induced curva tur e r esults in gr ea ter
+membr ane tension, w e ne xt inv es tiga ted the effect of curva tur e on
+the r es ting membr ane potential, which is dependent on the mem-
+br ane tension (10) and has been highlighted as a possible s ymmetry
+br eaking cue in homogenous tissues (33) and as an unders tudied
+element of intes tinal biomechanics (34). Using the anionic dy e
+bis-(1,3-diethylthiobarbituric a cid) trimethine oxonol (DiSBA C
+2
+)
+(3), which is concentr a ted in r egions of the lipid bila y er with in-
+cr easing membr ane depolariza tion, w e quantified fluor escence in-
+tensity in pa tterned v ersus unpa tterned r egions of the membr ane
+and found significant depolariza tion in r egions of high curva tur e
+and tension (Fig. 5C and fig. S7B). T r ea ting organoids with T A T-
+gap19 for 5 hours a fter photopa tterning r esulted in elimina tion of
+this clear pa tterning of the r es ting membr ane potential (Fig. 5D),
+implica ting conne xin hemichannels in the maintenance of r es ting
+membr ane potential pa tterns in intes tinal organoids. T ogether,
+these r esults sho w tha t photoinduced shape change r esults in
+spa tial dis tributions of incr eased tension and membr ane
+depolariza tion.
+Y AP localiza tion is dela y ed follo wing curva tur e pa tterning
+W ith the unders tanding tha t dynamic changes in organoid curva-
+tur e (i.e., fr om spherical to the induction of buds) influence the
+r es ting membr ane potential and the subsequent ev olution of
+Fig. 3. Photopa tterned viscoelas ticity locally alters epithelial curva tur e. (A) Applica tion of photopa tterned light initia tes local hydr ogel bond r earr angement, de-
+forming the epithelium within the pa tterned r egion. (B) Selection of pa ttern spa cing can be used to gener a te up to eight independent deforma tions within a single
+organoid. Scale bars, 100 μm. (C) The width of the photopa ttern determines the width of epithelial curva tur e. (D) Epithelial curva tur e is unchanged by a 10-μm pa ttern but
+is decr eased a ccording to pa ttern width with 30-, 50-, and 70-μm pa tterns. Significance w as determined by one-w a y ANO V A with T uk e y’s multiple comparison tes t;
+**P < 0.01; ****P < 0.0001; N = 29, 29, 103, 121, and 121 organoids for no pa ttern and 10-, 30-, 50-, and 70-μm conditions, r espectiv ely . Bars denote a v er age ± SD.
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 5 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 6 ===
+differ entia tion and crypt forma tion, w e ne xt sought to monitor the
+spa tial and tempor al dis tribution of Y AP e xpr ession a fter photopa t-
+terning and the effect of Y AP localiza tion on crypt forma tion.
+R ecent liter a tur e has sugges ted tissue curva tur e–induced changes
+in Y AP e xpr ession ar e a driving for ce in dir ecting crypt forma tion
+fr om ISCs (8); ho w ev er, these e xperiments w er e conducted using
+geometrically defined templa tes tha t gener a ted s ta tic organoid
+s tructur es befor e differ entia tion. Hence, w e applied photopa tterns
+to encapsula ted organoids to induce changes in shape and then
+monitor ed the localiza tion of Y AP o v er time (Fig. 6A). Immedia tely
+a fter photopa tterning (0 hours), Y AP w as ev enly dis tributed
+betw een the nucleus and cytoplasm for cells loca ted within both
+pa tterned and unpa tterned r egions. Ho w ev er, 24 hours a fter photo-
+pa tterning, a higher nuclear to cytoplasmic r a tio w as observ ed in
+cells within pa tterned r egions compar ed to cells r esiding in unpa t-
+terned r egions of the organoids (Fig. 6, B and C). While the da ta
+sho w a r ela tiv ely small incr ease in Y AP nuclear-cytoplasmic locali-
+za tion, values of this magnitude ha v e been r eported else wher e in lit-
+er a tur e for inducing pa tterned changes in Y AP localiza tion tha t
+r esult in localized pr olifer a tion and differ entia tion (8, 10). This
+r esult sugges ts a tempor al dependence on Y AP localiza tion,
+namely , tha t a ctiv e changes in tissue curva tur e and cell shape
+pr ecede changes in Y AP localiza tion befor e crypt forma tion. T o
+tes t this hypothesis and corr ela te differ ences in Y AP e xpr ession
+with crypt forma tion ev ents, organoids w er e either differ entia ted
+immedia tely (0 hours) or 24 hours a fter pa tterning (Fig. 6, D and
+E). The orienta tion order par ameter calcula ted for organoids differ-
+entia ted 0 hours a fter pa tterning (0.12 ± 0.06) w as not significantly
+differ ent fr om tha t of unpa tterned organoids (0.10 ± 0.02), indica t-
+ing tha t pa tterning of epithelial shape does not influence crypt for-
+ma tion a t early time points. Differ entia ting organoids a t 24 hours
+a fter pa tterning of the tissue curva tur e r esulted in a gr ea ter orienta-
+tion order par ameter (0.37 ± 0.14) compar ed to the unpa tterned
+contr ol. Because differ ences in Y AP localiza tion ar e not r ealized im-
+media tely a fter pa tterning of epithelial shape, these r esults support
+the notion tha t photoinduced change in tissue curva tur e leads to
+spa tially alter ed Y AP e xpr ession, which is a driving for ce for s ym-
+metry br eaking and crypt forma tion (14). Mor eo v er, tr ea tment with
+T A T-gap19 r esulted in a significant decr ease in Y AP nuclear to cy-
+toplasmic r a tio in pa tterned v ersus unpa tterned r egions (fig. S9),
+sugges ting tha t supr a cellular pa tterns in tension and r es ting mem-
+br ane potential ma y be necessary for pr ogr ammed Y AP localiza tion
+and s ymmetry br eaking in our 3D hydr ogel s y s tem.
+Fig. 4. Photopa tterned changes in epithelial curva tur e templa te crypt forma tion. (A) Organoids w er e encapsula ted into hydr ogels and allo w ed to e xpand for 24
+hours befor e applying photopa tterns. The “unpa tterned” condition did not r eceiv e any light dose. After 24 hours, pa tterned and unpa tterned organoids w er e e xposed to
+differ entia tion conditions, and crypt gr o wth w as assessed 48 hours la ter. Scale bar, 50 μm. (B) The angles of crypt forma tion w er e used to gener a te an orienta tion order
+par ameter, which is higher for pa tterned organoids (bla ck) compar ed to unpa tterned (white) organoids, indica ting tha t crypt forma tion is dir ected and templa ted by
+pa tterned epithelial shape. Significance w as determined by t tes t; *P < 0.05; N = 4 and 3 gels for the pa tterned and unpa tterned conditions, r espectiv ely . Bars denote
+a v er age ± SD. (C) Immunos taining of differ entia ted organoids for nuclei (blue), F-a ctin (gr een), and ly sozyme (re d), a mark er for P aneth cells, r eve aled P aneth cells
+confined to crypt ends. Scale bar, 50 μm. (D) Analy sis of ly sozyme dis tribution in pa tterned (bla ck) and unpa tterned (white) organoids r ev ealed tha t 54 ± 13% and
+49 ± 2% of all crypts contained ly sozyme-positiv e cells in pa tterned and unpa tterned organoids, r espectiv ely , while 72 ± 9% and 50 ± 12% of crypts in pa tterned
+r egions contained ly sozyme-positiv e cells in pa tterned and unpa tterned organoids, r espectiv ely . Significance w as determined by one-w a y ANO V A with T uk e y’s multiple
+comparison tes t; *P < 0.05; N = 4 gels. Bars denote a v er age ± SD.
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 6 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 7 ===
+DISCUSSION
+During intes tinal organoid dev elopment, local changes in epithelial
+cell shape ar e necessary to driv e s ymmetry br eaking ev ents tha t lead
+to crypt forma tion, but ther e is little unders tanding of the r ole of
+epithelial curva tur e induced mechanotr ansduction in dir ecting
+crypt dev elopment (35). Specifically , w e w er e inter es ted in under-
+s tanding ho w mechanotr ansduction pa thw a y s ar e tempor ally r egu-
+la ted to influence s ymmetry br eaking ev ents. T o answ er this
+ques tion, w e sought to design ma terials tha t enabled spa tiotempor al
+contr ol o v er epithelial cell shape to s tudy the pr ogr ession of mecha-
+notr ansduction pa thw a y s follo wing a ctiv e changes in tissue curva-
+tur e. The photoinduced allyl sulfide bond r earr angement
+mechanism w as originally used to mitiga te polymeriza tion-
+induced shrinkage s tr esses in polymer networks (36). This
+pr ocess w as la ter e xploited in allyl sulfide cr oss-link ed hydr ogels
+to spa tiotempor ally alter viscoelas tic pr operties to pr obe the time-
+dependent cellular r esponses of hMSCs and to dir ect their cell shape
+(22). In this work, w e highlight the ability of this photoinduced
+bond r earr angement mechanism to tempor arily alter viscoelas tic
+pr operties to dir ect epithelial shape. In addition, while r ecent liter-
+a tur e has begun to inv es tiga te the r ole of ma trix viscoelas ticity on
+intes tinal organoid dev elopment (37–39), the effects of tempor ary
+changes in viscoelas ticity ha v e y et to be e xplor ed. Her e, the pa t-
+terned applica tion of the allyl sulfide bond r earr angement r ea ction
+to discr ete r egions of the hydr ogel r elaxes s tr esses built up by the
+e xpanding organoid, causing epithelial deforma tion into the pa t-
+terned r egion to impart dis tinct and contr ollable curva tur e into
+the epithelium tha t persis ts to influence organoid crypt forma tion.
+This r ea ction occurs with minimal change to the hydr ogel s tor age
+modulus, as elas tic pr operties ar e kno wn to be s tr ong r egula tors of
+mechanotr ansduction and crypt forma tion in intes tinal organoids
+(20, 21). Figur e 6C sho ws tha t photopa tterned viscoelas ticity alone
+is not enough to influence crypt forma tion, as only organoids dif-
+fer entia ted 24 hours a fter pa tterning sho w crypt alignment with the
+photopa tterned r egions. If the photoinduced viscoelas tic r ea ction
+w as sufficient to degr ade the network, then these pa tterned
+r egions would influence crypt alignment. Ins tead, differ entia ting
+immedia tely follo wing pa tterning r esults in no differ ence in the
+alignment of crypt emergence compar ed to unpa tterned organoids
+(Fig. 6D). Hence, this pla tform enables minimiza tion of the effects
+of hydr ogel mechanics on crypt forma tion to isola te the r ole of
+tissue curva tur e on organoid dev elopment.
+F ollo wing photopa tterned changes in epithelial shape, differ en-
+tia tion w as induced by photosoftening and altering medium com-
+position to initia te crypt forma tion. It w as found tha t crypts
+origina ted fr om r egions of photopa tterned shape change with
+higher fr equency than unpa tterned r egions, indica ting tha t epithe-
+lial shape can dir ect the loca tion of crypt forma tion. Unperturbed
+organoid crypt morphogenesis gener a tes a r andom dis tribution of
+crypt ar chitectur es, including the spa cing and dis tribution of crypts,
+which contributes to cultur e heter ogeneity and hinders the tr ansla-
+tional potential of organoid technologies (40). Ins tead, w e sho w tha t
+contr ol o v er tissue curva tur e can be used to templa te the loca tion of
+crypt forma tion, pr o viding an opportunity to incr ease the homoge-
+neity of organoid cultur e. Other work has used various lithogr aphic
+pa tterning methods to gener a te bioma terial sca ffolds tha t mimic the
+crypt-villus ar chitectur e, for cing the dev elopment of mor e uniform
+s tructur es in an organoid monola y er cultur e (41–44). Ho w ev er, fe w
+Fig. 5. Induced curva tur e alters membr ane tension and r es ting membr ane potential. (A) C ells within r egions of photoinduced shape change (blac k outline) ar e
+deformed, incr easing membr ane tension and s tr etch-sensitiv e ion channel a ctiva tion compar ed to unpa tterned r egions (gr a y outline). (B) Fluor escence lifetime of the
+membr ane tension pr obe FlipperTR incr eases in pa tterned r egions, indica ting higher membr ane tension. N = 9 pa tterned (36 r egions) v ersus 6 unpa tterned (22 r egions)
+organoids. (C) R es ting membr ane potential, as measure d by fluore scence intensity of the v oltage sensitiv e dy e DiSBA C
+2
+(3), is incr eased in pa tterned r egions compar ed to
+unpa tterned r egions, sugges ting tha t membr ane depolariza tion colocalizes with incr eased tension. N = 35 pair ed pa tterned v ersus unpa tterned r egions fr om nine or-
+ganoids. (D) Inhibition of conne xin hemichannels with T A T-gap19 diminishes bioelectric pa tterning observ ed a t baseline. N = 46 pair ed pa tterned v ersus unpa tterned
+r egions fr om 12 organoids. Scale bars, 50 μm. Significance w as determined by unpair ed t tes ts with W elch’s corr ection; means ± SD ar e sho wn.
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 7 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 8 ===
+methods ha v e been dev eloped to dir ect organoid morphology
+within 3D encapsula ted organoids.
+W ith r espect to epithelial tissue, the localiza tion of Y AP is
+s tr ongly influenced by cell shape and tissue curva tur e (9, 11). Pr e-
+vious s tudies ha v e identified tissue curva tur e–induced Y AP locali-
+za tion as a driving for ce for crypt morphogenesis. Gjor evski et al.
+(8) used lithogr aphic micr o w ells to confine intes tinal organoids in
+elonga ted shapes to assess the effect of tissue curva tur e and cell
+pa cking on crypt morphogenesis. R egions of high curva tur e ha v e
+higher nuclear pa cking tha t r esults in decr eased nuclear Y AP a cti-
+va tion compar ed to r egions with no curva tur e. This spa tial differ-
+ence in Y AP a ctiva tion initia tes Notch ligand e xpr ession to confer
+P aneth cell fa te specifica tion and crypt forma tion. Ho w ev er, this
+s tr a tegy used s ta tic, nonadaptable ma terials tha t do not captur e
+the dynamic changes in tissue curva tur e e xperienced in viv o
+during intes tinal dev elopment nor enable inv es tiga tions into the
+Fig. 6. Photopa tterned shape change pr ecedes
+do wns tr eam Y AP e xpr ession to dir ect cell fa te.
+(A) Organoids w er e encapsula ted 24 hours befor e
+photopa tterning to induce epithelial curva ture a t
+t = 0 hours. Photopa tterned organoids w er e
+e xposed to differ entia tion conditions immedi-
+a tely a fter photopa tterning for the “0-hour ” con-
+dition and 24 hours a fter photopa tterning for the
+“24-hour ” condition. Organoids w er e fixed 48
+hours a fter differ entia ting. (B) Y AP (magenta) and
+nuclei (gr een) in organoids, either 0 (left) or 24
+(right) hours follo wing photopa tterning of a cr oss
+shape. The photopa tterned r egion is pseudo-
+color ed in y ello w . Scale bars, 30 μm. Insets sho w
+mor e detail of the unpa tterned (top) and pa t-
+terned r egions (bottom) sho wn in the merged
+images. (C) Y AP/T AZ nuclear to cytoplasmic r a tio
+incr eased in pa tterned r egions of organoids a fter
+24 hours a fter pa tterning but r emains unchanged
+0 hours a fter pa tterning. Significance w as deter-
+mined by two-w a y ANO V A with T uke y’s multiple
+comparison tes t; *P < 0.05. N = 11 organoids fr om
+two gels for the 0-hour condition, N = 8 organoids
+fr om two gels for the 24-hour condition. (D) Or-
+ganoids differ entia ted follo wing pa tterning
+pr oduce crypts tha t align with pa tterned shape
+changes a fter 24 hours. Scale bar, 50 μm. (E) Or-
+ganoids differ entia ted 0 hours (gr a y) a fter pa t-
+terning pr oduce crypts tha t align similar to
+unpa tterned organoids (white), while organoids
+differ entia ted 24 hours (bla ck) a fter pa tterning
+pr oduce crypts tha t align with pa tterned r egions.
+Significance w as determined by one-w a y ANO V A
+with T uk e y’s multiple comparison tes t; *P < 0.05;
+**P < 0.01; N = 3, 5, and 4 gels for unpa tterned, 0
+hours, and 24 hours, r espectiv ely . Bars denote
+a v er age ± SD.
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 8 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 9 ===
+tempor al r egula tion of these mechanotr ansduction pr ogr ams. R e-
+cently , a self-r olling elas tomer thin film w as used to inv es tiga te
+ho w epithelial sheets dynamically r espond to changes in tissue cur-
+va tur e (45), y et this curva tur e w as not spa tially r es tricted to r ecapit-
+ula te the local change in curva tur e seen in the forma tion of
+intervillus domains during intes tinal dev elopment. Hence, ther e is
+little unders tanding of ho w cells r espond to a ctiv e changes in tissue
+curva tur e tha t occur during dev elopment.
+Her e, w e sho w tha t photopa tterned curva tur e in intes tinal orga-
+noids elicits an incr ease in the Y AP nuclear:cytoplasmic r a tio tha t
+can be observ ed 24 hours a fter induced shape change and is r egu-
+la ted by a tension-induced gr adient in r es ting membr ane potential.
+This change in Y AP localiza tion w as essential to templa te crypt for-
+ma tion, as photopa tterned curva tur e had no effect on s ymmetry
+br eaking befor e spa tially r es tricted Y AP localiza tion. The pr esented
+photopa tterning method enables spa tiotempor al contr ol o v er tissue
+geometry to mor e closely r eplica te a ctiv e changes in tissue geometry
+seen during dev elopment tha t could pr o vide insight into the r ole of
+mechanotr ansduction in the r egula tion of intes tinal dev elopment.
+Laser nanosurgery e xperiments performed by Liber ali and co work-
+ers identified incr eased tension (as measur ed by r ecoil v elocity of
+sev er ed a ctin) in bulged and budded crypts (4). Because the allyl
+sulfide hydr ogel s y s tem dir ectly induces this incr ease in tension
+befor e any s tochas tic budding occurs, our r esults imply tha t internal
+feedba ck mechanisms lik ely r egula te s ymmetry br eaking ev ents, al-
+lo wing for cells to integr a te informa tion about their phy sical s ta te to
+coordina te collectiv e fa te decisions (46).
+In summary , w e ha v e used the allyl sulfide photoinduced bond
+r earr angement r ea ction to spa tiotempor ally modula te hydr ogel vis-
+coelas ticity to contr ol intes tinal organoid epithelial shape with
+minimal change to the local s tor age modulus. Spa tially localized de-
+forma tions in epithelial shape induce membr ane potential–depen-
+dent Y AP nuclear tr ansloca tion tha t templa te the forma tion of
+intes tinal crypts. This pla tform enables contr ol o v er crypt morphol-
+ogy to gener a te mor e homogenous multicellular ar chitectur es and
+enables inv es tiga tions into the tempor al r egula tion of mechano-
+tr ansduction pa thw a y s follo wing changes in cell shape, which
+could pr o vide insight into the biomechanical pr ocesses tha t dir ect
+crypt morphogenesis during intes tinal dev elopment and
+r egener a tion.
+MA TERIALS AND METHODS
+Synthesis of PEG-8DBC O (40 kDa)
+Eight-arm, 40-kDa PEG-8DBC O ma cr omers w er e s ynthesized by
+coupling DBC O C6 a cid (100 mg, 0.3 mmol; Click Chemis try
+T ools) to PEG-8 amine [0.5 g, 0.025 mmol, w eight-a v er age molec-
+ular w eight (M
+w
+) = 20,000; JenKem USA] using (1-[bis(dimethyla-
+mino)methylene]-1H-1,2,3-triazolo[4,5-b]pyridinium 3-oxid
+he xa fluor ophospha te (121 mg, 0.32 mmol; ChemP ep) as an a ctiva-
+tor and N,N-diisopr opylethylamine as a base (0.175 ml, 1 mmol;
+Sigma-Aldrich). The r ea ction w as purged with argon and allo w ed
+to pr oceed o v ernight. The r ea ction mixtur e w as pr ecipita ted in
+cold diethyl ether (×3) to yield an off-white solid, which w as collect-
+ed by centrifuga tion, dissolv ed in w a ter, dialyzed (8-kDa M
+W
+cutoff;
+Spectrum Chemical) for 48 hours agains t deionized w a ter, fr ozen,
+and ly ophilized to yield the final pr oduct (93% yield, 80% function-
+aliza tion by 1H nuclear magnetic r esonance).
+Synthesis of allyl sulfide diazide
+The allyl sulfide diazide cr oss-link er w as s ynthesized as pr eviously
+described (18).
+Char a cteriza tion of hydr ogel forma tion
+Hydr ogels containing allyl sulfide cr oss-links w er e formed with a
+SP AA C r ea ction by mixing s tock solutions of 20 w eight % (wt %)
+PEG-8DBC O in ice-cold PBS with allyl sulfide diazide in dimethyl
+sulfoxide (DMSO) to a final concentr a tion of 4 wt % PEG and 2.4
+mM allyl sulfide in PBS. The pr ecursor solution w as immedia tely
+v orte xed for 5 s and pla ced as a 13-μl dr op onto the bottom pla te
+of a shear oscilla tory rheometer (DHR-3, T A Ins truments) fitted
+with an 8-mm par allel pla te geometry . The s tor age and loss
+moduli during gela tion w er e r ecorded using a s tr ain of 5% and a
+fr equency of 1 Hz. Once gelled, the hydr ogel w as equilibr a ted
+with PBS on the rheometer for 30 min, and the s tor age and loss
+moduli w er e again r ecorded a t the same s tr ain and fr equency .
+Char a cteriza tion of hydr ogel degr ada tion and s tr ess
+r elaxa tion
+Hydr ogels containing allyl sulfide cr oss-links w er e formed with
+SP AA C by mixing s tock solutions of 20 wt % PEG-8DBC O in ice-
+cold PBS with allyl sulfide diazide in DMSO to a final concentr a tion
+of 4 wt % PEG and 2.4 mM allyl sulfide in PBS. The pr ecursor so-
+lutions w er e immedia tely v orte xed for 5 s and pla ced as 23-μl dr ops
+betw een two, Sigma cote-tr ea ted glass slides separ a ted by 0.5-mm
+spa cers. The glass slides w er e clamped together and set aside to
+gel for 10 min. The fully formed gels w er e then pla ced in 500 μl
+of ba ths containing 1 mM LAP and 0.92 mM PEG3-azide in 100
+mM Mops buffer (pH 7.4) to equilibr a te for 20 min. Oscilla tory rhe-
+ology w as performed on the gels using a T A Ins truments DHR-3
+rheometer with an 8-mm par allel pla te geometry . The rheometer
+w as fitted with an adaptor to allo w for light e xposur e fr om a
+mer cury ar c lamp (OmniCur e) fitted with a 400- to 500-nm
+band-pass filter. The s tor age and loss moduli w er e r ecorded a t a
+s tr ain of 5% and a fr equency of 1 Hz befor e and a fter running a
+s tr ess r elaxa tion pr otocol. F or the s tr ess r elaxa tion pr otocol, hydr o-
+gels w er e br ought to a 10% s tr ain and irr adia ted with light a t 10 mW
+cm
+−2
+for 30, 60, 120, or 180 s. The change in s tr ess as w ell as the final
+and initial s tor age and loss moduli values w er e r ecorded.
+Calcula tion of LAP concentr a tion
+The theor etical photoinitia tor consumption can be calcula ted by as-
+suming firs t-order kinetics of the photoly sis r ea ction (47)
+d½LAP�
+dt
+¼   k ½LAP� ð1Þ
+wher e the r a te cons tant, k, is defined by
+k ¼
+ϕ I
+o
+ε λ lnð10Þ
+N
+A
+h c
+ð2Þ
+wher e ϕ is the quantum yield of the initia tor (assumed unity), I
+o
+is
+the incident light intensity (10 mW cm
+−2
+), ε is the molar e xtinction
+coefficient (32 M
+−1
+cm
+−1
+) (48) a t the giv en w a v elength λ (405 nm),
+N
+A
+is A v ogadr o ’s number, h is Planck’s cons tant, and c is the speed
+of light. Solving this giv es k = 0.0025 s
+−1
+, and then, the LAP
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 9 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 10 ===
+concentr a tion can be calcula ted fr om the integr a ted r a te equa tion
+½LAP� ¼ ½LAP�
+0
+e
+  0:0025 t
+ð3Þ
+F abrica tion of magnetic micr obars
+An arr a y of ferr omagnetic cobalt-pla tinum micr obars w as electr o-
+pla ted onto a silicon subs tr a te using pr eviously r eported methods
+with some modifica tions (49). Firs t, a 4-inch single side polished
+silicon w a fer (Pur e W a fer, San Jose, C A) w as sputter ed with a 45-
+nm Ti adhesion la y er, follo w ed by a 45-nm TiN diffusion barrier
+la y er and a 80-nm Cu seed la y er for electr opla ting (AJA A T C
+Orion 8 UVH, AJA Interna tional). F ollo wing the seed la y er s ta ck
+deposition, the micr obar pa ttern w as then tr ansferr ed on the
+w a fer by firs t spin coa ting the 10-μm AZ9260 positiv e photor esis t
+(Micr oChemicals Inc.) and subsequently e xposing the photor esis t
+with UV light (I line 365; EVG 620 Mask Aligner, EV Gr oup)
+thr ough the chr omium photomask designed by AutoC AD (Auto-
+desk Inc.). T o r emo v e any possible r esis t r esidues, the r esulting
+w a fer w as tr ea ted with 150-W po w er oxygen plasma for 3 min
+(Mar ch Jupiter III). Electr odeposition w as then carried out
+in a cus tom-made galvanos ta tic cell with 1 liter of electr olyte
+containing 0.025 M diamminedinitritopla tinum (II) solution
+[Pt(NH
+3
+)
+2
+(NO
+2
+)
+2
+] (Millipor eSigma), 0.1 M cobaltous sulfama te
+[C o(NH2)2(SO3)2] (Alfa Aesar), and 0.1 M ammonium citr a te
+[(NH
+4
+)
+2
+C
+6
+H
+6
+O
+7
+] (Millipor eSigma) with no s tirring and using Pt
+as the counter electr ode. The C oPt w as deposited by applying the
+curr ent density of 50 mA cm
+−2
+for 60 min corr esponding to a thick-
+ness of 7 μm. F ollo wing the deposition, the C oPt w as then annealed
+in high va cuum a t 675°C in 30 min, r esulting in phase tr ansition
+fr om disorder ed A1 phase to the order ed L10 phase with high co-
+er civity . Las t, the micr obars w er e r emo v ed fr om the w a fer with brief
+sonica tion in w a ter ba th and collected in 5-ml centrifuge tube.
+Determina tion of hydr ogel modulus by magnetic r ota tional
+spectr oscopy
+Magnetic micr obars w er e encapsula ted into ally sulfide hydr ogels
+and equilibr a ted with 1 mM LAP in Mops buffer (100 mM, pH
+7.4) for 15 min. The medium w as r emo v ed, and a laser scanning
+confocal micr oscope w as used to apply a 405-nm light (1 mW) of
+varying laser po w er with a pixel size of 290 nm and a dw ell time of
+5.12 μs to squar e r egions of inter es t (R OIs) (100 μm by 100 μm)
+ar ound single encapsula ted micr obars. F ollo wing photopa tterning,
+hydr ogels w er e pla ced into PBS. The hydr ogels w er e then pla ced in
+in 2.9-T magnetiza tion field of a Prisma magnetic r esonance
+imaging (Siemens Healthineers) to permanently magnetize the en-
+capsula ted micr obar along the x axis. F ollo wing magnetiza tion,
+samples w er e pla ced in 3D magnetic twis ting cytometry (50), and
+sinusoidal twis ting field (25 G a t 0.3 Hz) w as applied along the y
+axis, r esulting in the plane sinusoidal r ota tion of the micr obar,
+and images of the r ota ting micr obars w er e captur ed. Using Fiji [Na-
+tional Ins titutes of Health (NIH)], images of micr obar oscilla tions
+w er e thr esholded and mask ed and fit to ellipses to determine the
+angle of r ota tion. The shear s tor age modulus, G′, w as determined
+by the follo wing equa tion, adapted fr om (51)
+G
+0
+¼
+M
+S
+6 ω CðnÞ
+μ
+0
+H
+A
+ð4Þ
+Her e, M
+s
+is the sa tur a tion magnetiza tion for C oPt (6.5 × 105 A/
+m) (52), ω is the r ota tion angle determined by imaging, C(n) is a
+shape corr ection fa ctor [9.09; calcula ted fr om (28)], and μ
+0
+H
+A
+is
+the magnetic field s tr ength (2.5 × 10
+−3
+kg A
+−1
+s
+−2
+).
+Crypt isola tion and organoid cultur e
+Murine small intes tinal crypts w er e e xtr a cted fr om Lgr5-eGFP-
+IRES-Cr eERT2 mice as pr eviously described (20). Isola ted crypts
+w er e cultur ed as organoids by embedding in r educed gr o wth
+fa ctor Ma trigel (C orning). Organoids w er e maintained in Advanced
+Dulbecco ’s Modified Eagle’s Medium (DMEM)/F-12 (Invitr ogen)
+containing N2 and B27 supplements (Thermo Fisher Scientific),
+GlutaMAX (Gibco), Hepes, and penicillin-s tr eptomycin supple-
+mented with epidermal gr o wth fa ctor (EGF; 50 ng/ml; R&D
+Sy s tems), Noggin (100 ng/ml; P epr oT ech), R-spondin–conditioned
+medium (5% v/v; Organoid & Tissue Modeling Shar ed R esour ce,
+CU Anschutz), CHIR99021 (3 μM; Selleckchem), and valpr oic
+a cid (1 mM; Sigma-Aldrich). “Basal medium” r efers to Advanced
+DMEM/F-12 supplemented with N2 and B27 supplements,
+Hepes, and penicillin-s tr eptomycin; while “complete medium”
+r efers to basal medium with EGF , noggin, R-spondin,
+CHIR99021, and valpr oic a cid (ENRCV). The medium w as
+changed ev ery 2 da y s, and organoids w er e passaged ev ery 4 da y s.
+The Univ ersity of C olor ado Ins titutional Animal Car e and Use
+C ommittee has appr o v ed the animal pr otocol (no. 00084) for this
+r esear ch.
+Encapsula tion of colonies into allyl sulfide hydr ogels
+Organoids w er e r eleased fr om Ma trigel using mechanical s timula-
+tion fr om a pipette tip with cold basal medium and centrifuged (a t
+900 rpm for 4 min) to form a pellet. The pelleted organoids w er e
+enzyma tically dissocia ted into single cells by incuba tion a t 37°C
+for 8 min in 1 ml of T rypLE (Life T echnologies), supplemented
+with deoxyribonuclease I (~10 mg; Sigma-Aldrich), 1 mM N-a cetyl-
+cy s teine (Sigma-Aldrich), and 10 mM Y27632 (Stemgent). F ollo w-
+ing incuba tion, the single-cell suspension w as diluted with 1 ml of
+fetal bo vine serum and 3 ml of basal medium and passed thr ough a
+40-μm filter to r emo v e multicellular aggr ega tes. The single-cell sus-
+pension w as then centrifuged (a t 1200 rpm for 4 min), and the pellet
+w as r esuspended in Ma trigel, which w as subsequently pla ted a t 10-
+μl dr ops onto a w armed 48-w ell pla te. The cell laden Ma trigel dr ops
+w er e allo w ed to gel for 10 min a t 37°C, befor e the addition complete
+medium supplemented with thiazo vivin (2.5 mM; Stemgent). Fr om
+the pla ted single cells, intes tinal colonies w er e allo w ed to form o v er
+the course of 3 da y s. After 3 da y s in cultur e, hydr ogel pr ecursor so-
+lutions w er e pr epar ed by diluting PEG-8DBC O (40 kDa) to 4 wt %
+in basal medium. Azide-functionalized Arg-Gly-Asp (RGD) (0.8
+mM) w as added to the hydr ogel pr ecursor solutions and allo w ed
+to r ea ct a t r oom temper a tur e for 5 min befor e being pla ced on
+ice. Once chilled, laminin (0.1 mg/ml, sour ce) w as added to the hy-
+dr ogel pr ecursor solution and mixed vigor ously . Thr ee-da y-old col-
+onies w er e r eleased fr om Ma trigel using mechanical s timula tion
+fr om a pipette tip with cold basal medium and centrifuged (a t
+900 rpm for 4 min) to form a pellet. The cell pellet w as r esuspended
+in basal medium and added to the hydr ogel pr ecursor solutions on
+ice. Gela tion w as initia ted by the addition of allyl sulfide diazide,
+and the solution w as immedia tely v orte xed for 5 s and added as
+6-μl dr ops sandwiched betw een thiol-functionalized co v erslips
+and glass slides tr ea ted with Sigma cote (Sigma-Aldrich), separ a ted
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 10 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 11 ===
+by 250-μm spa cers. The gels w er e left for 10 min to gel a t r oom tem-
+per a tur e and r emo v ed fr om the glass slides, and gels adher ed to co v-
+erslips w er e pla ced w ells with complete medium.
+Photopa tterning of curva tur e change in encapsula ted
+organoids
+After 1 da y a fter encapsula tion, LAP (1 mM) w as added to ea ch w ell
+and allo w ed to equilibr a te for 15 min. Individual gels a tta ched to
+co v erslips w er e r emo v ed fr om medium and inv erted onto a cir cular
+rubber s tand for micr oscopy . Photopa tterning w as performed on a
+laser scanning confocal micr oscope (Zeiss LSM 710). Using a pixel
+size of 290 nm, four R OIs of the appr opria te width arr anged ar ound
+a colony w er e scanned in a single plane with the 405-nm laser (1
+mW) a t a laser po w er of 30% and a pixel dw ell of 5.12 μs. Appr ox-
+ima tely 30 colonies per gel w er e pa tterned, and then, the hydr ogel
+w as pla ced in fr esh complete medium. Fr om images of pa tterned
+organoids, the Fiji plugin, Kappa, w as used to tr a ce by hand the ep-
+ithelium within the pa tterned r egion to determine the epithelial
+curva tur e, κ, which w as used to calcula te the r adius of curva tur e a c-
+cording to the follo wing equa tion
+radius of curvature ¼
+1
+κ
+ð5Þ
+Differ entia tion of pa tterned organoids
+Gels containing photopa tterned organoids w er e equilibr a ted for
+15 min with Fluor oBrite medium (Thermo Fischer Scientific) con-
+taining Hepes, penicillin-s tr eptomycin, and N2 and B27 supple-
+ments, along with gluta thione (15 mM; Sigma-Aldrich), LAP (1
+mM), and PEG
+3
+-azide (0.76 mM). F ollo wing equilibr a tion, the
+medium w as r emo v ed, and the gels w er e e xposed to 365-nm light
+a t 5 mW cm
+−2
+for 40 s and immedia tely pla ced in complete medium
+without CHIR99021 and valpr oic a cid (jus t ENR). The medium w as
+r epla ced ev ery 2 da y s.
+Analy sis of crypt angle and orienta tion order par ameter
+Organoids w er e fixed using 4% PF A in PBS (for 30 min a t r oom
+temper a tur e) and imaged using a laser scanning confocal micr o-
+scope (Zeiss LSM 710) to collect whole organoid z-s ta cks with
+tr ansmitted light. Images w er e r egis ter ed to align with the original
+photopa ttern, and the angle of crypt forma tion w as manually mea-
+sur ed using the line tool in Fiji (NIH). Crypt angles w er e separ a ted
+into eight bins, corr esponding to four photopa tterned r egions and
+four unpa tterned r egions of equal size. This binning s tr a tegy w as
+chosen and adapted fr om F edele et al. (53), in which four binning
+r egions w er e ea ch defined for the photopa tterned and unpa tterned
+r egions. The calcula tion for the orienta tion order par ameter w as
+deriv ed fr om Boeing (30). Briefly , the entr opy of crypt orienta tions,
+H
+o
+, is giv en as
+H
+o
+¼  
+X
+n
+i¼1
+P ðo
+i
+Þ ln Pðo
+i
+Þ ð6Þ
+wher e n r epr esents the number of bins, i inde xes the bins, and P(o
+i-
+) r epr esents the pr oportion of crypts tha t fall within the ith bin. The
+orienta tion order par ameter, ϕ, is calcula ted as
+ϕ ¼ 1  
+H
+o
+  H
+g
+H
+max
+  aH
+g
+� �
+2
+ð7Þ
+wher e H
+max
+r epr esents the maximum entr opy , which is the na tur al
+logarithm of the number of bins (eight), while H
+g
+r epr esents the
+entr opy of an idealized grid with all crypts falling within the four
+photopa tterned r egions and is equal to the na tur al logarithm of
+the number of photopa tterned r egions (four). Her e, a ϕ value of 0
+indica tes lo w order (i.e., uniform dis tribution within all bins), while
+a ϕ value of 1 indica tes high order (i.e., all crypts within an idealized
+number of bins and minimal possible entr opy).
+FlipperTR tension pr obe FLIM imaging and analy sis
+FLIM measur ements w er e tak en on a Zeiss LSM780 (Carl Zeiss,
+Jena, Germany) confocal micr oscope with ZEN and ISS F as tFLIM
+softw ar e and a titanium:sapphir e Mai T ai HP (Spectr a-Phy sics, Mil-
+pitas, C A) two-photon laser. FlipperTR tension pr obe e xperiments
+w er e performed a t a concentr a tion of 2 μM in Fluor oBrite medium
+(incuba ting for a t leas t 20 min befor e imaging) using 800-nm two-
+photon e xcita tion, observ ed thr ough a 40× w a ter-immersion objec-
+tiv e Zeiss Korr C-Apochr oma t numerical apertur e of 1.2 (Carl
+Zeiss, Jena, Germany), isola ted using a 488-nm longpass dichr oic
+mirr or (Semr ock Di02-R488-25-D), and detected with a Hamama-
+tsu H7422p-40 photon-counting photomultiplier tube (PMT) con-
+nected to a ISS A320 F as tFLIM box (ISS, Champaign, IL); lifetime
+calibr a tion w as performed with an aqueous fluor escein calibr a tion
+solution of 1 μM with a 4-ns lifetime. ISS Vis ta w as used for analy sis
+and lifetime fitting of fr equency domain FLIM da ta. T o compar e
+pa tterned v ersus unpa tterned r egions, organoids pa tterned with
+four r ectangles arr a y ed ar ound a cir cle a t 90° intervals w er e com-
+par ed to unpa tterned organoids. R OIs w er e selected of the organoid
+epithelium a t ea ch quadr ant for individual thr esholding and life-
+time fitting so tha t ea ch organoid r esulted in four lifetime measur e-
+ments (one in ea ch pa tterned r egion), with ma tched values fr om
+unpa tterned organoids. Gaussian smoothing w as used for phasor
+analy sis of FLIM da ta in ISS Vis ta.
+DiSBA C
+2
+(3) r es ting membr ane potential imaging and
+analy sis
+Shortly a fter pa tterning, organoids w er e incuba ted in a 2 μM solu-
+tion of DiSBA C
+2
+(3) (Thermo Fisher Scientific) in Fluor oBrite
+medium for a t leas t 20 min and imaged using confocal micr oscopy
+(Zeiss LSM 710). High-r esolution z-s ta cks w er e a cquir ed of liv e or-
+ganoids (~1-μm slices), with images center ed a t the ape x of epithe-
+lial deforma tion follo wing photoinduced shape change. In Fiji, a
+sum slices pr ojection w as gener a ted, and the fr eeform selection
+tool w as used to manually segment pa tterned and unpa tterned
+r egions of epithelium. Fluor escence intensity in these r egions w as
+measur ed, and all values w er e normalized to the a v er age of the un-
+pa tterned r egions for ea ch organoid. R epr esenta tiv e images w er e
+made using the “thermal” lookup table in Fiji.
+T a t-GAP19 tr ea tment
+Organoids w er e incuba ted in medium with ta t-GAP19 peptide and
+added a t a final concentr a tion of 50 μM for 4 to 6 hours a fter photo-
+pa tterning for analy sis of the r es ting membr ane potential or 24
+hours follo wing photopa tterning for analy sis of Y AP localiza tion.
+Y AP s taining and analy sis
+Organoids w er e fixed (4% PF A in PBS for 30 min a t r oom temper-
+a tur e) immedia tely or 24 hours a fter photopa tterning. Fixed orga-
+noids w er e then solubilized using 0.2% T riton X-100 (Sigma-
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 11 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 12 ===
+Aldrich) in PBS (1 hour a t r oom temper a tur e) and block ed using
+10% horse serum (Gibco) and 0.01% T riton X-100 in PBS (o v er-
+night a t 4°C). The samples w er e then incuba ted o v ernight a t 4°C
+with a mouse primary antibody agains t Y AP (1:100; Santa Cruz Bi-
+otechnology , sc-101199) diluted in blocking buffer. After w ashing
+with fr esh PBS ev ery hour for 5 hours to r emo v e r esidual primary
+antibody , the samples w er e incuba ted with rhodamine phalloidin (1
+U/ml; Invitr ogen), DAPI (4′,6-diamidino-2-phenylindole; 1.5 μM),
+and an Ale xa Fluor 647 goa t anti-mouse (1:1000; Invitr ogen,
+A21235) secondary antibody in blocking buffer. After w ashing
+with PBS to r emo v e any r esidual antibody , the fluor escently
+labeled organoids w er e imaged using confocal micr oscopy (Zeiss
+LSM 710) to collect whole organoid z-s ta cks. T o quantify Y AP lo-
+caliza tion, Fiji w as used to isola te outlines of nuclei fr om the DAPI
+channel, which w er e o v erlaid onto the Y AP channel. Str aight lines
+w er e dr a wn on this merged image to bisect ea ch nucleus, passing
+thr ough the apical and basal side of ea ch cell. An intensity line
+scan w as used to determine the fluor escent intensity along this
+pa th, wher e the demar ca tions for the nucleus w er e used to deter-
+mine the nuclear v ersus cytoplasmic Y AP intensity . The intensity
+values w er e used to calcula te the nuclear:cytoplasmic r a tio for
+cells within photopa tterned and non–photopa tterned r egions.
+Sta tis tical analy sis
+All s ta tis tical analy ses w er e performed in Prism (Gr aphP ad). T o
+assess s ta tis tical significance, two-tailed, unpair ed Student’s t tes t,
+one-w a y analy sis of variance (ANO V A), and two-w a y ANO V As
+w er e performed, and P < 0.05 w as consider ed significant.
+Supplementary Ma terials
+This PDF file includes:
+Supplementary T e xt
+Figs. S1 to S9
+REFERENCES AND NO TES
+1. A. M. Chin, D. R. Hill, M. Aur or a, J. R. Spence, Morphogenesis and matu r a tion of the em-
+bryon ic and pos tnata l intes tine. Semin. C ell Dev. Biol. 66, 81–93 (2017).
+2. T . Sat o, H. Clev ers, Gr ow ing self-organizing mini-guts from a single intes tinal s tem cell:
+Mechanism and applica tions. Science 340, 241–260 (2013).
+3. O. Kwon, T .-S. Han, M.-Y . Son, Intesti nal morphogenesis in dev elopment, r egener a tion, and
+disease: The potential utility of intes tinal organoids for s tudying compartmentaliza tion of
+the crypt-villus s tructure . Fr ont. C ell Dev. Biol. 8, 593969 (2020).
+4. Q. Y ang, S.-L. Xue, C. J. Chan, M. Re mpfler, D. Vischi, F . Maur er-gutierr ez, T . Hiir agi,
+E. Hannezo, P . Liber ali, C ell fa te coordina tes mechano-osmotic forc es in intes tinal crypt
+formati on. Na t. C ell Biol. 23, 733–744 (2021).
+5. X. Yin, H. F . Fa rin, J. H. V an Es, H. Clev ers, R. Langer, J. M. Karp, Niche-independent high-
+purity cultur es of Lgr5
++
+intes tinal s tem cells and their pr ogeny . Na t. Methods 11,
+106–112 (2014).
+6. H. F . F arin, I. Jordens, M. H. Mosa, O. Basak, J. Korving, D. V . F . Ta uriello, K. De Punder,
+S. Angers, P . J. P eters, M. M. Maurice, H. Clev ers, Visualization of a short-r ange Wnt gr adient
+in the intes tinal s tem-cell niche. Na tur e 530, 340–343 (2016).
+7. L. Hartl, G. Huelsz-Prince, J. van Zon, S. J. Ta ns, Apical cons triction is necessary for crypt
+formati on in small intes tinal organoids. Dev. Biol. 450, 76–81 (2019).
+8. N. Gjor evski, M. Nik olaev, T . E. Bro wn, N. Bran denberg, F . DelRio, F . M. Y a vitt, P . Liber ali,
+K. S. Anseth, M. P . Lutolf, Tissue geometry driv es determinis tic organoid pa tterning. Science
+375, eaaw 9021 (2022).
+9. M. Luciano, M. Ve rsaeve l, E. Ve rcr uy sse, A. Pr ocès, Y . Kalukula, A. R emson, A. Deridoux,
+S. Gabriele, Appr eciati ng the r ole of cell shape changes in the mechanobiology of epi-
+thelial tissues. Biophy s. Rev . 3, 011305 (2022).
+10. B. B. Silv er, A. E. W olf, J. Lee, M. F . P ang, C. M. Nelson, Epithelial tissue geometry dir ects
+emergence of bioelectric field and pa ttern of pr olifer a tion. Mol. Biol. Cell 31,
+1691–1702 (2020).
+11. M. Luciano, S.-L. Xue, W . H. De Vos , L. R edondo-mor a ta, M. Surin, F . La font, E. Hannezo,
+S. Gabriele, Cel l monola y ers sense curva tur e by e xploiting a ctiv e mechanics and nuclear
+mechanoadapta tion. Na t. Phy s. 17, 1382–1390 (2021).
+12. G. Halder, S. Dupont, S. Piccolo, Tr ansduction of mechanical and cytosk eletal cues by Y AP
+and T AZ. Na t. R ev. Mol. Cell Biol. 13, 591–600 (2012).
+13. A. Gre gorieff, Y . Liu, M. R. Inanlou, Y . Khomchuk, J. L. Wr ana, Y ap-dependent r epr ogr am-
+ming of Lgr5
++
+s tem cells driv es intes tinal r egener a tion and cancer. Na tur e 526,
+715–718 (2015).
+14. D. Serra , U. Ma yr, A. Boni, I. Luk onin, M. Re mpfler, L. Challet Me ylan, M. B. Stadler, P . Strnad,
+P . Pa pasaikas, D. Vischi, A. W aldt, G. Rom a, P . Liber ali, Self-organiza tion and s ymmetry
+bre aking in intes tinal organoid dev elopment. Na tur e 569, 66–72 (2019).
+15. A. Tota r o, M. Cas tellan, D. Di Biagio, S. Piccolo, Cros s talk betw een Y AP/T AZ and Notch
+signaling. T r ends Ce ll Biol. 28, 560–573 (2018).
+16. J. H. Va n Es, M. E. Va n Gijn, O. Riccio, M. Va n Den Born, M. Vooijs, H. Begthel, M. C ozijnsen,
+S. R obine, D. J. Win ton, F . Radtk e, H. Clev ers, Notch/γ-secr etase inhibition turns pr olifer-
+a tive cells in intes tinal crypts and adenomas into goblet cells. Na tur e 435, 959–963 (2005).
+17. K. D. W alton, Å. Kolterud, M. J. Czerwinski, M. J. Bell, A. Pr akash, J. Kushw aha, A. S. Gross e,
+S. Schnell, D. L. Gumucio, Hedgehog-r esponsiv e mesenchymal clus ters dir ect pa tterning
+and emergence of intes tinal villi. Pr oc. Na tl. Acad. Sci. U.S.A. 109, 15817–15822 (2012).
+18. K. D. Sumigr a y , M. T erwilliger, T . Lechler, Morphogenesis and compartmentaliza tion of the
+intes tinal crypt. Dev. C ell 45, 183–197.e5 (2018).
+19. A. E. Shy er, T . R. Huyck e, C. Lee, L. Mahadevan, C. J. Ta bin, Bending gr adients: Ho w the
+intes tinal s tem cell gets its home. C ell 161, 569–580 (2015).
+20. N. Gjor evski, N. Sac hs, A. Manfrin, S. Giger, M. E. Br agina, P . Ordóñez-Morán, H. Clev ers,
+M. P . Lutolf, Designer matr ices for intes tinal s tem cell and organoid cultur e. Na tur e 539,
+560–564 (2016).
+21. E. A. Hushka, F . M. Y a vitt, T . E. Br ow n, P . J. Dempsey , K. S. Anseth, R elaxa tion of e xtr a cellular
+matr ix forc es dir ects crypt formation and ar chitectur e in intes tinal organoids. Adv. Healthc.
+Ma ter. 9, e1901214 (2020).
+22. I. A. Mar ozas, J. J. C ooper-White, K. S. Anseth, Photo-induced viscoelastic ity in cytocom-
+pa tible hydr ogel subs tr a tes. New J. Phy s. 21, 045004 (2019).
+23. F . M. Y a vitt, T . E. Br ow n, E. A. Hushka, M. E. Br ow n, N. Gjor evski, P . J. Dempse y , M. P . Lutolf,
+K. S. Anseth, The effect of thiol s tructure on allyl sulfide photodegr adable hydro gels and
+their applica tion as a degr adable sca ffold for organoid passaging. Adv. Ma ter. 32,
+1905366 (2020).
+24. M. R. Bla tchle y , K. A. Güna y , F . M. Y a vitt, E. M. Ha w a t, P . J. Dempse y , K. S. Anseth, Adv. Ma ter.
+34, 2109252 (2022).
+25. T . E. Br ow n, I. A. Mar ozas, K. S. Anseth, Amplified photodegr ada tion of cell-laden hydroge ls
+via an addition-fr agmenta tion chain tr ansfer r eac tion. Adv. Ma ter. 29, 10.1002/adma.
+201605001, (2017).
+26. J.-F . Berre t, Local viscoelas ticity of living cells measur ed by r ota tional magnetic spectro -
+scopy. Na t. C ommun. 7, 10134 (2016).
+27. L. Chevry , N. K. Sampathk umar, A. C ebers, J.-F . Berr et, Magnetic wir e-based sensors for the
+micr orheology of comple x fluids. Phys. Re v. E - Sta t. Nonlinear, Soft Ma tter Phy s. 88,
+062306 (2013).
+28. P . Bender, A. Tschöpe, R. Birringer, Magnetiza tion measur ements r ev eal the local shear
+s tiffness of hydroge ls pr obed by ferro magnetic nanor ods. J. Magn. Magn. Ma ter. 372,
+187–194 (2014).
+29. S. Wäldchen, J. Lehmann, T . Klein, S. V an De Linde, M. Sauer, Light-induced cell damage in
+liv e-cell super-r esolution micr oscopy. Sci. R ep. 5, 15348 (2015).
+30. G. Boeing, Urban spati al order: Str eet network orienta tion, configur a tion, and entr opy .
+Appl. Netw . Sci. 4, 67 (2019).
+31. A. Co lom, E. Deriv ery, S. Soleimanpour, C. T omba, M. D. Molin, N. Sakai, M. González-Gaitán,
+S. Ma tile, A. R oux, A fluor escent membr ane tension probe . Na t. Chem. 10,
+1118–1125 (2018).
+32. S. Ranjit, L. Mala crida, D. M. Jameson, E. Gr a tton, Fit-fre e analy sis of fluor escence lifetime
+imaging da ta using the phasor appr oa ch. Na t. Pr otoc. 13, 1979–2004 (2018).
+33. H. M. McNamar a, R. Salegame, Z. Al Ta noury , H. Xu, S. Begum, G. Ortiz, O. Pou rquie,
+A. E. C ohen, Bioelectrical domain w alls in homogeneous tissues. Na t. Phy s. 16,
+357–364 (2020).
+34. N. R. Chevalier, Phy sical organogenesis of the gut. Dev elopment 149, dev200765 (2022).
+35. R. M. Houtekamer, M. C. Va n Der Net, M. M. Maurice, M. Gloerich, Mechanical forc es di-
+r ecting intes tinal form and function. Curr. Biol. 32, R791–R805 (2022).
+36. T . F . Scott, A. D. Schneider, W . D. C ook, C. N. Bo wman, Photoinduced plas ticity in cr oss-
+link ed polymers. Science 308, 1615–1617 (2005).
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 12 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 13 ===
+37. A. Elosegui-Artola, A. Gupta, A. J. Najibi, B. R. Seo, R. Garry , C. M. Tr ingides, I. de Lázar o,
+M. Darnell, W . Gu, Q. Zhou, D. A. W eitz, L. Mahadevan, D. J. Moone y , Ma trix viscoelas ticity
+contr ols spatiot empora l tissue organiza tion. Na t. Ma ter. 10.1038/s41563-022-01400-4
+, (2022).
+38. D. R. Hunt, K. C. Klett, S. Maschar ak, H. W ang, D. Gong, J. Lou, X. Li, P . C. Cai, R. A. Suhar,
+J. Y . C o, B. L. LeSa vage, A. A. Fos ter, Y . Guan, M. R. Amieva, G. Pe ltz, Y . Xia, C. J. Kuo,
+S. C. Heilshorn, Engineer ed matr ices enable the cultur e of human pa tient-deriv ed intes-
+tinal organoids. Adv. Sci. 8, 2004705 (2021).
+39. A. Chrisnandy , D. Blondel, S. Re zakhani, N. Br oguiere, M. P . Lutolf, Synthetic dynamic hy-
+dr ogels pr omote degr ada tion-independent in vitr o organogenesis. Na t. Ma ter. 21,
+479–487 (2022).
+40. M. Huch, J. A. Knoblich, M. P . Lutolf, A. Martinez-Arias, The hope and the hype of organoid
+r esear ch. Dev elopment 144, 938–941 (2017).
+41. Y . W ang, D. B. Gunasekar a, M. I. Re ed, M. DiSalv o, S. J. Bultman, C. E. Sims, S. T . Magness,
+N. L. Allbritton, A micr oengineer ed collagen sca ffold for gener a ting a polarized crypt-villus
+ar chitectur e of human small intes tinal epithelium. Bioma terials 128, 44–55 (2017).
+42. R. L. Wils on, G. Swa mina than, K. Ettay ebi, C. Bomidi, X.-L. Zeng, S. E. Blutt, M. K. Este s,
+K. J. Gr ande-Allen, Pr otein-functionalized poly(ethylene glycol) hydr ogels as sca ffolds for
+monola y er organoid cultur e. Tissue Eng. P art C Methods 27, 12–23 (2021).
+43. M. Nik olaev, O. Mitr ofano va, N. Broguie r e, S. Ger aldo, D. Dutta, Y . T abata, B. Elci,
+N. Gjor evski, H. Clev ers, M. P . Lutolf, Homeos ta tic mini-intes tines thr ough sca ffold-guided
+organoid morphogenesis. Na tur e 585, 574–578 (2020).
+44. J. Cre ff, R. C ourson, T . Mangea t, J. Fon cy , S. Souleille, C. Thibault, A. Besson, L. Malaquin,
+F abrica tion of 3D sca ffolds r epr oducing intes tinal epithelium topograp hy by high-re solu-
+tion 3D st ere olithogra phy. Bioma terials 221, 119404 (2019).
+45. C. Tom ba, V . Luchniko v, L. Barberi, C. Blanch-Mer cader, A. Ro ux, Epithelial cells adapt to
+curva tur e induction via tr ansient a ctiv e osmotic swe lling. Dev. Cell 57,
+1257–1270.e5 (2022).
+46. M. Zinner, I. Luk onin, P . Liber ali, Design principles of tissue organisati on: Ho w single cells
+coordina te a cr oss scales. Curr. Opin. C ell Biol. 67, 37–45 (2020).
+47. J. C. Grim, T . E. Bro wn, B. A. Aguado, D. A. Chapnick, A. L. Viert, X. Liu, K. S. Anseth, A r e-
+v ersible and r epea table thiol-ene bioconjuga tion for dynamic patter ning of signaling
+pr oteins in hydr ogels. A CS Cent. Sci. 4, 909–916 (2018).
+48. K. L. W ile y , E. M. Ovadia, C. J. Calo, R. E. Huber, A. M. Kloxin, Ra te-based appr oa ch for
+contr olling the mechanical pro perties of “thiol-ene” hydroge ls formed with visible light.
+P olym. Chem. 10, 4428–4440 (2019).
+49. O. D. Oniku, B. Qi, D. P . Arnold, Electr opla ted thick-film cobalt pla tinum permanent
+magnets. J. Magn. Magn. Ma ter. 416, 417–428 (2016).
+50. S. Hu, L. Eberhard, J. Chen, J. C. Lo v e, J. P . Butler, J. J. Fr edberg, G. M. Whitesides, N. W ang,
+Mechanical anisotr opy of adher ent cells pr obed by a thr ee-dimensional magnetic twis ting
+device. Am. J. Phys iol. C ell Phy siol. 287, 1184–1191 (2004).
+51. P . Bender, A. Günther, A. Tschöpe, R. Birringer, Synthesis and chara cteriza tion of uniaxial
+ferroge ls with Ni nanorod s as magnetic phase. J. Magn. Magn. Ma ter. 323,
+2055–2063 (2011).
+52. V . Ale xandr akis, D. Niar chos, I. Tsiaoussis, I. Pa nagiotopoulos, Magnetiza tion r eve rsal in
+C oPt-based hard–soft homocomposites. J. Magn. Magn. Ma ter. 320, 1020–1025 (2008).
+53. C. F edele, M. De Gre gorio, P . A. Netti, S. Ca valli, C. Attanasio, Azopolymer photopa tterning
+for dire ctional contr ol of angiogenesis. Acta Bioma ter. 63, 317–325 (2017).
+Ackno wledgments: W e thank T . Br ow n for sharing e xpertise in photopa tterning and
+M. Ohnsorg and A. Khang for fruitful discussions reg arding the mechanical char a cteriza tion of
+hydr ogels. P .J.D. a ckno wledges organoid cor e services pro vided by Organoid and Tissue
+Modeling Share d Re sour ce, which are supported, in part, by the Ga tes C enter for Re gener a tiv e
+Medicine, Diabetes R esear ch C enter gr ant P30 DK116073, and Cancer C enter Support Grant
+(P30C A046934). The FLIM e xperiments w er e performed in the Advanced Light Micros copy C or e,
+which is part of the Neur oT echnology C enter a t the Univ ersity of C olor ado Anschutz Medical
+Campus, supported, in part, by Rocky Mountain Neur ological Disorders C or e gr ant number P30
+NS048154 and by Diabetes R esear ch C enter gr ant P30 DK116073. F unding: This work is
+supported by DARP A gr ant W911NF-19-2-0024 (B.E.K.); Na tional Ins titutes of Health gr ants R01
+DK120921 (K.S.A.), P30-DK116073 (P .J.D.), P30-C A046934 (P .J.D.), F31 DK126427 (F .M.Y .), R01
+GM072744 (N.W .), P30 NS048154 (R.M.), and P30 DK116073 (R.M.); Na tional Science Found a tion
+gr ant REC ODE 2033723 (K.S.A.); Department of Educa tion Gr adua te Assis tance in Are as of
+Na tional Need (DoEd GAANN) Fe llo wship (F .M.Y .); and Unive rsity of C olor ado Boulder Biological
+Sciences Initia tive (K.F .S.). Author contributions: F .M.Y ., M.R.B., K.F .S., E.M., B.E.K., N.W ., P .J.D.,
+and K.S.A. C onceptualiza tion: F .M.Y ., M.R.B., K.F .S., B.E.K., P .J.D., and K.S.A. Methodology: F .M.Y .,
+M.R.B., K.F .S., E.M., B.E.K., R.M., N.W ., P .J.D., and K.S.A. Inv es tiga tion: F .M.Y ., B.E.K., K.F .S., and E.M.
+Visualiza tion: F .M.Y ., M.R.B., K.F .S., E.M., B.E.K., N.W ., P .J.D., and K.S.A. Supervision: N.W ., P .J.D., and
+K.S.A. W riting—original dr a ft: F .M.Y ., M.R.B., and K.S.A. Wr iting—r eview and editing: F .M.Y .,
+M.R.B., K.F .S., E.M., B.E.K., R.M., N.W ., P .J.D., and K.S.A. C ompeting intere s ts: The authors declar e
+tha t the y ha v e no competing inter ests . Da ta and ma terials a vailability: All data needed to
+evalua te the conclusions in the paper ar e pr esent in the paper and/or the Supplementary
+Ma terials.
+Submitted 21 June 2022
+Accepted 15 December 2022
+Published 20 January 2023
+10.1126/sciadv.add5668
+Y a vitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 13 of 13
+SCIENCE ADV ANCES
+|
+RESEARCH ARTICLE
+Downloaded from https://www.science.org at Yale University on August 27, 2026
+
+
+=== PAGE 14 ===
+In situ modulation of intestinal organoid epithelial curvature through photoinduced
+viscoelasticity directs crypt morphogenesis
+F. Max Yavitt, Bruce E. Kirkpatrick, Michael R. Blatchley, Kelly F. Speckl, Erfan Mohagheghian, Radu Moldovan, Ning
+Wang, Peter J. Dempsey, and Kristi S. Anseth
+Sci. Adv. 9 (3), eadd5668.  DOI: 10.1126/sciadv.add5668
+View the article online
+https://www.science.org/doi/10.1126/sciadv.add5668
+Permissions
+https://www.science.org/help/reprints-and-permissions
+Use of this article is subject to the Terms of service
+Science Advances (ISSN 2375-2548) is published by the American Association for the Advancement of Science. 1200 New York Avenue
+NW, Washington, DC 20005. The title Science Advances is a registered trademark of AAAS. 
+Copyright © 2023 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim
+to original U.S. Government Works. Distributed under a Creative Commons Attribution License 4.0 (CC BY).
+Downloaded from https://www.science.org at Yale University on August 27, 2026

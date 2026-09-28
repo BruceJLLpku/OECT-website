@@ -1,0 +1,705 @@
+
+
+===== PDF PAGE 1 =====
+2008057 (1 of 9) © 2021 Wiley-VCH GmbH
+www.advmat.de
+ReseaRch aRticle
+Reconstructable Gradient Structures and Reprogrammable 
+3D Deformations of Hydrogels with Coumarin Units as 
+the Photolabile Crosslinks
+Chao Nan Zhu, Chen Yu Li, Hu Wang, Wei Hong, Feihe Huang, Qiang Zheng, 
+and Zi Liang Wu*
+C. N. Zhu, C. Y . Li, Prof. Q. Zheng, Prof. Z. L. Wu
+Ministry of Education Key Laboratory of Macromolecular Synthesis 
+and Functionalization
+Department of Polymer Science and Engineering
+Zhejiang University
+Hangzhou 310027, China
+E-mail: wuziliang@zju.edu.cn
+Dr. H. Wang, Prof. F. Huang
+State Key Laboratory of Chemical Engineering
+Center for Chemistry of High-Performance and Novel Materials
+Department of Chemistry
+Zhejiang University
+Hangzhou 310027, China
+Prof. W. Hong
+Department of Mechanics and Aerospace Engineering
+Southern University of Science and Technology
+Shenzhen 518055, China
+DOI: 10.1002/adma.202008057
+and multi-response are an ideal candidate 
+to mimic the deformations or shape trans-
+formations of living organisms.
+[2 ] One 
+key step for programmed deformations of 
+hydrogels is the construction of spatially 
+heterogeneous structures, which can be 
+completed by several advanced technolo-
+gies such as ion printing, 3D printing, and 
+photolithography.
+[3 ] Among these methods, 
+photolithographic patterning shows great 
+potentials in creating arbitrary in-plane gra-
+dient structures in gels with spatially dis-
+tributed components.
+[4 ] More sophisticated 
+heterogeneous structures including both 
+in-plane and through-thickness gradients 
+or multiple responsive components can 
+be fabricated/incorporated in one hydrogel 
+by multi-step photolithography to realize 
+complex deformations and even step-by-
+step shape transformations.
+[5 ] However, in 
+most cases, shape-changing process and 
+final configurations of the hydrogels are 
+fixed once the gradient structures are per -
+manently encoded by chemical reactions, 
+which cannot be redesigned to form other 
+heterogeneous structures and new configu-
+rations.
+[4–6]  Exploiting morphing hydrogels 
+with reconstructable gradient structures 
+can address this issue and have several ben-
+efits:[7 ] i) it allows the hydrogel to be repurposed without disposal 
+or recycling; ii) it prolongs the lifetime of the gel by endowing 
+reusability and sustainability; iii) reprogrammable deformations 
+of the gel afford adaptive functions for diverse applications.
+Reconfigurable heterogeneous structures can be accom-
+plished in one hydrogel with the aid of dynamic covalent 
+Morphing hydrogels have versatile applications in soft robotics, flexible 
+electronics, and biomedical devices. Controlling component distribution and 
+internal stress within a hydrogel is crucial for shape-changing. However, 
+existing gradient structures of hydrogels are usually non-reconstructable, 
+once encoded by chemical reactions and covalent bonds. Fabricating hydro-
+gels with distinct gradient structures is inevitable for every new configuration, 
+resulting in poor reusability, adaptability, and sustainability that are dis-
+advantageous for diverse applications. Herein, a hydrogel containing revers-
+ible photo-crosslinks that enable reprogramming of the gradient structures 
+and 3D deformations into various configurations is reported. The hydrogel 
+is prepared by micellar polymerization of hydrophobic coumarin monomer 
+and hydrophilic acrylic acid. The presence of hexadecyltrimethylammonium 
+chloride micelles increases the local concentration of coumarin units and 
+also improves the mechanical properties of the hydrogel by forming robust 
+polyelectrolyte/surfactant complexes that serve as the physical crosslinks. 
+High-efficiency photodimerization and photocleavage reactions of coumarins 
+are realized under 365 and 254 nm light irradiation, respectively, affording 
+reversible tuning of the network structure of the hydrogel. Through photo-
+lithography, different gradient structures are sequentially patterned in one 
+hydrogel that direct the deformations into distinct configurations. Such a 
+strategy should be applicable for other photolabile hydrogels toward repro-
+grammable control of network structures and versatile functions.
+The ORCID identification number(s) for the author(s) of this article 
+can be found under https://doi.org/10.1002/adma.202008057.
+1. Introduction
+Inspired by the widespread morphing structures in nature, 
+various self-shaping materials have been developed due to their 
+versatile applications in flexible electronics, soft actuators, and 
+biomedical engineering.
+[1 ] Hydrogels with similarity to biotissues 
+Adv. Mater. 2021, 33, 2008057
+
+
+===== PDF PAGE 2 =====
+© 2021 Wiley-VCH GmbH2008057 (2 of 9)
+www.advmat.dewww.advancedsciencenews.com
+bonds, especially the photolabile ones that can be locally 
+tailored by photolithography. [8]  The morphing hydrogels with 
+dynamic covalent networks intrinsically have better stability 
+than the ones based on gradient physical associations or 
+photoisomerization.
+[9]  Recently, photolabile covalent bonds 
+such as disulfides with dynamic exchange reaction, trithiocar -
+bonates with reshuffling reaction, and anthracenes with rever -
+sible cycloaddition reaction, are incorporated into polymers, 
+elastomers, or hydrogels to afford tailored network structure, 
+self-healing, and shape memory properties.
+[10]  Among these 
+photolabile groups, coumarin and its derivatives have been 
+extensively studied due to the high-efficiency dimerization 
+and cleavage reactions (without the need of photosentizers or 
+catalysts), excellent biological activities and biocompatibility, 
+and tunable fluorescent properties.
+[11]  Coumarins dimerize 
+under 365  nm light irradiation to form a cyclobutane ring by 
+the [2  + 2] cycloaddition, which can be cleaved under 254  nm 
+light irradiation to revert to the original structure via photos-
+cission reaction.
+[12]  Incorporating coumarin units into gel 
+matrix should enable the reversible formation of additional 
+crosslinks to spatially tune the network structure. However, to 
+reprogram the gradient structures and the morphing process 
+of one hydrogel to form distinct configurations, there are still 
+two issues to be addressed: i) high-efficiency photodimerization 
+and photocleavage of coumarins within a hydrogel should be 
+guaranteed, especially when the concentration of coumarins 
+is much lower than that in polymers and elastomers;
+[12c,13]  
+ii) the swollen regions with photocleaved coumarin dimers 
+can be deswelled to the original dimensions for restoring the 
+network structure and next-round encoding of structural gra-
+dient via photodimerization and photocleavage of coumarins, 
+respectively. For the first issue, coumarin units can be locally 
+enriched in hydrogels by microphase segregation. For example, 
+coumarin-containing triblock copolymers self-organize into 
+nano-sized micellar aggregates that should favor the photodi-
+merization of coumarins.
+[14]  However, this effect has not been 
+well exploited, and the research is limited in weak hydrogels. 
+About the second issue, the hydrogel with coumarin dimers 
+as the crosslinks will swell after the photocleavage reaction,
+[15]  
+which hardly recovers its original dimensions due to the dif -
+ferent network structure and swelling pressure. To solve this 
+problem, another kind of dynamic crosslinks should be incor -
+porated, which are weak in a certain condition to manifest the 
+influence of coumarins at different states, yet robust in another 
+condition to reduce the influence on swelling and mechanical 
+performances of the gel.
+Herein, we report a robust hydrogel with repeatedly tunable 
+network that enables reprogramming of gradient structures 
+for morphing into distinct 3D configurations. The hydrogel is 
+prepared by micellar copolymerization of coumarin acrylate 
+and acrylic acid in the aqueous solution of hexadecyltrimethyl-
+ammonium chloride (CTAC) micelles. After equilibrium in 
+water, the micelle structure is stabilized by forming poly-
+electrolyte/surfactant complexes (PESCs) between the weakly 
+charged poly(acrylic acid) (PAAc) and the opposite charged 
+CTAC.
+[16]  The formation of PESCs not only increases the local 
+concentration of coumarins that affords high-efficiency photo-
+dimerization,
+[17]  but also acts as the physical crosslinks that  
+improve the mechanical properties of the hydrogel. [18]  Thanks 
+to the pH-responsiveness of PESC hydrogel and the reversible 
+photodimerization and photocleavage of coumarins, gradient 
+structures are reconstructable in one hydrogel by photoli-
+thography to program the shape change and form distinct 3D 
+configurations. We believe that such hydrogels with reprogram-
+mable network structures will expand the applications of gel 
+materials in engineering and biomedical fields.
+2. Results and Discussion
+The photolabile monomer, 7-(2-methacryloyloxyethoxy)-
+4-methylcoumarin (MAEMC), is synthesized according to 
+the protocol described in Supporting Information. As shown 
+in Figure 1, a small fraction of the hydrophobic MAEMC is 
+incorporated into the hydrophilic PAAc network by thermal-
+initiated micellar copolymerization,
+[19]  followed by irradiation 
+under 365 nm light to trigger the [2  + 2] cycloaddition of cou-
+marins inside the CTAC micelles. The coumarin dimers act as 
+additional chemical crosslinks of the gel matrix. The concen-
+trations of AAc, MAEMC, and CTAC are set as 4 m, 0.08 m  
+(2 mol% of AAc), and 0.3 m, respectively, because of the best 
+performances, as discussed in the following section. The 
+resultant gel is regarded as the as-prepared hydrogel, which is 
+immersed in water to remove the residuals and reach the equi-
+librium state. During this process, PAAc chains partially ionize 
+due to the increase in pH, and form robust PESCs with the 
+oppositely charged CTACs, as confirmed by Fourier transform 
+infrared spectra (Figure S1, Supporting Information).
+[18a,20]  
+Therefore, the equilibrated hydrogel is dually crosslinked by 
+coumarin dimers and nano-sized PESCs with average size 
+of ≈15  nm, as revealed by transmission electron microscopy 
+(TEM) observation (Figure S2, Supporting Information). How-
+ever, after the hydrogel is irradiated under 254  nm light, the 
+coumarin dimers are cleaved, leading to reduced crosslinking 
+density and thus swelling of the hydrogel in water. The revers-
+ible photodimerization and photocleavage reactions, as well as 
+the tunable network and physical properties of the hydrogel, 
+can be harnessed for reprogramming the gradient structures, 
+the morphing process, and the final configurations.
+Adsorption spectroscopy is applied to quantitatively monitor 
+the photodimerization and photocleavage of coumarins within a 
+hydrogel film after the micellar copolymerization. As shown in 
+Figure 2a, a characteristic absorbance peak at 320 nm, which is 
+ascribed to the coumarin double bond, gradually decreases upon 
+365 nm light irradiation, indicating the dimerization to form a 
+cyclobutane ring.
+[21]  After subsequent irradiation under 254 nm 
+light, the absorbance peak gradually increases, indicating the 
+photoscission reaction of coumarin dimers (Figure  2b). The 
+photodimerization and photocleavage of coumarin units can 
+be reversibly triggered by alternating irradiation under 365 and 
+254 nm light. The dimerization degree, D , can be calculated by 
+D = (A
+0  – At)/A0  × 100%, in which A 0  and At are the absorbance 
+at 320 nm of the pristine gel and the one irradiated for different 
+time (t
+i,365  and t i,254  for 365 and 254  nm light), respectively. [13]  
+In the first cycle, D  increases with ti,365  and saturates at 90% in 
+90  min; it decreases with t i,254  and reaches a constant value of 
+22% in 10  min (insets of Figure  2a,b). D  does not reduced to 
+zero even for prolonged ti,254 , because the photocleavage and the 
+Adv. Mater. 2021, 33, 2008057
+ 15214095, 2021, 18, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202008057 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 3 =====
+© 2021 Wiley-VCH GmbH2008057 (3 of 9)
+www.advmat.dewww.advancedsciencenews.com
+photodimerization reactions are in a dynamic equilibrium under 
+254 nm light irradiation. [12b,13,22]  Such processes can be repeated 
+for at least four cycles (Figure 2c). Worth noting is the gradual 
+decrease in the absorbance at 320  nm of the gel after cyclic 
+photocleavage reaction. A possible reason is the asymmetric 
+photoscission of cyclobutane ring of the dimer that produces 
+irreversible crosslinking points.
+[13,23]  Both the photodimerization 
+and photocleavage processes can be sped up by enhancing the 
+power intensity of the light.
+[24]
+The mechanical properties of the hydrogels are examined 
+by tensile tests. The as-prepared hydrogel with dimerized 
+coumarins as additional chemical crosslinks shows moderate 
+mechanical properties, with tensile breaking stress (σ
+b) of 
+110  kPa, breaking strain (ε b) of 155%, and Young’s modulus 
+(E) of 120  kPa (Figure S3, Supporting Information). After 
+being equilibrated in water, the photo-crosslinked hydrogel 
+becomes more robust, with σ b of 200  kPa, ε b of 220%, and E 
+of 160  kPa (Figure 3a,c and Figure S4, Supporting Informa-
+tion), although the water content (q) and the swelling ratio in 
+length (S) increase from 62 wt% and 1.0 to 80 wt% and 1.2, 
+respectively. Such improved mechanical properties are related 
+to the partial ionization of PAAc chains, favoring forming 
+robust PESCs with the oppositely charged CTACs. After irra-
+diation under 254 nm light for 30 min to cleave the coumarin 
+dimers, the hydrogel becomes soft and swollen in water, with 
+the increase in q and S to 2.3 and 96 wt%. Consequently, the 
+photo-decrosslinked hydrogel is weakened, with σ
+b of 35  kPa, 
+εb of 140%, and E of 30 kPa. We should note that no CTACs are 
+released out of the swollen gel because of the cooperative inter -
+actions of the ionic bonding between the oppositely charged 
+CTAC and PAAc and the hydrophobic association between 
+the alkyl chain of CTAC. [16,18]  The hydrogel is also stable and 
+possesses good mechanical properties in physiological saline 
+(Figure S5, Supporting Information). The swollen and weak-
+ened hydrogel with photocleaved crosslinks can be reverted to 
+the robust one by two steps: i) the gel shrinks at a specific con-
+dition (S = 0.9 when pH = 3), followed by high-efficiency photo-
+dimerization of coumarins under 365  nm light irradiation; ii) 
+the hydrogel with recovered network is equilibrated in water 
+and exhibits similar swelling and mechanical performances 
+Figure 1. a) Reversible photodimerization/photocleavage of coumarin units under 365/254  nm light irradiation. b) Schematic for the synthesis of 
+photolabile hydrogels with reversibly regulated network and properties. The hydrogel is prepared by micellar copolymerization of AAc and coumarin 
+monomer in the presence of CTAC micelles. After 365 nm light irradiation, coumarin motifs form dimers that act as chemical crosslinks of the gel. 
+After swelling the gel in water, oppositely charged PAAc and CTAC form polyelectrolyte/surfactant complex (PESC) that serves as physical crosslinks of 
+the gel. The photocleavage and photodimerization of coumarins within PESCs enable reversible regulation of network structure and physical proper-
+ties of the hydrogel.
+Adv. Mater. 2021, 33, 2008057
+ 15214095, 2021, 18, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202008057 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 4 =====
+© 2021 Wiley-VCH GmbH2008057 (4 of 9)
+www.advmat.dewww.advancedsciencenews.com
+as the original gel (Figure  3a,b). On the basis of reversible 
+photodimerization and photocleavage reactions of coumarins, 
+the network structure, swelling and mechanical properties of 
+the hydrogel can be repeatedly tailored. Accompanying with 
+this regulation, the equilibrated hydrogels with dimerized 
+or cleaved coumarins have different fluorescent properties. 
+As shown in Figure  3c,d, the fluorescent spectrum of photo-
+decrosslinked gel shows a blueshift of ≈20 nm and a dramatic 
+increase in fluorescent intensity, when compared to that of 
+photo-crosslinked gel. The varied fluorescence is synchronized 
+with the swelling behavior of the hydrogel and ascribed to the 
+aggregation-caused quenching effect and also the different 
+states of coumarins.
+[12c,25]
+The markedly different yet repeatedly tuned swelling and 
+mechanical properties of the hydrogel should benefit from the 
+formation of PESC that not only enables high-efficiency photo-
+dimerization of coumarins with increased local concentration, 
+but also enlarges the influence of different states of coumarins 
+on the macroscopic performances of the gel. To verify this 
+hypothesis, we examine the swelling and mechanical proper -
+ties of gels with similar q after photodimerization of coumarins 
+with and without micelles. To ensure similar network structure 
+and easy-removing the micelles, the gels are prepared in the 
+presence of sodium dodecylsulfate (SDS) micelles that cannot 
+form PESCs with PAAc chains. To maintain the integrity 
+of gel during the swelling process, a small amount of chem-
+ical crosslinker is added to the precursor solution. As shown 
+in Figure S6, Supporting Information, S of the equilibrated 
+hydrogel after dialyzing out SDS is 3.7 . This swollen hydrogel 
+is then converted to the original size by solvent evaporation, 
+followed by a photodimerization step. The resultant hydrogel 
+also becomes swollen in water (S  = 3.3) and mechanically 
+weak. In contrast, the hydrogel experienced photodimerization 
+in the presence of SDS micelles moderately swells in water, 
+with S of 2.3. The different swelling capacity of the photo-
+crosslinked hydrogels indicates that the presence of micelles 
+favors high-efficiency photodimerization of coumarins. How-
+ever, the equilibrated photo-crosslinked hydrogel prepared in 
+the presence of SDS micelles is much weaker than that pre-
+pared in the presence of CTAC micelles (Figure S7, Supporting 
+Information). The swelling ratio of the former gel (S = 2.3) was 
+also larger than the latter (S  = 1.2). This result manifests the 
+contribution of PESC to the mechanical robustness of the gel.
+Considering the absorbance of coumarin-containing 
+hydrogel (Figure  2a,b), the penetration thickness of 254  nm 
+light depends on the feeding concentration of coumarin unit 
+Figure 2. a,b) Adsorption spectra of micellar polymerization-produced hydrogel upon 365 nm light irradiation (a) and followed 254 nm light irradiation 
+(b). Power intensity of 365 nm light and 254 nm light is 5 and 1 mW cm –2 , respectively. c) Absorbance at 320 nm of the gel during cyclic irradiation 
+under 365 and 254 nm light for different period of time. Insets in (a) and (b) present the variations of dimerization degree as a function of irradiation 
+time. Thickness of the hydrogel film is 10  µm.
+Adv. Mater. 2021, 33, 2008057
+ 15214095, 2021, 18, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202008057 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 5 =====
+© 2021 Wiley-VCH GmbH2008057 (5 of 9)
+www.advmat.dewww.advancedsciencenews.com
+(Cm) and the irradiation time (t i,254 ). For a thick hydrogel, the 
+partially penetrated light and thus partially photo-decrosslinked 
+network can be harnessed to construct through-thickness gra-
+dient. A photo-crosslinked gel strip with thickness of 600  µm 
+is chosen to investigate the photo-regulated through-thickness 
+gradient and folding deformation. As shown in Figure 4a, the 
+central region of gel strip is exposed to 254  nm light through 
+a metallic mask with a stripe hole (width of 1 mm) vertical to 
+the long axis of the rectangular gel. The upper layer suffered 
+photocleavage of coumarin dimers swells in water, resulting in 
+folding of the gel strip. The folding angle, θ, increases from 0° 
+to 40° as t
+i,254  increases from 0 to 10 min. Further increase in 
+ti,254  only results in slight increase in θ, which becomes 55° at 
+ti,254  = 30 min (Figure  4b). As expected, the thickness of photo-
+decrosslinked layer of the gel shows the same trend (Figure S8,  
+Supporting Information); it increases from 0 to 220  µm 
+with increasing t i,254  from 0 to 10  min, and further increases 
+to 260  µm at t i,254  of 30  min. The penetration depth will be 
+increased by using higher intensity of 254 nm light, although it 
+is kept constant in this work.
+[13c]
+To enable reversibly programming gradient structures 
+and thus shape-morphing in one hydrogel, the deformed gel 
+should be converted to the original state (uniform network 
+and flat shape) at a certain condition for the next-round photo-
+lithographic patterning. We found that incubating the gel strip 
+(t
+i,254  = 10 min) with θ of 40° in an acidic solution can eliminate 
+the swelling mismatch between the photo-decrosslinked and 
+photo-crosslinked regions. The deformed gel retains the bent 
+shape with θ increasing from 34° to 49°, as pH increases 
+from 5 to 8 (Figure  4c). However, the gel strip fully recovers 
+the flat state in a bath with pH of 2–4. Considering the pK
+a 
+of PAAc (≈4.7), [26]  the deformation of the gel strip should 
+be related to the ionization of PAAc. Too much ionization of 
+PAAc is harmful to the formation of robust PESCs. When  
+2 ≤ pH ≤ 4, the gel matrix is mainly crosslinked by PESCs, and 
+the crosslinking function of coumarin dimers becomes negli-
+gible, which eliminates the swelling mismatch between the 
+photo-crosslinked and decrosslinked regions and flattens the 
+gel strip to the original shape. In the solution with relatively 
+high pH such as in water, the ionization produces exces-
+sive electrostatic repulsion between PAAc chains, resulting in 
+swelling of both photo-crosslinked and decrosslinked regions. 
+However, the swelling ratios at different regions are influenced 
+by the different states of coumarins. The swelling mismatch is 
+enhanced with the increase in pH from 5 to 8, leading to an 
+increased folding angle. Here, pH = 3 is chosen as the condition 
+for unfolding the gel strip and also for mending the network 
+by photodimerization of coumarins. The restored gel strip 
+keeps the flat shape after equilibrated in water, indicating the 
+elimination of gradient structure and swelling mismatch. Such 
+distinct configurations of identical gel in water can be repeat-
+edly obtained based on the reconstructable structural gradient 
+Figure 3. a,b) Tensile stress−strain curves (a), Young’s modulus, and the swelling ratio in length (b) of the equilibrated photo-crosslinked and photo-
+decrosslinked hydrogels. The error bars represent the standard deviation of the mean (N  = 3). c,d) Fluorescence spectra (c) and corresponding peak 
+intensity and peak position (d) of the equilibrated photo-crosslinked and photo-decrosslinked hydrogels. The excitation wavelength is 254 nm.
+Adv. Mater. 2021, 33, 2008057
+ 15214095, 2021, 18, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202008057 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 6 =====
+© 2021 Wiley-VCH GmbH2008057 (6 of 9)
+www.advmat.dewww.advancedsciencenews.com
+(Figure 4d). One may notice that the folding angle of gel strip 
+slightly decreases from 40° to 30° after a few cycles. This result 
+is associated with the gradually decreased swelling ratio of the 
+photo-decrosslinked gel (Figure  3b); both phenomena origi-
+nate from the asymmetric photoscission of the dimers, which 
+causes the accumulation of irreversible crosslinks.
+Besides the reprogrammability of shape-changing, another 
+concern is the mechanical properties of the gels, which are cru-
+cial for the robustness of hydrogel morphs and the handling 
+during the programming process.
+[27]  To optimize the parame-
+ters, the effects of feeding concentrations of MAEMC and CTAC 
+are systematically investigated, while the feeding concentration 
+of AAc is kept as 4 m . As shown in Figure S9a,b, Supporting 
+Information, the increase in feeding concentration of CTAC, C
+c, 
+from 0.1 to 0.5 m  strengthens the hydrogel by forming denser 
+PESCs. However, the robust physical crosslinks weaken the 
+function of chemical crosslinks (i.e., dimerized coumarins), 
+resulting in a smaller swelling mismatch that is disadvantageous 
+for the deformation of gel in water (Figure S9c, Supporting 
+Information). On the other hand, an increase in feeding concen-
+tration of MAEMC, C
+m, also improves the stiffness of hydrogel 
+(Figure S9d,e, Supporting Information). However, higher C m 
+also decreases the penetration depth of 254  nm light used 
+for tailoring the network structure. As shown in Figure S9f, 
+Supporting Information, the penetration percentage in thickness 
+decreases from 90% to 10%, as C
+m increases from 0.02 to 0.16 m  
+(i.e., 0.5–4 mol% of AAc). Consequently, the folding angle of 
+the gel strip with different through-thickness gradient decreases 
+from 110°  to 6° . Considering the mechanical properties and 
+deformation degree, C
+c and C m are kept as 0.3 and 0.08 m 
+(i.e., 2 mol% of AAc), respectively.
+Based on these results, reprogrammable patterned gra-
+dients can be encoded in a single hydrogel facilitated by 
+photolithography, enabling controllable deformations into 
+distinct 3D configurations. A proof-of-concept example is dem-
+onstrated in Figure 5 . A hydrogel strip with thickness of 600  µm 
+(dimensions are shown in Figure S10, Supporting Informa-
+tion) is exposed to 254  nm light for 10  min through a photo 
+mask with stripe pattern along the long axis of the gel. The 
+photo-decrosslinked regions have larger swelling ratio than the 
+protected ones, when the gel is immersed in water. The swelling 
+mismatch and resultant internal stress along the stripe cause 
+curling deformation of the gel into a roll.
+[28]  The curled gel 
+recovers the flat state at pH of 3, and the patterned gradient is 
+erased by 365  nm light irradiation for 6 h. After equilibrating 
+in water, the gel is ready for the next-round photolithographic 
+Figure 4. a) Scheme and photos to show the folding and recovery process of the hydrogel strip with photo-regulated through-thickness gradient. A 
+through-thickness gradient is created in a gel strip by site-specific photocleavage of coumarin dimers under 254 nm light through a photo mask (i). The 
+hydrogel shows folding deformation after being equilibrated in water (ii). The deformed gel recovers to flat when incubated in an acidic solution; the 
+photo-decrosslinked network is then restored to the original one by photodimerization of the previously cleaved coumarins (iii). The mended gel strip 
+slightly swells yet keeps the flat shape after being equilibrated in water (iv). Scale bars: 500  µm. b) Variation of the folding angle, θ, of the gel strip in 
+water as a function of 254 nm light irradiation time, t
+i,254 . c) Variation of θ of the gel strip as a function of pH of the incubation bath. d) Variation of θ 
+of the gel strip in water after cyclic folding and recovery process. The photo-decrosslinking is imposed to the same location to investigate the reversible 
+adaption of gel network. The thickness of the gel is 0.6 mm, and the stripe width in the photo mask is 1 mm. t
+i,254  is 10 min for the gel in (a), (c), and 
+(d). The error bars represent the standard deviation of the mean (N  = 3).
+Adv. Mater. 2021, 33, 2008057
+ 15214095, 2021, 18, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202008057 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 7 =====
+© 2021 Wiley-VCH GmbH2008057 (7 of 9)
+www.advmat.dewww.advancedsciencenews.com
+patterning. Then, the hydrogel is patterned by using a mask with 
+stripes at 45°  relative to the long axis of the gel strip. The pat-
+terned gel deforms into a left-handed helix, after being swelled 
+in water. The patterned gradient can also be constructed by pho-
+tolithography from both sides of the hydrogel by using a pair of 
+photo masks. After erasing the gradient structure, two masks 
+with parallel stripes vertical to the long axis of the gel are placed 
+on both sides to direct the photocleavage reaction of the cou-
+marin dimers. Alternating bending in opposite directions leads 
+to shape change of the gel to form a zig-zag configuration. This 
+hydrogel can be further flattened at pH of 3 to erase the structural 
+gradient, which is then patterned from both sides by using a pair 
+of masks with parallel stripes at ± 45°  relative to the long axis of 
+the gel strip. Such gradient structure affords orthogonal internal 
+stresses at the upper and bottom layers, local saddle-like cur -
+vature, and global twisting deformation of the gel strip.
+[29]  Fur-
+thermore, the patterned hydrogel shows fluorescence under UV 
+lamp; the photo-crosslinked and decrosslinked regions exhibit 
+dark and bright blue colors, although the gel is transparent under 
+daylight (Figure S11, Supporting Information). The different fluo-
+rescent colors provide a straightforward way to visualize the gra-
+dient patterns and also the configurations of the hydrogel.
+[30]
+Figure 5. Reprogrammable deformations of a hydrogel strip based on reconstructable gradient structures. The patterned gradients are repeatedly 
+encoded by photolithography to selectively decrosslink the coumarin dimers using 254 nm light and erased by photodimerization of the coumarins 
+using 365 nm light. The gel strip with uniform network structure is flat (the central). After sequentially constructing and erasing the gradient structures, 
+the identical hydrogel deforms into four distinct configurations (the corners). i–iii) Photo of the gel strip under daylight (i); photo of the gel strip under 
+UV light (ii); schematic to show the configuration of the gel (iii). The thickness of the gel is 0.6 mm. Scale bars: 1 cm.
+Adv. Mater. 2021, 33, 2008057
+ 15214095, 2021, 18, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202008057 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 8 =====
+© 2021 Wiley-VCH GmbH2008057 (8 of 9)
+www.advmat.dewww.advancedsciencenews.com
+The hydrogels with good mechanical properties and repro-
+grammable deformations have broad applications in biomedical 
+devices, flexible electronics, and soft actuators/robots. To simply 
+demonstrate the potentials, we design a soft gripper by using 
+this morphing hydrogel that can twine firmly around a glass 
+rod and lift an agate ball (Figure S12, Supporting Information). 
+Another example is using morphing hydrogel to control the 
+light switch and the state of a lamp. UV light irradiation creates 
+through-thickness gradient and results in bending deformation 
+of the same gel strip, which pushes the ball to block the laser 
+and switch on the lamp. The reprogramming ability of morphing 
+hydrogels should open opportunities for diverse applications by 
+affording reusability, sustainability, and adaptive functions.
+3. Conclusions
+Reprogrammable deformations have been realized in one 
+single hydrogel based on reversible crosslinking and recon-
+structable network. High-efficiency photodimerization and 
+photocleavage reactions of coumarins are achieved by increased 
+local concentration of coumarins inside CTAC micelles, which 
+form PESCs with partially ionized PAAc matrix. The swelling 
+and mechanical properties are regulated by the photolabile 
+crosslinks that favor reprogramming the structural gradi-
+ents and 3D deformations of the hydrogel. The presence of 
+PESCs also renders the hydrogel with good mechanical per -
+formances, as well as distinct yet controllable swelling capacity 
+between the photo-crosslinked and photo-decrosslinked states. 
+Besides coumarins, other dynamic covalent bonds including 
+trithiocarbonates and anthracenes can be used to reprogram 
+the network structure of gels and elastomers for specific  
+functions and applications including soft robotics, flexible elec-
+tronics, and tissue engineering.
+Supporting Information
+Supporting Information is available from the Wiley Online Library or 
+from the author.
+Acknowledgements
+The authors appreciate Sudan Shen for the helpful assistance on 
+preparation of TEM sample using an ultramicrotome. This research was 
+supported by National Natural Science Foundation of China (51773179, 
+51973189), Natural Science Foundation of Zhejiang Province of China 
+(LR19E030002), and Fundamental Research Funds for the Central 
+Universities of China.
+Conflict of Interest
+The authors declare no conflict of interest.
+Data Availability Statement
+The data that support the findings of this study are available from the 
+corresponding author upon reasonable request.
+Keywords
+morphing hydrogel, dynamic covalent bonds, reconstructable network, 
+polyelectrolyte/surfactant complex, coumarins
+Received: November 29, 2020
+Revised: February 1, 2021
+Published online: March 31, 2021
+[1] a) D.  Rus, M. T.  Tolley, Nature 2015, 521, 467; b) X.  Cheng, 
+Y . Zhang, Adv. Mater. 2019, 31, 1901895; c) A. Kirillova, R. Maxson, 
+G.  Stoychev, C. T.  Gomillion, L.  Ionov, Adv. Mater. 2017, 29, 
+1703443; d) S. Zhuo, Z. Zhao, Z. Xie, Y . Hao, Y . Xu, T. Zhao, H. Li, 
+E.  Knubben, L.  Wen, L.  Jiang, M.  Liu, Sci. Adv. 2020, 6, eaax1464; 
+e) Y . Zhao, C. Xuan, X. Qiao, Y . Alsaid, M. Hua, L. Jin, X. He, Sci. 
+Robot. 2019, 4, eaax7112.
+[2] a) N.  Park, J.  Kim, Adv. Intell. Syst. 2020, 2, 1900135; b) L.  Ionov, 
+Mater. Today 2014, 17, 494; c) X. Liu, S. Lin, X. Zhao, Mater. Today 
+2020, 36, 102.
+[3] a) E.  Palleau, D.  Morales, M. D.  Dickey, O. D.  Velev, Nat. 
+Commun. 2013, 4, 2257; b) A. S.  Gladman, E. A.  Matsumoto, 
+R. G.  Nuzzo, L.  Mahadevan, J. A.  Lewis, Nat. Mater. 2016, 15, 
+413; c) Z. L.  Wu, M.  Moshe, J.  Greener, H.  Therien-Aubin, Z.  Nie, 
+E. Sharon, E. Kumacheva, Nat. Commun. 2013, 4, 1586; d) X. Peng, 
+T. Liu, Q. Zhang, C. Shang, Q.-W. Bai, H. Wang, Adv. Funct. Mater. 
+2017, 27, 1701962; e) Z. Zhao, S. Zhuo, R. Fang, L. Zhang, X. Zhou, 
+Y .  Xu, J.  Zhang, Z.  Dong, L.  Jiang, M.  Liu, Adv. Mater. 2018, 30, 
+1804435; f) Q. L. Zhu, C. Du, Y . Dai, M. Daab, M. Matejdes, J. Breu, 
+W. Hong, Q. Zheng, Z. L. Wu, Nat. Commun. 2020, 11, 5166.
+[4] a) J. Kim, J. A. Hanna, M. Byun, C. D. Santangelo, R. C. Hayward, 
+Science 2012, 335, 1201; b) S.-J. Jeon, A. W. Hauser, R. C. Hayward, 
+Acc. Chem. Res. 2017, 50, 161; c) O.  Erol, A.  Pantula, W.  Liu, 
+D. H. Gracias, Adv. Mater. Technol. 2019, 4, 1900043; d) A. Nojoomi, 
+H. Arslan, K. Lee, K. Yum, Nat. Commun. 2018, 9, 3705; e) X. P. Hao, 
+Z. Xu, C. Y . Li, W. Hong, Q. Zheng, Z. L. Wu, Adv. Mater. 2020, 32, 
+2000781.
+[5] a) S. J.  Jeon, R. C.  Hayward, Adv. Mater. 2017, 29, 1606111; 
+b) A. Cangialosi, C. Yoon, J. Liu, Q. Huang, J. Guo, T. D. Nguyen, 
+D. H. Gracias, R. Schulman, Science 2017, 357, 1126.
+[6] a) R. M. Erb, J. S. Sander, R. Grisch, A. R. Studart, Nat. Commun. 
+2013, 4, 1712; b) L.  Huang, R.  Jiang, J.  Wu, J.  Song, H.  Bai, B.  Li, 
+Q. Zhao, T. Xie, Adv. Mater. 2017, 29, 1605390.
+[7] a) A.  Oyefusi, J.  Chen, Angew. Chem., Int. Ed. 2017, 56, 8250; 
+b) R. R.  Kohlmeyer, P. R.  Buskohl, J. R.  Deneault, M. F.  Durstock, 
+R. A. Vaia, J. Chen, Adv. Mater. 2014, 26, 8114.
+[8] a) Z.  Wei, J. H.  Yang, J.  Zhou, F.  Xu, M.  Zrinyi, P. H.  Dussault, 
+Y .  Osada, Y . M.  Chen, Chem. Soc. Rev. 2014, 43, 8114; b) Z.  Jiang, 
+M. L. Tan, M. Taheri, Q. Yan, T. Tsuzuki, M. G. Gardiner, B. Diggle, 
+L. A.  , Connal, Angew. Chem., Int. Ed. 2020, 59, 7049; c) D.  Chen, 
+Y .  Zhang, C.  Ni, C.  Ma, J.  Yin, H.  Bai, Y .  Luo, F.  Huang, T.  Xie, 
+Q. Zhao, Mater. Horiz. 2019, 6, 1013.
+[9] a) J. Chen, J. Huang, H. Zhang, Y . Hu, ACS Appl. Mater. Interfaces 
+2020, 12, 38647; b) A. S. Kuenstler, M. Lahikainen, H. Zhou, W. Xu, 
+A. Priimagi, R. C. Hayward, ACS Macro Lett. 2020, 9, 1172; c) C. Li, 
+A. Iscen, L. C. Palmer, G. C. Schatz, S. I. Stupp, J. Am. Chem. Soc. 
+2020, 142, 8447.
+[10] a) R. J.  Wojtecki, M. A.  Meador, S. J.  Rowan, Nat. Mater. 
+2011, 10, 14; b) B. D.  Fairbanks, S. P.  Singh, C. N.  Bowman, 
+K. S.  Anseth, Macromolecules 2011, 44, 2444; c) Y .  Amamoto, 
+H.  Otsuka, A.  Takahara, K.  Matyjaszewski, Adv. Mater. 2012, 24, 
+3975; d) K. A.  Gunay, T. L.  Ceccato, J. S.  Silver, K. L.  Bannister, 
+O. J.  Bednarski, L. A.  Leinwand, K. S.  Anseth, Angew. Chem., Int. 
+Ed. 2019, 58, 9912; e) L. Li, J. M. Scheiger, P. A. Levkin, Adv. Mater. 
+Adv. Mater. 2021, 33, 2008057
+ 15214095, 2021, 18, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202008057 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 9 =====
+© 2021 Wiley-VCH GmbH2008057 (9 of 9)
+www.advmat.dewww.advancedsciencenews.com
+2019, 31, 1807333; f) E. C. Davidson, A. Kotikian, S. Li, J. Aizenberg, 
+J. A. Lewis, Adv. Mater. 2020, 32, 1905682.
+[11] a) S. R. Trenor, A. R. Shultz, B. J. Love, T. E. Long, Chem. Rev. 2004, 
+104, 3059; b) T. Hughes, G. P. Simon, K. Saito, Mater. Horiz. 2019, 
+6, 1762.
+[12] a) T. Defize, J.-M. Thomassin, H. Ottevaere, C. Malherbe, G. Eppe, 
+R.  Jellali, M.  Alexandre, C.  Jérôme, R.  Riva, Macromolecules 2019, 
+52, 444; b) C. P.  Kabb, C. S.  O’Bryan, C. C.  Deng, T. E.  Angelini, 
+B. S.  Sumerlin, ACS Appl. Mater. Interfaces 2018, 10, 16793; 
+c) D. Lu, M. Zhu, S. Wu, Q. Lian, W. Wang, D. Adlam, J. A. Hoyland, 
+B. R. Saunders, Adv. Funct. Mater. 2020, 30, 1909359.
+[13] a) J. Ling, M. Z. Rong, M. Q. Zhang, Polymer 2012, 53, 2691; b) J. Ling, 
+M. Z. Rong, M. Q. Zhang, J. Mater. Chem. 2011, 21, 18373; c) X. Zhao, 
+Y . Dang, J. Deng, J. Zhang, Colloid Polym. Sci. 2014, 292, 85.
+[14] a) R.  Tamate, T.  Ueki, Y .  Kitazawa, M.  Kuzunuki, M.  Watanabe, 
+A. M. Akimoto, R. Yoshida, Chem. Mater. 2016, 28, 6401; b) A. Tabet, 
+R. A. Forster, C. C. Parkins, G. Wu, O. A. Scherman, Polym. Chem. 
+2019, 10, 467.
+[15] Y . Zhang, L. Ionov, Langmuir 2015, 31, 4552.
+[16] a) Y .  Osada, H.  Okuzaki, H.  Hori, Nature 1992, 355, 242; 
+b) H. Okuzaki, Y . Osada, Macromolecules 1994, 27, 502.
+[17] V. Ramamurthy, J. Sivaguru, Chem. Rev. 2016, 116, 9914.
+[18] a) U.  Gulyuz, O.  Okay, Macromolecules 2014, 47, 6889; b) H.  He, 
+X.  Cao, H.  Dong, T.  Ma, G. F.  Payne, Adv. Funct. Mater. 2017, 27, 
+1605665.
+[19] a) H. Chen, F. Yang, Q. Chen, J. Zheng, Adv. Mater. 2017, 29, 1606900; 
+b) C. N.  Zhu, T.  Bai, H.  Wang, W.  Bai, J.  Ling, J. Z.  Sun, F.  Huang, 
+Z. L. Wu, Q. Zheng, ACS Appl. Mater. Interfaces 2018, 10, 39343.
+[20] a) S.  Zhou, B.  Chu, Adv. Mater. 2000, 12, 545; b) Z. H.  Asadov, 
+R. A.  Rahimov, T. A.  Poladova, S. M.  Nasibova, A. D.  Guliyev, 
+A. Z. Asadova, J. Mol. Liq. 2012, 166, 44.
+[21] a) T. A. Moore, M. L. Harter, P.-S. Song, J. Mol. Spectrosc. 1971, 40, 
+144; b) D.  Kehrlosser, J.  Trager, H. C.  Kim, N.  Hampp, Langmuir 
+2010, 26, 3878.
+[22] Y . Chen, C. S. Jean, J. Appl. Polym. Sci. 1997, 64, 1759.
+[23] a) N.  Yonezawa, T.  Yoshida, M.  Hasegawa, J. Chem. Soc., Perkin 
+Trans. 1 1983, 5, 1083; b) T. Wolff, H. Görner, J. Photochem. Photo-
+biol., A 2010, 209, 219.
+[24] Z.  Du, X.  Yan, R.  Dong, K.  Ke, B.  Ren, Z.  Tong, Macromolecules 
+2018, 51, 1518.
+[25] a) L.  Zhao, M.  Vaupel, D. A.  Loy, K. J.  Shea, Chem. Mater. 2008, 
+20, 1870; b) F.  Bu, R.  Duan, Y .  Xie, Y .  Yi, Q.  Peng, R.  Hu, A.  Qin, 
+Z. Zhao, B. Z. Tang, Angew. Chem., Int. Ed. 2015, 54, 14492.
+[26] C. Liu, E. Thormann, P. M. Claesson, E. Tyrode, Langmuir 2014, 30, 
+8866.
+[27] a) H.  Yuk, S.  Lin, C.  Ma, M.  Takaffoli, N. X.  Fang, X.  Zhao, Nat. 
+Commun. 2017, 8, 14230; b) C. Yao, Z. Liu, C. Yang, W. Wang, X.-J. Ju, 
+R. Xie, L.-Y . Chu, Adv. Funct. Mater. 2015, 25, 2980; c) S. Y . Zheng, 
+Y . Shen, F. Zhu, J. Yin, J. Qian, J. Fu, Z. L. Wu, Q. Zheng, Adv. Funct. 
+Mater. 2018, 28, 1803366.
+[28] H.  Therien-Aubin, Z. L.  Wu, Z.  Nie, E.  Kumacheva, J. Am. Chem. 
+Soc. 2013, 135, 4834.
+[29] S.  Armon, E.  Efrati, R.  Kupferman, E.  Sharon, Science 2011, 333, 
+1726.
+[30] a) Z. Li, P. Liu, X. Ji, J. Gong, Y . Hu, W. Wu, X. Wang, H. Q. Peng, 
+R. T. K.  Kwok, J. W. Y .  Lam, J.  Lu, B. Z.  Tang, Adv. Mater. 2020, 
+32, 1906493; b) S.  Wei, W.  Lu, X.  Le, C.  Ma, H.  Lin, B.  Wu, 
+J.  Zhang, P.  Theato, T.  Chen, Angew. Chem., Int. Ed. 2019, 58, 
+16243; c) X.  Ji, R.-T.  Wu, L.  Long, X.-S.  Ke, C.  Guo, Y .-J.  Ghang, 
+V. M. Lynch, F. Huang, J. L. Sessler, Adv. Mater. 2018, 30, 1705480; 
+d) P.  Xing, H.  Chen, H.  Xiang, Y .  Zhao, Adv. Mater. 2018, 30,  
+1705633.
+Adv. Mater. 2021, 33, 2008057
+ 15214095, 2021, 18, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202008057 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,14 @@
+{
+  "article_id": "cans-2020-abe-anseth-thioester-switch",
+  "doi": "10.1007/s10439-020-02460-w",
+  "source_pdf": "D:/Work in Zheng Group/Dynamic Network-光/s10439-020-02460-w.pdf",
+  "dpi": 400,
+  "coordinate_system": "PDF points from top-left; includes complete original figure and caption",
+  "figures": [
+    {"label": "Figure 1", "page": 5, "bbox_pt": [50, 51, 547, 412], "output": "assets/cans-carberry-2020-figure1.png"},
+    {"label": "Figure 2", "page": 6, "bbox_pt": [49, 49, 547, 442], "output": "assets/cans-carberry-2020-figure2.png"},
+    {"label": "Figure 3", "page": 7, "bbox_pt": [50, 52, 547, 468], "output": "assets/cans-carberry-2020-figure3.png"},
+    {"label": "Figure 4", "page": 8, "bbox_pt": [50, 337, 547, 708], "output": "assets/cans-carberry-2020-figure4.png"},
+    {"label": "Figure 5", "page": 9, "bbox_pt": [50, 51, 547, 465], "output": "assets/cans-carberry-2020-figure5.png"}
+  ]
+}

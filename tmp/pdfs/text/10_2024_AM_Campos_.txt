@@ -1,0 +1,740 @@
+
+
+===== PDF PAGE 1 =====
+RESEARCH ARTICLE
+www.advmat.de
+Light-InducedLivingPolymerNetworkswithAdaptive
+FunctionalProperties
+Shixuan Wei, Julian Smith-Jones, Remy F. Lalisse, Julia C. Hestenes, Danyang Chen,
+Scott P. O. Danielsen, Rowina C. Bell, Emily M. Churchill, Naiara A. Munich,
+Lauren E. Marbella, Osvaldo Gutierrez, Michael Rubinstein, Alshakim Nelson,*
+and Luis M. Campos*
+Theadventofcovalentadaptablenetworks(CANs)throughtheincorporation
+ofdynamiccovalentbondshasledtounprecedentedpropertiesof
+macromolecularsystems,whichcanbeengineeredatthemolecularlevel.
+Amongthevarioustypesofstimulithatcanbeusedtotriggerchemical
+changeswithinpolymernetworks,lightstandsoutforitsremoteand
+spatiotemporalcontrolunderambientconditions.However,mostexamplesof
+photoactiveCANsneedtobetransparentandtheyexhibitslowresponse,side
+reactions,andlimitedlightpenetration.Inthisvein,itisinteresting
+tounderstandhowmolecularengineeringofopticallyactivedynamiclinkages
+thatoﬀerfastresponsetovisiblelightcanimpart“living”characteristicsto
+CANs,especiallyinopaquesystems.Here,theuseofcarbazole-based
+thiuramdisulﬁdes(CTDs)thatoﬀerdualreactivityasphotoactivated
+reshuﬄinglinkagesandinifertersundervisiblelightirradiationisreported.
+ThefastresponsetovisiblelightactivationoftheCTDsleadstotemporal
+controlofshapemanipulation,healing,andchainextensioninthepolymer
+networks,despitethelackofopticaltransparency.Thisstrategychartsa
+promisingavenueformanipulatingmultifunctionalphotoactivatedCANsina
+controlledmanner.
+S.Wei,E.M.Churchill,L.M.Campos
+DepartmentofChemistry
+ColumbiaUniversity
+NewYork,NY10027,USA
+E-mail:lcampos@columbia.edu
+J.Smith-Jones,R.C.Bell,A.Nelson
+DepartmentofChemistry
+UniversityofWashington
+Seattle,WA98195,USA
+E-mail:alshakim@uw.edu
+R.F.Lalisse,O.Gutierrez
+DepartmentofChemistry
+TexasA&MUniversity
+CollegeStation,TX77843,USA
+J.C.Hestenes
+ProgramofMaterialsScienceandEngineering
+DepartmentofAppliedPhysicsandAppliedMathematics
+ColumbiaUniversity
+NewYork,NY10027,USA
+The ORCID identiﬁcation number(s) for the author(s) of this article
+canbefoundunder https://doi.org/10.1002/adma.202313961
+DOI:10.1002/adma.202313961
+1.Introduction
+The processing of plastics has historically
+been founded on exploiting bulk proper-
+ties of stable linear polymers and robust
+cross-linkednetworks,withanemphasison
+thermoplastics and thermosets.[1] The at-
+tributesofthesematerialsstemfromusing
+monomers that form strong, irreversible
+covalent bonds within the polymer back-
+bone and/or 3D networks. However, the
+resultant materials suﬀer from resistance
+to physicochemical reprocessing or recy-
+cling, thus posing signiﬁcant end-of-life
+problems as waste for the environment.[2]
+The advent of polymer networks with
+dynamic/adaptable covalent bonds[3–4] by
+molecular engineering of the constituent
+buildingblocksholdspromisefortheirim-
+plementation in emerging technologies,[5]
+as well as overcoming various limitations
+from conventional polymers. These cova-
+lent adaptable networks (CANs) can be
+D.Chen,S.P.O.Danielsen,M.Rubinstein
+NSFCenterfortheChemistryofMolecularlyOptimizedNetworks
+DukeUniversity
+Durham,NC27708,USA
+D.Chen,S.P.O.Danielsen,M.Rubinstein
+ThomasLordDepartmentofMechanicalEngineeringandMaterials
+Science
+DukeUniversity
+Durham,NC27708,USA
+N.A.Munich
+DepartmentofChemistry
+BarnardCollege
+NewYork,NY10027,USA
+L.E.Marbella
+DepartmentofChemicalEngineering
+ColumbiaUniversity
+NewYork,NY10027,USA
+Adv. Mater.2024,36,2313961 ©2024Wiley-VCHGmbH2313961(1of9)
+
+
+===== PDF PAGE 2 =====
+www.advancedsciencenews.com www.advmat.de
+tailored to respond to external stimuli to induce bond-
+making/breaking processes using chemical reagents, catalysts,
+force, heat, and light. Among these systems, the photoin-
+duced adaptivity of CANs oﬀers the ability to drive chemical
+transformations at ambient temperatures with spatiotemporal
+control.[3,6–9] Strategiestoinitiatereactionswithlightstemfrom
+photothermalandreversiblephotochemicalprocesses,forwhich
+the latter generally involves the use of transparent samples
+sincehigh-energyphotonsareneededtodriveisomerization, [10]
+cyclization,[11–12] or bond dissociation.[8,13] A key advantage of
+light-induced CANs capable of undergoing homolytic bond
+scission under irradiation is that the reactive radicals present
+at steady state become dormant in the absence of light. This
+level of activation control endows the “living” characteristics
+of the network for subsequent modiﬁcations. For instance,
+Bowman and co-workers utilized the reversible activation of
+photoinduced addition-fragmentation chain transfer processes
+to aﬀord photoinduced plasticity in thiol-ene networks doped
+with photoinitiators.[13] To date, light-induced CANs activated
+by homolytic bond dissociation mechanisms have been found
+to exhibit remarkable characteristics, including healing,[14–17]
+shape-shifting,[13,18–19] postpolymerization chain growth,[18,20–21]
+andpatterning.[22–23]
+Among the many classes of photoresponsive dynamic link-
+ages,thosethatyieldstableradicalsuponactivationandundergo
+eﬃcient reshuﬄing or chain-extension polymerizations have
+drawn signiﬁcant attention.[15,17–18,21,24–26] Still, most of these
+networks require the use of high-energy photons, engendering
+undesired side reactions,[27] and limited light penetration.[28–29]
+In addition, such dynamic linkages can either lead to healing
+or undergo chain-extension with monomer additives for a lim-
+ited number of times. For example, manipulating the mechan-
+ical properties by chain extension of CANs can be possible us-
+ing iniferters as the dynamic linkage (i.e., moieties that initi-
+ate, transfer, and terminate active sites, such as trithiocarbon-
+atesanddithiocarbamates). [18,30–31] However,theyareineﬃcient
+in reshuﬄing/healing-based applications at ambient conditions
+due to the susceptibility of carbon-centered radicals to oxygen
+quenching[14] and the need to be activated using initiators in
+many cases.[21,32] In contrast, thiuram disulﬁdes are a distinct
+classofinifertersthatcangenerateair-stablesulfur-centeredrad-
+icalsbydirectirradiation,andtheselinkagescanenablephotoin-
+duced healing by bond-reshuﬄing within CANs.[15,33] Interest-
+ingly, Otsu and co-workers[34–36] reported the photopolymeriza-
+tioninitiatedbytetraethylthiuramdisulﬁde(TETD),butitexhib-
+itedsuboptimalconversioncoupledwithslowkineticsandhigh
+polymerdispersity.[35–37] Inlightofthesechallenges,wehypothe-
+sizedthatthereactivityofdynamiclinkagescouldbemolecularly
+M.Rubinstein
+DepartmentsofChemistry
+BiomedicalEngineering
+andPhysics
+DukeUniversity
+Durham,NC27708,USA
+M.Rubinstein
+InstituteforChemicalReactionDesignandDiscovery(WPI-ICReDD)
+HokkaidoUniversity
+Sapporo001–0021,Japan
+engineeredtoaﬀordphotoactivatednetworksthati)canundergo
+multiplehealingcyclesandii)undergochaingrowthtoincrease
+the strand length via a controlled radical polymerization. This
+strategycanleadtosyntheticlivingpolymernetworksthatcould
+beimplementedinemergingapplicationsandsustainability. [2,38]
+Here, we report the design and synthesis of a catalyst-free,
+visible-light-induced living (LIL) polymer network implement-
+ingcarbazolethiuramdisulﬁdes(CTDs)asdynamiclinkages.As
+compared to tetraalkylthiuram disulﬁde linkages that have low
+absorptivityinthevisiblelightregion(e.g.,TETD),thecarbazole
+counterparts can be selectively activated by visible light more
+eﬃciently with higher absorptivity. The greater absorptivity in
+CTD-basednetworkscanalsoleadtofastactivationdespitebeing
+opaque due to eﬃcient light harvesting. We also found that the
+low activation energy in the exchange reaction between radicals
+formed and ground-state CTD linkages elucidates the observed
+fast reshuﬄing of the dynamic bonds. Indeed, the LIL polymer
+network can react within seconds of irradiation and undergo
+chain-extension by the photopolymerization ofn-butyl acrylate
+(nBA),withouttheuseofcatalystsorinitiators( Figure1).Specif-
+ically, we show how the living reactive radical centers from the
+CTDinifertercanalterthemechanicalpropertiesofthenetwork
+reversiblyunderstress/strainwhileswitchingthelightsourceon
+andoﬀ,despitethelimitedtransmissionoflightthroughthebulk
+sample.Suchreactivityunderambientconditionsisattributedto
+the favorable energetics of the dynamic bonds that also leads to
+multiple healing cycles and reprocessable properties. Moreover,
+impregnatingtheLILpolymernetworkwithanacrylicmonomer
+led to chain extension of the network strands to modify the me-
+chanicalproperties.Withacombinationofdynamicmechanical
+analysis, calculations, spectroscopy, and various control experi-
+ments, we elucidate the mode of reactivity of the dynamic CTD
+linkages.Suchcharacteristicsofanetworkthatisactivatedatam-
+bientconditionswithafastresponsetolightstimulus,theability
+toheal,andtheaddedadvantageofinducingchainextensionpro-
+videfundamentalprinciplesinthedesignoflight-inducedliving
+polymernetworks.
+2.ResultsandDiscussion
+Previousthiuram/dithiocarbamatesystemsthatcanbeactivated
+by high-energy UV or white light generally require extended
+periods of irradiation to reshuﬄe.[14–15,33,39–40] To understand
+the fundamental diﬀerence in properties and reactivity between
+CTD-linkednetworksandalkyl-basedthiuramdisulﬁde,wesyn-
+thesized CTD1, CTD2, and TETD (Figure 2A). In compari-
+son to TETD, the carbazole derivatives exhibit a much broader
+range of visible light absorption and higher molar absorptivity
+(Figure 2B). For example, TETD has a low absorptivity in the
+visible light region (ɛ < 180 m−1 cm−1 at 380 nm), whereas the
+CTDcounterpartsexhibitamolarabsorptivitythatistwoorders
+of magnitude higher (ɛ>18 000 m−1 cm−1 at 380 nm). In addi-
+tion, the CTDs match the radiance spectrum of the Kessil blue
+LEDwithintherangeof400–475nm,whereasTETDmainlyab-
+sorbs in the UV region below 380 nm. The model exchange re-
+actions between CTD1 and CTD2 were carried out by irradiat-
+ingsolutionsatambientconditions,withoutdeoxygenation,and
+monitored by1H-NMR. The reaction reached the photostation-
+arystateat50%conversionwithin2mintoformthereshuﬄed
+Adv. Mater.2024,36,2313961 ©2024Wiley-VCHGmbH2313961(2of9)
+ 15214095, 2024, 26, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202313961 by Yale University, Wiley Online Library on [18/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 3 =====
+www.advancedsciencenews.com www.advmat.de
+Figure 1.Molecular design of the LIL polymer networks with dynamic thiuram disulﬁde bonds. Gray pathway: direct activation of CTDs in the strands
+oftheLILpolymernetworkunderirradiationofvisiblelight,leadingtothegenerationofradicalsas“livingcenters.”Redpathway:reconﬁguratio nofthe
+LILpolymernetworkthroughthereshuﬄingofCTDsresultedinstatisticallyidenticaltopology.Bluepathway:chaingrowthoftheLILpolymernetwor k,
+initiatedby“livingcenters”whenmixedwithacrylatesunderirradiation.
+product RP1 (Figure 2A) (sample-to-lamp distance ≈10 cm,
+30.9 mW cm−2, FigureS2, Supporting Information). We also
+usedaﬁber-coupledLED(420nm)inNMRspectroscopytomon-
+itorthereaction in situ with on/oﬀ cycles. Thereaction reached
+the photostationary state within 90 s of total irradiation and no
+conversion was observed during the period when the light was
+oﬀ(Figure2C).
+Dispersion-corrected density functional theory (DFT) calcula-
+tionswereusedtounderstandtheenergeticsofplausiblemech-
+anisms of the reshuﬄing process (see the Supporting Informa-
+tionfordetails).Previousworkinthehomolyticcleavageofsim-
+pletetramethylthiauramdisulﬁdesrevealedan enthalpyforS ─S
+bond dissociation of 35.8 kcal mol−1.[41] In our calculations, the
+simulated absorption spectrum of the lowest energy conforma-
+tion of CTD1 shows a𝜆max of 392 nm, which correlates well
+with the experimentally measured𝜆max of 383 nm (TablesS10,
+SupportingInformation).Thediﬀerencedensityplotsoftheex-
+cited states of CTD1 revealed the accumulation of electron den-
+sity along the S─S bonds, conﬁrming the expected homolytic
+dissociation of the disulﬁde bond upon excitation (FigureS17,
+Supporting Information). After the generation of the radicals,
+two mechanisms have been proposed in a previous study for
+TETD, as shown in Figure2D,E, but neither one was noted to
+bethepredominantpath. [15] Instead,ourcalculationsshowthat
+thefreeenergyofactivationoftheradical–radicalrecombination
+asanopen-shellsingletismarkedlylowerinenergythantheex-
+changemechanisminTETD,where ΔG‡
+recomb =18.8kcalmol −1
+and ΔG‡
+exchange =35.9kcalmol −1.Instarkcontrast,the ΔG‡
+recomb
+from the CTD1 radicals is only 3.5 kcal mol−1 and ΔG‡
+exchange =
+14.1 kcal mol−1 (Figure 2F,G). Interestingly, the diﬀerences in
+activation energy between the paths in Figure2D,Fare not re-
+lated to the respective radical stabilization energies (RSE). As
+s h o w ni nF i g u r eS20(Supporting Information), the calculated
+RSE for the TETD-based radicals is−4.9 kcal mol−1, which is
+similartotheCTD1-basedradicals( −4.3kcalmol −1).Togainin-
+sightsintothediﬀerenceintheactivationenergyforrecombina-
+tioninCTD1versusTETD,weappliedthedistortion/interaction-
+activation strain model[42] to obtain the interaction (ΔE‡
+interaction)
+anddistortion( ΔE‡
+distortion)energies(Figure S22C,SupportingIn-
+formation).ThelowbarrierfortherecombinationofCTD1rad-
+icals is likely due to strong𝜋-stacking in the aromatic deriva-
+tive with a phenyl centroid–phenyl centroid distance of 3.63Å
+(Figure S22A, Supporting Information).[43–44] Further, we ﬁnd
+thatthechangein ΔE‡
+interaction and ΔE‡
+distortion correlatedwellwith
+the increase in the barrier for radical recombination (ΔG‡
+recomb)
+fortheCTD1(3.5kcalmol −1)toTETD(18.8kcalmol −1)radicals.
+These results highlight the ability of CTDs to photochemically
+generateradicalseﬃcientlyuponexcitationforfast,dynamicex-
+change under irradiation, and importantly, the resulting CTD-
+radicals also have low energy barriers for recombination upon
+turningthelightoﬀ.
+A limitation of conventional alkylthiuram disulﬁdes as pho-
+toactivated dynamic bonds is their relatively fast reshuﬄing in
+the dark at both low (60μgm L−1) and high (20 mm) concen-
+trations (50% conversion in 3 h).[15,45] To test the extent of the
+dark reaction between CTDs, an equimolar mixture of CTD1
+and CTD2 in dichloromethane was stored in the dark at ambi-
+entconditions.Thereshuﬄedproductwasindeedformed,albeit
+at a much slower rate than the alkylthiuram disulﬁdes, which
+reached only 14% conversion in 3 h and took more than 60 h
+toreach equilibrium(Figure S1,SupportingInformation).Elec-
+tronparamagneticresonance(EPR)spectroscopywasthenused
+toinvestigatethepresenceofradicalsunderirradiationandtheir
+absencewiththelightoﬀ.Underirradiation,anEPRsignalwas
+observed (g factor = 2.011)[15] and it immediately disappeared
+whenthelightsourcewasturnedoﬀ(Figure S3,SupportingIn-
+formation). Thus, within the relatively fast timescale of light-
+induced reshuﬄing of the CTDs in solution, the dark reaction
+is suppressed relative to alkylthiuram disulﬁde linkages. This is
+alsosupportedbyDFTcalculationswhichrevealthatthethermal
+Adv. Mater.2024,36,2313961 ©2024Wiley-VCHGmbH2313961(3of9)
+ 15214095, 2024, 26, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202313961 by Yale University, Wiley Online Library on [18/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 4 =====
+www.advancedsciencenews.com www.advmat.de
+Figure2. A)ReshuﬄingofCTDsunderirradiationwithablueLED.B)UV–visabsorptionspectra(solidlines,left y-axis)ofTETD,CTD1,andCTD2,and
+emissionspectrum(dashedline,right y-axis)oftheKessilblueLED.C)ConversionratioofCTD1(2mm)inthereactionwithCTD2(2mm)underon/oﬀ
+illuminationinCD 2Cl2 atroomtemperatureinair,monitoredbyﬁber-coupledLED(420nm)NMRspectroscopy(timeoftotalirradiationtoequilibrium:
+90 s). D–F) Free energy of activation for diﬀerent reshuﬄing mechanisms calculated at the B3LYP-D3/6-311+G(d,p)-CPCM(DCM) level of theory; and
+G)CalculationsattheB3LYP-D3/6-311 +G(d,p)-CPCM(DCM)//B3LYP-D3/6-31+G(d,p)-CPCM(DCM)leveloftheory(allvaluesareinkcalmol −1).
+homolytic dissociation of TETD is endergonic by only 7.5 kcal
+mol−1,andtheanalogouscleavageofCTD1islessfavoredsince
+it is uphill by nearly double, 15.5 kcal mol−1 (Figure S19,S u p -
+portingInformation).
+Building on our fundamental understanding of the reactivity
+of CTDs and their eﬃcient photoactivated reshuﬄing, we ap-
+pendedCTDsontotheendgroupsofthree-armpolyethylenegly-
+col (PEG) to form the LIL polymer networks. In this process,
+the formation of the thiuram disulﬁde linkage was introduced
+as the cross-linking reaction. Other procedures involve the syn-
+thesis of the thiuram disulﬁde monomer with hydroxyl handles
+ﬁrst, then mixed with other monomers to obtain polyurethane
+networks.[15,33] Toavoidisocyanatechemistry,carbazolewascou-
+pled to the end-groups of the commercially available hydroxyl
+terminated 3-arm PEG-OH (Mn = 1000 g mol−1). The resulting
+carbazole-functional PEG (PEG-Cz) was crosslinked by reacting
+it with CS2 and subjecting the dithiocarbamate salt to oxidation
+with iodine,[46–47] yielding the desired LIL polymer network as a
+darkredsolid( Figure3A,seetheSupportingInformationforde-
+tails).Theinfrared(IR)spectroscopyabsorptionspectrumofthe
+LILpolymernetworkindicatedtheabsenceoftheN ─Hstretch-
+ingpeakat ≈3400cm−1,suggestingthatthemajorityofcarbazole
+units had been coupled to form the CTD-linkage (FigureS10,
+Supporting Information). Additionally, the emergence of new
+Adv. Mater.2024,36,2313961 ©2024Wiley-VCHGmbH2313961(4of9)
+ 15214095, 2024, 26, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202313961 by Yale University, Wiley Online Library on [18/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 5 =====
+www.advancedsciencenews.com www.advmat.de
+Figure 3.A) Chemical structure of the LIL polymer network. B) Rheology frequency sweep of the LIL polymer network under continuous irradiation.
+C)RheologyfrequencysweepoftheLILpolymernetworkwithoutirradiation.D)TensiletestsoftheLILpolymernetworkatastrainrateof1.5%min −1
+inthedark(purpleline)andunderirradiation(blueline,sample-to-lampdistance ≈6cm).E)StressrelaxationoftheLILpolymernetworkwithdashed
+lineindicatingthestartofholdingatconstantstrain =1.5%:lightoﬀ(purpleline),lighton/oﬀcycles(90sintervals,greenline),andlighton(blueline,
+sample-to-lampdistance ≈6cm).F)CreepoftheLILpolymernetworkwithdashedlineindicatingthestartofholdingatconstantstress =25kPa:light
+oﬀ(purpleline),lighton/oﬀcycles(90sintervals,greenline),andlighton(blueline,sample-to-lampdistance ≈6cm).
+peaksat1442and1289cm −1wasascribedtovibrationalmodesof
+N─C═SandC ═S,respectively.[39] Thethermalpropertiesofthe
+network exhibited a glass transition temperature,Tg =−10 °C
+(FigureS11, Supporting Information), and decomposition tem-
+perature, Tdec =135°C,at5%massloss(Figure S12,Supporting
+Information).
+The LIL polymer networks are mainly static in the dark and
+dynamicuponirradiation,whichisaconsequenceofarapidre-
+sponseatthemolecularscalethattranslatestochangesinchain
+mobility and network architecture. Photorheology was used to
+evaluate the dynamics of the LIL polymer networks in the pres-
+enceandabsenceoflight.AkeydistinctionthatsetsCANsapart
+from traditional thermosets is the frequency-dependent storage
+(G′)andloss( G′′)moduli.[48–51] Thecrossoverfrequency( 𝜔c)be-
+tween G′and G′′in the frequency sweep demarcates the time
+scale when the LIL polymer network transitions from visco-
+elastic, solid-like to liquid-like character (Figure3B,C). The fre-
+quencysweepunderirradiationshowsanotabledecreaseinthe
+Adv. Mater.2024,36,2313961 ©2024Wiley-VCHGmbH2313961(5of9)
+ 15214095, 2024, 26, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202313961 by Yale University, Wiley Online Library on [18/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 6 =====
+www.advancedsciencenews.com www.advmat.de
+relaxation time (𝜏R = 1/𝜔c), from an initial value of≈670 s in
+theabsenceoflightto ≈20swhenthelightison.Therelaxation
+timedescribestheaveragetimeforrearrangementandrelaxation
+inthepolymernetworks,anditsvaluescaleswiththebondlife-
+time, 𝜏R ≈ 1/kb,where kb isthedissociationrateconstantofthe
+cross-link.[48,51–52] Therefore,thedecreaseinrelaxationtimeun-
+der irradiation indicates that CTD linkages within the LIL poly-
+mernetworkundergofasterdissociationforreshuﬄinguponil-
+luminationthanthatinthedark,whichisconsistentwiththefast
+reshuﬄingobservedinourmodelsmall-moleculestudies.
+The photo-controlled𝜏R provides the basis for faster repro-
+cessingoftheLILpolymernetworkswithinpracticaloperational
+timeframes.Particularly,atafrequencybetween 𝜔c,on and𝜔c,oﬀ,
+the LIL polymer network behaves as a visco-elastic solid (G′>
+G′′) without irradiation, while the network behaves as a visco-
+elastic liquid (G′< G′′) at the same frequency with light. The
+photoreversiblebehavioroftheLILpolymernetworkwasstudied
+byphotorheometriccharacterizationatalowfrequency(0.1Hz).
+During 6-min light on/oﬀ cycles, the LIL polymer network had
+agreaterviscouscharacteruponlightexposureandrecoveredto
+its original state when the light was oﬀ (FigureS13A, Support-
+ingInformation).Thedecreaseof G′andincreaseof G′′wasat-
+tributed to the dissociation of thiuram dynamic bonds and fast
+exchange. These observations are in accord with the calculated
+energiesthatsupportfastradicalexchangereactions(lowenergy
+barriers)betweenanyradicalsformeduponirradiationandother
+CTD-linkages(Figure 2G).UsingtheEyringequation,therateof
+exchangebetweenaCTD-basedradicalandCTDisestimatedto
+be ≈3×102s−1,whereastheratefortheTETDsystemis16orders
+of magnitude slower (see TableS11, Supporting Information).
+Additionally,thefastrecoveryofthemechanicalpropertieswhen
+the light is turned oﬀ is also consistent with the lowΔG‡
+recomb,
+whichyieldsarateofrecombinationof1.7 ×1010 s−1 (11orders
+ofmagnitudefasterthantheTETDradicals,Figure 2FandTable
+S11,SupportingInformation).Whenthenetworkwassubjected
+to15-minlighton/oﬀcycles(Figure S13B,SupportingInforma-
+tion),asimilarbehaviorwasobservedwithamoresigniﬁcantgap
+between G′′and G′(tandelta)incomparisontothe6-mincycles.
+Intriguingly, an increase inG′was observed during the second
+cycleoflightoﬀ,incomparisontotheinitial G′,whichsuggests
+that the network reconﬁgured into a more homogeneous/stable
+polymernetworkthantheoriginalmaterial.
+The light-induced changes in mechanical properties and the
+reversibilityofthesemechanicalcharacteristicsovermultiplecy-
+cles were also captured in tensile experiments on a load frame.
+A stark diﬀerence in the mechanical properties under irradia-
+tion of the polymer network is evident, compared to the sample
+measuredinthedark(Figure 3D).Asigniﬁcantsofteningofthe
+networkunderirradiationyieldedasubstantialdeclineof ≈35%
+in Young’s Modulus (E[dark] = 2.5 MPa andE[h𝜈] = 1.6 MPa) and
+50.0% in tensile strength (TableS2, Supporting Information).
+This transition was accompanied by a discernible necking (ten-
+sile strain from 20% to 120%), indicative of enhanced plasticity
+withinthenetwork.Theincreasedplasticityandreducedmodu-
+lus were ascribed to the reshuﬄing of the CTD linkages under
+illumination. The temporal control over the mechanical proper-
+tieswasfurtherexempliﬁedintensileexperiments.Arapidoscil-
+lation of the modulus was observed during 20 s cycles of on/oﬀ
+irradiation,whichisconsistentwiththephotorheologicalresults.
+A reduction in stiﬀness was observed during illumination, and
+upon turning oﬀ the light, the network stiﬀened (FigureS14,
+SupportingInformation).Thisfastandreversibletransformation
+underscores the pronounced sensitivity of CTD linkages within
+the network, which agrees with the observed reactivity of small
+moleculesinsolution.
+As shown in Figure3E,F, the photoreversible behavior of the
+LILpolymernetworkwasalsoobservedinbothstressrelaxation
+and creep experiments (green lines). The 90 s irradiation inter-
+valinducedaremarkablyfastrelaxation,whichfollowstherelax-
+ationcurveundercontinuousirradiation(bluelines).Switching
+the light oﬀ, the relaxed stress/strain recovers to a small extent,
+stabilizinginamannerakintotherelaxationbehaviorwithoutir-
+radiation(purplelines).Asthetotalirradiationtimeduringlight
+on/oﬀ cycles (green lines) is only half of the continuous irradi-
+ation time (blue lines), the extent of stress relaxation/creep af-
+ter 30 min is intermediate between the tests under continuous
+irradiation (blue lines) and dark conditions (purple lines). No-
+tably, holding the polymer network at constant strain (1.5%) led
+to greater stress relaxation within 30 min under irradiation, de-
+spitethelackofopticaltransparencyoftheLILpolymernetwork.
+Thefaststressrelaxationinthisopaquenetworkisattributedto
+therapidreshuﬄingoftheCTDlinkagescoupledwiththepropa-
+gationofradicalsthroughoutthematerial. [39] Theculminationof
+ourmechanicalcharacterizationofthepolymernetworksunder
+continuous or intermittent illumination provides a compelling
+insight:thenetworkunderirradiationcanbeconceivedasaliving
+polymernetworkwithdistinctmechanicalpropertiesandreactiv-
+itycomparedtoitsrelativelystaticstateinthedark.Furthermore,
+the photoswitching of mechanical properties highlights the fast
+response of the polymer network, denoting a rapid interchange
+betweenitstwostates.
+ConsideringthepolymernetworkhaslabileCTDlinkagesthat
+may lead to decomposition, the photostability of the network
+was also tested. While the reversible mechanical changes in the
+above experiments suggest the stability of the network, its irra-
+diation for 4 h under ambient conditions led to no discernible
+changes by mass or IR spectroscopy, in accord with the stability
+observed in small molecules (FiguresS4, S5, and S15, Support-
+ing Information). In addition, the photo-induced healing of the
+LILpolymernetworkwasinvestigatedbyfracturingandhealing
+the samples under irradiation. First, cutting the sample in half,
+followedby10hofirradiation(sample-to-lampdistance ≈6cm,
+54.0mWcm−2,Figure S2,SupportingInformation)ledto91.0%
+strainrecoveryandnear-completerestorationoftensilestrength
+(Figure S16A, Supporting Information). In contrast, thermal
+healingat40 °Cfor11hledtoonlya30.5%strainrecoveryand
+70.5% strength restoration, which is not surprising considering
+the high energy required for thermal homolytic dissociation of
+the CTD (ΔG‡
+rel = 19 kcal mol−1, FigureS19, Supporting Infor-
+mation).Inaddition,lessthan0.7%weightchangewasobserved
+over 11 h at 40°C( F i g u r eS16B, Supporting Information), indi-
+cating degradation of the LIL polymer network at 40°C was in-
+signiﬁcant and thereby not responsible for the limited healing.
+Notably, the visible-light-induced healing could be repeated in
+thesamesamplewithoutasigniﬁcantweakeningofmechanical
+properties (TableS3, Supporting Information). In comparison,
+otherstudiesemployingalkylthiuramsasdynamicbondsshow
+thatprolongingthetimelapsebetweensegmentseparationafter
+Adv. Mater.2024,36,2313961 ©2024Wiley-VCHGmbH2313961(6of9)
+ 15214095, 2024, 26, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202313961 by Yale University, Wiley Online Library on [18/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 7 =====
+www.advancedsciencenews.com www.advmat.de
+Figure 4. A) Demonstration of sequential photoinduced shape manipulation and healing of the LIL polymer network ( l × w × t =
+1.60 cm× 0.90 cm× 1.00 mm). The specimen was cut into three pieces (a, b, and c) and (a) was bent under irradiation to retain a new shape. Af-
+ter ﬂattening under irradiation, (a) was recombined with (b and c) and the specimen was healed under irradiation. When there was no irradiation, the
+specimenrecovereditsoriginalshapeafterbendingandreleasing.B)IllustrationofthechaingrowthoftheLILpolymernetworkwithnBAunderirrad i-
+ation.C)Tensiletestsoftransformednetworksunderirradiationfordiﬀerentamountsoftime(0–8h)andofthecontrolnetworkunderilluminationf or
+8hwithoutadditionalmonomers.
+cutting and subsequent healing drastically reduced the healing
+eﬃciency. The diminished recovery was primarily attributed to
+the loss or migration of the radicals from the fractured surface
+overtime.[15,33] Incontrast,theLILpolymernetworkwasableto
+heal even after separating the segments for 36 h. We posit that
+the increased photo-induced reactivity and high visible light ab-
+sorptivityoftheCTDlinkagesarecrucialtofacilitatetheeﬃcient
+healingofthenetwork.
+To further demonstrate the “living” characteristics of the LIL
+polymernetworkqualitatively,arectangularsamplewascutwith
+abladeintothreeparts( Figure4A,samplesa,b,andc).S ample
+awasbentusingatweezerandirradiatedwiththeblueLEDfor
+10mintoallowtherearrangednetworktoretainthebentshape
+afterreleasingtheexternalforce.Thesamplewasthenﬂattened
+between two glass slides and irradiated for 10 minto regain the
+ﬂat shape. The three cut samples were then recombined and al-
+lowedtohealbetweenglassslidesunderirradiationfor10h.Fi-
+nally, the healed sample was bent, but without irradiation, it re-
+covereditsoriginalshapeafterreleasingtheforce.Anaddedad-
+vantageoftheLILpolymernetworkisthattheCTDlinkagesalso
+havethepotentialtoinitiateradicalpolymerizations [36] asvisible
+lightinifertersforchainextensioninordertomanipulatetheme-
+chanicalpropertiesondemand.UsingCTD1asamodelsystem,
+poly(n-butylacrylate)(PnBA)wassynthesizedbyirradiatingaso-
+lutionofthemonomerandiniferterindichloromethane(sample-
+to-lamp distance≈10 cm) at various time intervals (FiguresS6
+andS7,detailsintheSupportingInformation).After10h,weob-
+tainedaPnBAof Mn =74.0k,and Ð=1.8.ThenBApolymeriza-
+tionwasalsosubjectedtocross-linkingbyadding1,4-butanediol
+diacrylatealongwiththeCTD1iniferter,leadingtogelformation
+by adding 2% by volume of crosslinks (FigureS8and TableS1,
+detailsintheSupportingInformation).Asacontrolexperiment,a
+mixtureofnBAwithTETDwasirradiatedwithbluelightfor10h
+andnopolymerformationwasobserved(Figure S9,detailsinthe
+SupportingInformation).Itisworthnotingthatpreviousstudies
+foundthatalkylthiuramswereineﬀectiveatinitiatingphotopoly-
+merization of nBA, yielding only≈6% conversion in 6 h under
+irradiationwithaUVlamp(125W). [37,53] Thiscontrasthighlights
+theeﬃcacyofusingCTDsasinifertersforthephotopolymeriza-
+tionofnBAwithbluelight.
+In light of the above results, the chain-extension reactivity of
+the CTDs was tested to manipulate the mechanical properties
+of the LIL polymer network. The sample was impregnated with
+nBAandirradiated(sample-to-lampdistance ≈10cm)atvarious
+time intervals to initiate the chain extension in the LIL polymer
+network (Figure4B). As the sample was irradiated for a longer
+period, up to 8 h, the sample softened as expected due to the
+new properties imparted by the PnBA strands (Figure4C;a n d
+TableS4,SupportingInformation).Inacontrolexperimenttoen-
+sure that the network softening was not due to degradation, the
+Adv. Mater.2024,36,2313961 ©2024Wiley-VCHGmbH2313961(7of9)
+ 15214095, 2024, 26, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202313961 by Yale University, Wiley Online Library on [18/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 8 =====
+www.advancedsciencenews.com www.advmat.de
+pristineLILpolymernetworkwasirradiatedfor8hintheabsence
+of nBA with negligible change in strain and modulus observed
+(Figure4C).Therefore,fromthestress–strainplotinFigure 4C,
+it is evident that the softening from Young’s modulus of 2.11–
+0.26 MPa and a tenfold increase in tensile strain at break is due
+tothePnBAchainextension.Notably,itisadvantageoustosub-
+jectthetransformednetwork,LIL-PnBAafterthechainextension
+toirradiationbysandwichingbetweentwoglassslidesforfurther
+reconﬁguration (details in the Supporting Information). For ex-
+ample,theas-synthesizedLIL-PnBAnetwork(irradiationfor8h)
+withoutadditionalreconﬁgurationrevealedYoung’smodulusof
+0.19MPa(TableS5,SupportingInformation),slightlylowerthan
+thesamplepostfurtherreconﬁgurationafterchainextension( E
+=0.26MPa,Table S4,SupportingInformation).Thedecreasein
+Young’s modulus of the as-synthesized network is attributed to
+the inhomogeneity of the network after chain growth, but fur-
+therirradiationreducesthedefectsandtherebyresultsinhigher
+modulus. In addition, the LIL-PnBA network was also healable
+by sandwiching the broken specimen between glass slides un-
+der irradiation (TableS5, Supporting Information). These char-
+acteristicsunderscorethe“living”propertiesoftheLILpolymer
+network and LIL-PnBA network arising from the dynamic CTD
+linkages.
+3.Conclusion
+In this study, we synthesized carbazole-based thiuram disul-
+ﬁdes(CTDs),highlightingtheirextraordinaryreactivityforrapid
+reshuﬄingundervisiblelightirradiationandunderscoringtheir
+critical role as iniferters of photopolymerization. Taking advan-
+tageofthesedynamicbonds,wesuccessfullyobtainedavisible-
+light-induced living polymer network. This unique network
+showcases a notable light-responsive characteristic that facili-
+tatesfastreconﬁgurationuponexposuretovisiblelight,thereby
+enabling photoinduced shape-shifting and multiple rounds of
+healing with retained mechanical properties. In addition, utiliz-
+ing CTDs as a visible-light iniferter, the LIL polymer network
+can undergo chain growth with nBA, providing a robust plat-
+form for the modulation of the network’s mechanical proper-
+ties on demand. While our investigation primarily focuses on
+the reconﬁguration and chain growth with only one monomer
+of the LIL polymer network, it is essential to underline the
+broader reactivity of the thiuram disulﬁdes, encompassing ther-
+mal dissociation,[54–55] C(sp2)-S coupling,[56] and antibacterial
+eﬀects.[57] These aspects suggest a vast potential for spawning a
+diversearrayofinnovativethiurampolymernetworksexhibiting
+“living” behavior in response to various environmental stimuli.
+Consequently, we posit that further exploration into the reactiv-
+ityofdiﬀerentdynamicbondswithinpolymernetworkswillun-
+doubtedly pave the way for unveiling new applications for light-
+induced living polymer networks with adaptive multifunctional
+properties.
+SupportingInformation
+SupportingInformationisavailablefromtheWileyOnlineLibraryorfrom
+theauthor.
+Acknowledgements
+ThisresearchwasﬁnanciallysupportedbytheCenterfortheChemistryof
+Molecularly Optimized Networks (MONET), a National Science Founda-
+tion (NSF) Center for Chemical Innovation (No. CHE-2116298). O.G. ac-
+knowledgedtheNIGMSNIH(No.R35GM137797)andtheWelchFounda-
+tion(No.A-2102-20220331)forfundingandTexasA&MUniversityHPRC
+resources (https://hprc.tamu.edu). J.C.H. wassupported by the National
+Science Foundation Graduate Research Fellowship Program (Grant No.
+DGE-2036197).S.W.thankedXinGaoformeasuringtheirradianceofthe
+lampusedinthisstudy.
+ConﬂictofInterest
+Theauthorsdeclarenoconﬂictofinterest.
+AuthorContributions
+S.W. and J.S.-J. contributed equally to this work. S.W., A.N., and L.M.C.
+conceivedtheprojectanddesignedtheexperiments.S.W.andE.M.C.syn-
+thesized the small molecules and S.W. prepared the polymer networks.
+S.W.andJ.S.-J.conductedthetensiletests.J.S.-J.andR.C.B.collectedthe
+rheometric data. R.F.L. performed DFT computation under the supervi-
+sionofO.G.J.C.H.andN.A.M.performedtheEPRmeasurements,super-
+visedbyL.E.M.D.C.,andS.P.O.D.providedtheoreticalsupportunderthe
+guidanceofM.R.S.W.andJ.S.-J.wrotethemanuscript,withcontributions
+fromallauthors.Allauthorshavegivenapprovaltotheﬁnalversionofthe
+manuscript.
+DataAvailabilityStatement
+Thedatathatsupporttheﬁndingsofthisstudyareavailablefromthecor-
+respondingauthoruponreasonablerequest.
+Keywords
+covalent adaptable networks, dynamic covalent polymer networks, living
+polymer networks, photopolymerization, photoresponsive polymers, thi-
+urams,self-healingpolymers
+Received:December20,2023
+Revised:March27,2024
+Publishedonline:April19,2024
+[1] A.Rahimi,J.M.García, Nat. Rev. Chem.2017,1,0046.
+[2] F .M.Haque,J.S.Ishibashi,C.A.Lidston,H.Shao,F .S.Bates,A.B.
+Chang, G. W. Coates, C. J. Cramer, P. J. Dauenhauer, W. R. Dichtel,
+Chem. Rev.2022,122,6322.
+[3] N.Zheng,Y.Xu,Q.Zhao,T.Xie, Chem. Rev.2021,121,1716.
+[4] C. J. Kloxin, T. F. Scott, B. J. Adzima, C. N. Bowman,Macromolecules
+2010,43,2643.
+[5] J.Zhao,Z.Zhang,C.Wang,X.Yan, CCS Chem.2024,6,41.
+[6] D.Habault,H.Zhang,Y.Zhao, C h e m .S o c .R e v .2013,42,7244.
+[7] V.X.Truong,C.Barner-Kowollik, Trends Chem.2022,4,291.
+[8] S.Chatani,C.J.Kloxin,C.N.Bowman, Polym. Chem.2014,5,2187.
+[9] R.J.Wojtecki,M.A.Meador,S.J.Rowan, Nat. Mater.2011,10,14.
+[10] Y.Yu,M.Nakano,T.Ikeda, Nature2003,425,145.
+[11] A.Lendlein,H.Jiang,O.Jünger,R.Langer, Nature2005,434,879.
+[12] C.-M. Chung, Y.-S. Roh, S.-Y. Cho, J.-G. Kim,Chem. Mater.2004, 16,
+3982.
+Adv. Mater.2024,36,2313961 ©2024Wiley-VCHGmbH2313961(8of9)
+ 15214095, 2024, 26, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202313961 by Yale University, Wiley Online Library on [18/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 9 =====
+www.advancedsciencenews.com www.advmat.de
+[13] T.F.Scott,A.D.Schneider,W.D.Cook,C.N.Bowman, Science2005,
+308,1615.
+[14] Y. Amamoto, J. Kamada, H. Otsuka, A. Takahara, K. Matyjaszewski,
+Angew. Chem., Int. Ed.2011,50,1660.
+[15] Y. Amamoto, H. Otsuka, A. Takahara, K. Matyjaszewski,Adv. Mater.
+2012,24,3975.
+[16] S.Ida,R.Kimura,S.Tanimoto,Y.Hirokawa, Polym. J.2017,49,237.
+[17] S.Ji,W .C ao,Y .Y u,H.Xu,Adv. Mater.2015,27,7740.
+[18] M. B. Gordon, J. M. French, N. J. Wagner, C. J. Kloxin,Adv. Mater.
+2015,27,8007.
+[ 19] S.Ji,F .F an,C.Sun,Y .Y u,H.Xu,ACS Appl. Mater. Interfaces2017, 9,
+33169.
+[20] A. Bagheri, C. Bainbridge, J. Jin,ACS Appl. Polym. Mater.2019, 1,
+1896.
+[21] C. W. A. Bainbridge, A. Wangsadijaya, N. Broderick, J. Jin,Polym.
+Chem.2022,13,1484.
+[22] C.Liu,Z.Fan,Y.Tan,F.Fan,H.Xu, Adv. Mater.2020,32,1907569.
+[23] C. J. Kloxin, T. F. Scott, H. Y. Park, C. N. Bowman,Adv. Mater.2011,
+23,1977.
+[24] B. D. Fairbanks, S. P. Singh, C. N. Bowman, K. S. Anseth,Macro-
+molecules2011,44,2444.
+[25] B. T. Michal, C. A. Jaye, E. J. Spencer, S. J. Rowan,ACS Macro Lett.
+2013,2,694.
+[26] D. M. Love, B. D. Fairbanks, C. N. Bowman,Macromolecules 2020,
+53,5237.
+[27] M.Chen,M.Zhong,J.A.Johnson, Chem. Rev.2016,116,10167.
+[28] J. Wong, S. Wei, R. Meir, N. Sadaba, N. A. Ballinger, E. K. Harmon,
+X.Gao,G.Altin-Yavuzarslan,L.D.Pozzo,L.M.Campos, Adv.Mater.
+2023,35,2207673.
+[29] C. Ash, M. Dubec, K. Donne, T. Bashford,Lasers Med. Sci2017, 32,
+1909.
+[30] H.Zhou,J.A.Johnson, Angew. Chem., Int. Ed.2013,52,2235.
+[31] S. Shanmugam, J. Cuthbert, J. Flum, M. Fantin, C. Boyer, T.
+Kowalewski,K.Matyjaszewski, Polym. Chem.2019,10,2477.
+[32] M. Chen, Y. Gu, A. Singh, M. Zhong, A. M. Jordan, S. Biswas, L. T.
+Korley,A.C.Balazs,J.A.Johnson, ACS Cent. Sci.2017,3,124.
+[33] W.Li,S.Lu,M.Zhao,X.Lin,M.Zhang,H.Xiao,K.Liu,L.Huang,L.
+Chen,X.Ouyang, Polymers2018,10,1392.
+[34] T.Otsu,M.Yoshida, Makromol.Chem.,RapidCommun. 1982,3,127.
+[35] T.Otsu,M.Yoshida,A.Kuriyama, Polym. Bull.1982,7,45.
+[36] T.Otsu, J. Polym. Sci., Part A: Polym. Chem.2000,38,2121.
+[37] P. Lambrinos, M. Tardi, A. Polton, P. Sigwalt,Eur. Polym. J.1990, 26,
+1125.
+[ 3 8 ] S .K a m a r u l z a m a n ,Z .M .P n g ,E .Q .L i m ,I .Z .L i m ,Z .L i ,S .S .G o h ,
+Chem2023,9,2771.
+[39] Y.M.Li,Z.P.Zhang,M.Z.Rong,M.Q.Zhang, Adv.Mater. 2023,35,
+2211009.
+[40] P. Commins, H. Hara, P. Naumov,Angew. Chem., Int. Ed.2016, 55,
+13028.
+[41] R. Steudel, Y. Steudel, A. M. Mak, M. W. Wong,J. Org. Chem.2006,
+71,9302.
+[42] F.M.Bickelhaupt,K.N.Houk, Angew.Chem.,Int.Ed. 2017,56,10070.
+[43] S.E.Wheeler, J. Am. Chem. Soc.2011,133,10262.
+[44] S.E.Wheeler, Acc. Chem. Res.2013,46,1029.
+[45] C.Fernandez,A.Reviejo,L.Polo,J.Pingarron, Talanta1996,43,1341.
+[46] A.Tarpanova,S.Malik,D.Lichtman,Y.Wallach,J.A.Mukhlall,W.H.
+Hersh,Tetrahedron2023,134,133302.
+[47] N. Kobayashi, A. Osawa, H. Kimoto, Y. Hayashi, K. Shimizu, T.
+Fujisawa,J. Polym. Sci., Polym. Chem. Ed.1977,15,39.
+[48] M.Rubinstein,A.N.Semenov, Macromolecules1998,31,1386.
+[49] M.J.Webber,M.W.Tibbitt, Nat. Rev. Mater.2022,7,541.
+[50] V.Zhang,B.Kang,J.V.Accardo,J.A.Kalow, J. Am. Chem. Soc.2022,
+144,22358.
+[51] R.J.Sheridan,C.N.Bowman, Macromolecules2012,45,7634.
+[52] A.N.Semenov,M.Rubinstein, Macromolecules1998,31,1373.
+[53] M.Hartlieb, Macromol. Rapid Commun.2022,43,2100514.
+[54] P.Nichols,M.Grant, A u s t .J .C h e m .1983,36,1379.
+[55] C.R.Nair,G.Clouet,P.Chaumont, J.Polym.Sci.,PartA:Polym.Chem.
+1989,27,1795.
+[56] Z.-B.Dong,X.Liu,C.Bolm, Org. Lett.2017,19,5916.
+[57] Y.-x. Xu, Y.-y. Huang, R.-r. Song, Y.-l. Ren, X. Chen, C. Zhang, F. Mao,
+X.-k.Li,J.Zhu,S.-s.Ni, Eur. J. Med. Chem.2020,203,112500.
+Adv. Mater.2024,36,2313961 ©2024Wiley-VCHGmbH2313961(9of9)
+ 15214095, 2024, 26, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202313961 by Yale University, Wiley Online Library on [18/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

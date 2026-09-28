@@ -1,0 +1,628 @@
+
+
+===== PDF PAGE 1 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim wileyonlinelibrary.com (1 of 6) 1606509
+Photoinduced Plasticity in Cross-Linked Liquid 
+Crystalline Networks
+Matthew K. McBride, Matthew Hendrikx, Danqing Liu, Brady T. Worrell, Dirk J. Broer, 
+and Christopher N. Bowman*
+M. K. McBride, Dr. B. T. Worrell, Prof. C. N. Bowman
+Department of Chemical and Biological Engineering
+University of Colorado Boulder
+Campus Box 596, CO 80309, USA
+E-mail: christopher.bowman@colorado.edu
+M. Hendrikx, Dr. D. Liu, Prof. D. J. Broer
+Department of Chemical Engineering and Chemistry
+Technische Universiteit Eindhoven
+P.O. Box 513, 5600 MB, Eindhoven, The Netherlands
+DOI: 10.1002/adma.201606509
+stabilized alignment of LCNs in response 
+to an external stimuli, following net-
+work polymerization. Two stage reaction 
+schemes have been employed to control 
+alignment
+[5] and mechanical properties, [4] 
+but often require complex reaction condi-
+tions and are limited in the alignment con-
+trol that is programmed. Azobenzene has 
+been extensively used to transiently disrupt 
+the alignment; however, this approach does 
+not covalently alter the poly mer network.
+[6,7] 
+We contend that large postpolymerization 
+changes in the LC alignment will readily be 
+accomplished by permanently altering the 
+covalent connectivity that is otherwise fixed 
+during photopolymerization. To this end, 
+we propose the addition of a dynamic linkage within the LCN, 
+capable of spatially responding to external stimuli, such as light, 
+and stochastically rearranging the covalent connectivity.
+While implemented broadly in non-LC networks,
+[8,9] the 
+addition of stimuli responsive dynamic cross-links has largely 
+remained unexplored in the realm of LCNs. Pioneering studies, 
+regarding the thermal dynamics of liquid crystalline net-
+works utilizing transesterification (alcohol/ester),
+[10] have been 
+reported; however, due to thermal initiation of the dynamic 
+behavior, only bulk changes in the polymer could be made. More 
+importantly, because of the thermal nature of the process, the 
+dynamic exchange could not be decoupled from the LC phase 
+behavior and structure. Thus, thermally stable changes to the 
+LCN could not be achieved. Additionally, the stimulus driving 
+disruption is inherently linked to the bond exchange process, 
+effectively decreasing control over the alignment, postpolym-
+erization. If these processes were separated, then the stimuli 
+responsive alignment of the LCN would be tunable, separately 
+from the bond exchange dynamics, enabling wide-ranging con-
+trol over the alignment and related properties. With these restric-
+tions in mind, we set out to incorporate a functional group, 
+capable of dynamic exchange, which possesses rapid kinetics 
+and enables spatial resolution, which is, ideally, dynamic only 
+when exposed to light. Allyl sulfides, when exposed to radicals, 
+undergo a rapid reversible addition fragmentation chain-transfer 
+(RAFT) reaction, thus, relaxing stress in otherwise elastic  
+polymer networks. This process occurs as depicted in Figure 1,  
+where a radical species adds to an allyl sulfide moiety on the 
+backbone that can then fragment, reforming an allyl sulfide 
+and a thiyl radical. When photoinitiators, or molecules that con-
+vert into radicals upon exposure to light, are used as the radical 
+source, the bond exchange is termed photoinduced plasticity.
+[8] 
+Photoactivated reversible addition fragmentation chain transfer (RAFT)-based 
+dynamic covalent chemistry is incorporated into liquid crystalline networks 
+(LCNs) to facilitate spatiotemporal control of alignment, domain structure, and 
+birefringence. The RAFT-based bond exchange process, which leads to stress 
+relaxation, is used in a variety of conditions, to enable the LCN to achieve a 
+near-equilibrium structure and orientation upon irradiation. Once formed, and 
+in the absence of subsequent triggering of the RAFT process, the (dis)order 
+in the LCN and its associated birefringence are evidenced at all temperatures. 
+Using this approach, the birefringence, including the formation of spatially pat-
+terned birefringent elements and surface-active topographical features, is selec-
+tively tuned by adjusting the light dose, temperature, and cross-linking density.
+Cross-linked polymer networks containing liquid crystalline 
+(LC) units, or liquid crystalline networks (LCN), offer a unique 
+degree of control over the macroscale shape and optical proper -
+ties of polymer films. The unique properties of these polymers 
+arise from the nanoscale alignment of LC aromatic groups 
+within the network polymer. Fabrication of ordered mono-
+domain LCNs is typically performed by surface alignment, 
+whereby an ordered surface, programmed by the practitioner, is 
+placed in contact with a liquid crystalline mixture, which spon-
+taneously self-assembles into an ordered ensemble, in response 
+to surface alignment. To preserve and irreversibly stabilize the 
+transient alignment of these monomers, network formation by 
+photopolymerization is then performed. Consequently, much 
+work in the field has concentrated on expanding the scope 
+and fidelity of these prepolymerization alignment processes, 
+which has heralded the formulation of responsive smart mate-
+rials with patterned domains, for stimuli responsive dynamic 
+surface topographies,
+[1] optical elements, [2] and shape-shifting 
+materials.[3,4]
+Despite such advances in the field, much less focus has been 
+placed on controlling, changing, or perturbing the covalently 
+Adv. Mater. 2017, 29, 1606509
+www.advancedsciencenews.com www.advmat.de
+
+===== PDF PAGE 2 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheimwileyonlinelibrary.com1606509 (2 of 6)
+This chemistry provides excellent spatial and temporal control 
+over dynamic behavior in the network, enabling permanent, irre-
+versible bond exchange and stress relaxation, without changing 
+the mechanical properties of the bulk polymer.
+[11] Allyl sulfides 
+in cross-linked polymers effectively provide a mechanism to 
+transiently reverse the otherwise irreversible process of forming 
+a polymer network, especially through photopolymerization.
+While photoinduced plasticity has been broadly implemented 
+in amorphous thermosets and photopolymers for a variety of 
+applications,[8,11,12] its implementation into anisotropic LCNs is 
+fundamentally distinct in enabling control, not only of stress 
+relaxation, but material organization, alignment, optics, and 
+mechanicals, in ways that are not possible in conventional iso-
+tropic thermosets. The added effect of bond arrangement on 
+the LC alignment increases the importance and impact of bond 
+rearrangement in the networks described in this work, where 
+this approach is shown to enable material transformations not 
+achievable by photoinduced plasticity in isotropic materials. We 
+hypothesize that perturbation of alignment following typical 
+fabrication techniques would allow one to induce local changes 
+in domain structure and birefringence in the LC polymer, thus 
+opening the door for the writing of permanent complex refrac-
+tive index patterns, images, and surface topographies, signifi-
+cantly advancing the techniques available to fabricate optically 
+and mechanically complex LCNs.
+LCNs differ from amorphous networks, in that, the anisot-
+ropy is stabilized in the LC phase, and disfavored in the iso-
+tropic phase. In loosely cross-linked elastomers, the LC phase 
+is accompanied by a large, anisotropic dimensional change, 
+as the mesogens within the polymer network transition from 
+anisotropic to isotropic. During the change in equilibrium 
+chain conformation, an internal stress will develop as the cova-
+lent cross-links resist the large-scale transition from aniso-
+tropic to isotropic structure, especially in a constrained system  
+Adv. Mater. 2017, 29, 1606509
+www.advancedsciencenews.comwww.advmat.de
+Figure 1. a) Schematic of radical mediated allyl sulfide bond exchange mechanism. The radicals were generated through light-facilitated cleavage of a 
+photoinitiator. b) Monomers used in this work. Allyl sulfides were incorporated into the LCN by oligomerization of the cross-linking diacrylate (1) via a 
+thiol-Michael addition, with acrylate excess. The oligomers were then added in a mixture with the monoacrylates, 3 (33 wt%) and 4 (44%), with a visible 
+(Irgacure 819, 1.5 wt%) and UV (Irgacure 651, 1 wt%) light sensitive photoinitiator, resulting in an alignable LC resin. c) The extent of alignment of the 
+LCN was spatially controlled by exposing (63 mW cm
+−2, 400 nm LED, 10 s) the aligned, polymerized network at elevated temperature, to initiate the allyl 
+sulfide exchange, thereby covalently stabilizing a disrupted LC alignment. d) Stress relaxed birefringence at room temperature at various rearrangement 
+conditions. Allyl sulfide rearrangement was initiated (365 nm LED, 50 mW cm
+−2, 15 min) at corresponding temperature followed by cooling to room 
+temperature where birefringence was measured. Oligomer stoichiometries (1:2) used for the cross-linker are given as 10:9 (), 4:3 (), and 2:1 ().
+ 15214095, 2017, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.201606509 by Massachusetts Institute of Technolo, Wiley Online Library on [01/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 3 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim wileyonlinelibrary.com (3 of 6) 1606509
+(i.e., in an LC cell, or as a surface coating). Allyl sulfides present 
+a route to release this stress, by enabling the polymer chains 
+to adopt a new equilibrium conformation that corresponds to 
+externally applied conditions (e.g., temperature). We demon-
+strate this approach in Figure 1 where anisotropy programmed 
+before polymerization is altered afterwards by using tempera-
+ture to generate an internal stress that is relaxed during allyl 
+sulfide rearrangement, as the polymer chains adopt a new equi-
+librium conformation. The light induced bond rearrangement 
+facilitates erasing of birefringence to an isotropic state, which, 
+upon cooling, becomes polydomain. A video showing a time 
+course of the light-induced phase transition is included in the 
+Supporting Information. A simple demonstration of selectively 
+decreasing the order is also shown in Figure 1 by irradiating 
+a square (400 nm light emitting diode (LED), 125 mW cm
+−2, 
+30 s) at 120 °C, into an aligned RAFT-LCN, producing an area 
+that has a lower birefringence than the surrounding area. Since 
+the concentration of radicals and the equilibrium LC state are 
+critical to enabling the rearrangement, the birefringence after 
+stress relaxation depends on the temperature and light dose. 
+This dependence on controllable attributes enables manipula-
+tion of the location and magnitude of the birefringence, as well 
+as surface topography in aligned LCNs.
+Since the stress relaxation and alignment depend on the 
+underlying material properties, the chemistry used to incorpo-
+rate and implement the RAFT linkage is important to elucidating 
+the mechanism. Given that many commercial LC monomers 
+employ multifunctional acrylates, a simple two-stage reaction/
+polymerization sequence was employed to form the LC net-
+works: first, a thiol-Michael oligomerization was used to add 
+the allyl sulfide as a chain extender into the RM82 diacrylate; 
+followed by radical-mediated homopolymerization of the oli-
+gomeric acrylic chain ends, in the presence of a monoacrylate, 
+to form the functional LCN (Figure 1a). In this basic formula-
+tion, two types of photoinitiators are used; one which fragments 
+upon exposure to visible light, which is used to homo polymerize 
+the acrylates and form the ordered network, and one which is 
+active only upon UV exposure, providing the necessary radical 
+source for the allyl sulfide rearrangement. During photopoly-
+merization, the acrylates are consumed rapidly; however, the 
+allyl sulfides remain largely unconsumed, effectively conserving 
+this functionality for the desired rearrangement upon second 
+exposure (Figure S1, Supporting Information). Using differing 
+stoichiometric ratios (10:9, 4:3, and 2:1) of acrylate (1) to thiol (2), 
+we obtained three oligomers with varying lengths, as confirmed 
+by 
+1H-NMR (Figure S2, Supporting Information). The oligomer 
+length was found to greatly determine the mechanical and phase 
+transition properties of the final LCN, with the most notable 
+differences being observed in the phase transition. The differ -
+ential scanning calorimetry (DSC)-measured phase transition 
+decreased as the oligomer size increased, and the phase transi-
+tion in formulations with the shortest oligomers was not meas-
+urable in the temperature range of the experiment (Figure S3,  
+Supporting Information). Previous work, particularly that of 
+Broer et al.,
+[13] has corroborated this finding, where more highly 
+cross-linked formulations do not show pronounced phase 
+transitions.
+Although a phase transition is apparent in DSC, the LCN 
+does not become completely isotropic above this temperature 
+due to restrictions associated with the cross-links, and this 
+behavior has been previously termed paranematic.
+[14] Birefrin-
+gence is easily observable between crossed polarizers because 
+the color seen is correlated to the degree of alignment in planar 
+nematic systems, and can be quantified to obtain the difference 
+in the refractive index along each axis (Δn). Thermal cycling of 
+the network, even up to 200 °C (two cycles, held at this tempera-
+ture for 5 min), does not erase birefringence, as is expected in a 
+cross-linked network; however, light exposure that initiates the 
+allyl sulfide-based rearrangement, enables a rapid transition to 
+an isotropic state above the DSC phase transition, and enables 
+control over the final birefringence at ambient temperature.
+The birefringence (a measure of order in the LCN) observed 
+at high temperatures, in our initially aligned samples, is only 
+perturbed if the RAFT process is turned “ON” with the genera-
+tion of radicals, while the sample is at an elevated temperature. 
+If the allyl sulfide chain extender is replaced with an analogous 
+propane dithiol—a cross-link which is incapable of any bond 
+exchange processes—the birefringence remains largely intact, 
+even when the same experiment is repeated at 160 ° C (365 nm 
+LED, 50 mW cm
+−2). This control experiment implies that the 
+allyl sulfide linkage and the corresponding RAFT behavior are 
+integral to the process that allows the liquid crystals to become 
+spatially isotropic, when exposed to light at elevated temperatures 
+(Figure S4, Supporting Information). Furthermore, complete 
+erasing of birefringence, and stabilizing of this change, would 
+only be possible if the network only temporarily becomes viscous. 
+Side reactions leading to increased cross-linking density would 
+not erase the already formed network; while, events that lead to 
+decreased cross-linking density would lead to birefringence pat-
+terns that are not stable after repeated cycles (i.e., uncross-linked 
+material). Therefore, we conclude that allyl sulfide rearrange-
+ment is the driving force behind the drastic change in alignment.
+When temperatures below the expected LC transition 
+(>120 °C) are utilized during stress relaxation, lower order in 
+the irradiated area is noted, but complete loss of birefringence 
+is not observed (Figure 1). After large doses that consume all 
+the residual photoinitiator (50 mW cm
+−2, 365 nm LED, 15 min), 
+the system reaches a final stress relaxed state, where the bire-
+fringence, measured at room temperature, correlates to the 
+temperature at which the stress relaxation was initiated. The 
+post-stress relaxation, Δn, for various exposure temperatures is 
+presented in Figure 1c, and resembles the birefringence versus 
+temperature graph of a low molecular weight liquid crystal, 
+where most of the decrease in birefringence occurs close to the 
+phase transition. It is notable that the phase transition behavior 
+is consistent with the DSC and thermal birefringence measure-
+ments. In more loosely cross-linked systems (10:9, 4:3), expo-
+sures done closer to the phase transition result in lower birefrin-
+gence. The most highly cross-linked system (2:1) does not show 
+a strong phase transition and, accordingly, is minimally affected 
+by exposure temperature.
+Additionally, a strong dependence on dose is observed 
+(Figure 2); such a result is expected as traditional stress relax-
+ation follows an exponential decay that is dose dependent. 
+The final stress relaxed state appears to be reached after high 
+doses of light that consume all the residual photoinitiator.
+[8] 
+Decreasing the cross-linker length slows down the pro-
+cess, likely due to the higher cross-linking density that limits 
+Adv. Mater. 2017, 29, 1606509
+www.advancedsciencenews.com www.advmat.de
+ 15214095, 2017, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.201606509 by Massachusetts Institute of Technolo, Wiley Online Library on [01/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 4 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheimwileyonlinelibrary.com1606509 (4 of 6)
+mobility, and the fewer RAFT-capable functional groups in each 
+effective cross-link. The dose dependence at different tempera-
+tures is alternatively visualized by writing a gray scale image 
+onto the LCN (Figure S5, Supporting Information).
+Leaning on this highly tunable control over alignment, a 
+series of optical images were written into the birefringence of 
+a monolithically aligned LCN (Figure 2). By exposing the image 
+of a buffalo at three different temperatures (100, 110, and 
+120 °C, with 63 mW cm
+−2, 400 nm LED, 5 s), the image appears 
+in the birefringence as different shades of color; however, it 
+only can be seen in bright field, when the mismatch in ani-
+sotropy in the unexposed and exposed region generates stress 
+that turns the image being transmitted from opaque to light. 
+We hypothesize that the observed light scattering could arise 
+from a combination of one or two factors; namely, the exposed 
+areas becoming polydomain and/or the anisotropic stresses 
+generating a buckled surface texture. The images appear in 
+bright field during cooling in order of increasing exposure 
+temperature, with the image expected to have the lowest order 
+(exposed at 120 °C) appearing first. All images are stable for 
+multiple thermal cycles and little observable change is noted in 
+the image over time, or with thermal cycling. Moreover, such 
+images are indefinitely preserved by flood irradiation of the 
+sample at room temperature, thus, nonproductively consuming 
+the remaining photoinitiator in the bulk. This allyl sulfide 
+approach to controlling birefringence, which produces opti-
+cally clear samples, has the added advantage of not containing 
+azobenzene, which is often used for creating photoactive LCs, 
+but imparts an undesirable yellow color.
+We have further translated RAFT-LCN formulations to sur -
+face coatings, building on previous work that demonstrated the 
+disruption of LC order, to generate dynamic surface features by 
+Liu and Broer.
+[15] In this work, the authors decreased the order 
+parameter by light facilitated isomerization of azobenzene, 
+causing a relatively large mechanical response, usually around 
+10% of the coating thickness in glassy LCNs.
+[7] Unique surface 
+changes, enabled by the underlying LC alignment, have been 
+realized, such as smooth to rough, hydrophobic to hydrophilic, 
+and high friction to low friction. Accordingly, using the simplest 
+alignment (planar nematic) in a 1 µm thick film, we are able 
+to generate permanent surface features that emerge from the 
+surface. Utilizing a simple photomask and irradiating (365 nm, 
+50 mW cm
+−2, 30 s) the coating at a temperature approaching, 
+or above, the phase transition (60–140 °C), we have the ability 
+to spatially and substantially change the order parameter of the 
+LCN upon exposure to light, and, from that, have made features 
+up to 40% of the coating thickness, when the rearrangement 
+is done above the LC transition temperature (Figure 3). The 
+feature height measured at 25 °C, which is dependent on the 
+rearrangement conditions, ranges from 40, 120, and 400 nm, 
+as determined utilizing digital holographic microscope (DHM) 
+at exposure temperatures of 60, 100, and 140 °C, respectively.
+[16] 
+During rearrangement, we hypothesize that the stabilized 
+planar alignment is disrupted, and liquid crystals are pushed 
+out of plane to relax stress. Reduction in the planar alignment, 
+coupled with mismatch in anisotropy, then gives rise to feature 
+generation as the surface is cooled down (Figure 3).
+There is anisotropy in the topography of the areas that have 
+been exposed. The tops of the circular features have a saddle 
+shape that is perpendicular to the alignment of the sample, 
+potentially attributed to the anisotropic stress that develops at 
+the interface. An anisotropic surface topography is also observed 
+when a larger area is exposed, where wrinkles form with direc-
+tionality that is perpendicular to the alignment. The interface 
+perpendicular to the alignment is taller than the wrinkles fur -
+ther from the interface, presumably from stress at the interface. 
+These surface topographies arise due to the stresses that develop 
+Adv. Mater. 2017, 29, 1606509
+www.advancedsciencenews.comwww.advmat.de
+Figure 2. a) The extent to which the alignment is disrupted is dependent 
+on light dose. This enables continuous control over birefringence. The top 
+graph represents the formulation made with 10:9, and bottom graph repre-
+sents 4:3 cross-linker. The dynamics are nearly temperature independent, 
+with 90 °C (), 110 °C (⬟), 120 °C (◤), and 140 °C (
+), all reaching 
+the equilibrium birefringence at similar doses. b) Bright field (left) and 
+cross-polarized (right) images, showing three buffalos, irradiated (400 nm 
+LED, 63 mW cm
+−2, 5 s) at 100, 110, and 120 °C (left to right). The buffalo 
+appears in bright field upon cooling (images taken at 100, 78, 65, and  
+25 °C, from top to bottom) as the mismatch between the anisotropy gener-
+ates stress. The buffalo is always visible through cross polarization above 
+the temperature they disappear in bright field. All scale bars are 100 µm.
+ 15214095, 2017, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.201606509 by Massachusetts Institute of Technolo, Wiley Online Library on [01/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 5 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim wileyonlinelibrary.com (5 of 6) 1606509
+during cooling, because the thermal expansion of the rearranged 
+and unperturbed regions will be drastically different. These 
+hierarchical features are manifestations of the underlying disrup-
+tion of molecular alignment, which enables surfaces patterns to 
+be designed, with the aid of the underlying molecular alignment.
+Photoinduced plasticity—a unique paradigm in cross-linked 
+polymers that allows for spatial, temporal, and highly resolved 
+control over local areas of stress—has been successfully 
+extended here into LCN systems. Building upon the phenom-
+enon that LCNs generate internal stress when heated, photoin-
+duced plasticity was utilized to relax the stress, by reorganizing 
+the polymer network and stabilizing a different LC alignment. 
+The combination of LCNs and our unique RAFT system offers 
+insight into LCN behavior close to the phase transition, and 
+how stress relaxation occurs in anisotropic polymers. The tem-
+perature and cross-linking density dictates the equilibrium 
+alignment, and above the LC phase transition the network 
+becomes completely isotropic. Stress relaxation in self-assem-
+bling systems has yet to be extensively studied; RAFT-LCNs 
+present a highly controllable and effective approach to probe 
+elastic/plastic transitions in LCNs, while also probing funda-
+mental stress relaxation mechanisms.
+Control over birefringence enables complex and thermo-
+reversibly appearing images to be written into material, along 
+with formation of well-resolved surface topography formation, 
+following network formation. This work describes a platform 
+technology for enabling the study and implementation of pho-
+toactivated bond exchange chemistry in ordered LCNs. Decou-
+pling the bond exchange process and LC phase properties rep-
+resents a powerful approach to create materials responsive to 
+a wide array of external stimuli; including mechanical, photo, 
+and thermal. In addition with photostimulated bond exchange, 
+it is possible to modify the LCN alignment postpolymeriza-
+tion, and in a spatially controlled manner. RAFT-LCNs enable 
+spatial control over LC alignment, ranging from isotropic to 
+varying degrees of alignment that ultimately affect the shape 
+and optical properties. Other alignments, like homeotropic and 
+twisted nematic, will likely present unique responses as well. 
+Here, we have only demonstrated how RAFT-LCNs behave in 
+the confined geometries of cells and surfaces. Other geometries, 
+most notable of which are freestanding films that generate ther-
+moreversible shape changes, will present new opportunities for 
+introduction of this technology to irreversibly control alignment 
+postpolymerization. In summation, RAFT-LCNs as presented 
+here, open new opportunities to spatially and temporally control 
+alignment postpolymerization, significantly advancing the tech-
+niques and control available to fabricate increasingly complex 
+LCNs.
+Experimental Section
+Materials: Reactive mesogens, 1,4-di[4-(6-acryloyloxyhexyloxy)-
+benzoyloxy]-2-methylbenzene (RM82), 4-cyanophenol 4-(6-acryloy-
+loxyhexyloxy)benzoate (RM23), and 4-methoxyphenyl 4-[[6-(acryloyloxy)
+hexyl]oxy]benzoate (RM105), were purchased from Merck UK. 2-(N - 
+ethylperfluorooctanesulfonamido)ethyl methacrylate was purchased 
+from Acros Organics. 3-Chloro-2-chloromethyl-1-propene, potassium 
+ethyl xanthogenate, and ethylene diamine were purchased for Sigma-
+Aldrich. Polyimide AL1051 was purchased from JSR Corp. Liquid crystal 
+alignment cells were purchased from Instec Inc (Model LC2-5.0). All 
+chemicals were used as received.
+Synthesis of 2-Methylene-1,3-Propanedithiol: Allyl dithiol was synthesized 
+according to a previously reported method.
+[17] In a 250 mL round-bottom 
+flask equipped with a magnetic stir bar, 5.00 g (4.63 mL, 40 mmol, 
+1.00 equiv) of 3-chloro-2-chloromethyl-1-propene and 14.11 g (88.0 mmol, 
+2.2 equiv) of potassium ethyl xanthogenate were dissolved into 130 mL of 
+absolute ethanol and stirred overnight at room temperature. After 16 h, the 
+reaction mixture was concentrated in vacuo and dissolved in ethyl ether 
+(200 mL). The organic phase was washed with water (3× , ≈100 mL) and 
+saturated brine (1×, ≈100 mL). The combined organics were dried over 
+Na
+2SO4, filtered, and concentrated in vacuo to give a nonviscous yellow 
+liquid that was used with no further purification in the next step.
+Into a three-necked, 50 mL round-bottomed flask, equipped with a 
+magnetic stir bar, an internal thermometer, and a 50 mL addition funnel, 
+5.00 g (16.89 mmol, 1 equivalent) of the previously obtained yellow 
+liquid was dripped slowly with caution, via an addition funnel, into a 
+stirring mixture of 8.4 mL (2 
+m) of ethylene diamine, maintaining the 
+internal temperature of the reaction below 30 °C. After addition of the 
+reactant was completed (30 min), the reaction was stirred for 4 h at 
+Adv. Mater. 2017, 29, 1606509
+www.advancedsciencenews.com www.advmat.de
+Figure 3. a) Schematic of surface feature generation in RAFT-LCN sur-
+face coatings. b) Surface topography seen through a DHM. The wrinkles 
+(in the irradiated area) run perpendicular to the alignment of the liquid 
+crystals, along the line labeled “Profile”. The wrinkled area was irradiated 
+at 140 °C for 5 min, with 50 mW cm
+−2. The height profile, shown below, 
+follows the white line. Scale bar is 100 µm. c) Hierarchical features are 
+generated when 365 nm, 50 mW cm
+−2 light is patterned through 20 µm 
+circles for 30 s. Different temperatures result in varying heights. The 
+images on the left and right were exposed at 140 and 100 °C, respectively.
+ 15214095, 2017, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.201606509 by Massachusetts Institute of Technolo, Wiley Online Library on [01/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 6 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheimwileyonlinelibrary.com1606509 (6 of 6)
+ Adv. Mater. 2017, 29, 1606509
+www.advancedsciencenews.comwww.advmat.de
+room temperature and slowly poured onto 200 g of ice mixed with 16 mL 
+of sulfuric acid in an Erlenmeyer flask, with rapid stirring. At this point, 
+extra care should be taken while handling, due to the foul odor of the 
+compound. The aqueous phase was extracted with ether (3×, 150 mL) 
+and the combined organics were washed with a 1 
+m aqueous solution of 
+hydrochloric acid (1×, ≈100 mL) followed by a saturated solution of brine 
+(1×, ≈100 mL). The organic phase was then dried over sodium sulfate, 
+filtered, and concentrated in vacuo to give a nonviscous, slightly yellow 
+liquid. The obtained oil was purified with vacuum distillation (1 mmHg, 
+80 °C) to give 1.9 g (40% yield, over two steps) of a foul smelling, 
+clear liquid. 
+1H NMR (400 MHz, chloroform-d, δ): 5.02 (p, J = 0.8 Hz, 
+2H), 3.38 (dt, J = 8.2, 0.7 Hz, 4H), 1.51 (d, J = 16.3 Hz, 2H). 13C NMR  
+(101 MHz, chloroform-d, δ): 147.39 , 113.32 , 28.15.
+Thiol-Michael Oligomerization of Cross-linker: Oligomerization of allyl 
+dithiol (2) and RM82 (1) was done via the thiol-Michael reaction. Below is 
+a representative synthetic procedure. To a 20 mL scintillation vial equipped 
+with a small magnetic stir bar, 1.00 g (1.49 mmol, 1.00 equivalent) of 
+RM82 (1), and 160 mg (1.34 mmol, 0.9 equivalent) of allyl dithiol (2) were 
+dissolved in 3 mL (0.5 
+m) of dichloromethane (DCM) at room temperature, 
+and 0.83 mL (0.60 g, 5.95 mmol, 4 equivalent) of triethylamine was added 
+in a single portion to initiate the reaction. The mixture was stirred for 3 h 
+at room temperature, after which an NMR aliquot of the reaction revealed 
+that the reaction had gone to completion. The reaction was diluted with 
+≈100 mL of DCM, placed into a separatory funnel, and washed with 1 
+n 
+HCl (1×, ≈50 mL), followed by washing with a saturated solution of brine 
+(1×, ≈50 mL). The combined organics were dried over sodium sulfate, 
+filtered, and concentrated in vacuo to give a white semisolid.
+End group analysis comparing the acrylate peaks to the allyl peak 
+resulted in M n of 7400, 2800, and 1400 g mol −1, for 10:9, 4:3, and 2:1, 
+respectively (see the Supporting Information for details).
+Polymerization in LC Cells: Oligomers (22 mg) were mixed with RM23 
+(3, 33 mg), RM105 (4, 44 mg), Irgacure 819 (1 mg), and Irgacure 651 (1 
+mg). The mixture was dissolved in DCM (600 mg LC monomer mixture/2 
+mL DCM) and deposited onto a glass slide at 100 °C. DCM was allowed 
+to thermally evaporate for 10 min with occasional stirring. Portions 
+of the dried LC monomer mixtures were deposited onto the opening 
+of premade 5.0 µm LC cells (antiparallel surface alignment, LC 2–5.0, 
+Instec, Inc.) via a Pasteur pipette, with the cell at 100 °C, and allowed 
+to fill by capillary flow. The resulting filled cells were slowly cooled to 
+50 °C and photopolymerized (100 mW cm
+−2, 3 min, 400–500 nm  
+filter, Hg bulb). Birefringence of the cells was measured using a Berek 
+compensator on an Olympus BX51. Typical rearrangement conditions 
+were preformed with a 365 nm LED (Thor Labs) at an intensity of either 
+50 or 5 mW cm
+−2, depending on the application. Images were projected 
+with a dynamic light projector (Mightex Polygon 400) integrated in a 
+Nikon Eclipse Ci microscope. The measured light intensity (100%) of 
+this device was 125 mW cm
+−2 from a 400 nm centered LED.
+Polymerization of LC Coatings: Surface-coated samples were prepared 
+by spin coating 170 mg mL −1 of the LC mixture in a tetrahydrofuran 
+solution onto a rubbed, polyimide-coated glass slide. The surfactant, 
+2-(N-ethylperfluorooctanesulfonamido) ethyl acrylate, was added to 
+stabilize planar alignment at the monomer–air interface. Spin coating 
+was done at 500–1500 rpm for 30 s. The sample was then heated to 
+40 °C under a nitrogen atmosphere and irradiated with 400–500 nm 
+light from a mercury bulb (Exfo, 100 mW cm
+−2, 3 min). This resulted 
+in coatings ≈1 µm thick with planar alignment that was confirmed with 
+a polarized optical microscope. Typical rearrangement was performed 
+under a nitrogen atmosphere in close contact with a photomask held just 
+above the coating. A 365 nm LED with 50 mW cm
+−2 intensity was used 
+to trigger rearrangement. The surfaces were characterized by a DHM 
+(Lyncée Tec equipped with Leica objectives). The achieved holograms 
+were processed with KOALA software supplied from Lyncée Tec. ImageJ 
+3D and Matlab was used to visualize the surface topographies.
+Supporting Information
+Supporting Information is available from the Wiley Online Library or 
+from the author.
+Acknowledgements
+The authors would like to acknowledge the support of this work by the 
+National Science Foundation (NSF) (DMR 1310528), NSF–Material 
+Research Science and Engineering Center (MRSEC) (DMR 1420736), 
+Netherlands Organization for Scientific Research (NWO) TOP-PUNT 
+10018944, 4TU.High-Tech Materials research program “New Horizons in 
+designer materials,” a fellowship from the National Science Foundation 
+Graduate Research Fellowship (NSF GRFP), and a fellowship from the 
+Department of Education Graduate Assistance in the Areas of National 
+Need (GAANN), in the area of functional materials. M.K.M. would like 
+to acknowledge Prof. Ivan Smalyukh for access to the microscope and 
+Dr. Christopher Yakacki for discussions.
+Received: December 1, 2016
+Revised: January 17, 2017
+Published online: February 24, 2017
+[1] a) D. Liu, C. W. M. Bastiaansen, J. M. J. den Toonder,  
+D. J. Broer, Angew. Chem., Int. Ed. 2012, 51, 892; b) D. Liu,  
+C. W. M. Bastiaansen, J. M. J. den Toonder, D. J. Broer, Macromol-
+ecules 2012, 45, 8005; c) D. Liu, D. J. Broer, Angew. Chem., Int. Ed. 
+2014, 53, 4542; d) D. Liu, D. J. Broer, Soft Matter 2014, 10, 7952.
+[2] a) T. Ikeda, O. Tsutsumi, Science 1995, 268, 1873; b) A. Urbas, 
+J. Klosterman, V. Tondiglia, L. Natarajan, R. Sutherland, 
+O. Tsutsumi, T. Ikeda, T. Bunning, Adv. Mater. 2004, 16, 1453.
+[3] K. A. Burke, P. T. Mather, J. Mater. Chem. 2010, 20, 3449.
+[4] T. H. Ware, M. E. McConney, J. J. Wie, V. P. Tondiglia, T. J. White, 
+Science 2015, 347, 982.
+[5] C. M. Yakacki, M. Saed, D. P. Nair, T. Gong, S. M. Reed,  
+C. N. Bowman, RSC Adv. 2015, 5, 18997.
+[6] a) H. Finkelmann, E. Nishikawa, G. G. Pereira, M. Warner, Phys. 
+Rev. Lett. 2001, 87, 015501; b) T. J. White, N. V. Tabiryan, S. V. Serak, 
+U. A. Hrozhyk, V. P. Tondiglia, H. Koerner, R. A. Vaia, T. J. Bunning, 
+Soft Matter 2008, 4, 1796.
+[7] D. Liu, C. W. M. Bastiaansen, J. M. J. den Toonder, D. J. Broer, 
+Macromolecules 2012, 45, 8005.
+[8] T. F. Scott, A. D. Schneider, W. D. Cook, C. N. Bowman, Science 
+2005, 308, 1615.
+[9] a) C. J. Kloxin, C. N. Bowman, Chem. Soc. Rev. 2013, 42, 7161; 
+b) S. J. Rowan, S. J. Cantrill, G. R. L. Cousins, J. K. M. Sanders,  
+J. F. Stoddart, Angew. Chem., Int. Ed. 2002, 41, 898; c) D. Montarnal, 
+M. Capelot, F. Tournilhac, L. Leibler, Science 2011, 334, 965;  
+d) Y . Amamoto, J. Kamada, H. Otsuka, A. Takahara, 
+K. Matyjaszewski, Angew. Chem. 2011, 123, 1698; e) B. T. Michal, 
+C. A. Jaye, E. J. Spencer, S. J. Rowan, ACS Macro Lett. 2013, 2, 694.
+[10] a) Z. Pei, Y . Yang, Q. Chen, E. M. Terentjev, Y . Wei, Y . Ji, Nat. Mater. 
+2014, 13, 36; b) T. Ube, K. Kawasaki, T. Ikeda, Adv. Mater. 2016, 28, 
+8212; c) K. Kawasaki, T. Ube, T. Ikeda, Mol. Cryst. Liq. Cryst. 2015, 
+614, 62; d) Y . Yang, Z. Pei, Z. Li, Y . Wei, Y . Ji, J. Am. Chem. Soc. 2016, 
+138, 2118; e) Z. Pei, Y . Yang, Q. Chen, Y . Wei, Y . Ji, Adv. Mater. 2016, 
+28, 156.
+[11] C. J. Kloxin, T. F. Scott, C. N. Bowman, Macromolecules 2009, 42, 2551.
+[12] a) C. J. Kloxin, T. F. Scott, H. Y . Park, C. N. Bowman, Adv. Mater. 
+2011, 23, 1977; b) T. F. Scott, R. B. Draughon, C. N. Bowman, Adv. 
+Mater. 2006, 18, 2128.
+[13] D. J. Broer, H. Finkelmann, K. Kondo, Die Makromol. Chem. 1988, 
+189, 185.
+[14] G. Cordoyiannis, A. Lebar, B. Zalar, S. Žumer, H. Finkelmann, 
+Z. Kutnjak, Phys. Rev. Lett. 2007, 99, 197801.
+[15] D. Liu, D. J. Broer, Liq. Cryst. Rev. 2013, 1, 20.
+[16] D. Liu, D. J. Broer, Proc. SPIE 2015, 9384, 938406.
+[17] R. A. Evans, E. Rizzardo, Macromolecules 2000, 33, 6722.
+ 15214095, 2017, 17, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/adma.201606509 by Massachusetts Institute of Technolo, Wiley Online Library on [01/05/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

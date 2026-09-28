@@ -1,0 +1,151 @@
+{
+  "article_id": "cans-2012-am-takahara-matyjaszewski-tds-healing",
+  "doi": "10.1002/adma.201201928",
+  "source_type": "user-provided screenshots",
+  "editorial_scope": "转录用户的三张文字截图；只调整标题编号、段落与公式排版，不改写笔记内容。PDF +1/+2 引用按钮及底部界面按钮不属于笔记正文。两张论文图片按原始字节复制，不重绘、不裁切、不声称为 400 dpi PDF 导出。",
+  "metadata_sources": [
+    "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.201201928",
+    "https://pubmed.ncbi.nlm.nih.gov/22730102/"
+  ],
+  "source_screenshots": [
+    "notes/amamoto-2012/user-notes-1.png",
+    "notes/amamoto-2012/user-notes-2.png",
+    "notes/amamoto-2012/user-notes-3.png"
+  ],
+  "figures": [
+    {
+      "label": "Scheme 1",
+      "source": "C:/Users/PRETTI~1/AppData/Local/Temp/codex-clipboard-7ca15dab-f8a0-4893-89bf-32837c49409d.png",
+      "output": "assets/cans-amamoto-2012-scheme1.png",
+      "sha256": "f896c4f3862603379db2b9a5c43eaedf4e87e5406c03f2a1b7b8b07fb0b5c53c",
+      "pixels": [
+        928,
+        321
+      ]
+    },
+    {
+      "label": "Figure 3",
+      "source": "C:/Users/PRETTI~1/AppData/Local/Temp/codex-clipboard-f2a23514-3e29-41e0-a68b-7fc0b176082a.png",
+      "output": "assets/cans-amamoto-2012-figure3.png",
+      "sha256": "51f8573a636b969192358d9e2991e849dc9ecf2d71c16af4e1fbbe0db1de292d",
+      "pixels": [
+        1154,
+        595
+      ]
+    }
+  ],
+  "original_segments": [
+    {
+      "type": "paragraph",
+      "text": "2012年发表在《Advanced Materials》上的这篇名为《Self-Healing of Covalently Cross-Linked Polymers by Reshuffling Thiuram Disulfide Moieties in Air under Visible Light》的论文，由 Yoshifumi Amamoto、Krzysztof Matyjaszewski 等人撰写。这篇文章主要介绍了一种新型的共价交联自愈合聚合物体系。"
+    },
+    {
+      "type": "paragraph",
+      "text": "以下是这篇论文的核心内容解读："
+    },
+    {
+      "type": "heading",
+      "text": "1. 研究背景与突破点"
+    },
+    {
+      "type": "paragraph",
+      "text": "在此之前，许多基于可逆共价键的自愈合材料往往需要强烈的外部刺激条件，例如加热、紫外线（UV）照射，或者需要在溶剂和惰性气体（无氧）环境中进行。这篇论文的重大突破在于，研究团队开发出了一种非常方便的材料，它只需要在室温、空气中、无溶剂的条件下，并且仅用普通的可见光（如家用台灯）照射就能实现宏观上的自我修复。"
+    },
+    {
+      "type": "heading",
+      "text": "2. 核心愈合机制"
+    },
+    {
+      "type": "paragraph",
+      "text": "这种自愈合能力源于一种特殊的化学结构：二硫化秋兰姆（Thiuram Disulfide, 简称 TDS）。"
+    },
+    {
+      "type": "list_item",
+      "text": "当 TDS 单元受到可见光照射时，其内部较弱的硫-硫（S-S）键会发生均裂（Homolytic cleavage），生成稳定的硫自由基。"
+    },
+    {
+      "type": "list_item",
+      "text": "这些生成的自由基并不怕氧气，它们可以通过“自由基转移（Radical Transfer）”或“自由基交叉反应（Radical Crossover）”进行动态的重组和交换（Reshuffling）。"
+    },
+    {
+      "type": "list_item",
+      "text": "当聚合物被切断并重新接触在一起时，可见光照射使得断裂面上的 TDS 单元不断断裂并生成新的共价键，从而跨越裂缝将两部分重新“缝合”成一个完整的网络。"
+    },
+    {
+      "type": "heading",
+      "text": "3. 材料设计"
+    },
+    {
+      "type": "paragraph",
+      "text": "为了让材料在室温下能够自我修复，聚合物链必须具备足够的流动性和运动能力。"
+    },
+    {
+      "type": "list_item",
+      "text": "研究人员将含有 TDS 的二醇（活性愈合单元）、四甘醇（TEG，提供柔性）、三乙醇胺（TEA，交联剂）和六亚甲基二异氰酸酯（HDI）混合进行缩聚，制备出一种主链含有 TDS 的交联聚氨酯。"
+    },
+    {
+      "type": "list_item",
+      "text": "这种聚合物具有很低的玻璃化转变温度（\\(T_g\\) 在 -50 °C 到 -34 °C 之间），确保了它在室温下处于高弹态，有利于链段在断裂界面处的穿透和重排。"
+    },
+    {
+      "type": "heading",
+      "text": "4. 关键实验结果"
+    },
+    {
+      "type": "list_item",
+      "text": "小分子模型验证：研究人员首先将两种不同的小分子 TDS 化合物混合。在可见光照射下，仅需 20 分钟两者就达到了完全的交换平衡，而在暗处则需要 210 分钟才能完成，这证明了可见光能极其有效地触发 TDS 键的动态交换。电子自旋共振（ESR）测试也成功检测到了生成的硫自由基。"
+    },
+    {
+      "type": "list_item",
+      "text": "肉眼可见的愈合效果：他们将圆柱状的聚合物切成两半，然后用手将切面压在一起保持 1 分钟，接着放在普通的台灯（14 W 可见光）下照射。24小时后，两块材料重新融为一体，表面的断裂痕迹基本消失，且在弯曲测试中能够保持完整不断裂。"
+    },
+    {
+      "type": "list_item",
+      "text": "机械性能的恢复：拉伸测试表明，刚刚贴合（0小时）的样品断裂伸长率只有 17%。但在光照 12 小时后，伸长率恢复到了 181%（原始未切割样品的断裂伸长率为 202%）。同时，杨氏模量在愈合前后基本保持一致（原始为 544 kPa，愈合24小时后为 612 kPa），说明内部的交联网络得到了实质性的重建。"
+    },
+    {
+      "type": "list_item",
+      "text": "光照与“暗愈合”：虽然完全在暗处愈合效率很低，但如果先用光照射一段时间激发自由基，然后再将其置于暗处，材料依然能成功愈合。这是因为这种硫自由基寿命较长，能在停止光照后继续进行动态重排。不过，如果样品切开后在空气中放置太长时间（比如 24 小时）再贴合，愈合效率会显著下降，可能是因为表面的自由基向内部迁移或失活。"
+    },
+    {
+      "type": "list_item",
+      "text": "网络成分的影响：实验还发现，如果没有 TDS 单元，材料完全无法愈合。此外，如果非活性连接单元（TEG）比例过高或者交联密度太大，材料会变得更脆、链段运动受限，最终导致自愈合效率大幅下降（例如高交联密度的样品 4d 愈合后断裂伸长率只能恢复到 22%）。"
+    },
+    {
+      "type": "heading",
+      "text": "总结"
+    },
+    {
+      "type": "paragraph",
+      "text": "这篇论文巧妙地利用了可见光触发二硫化秋兰姆（TDS）重组的特性，展示了如何通过平衡动态共价键和聚合物网络的交联密度，在极度温和、环保的条件（可见光、空气、室温）下实现块体材料的高效自我修复。"
+    },
+    {
+      "type": "heading",
+      "text": "聚合物网络结构设计"
+    },
+    {
+      "type": "list_item",
+      "text": "聚合物 4a：相邻交联点之间同时含有可发生光响应重组的动态单元 TDS (X) 和不反应的永久性单元 TEG (Y)，两者的组成比例为 1.2:1.8。"
+    },
+    {
+      "type": "list_item",
+      "text": "聚合物 4e：相邻交联点之间完全由动态响应单元 TDS 组成，其数量 (X) 为 3。"
+    },
+    {
+      "type": "heading",
+      "text": "流变学性能对比 (25 °C, 可见光照射)"
+    },
+    {
+      "type": "list_item",
+      "text": "图中测试了材料的储能模量（G′, 黑色圆点）和损耗模量（G″, 灰色三角形）随角频率（ω）的变化关系，用于评估材料在受力时的流动性。"
+    },
+    {
+      "type": "list_item",
+      "text": "聚合物 4a 的高弹固态特征 (图a)：在整个频率范围内，G′ 基本保持恒定（呈现橡胶平台区），且其数值远远高于 G″。这表明聚合物 4a 呈现出稳定的黏弹性固体行为，在小应力（线性区域）下不会发生流动。这种抗流动能力主要归功于较高比例的永久性 TEG 单元，且 TEG 还能通过氢键形成额外的弱交联点。"
+    },
+    {
+      "type": "list_item",
+      "text": "聚合物 4e 的易流动特征 (图b)：与 4a 不同，4e 的 G′ 随着角频率的增加而显著上升，并且 G′ 与 G″ 的数值非常接近。这表明完全由动态键构成的聚合物 4e 处于接近凝胶点（G′ ∼ G″）的状态，在应力作用下具有更高的流动性。"
+    }
+  ]
+}

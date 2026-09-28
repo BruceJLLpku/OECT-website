@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3600" height="2476" viewBox="0 0 3600 2476">
+<defs><linearGradient id="axisGradient" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4694D3"/><stop offset="1" stop-color="#DCE1E6"/></linearGradient></defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="70" y="110" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="62" font-weight="700" text-anchor="start">动态网络弛豫时间箭头图</text>
+<text x="72" y="170" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="29" font-weight="400" text-anchor="start">按特征时间由小到大排列；范围线表示光照、温度或配方改变造成的可调区间</text>
+<rect x="75" y="222" width="34" height="20" rx="10" fill="#3F8FD2"/>
+<text x="121" y="241" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="start">光照范围</text>
+<rect x="335" y="222" width="34" height="20" rx="10" fill="#E4872B"/>
+<text x="381" y="241" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="start">温度范围</text>
+<rect x="595" y="222" width="34" height="20" rx="10" fill="#8767C8"/>
+<text x="641" y="241" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="start">配方/封端范围</text>
+<rect x="855" y="222" width="34" height="20" rx="10" fill="#344054"/>
+<text x="901" y="241" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="start">单一条件</text>
+<rect x="1115" y="222" width="34" height="20" rx="10" fill="#199A8E"/>
+<text x="1161" y="241" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="start">局部 AFM</text>
+<rect x="1080" y="303" width="2250" height="53" fill="url(#axisGradient)"/>
+<polygon points="3330,291 3380,329 3330,368" fill="#DCE1E6"/>
+<text x="1102" y="340" fill="#FFFFFF" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="28" font-weight="700" text-anchor="start">快弛豫  Fast</text>
+<text x="3300" y="340" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="28" font-weight="700" text-anchor="end">慢弛豫  Slow</text>
+<line x1="1133.4883720930234" y1="362" x2="1133.4883720930234" y2="2131" stroke="#E5EAF1" stroke-width="2"/>
+<line x1="1133.4883720930234" y1="356" x2="1133.4883720930234" y2="373" stroke="#94A3B8" stroke-width="3"/>
+<text x="1133.4883720930234" y="401" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="middle">0.01</text>
+<line x1="1400.9302325581396" y1="362" x2="1400.9302325581396" y2="2131" stroke="#E5EAF1" stroke-width="2"/>
+<line x1="1400.9302325581396" y1="356" x2="1400.9302325581396" y2="373" stroke="#94A3B8" stroke-width="3"/>
+<text x="1400.9302325581396" y="401" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="middle">0.1</text>
+<line x1="1668.3720930232557" y1="362" x2="1668.3720930232557" y2="2131" stroke="#E5EAF1" stroke-width="2"/>
+<line x1="1668.3720930232557" y1="356" x2="1668.3720930232557" y2="373" stroke="#94A3B8" stroke-width="3"/>
+<text x="1668.3720930232557" y="401" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="middle">1</text>
+<line x1="1935.813953488372" y1="362" x2="1935.813953488372" y2="2131" stroke="#E5EAF1" stroke-width="2"/>
+<line x1="1935.813953488372" y1="356" x2="1935.813953488372" y2="373" stroke="#94A3B8" stroke-width="3"/>
+<text x="1935.813953488372" y="401" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="middle">10</text>
+<line x1="2203.255813953488" y1="362" x2="2203.255813953488" y2="2131" stroke="#E5EAF1" stroke-width="2"/>
+<line x1="2203.255813953488" y1="356" x2="2203.255813953488" y2="373" stroke="#94A3B8" stroke-width="3"/>
+<text x="2203.255813953488" y="401" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="middle">100</text>
+<line x1="2470.6976744186045" y1="362" x2="2470.6976744186045" y2="2131" stroke="#E5EAF1" stroke-width="2"/>
+<line x1="2470.6976744186045" y1="356" x2="2470.6976744186045" y2="373" stroke="#94A3B8" stroke-width="3"/>
+<text x="2470.6976744186045" y="401" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="middle">1k</text>
+<line x1="2738.139534883721" y1="362" x2="2738.139534883721" y2="2131" stroke="#E5EAF1" stroke-width="2"/>
+<line x1="2738.139534883721" y1="356" x2="2738.139534883721" y2="373" stroke="#94A3B8" stroke-width="3"/>
+<text x="2738.139534883721" y="401" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="middle">10k</text>
+<line x1="3005.581395348837" y1="362" x2="3005.581395348837" y2="2131" stroke="#E5EAF1" stroke-width="2"/>
+<line x1="3005.581395348837" y1="356" x2="3005.581395348837" y2="373" stroke="#94A3B8" stroke-width="3"/>
+<text x="3005.581395348837" y="401" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="middle">100k</text>
+<line x1="3273.0232558139533" y1="362" x2="3273.0232558139533" y2="2131" stroke="#E5EAF1" stroke-width="2"/>
+<line x1="3273.0232558139533" y1="356" x2="3273.0232558139533" y2="373" stroke="#94A3B8" stroke-width="3"/>
+<text x="3273.0232558139533" y="401" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="25" font-weight="400" text-anchor="middle">1M</text>
+<text x="2230.0" y="430" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="28" font-weight="700" text-anchor="middle">弛豫时间 / s（log scale）</text>
+<text x="70" y="478" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">ALYDS（AFM 局部）</text>
+<text x="590" y="478" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Lu/Zheng 2025</text>
+<text x="590" y="503" fill="#199A8E" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">488 nm 光/暗</text>
+<line x1="1154.6647518499462" y1="476" x2="1195.1200603686082" y2="476" stroke="#199A8E" stroke-width="10" stroke-linecap="round"/>
+<line x1="1154.6647518499462" y1="463" x2="1154.6647518499462" y2="489" stroke="#199A8E" stroke-width="5"/>
+<line x1="1195.1200603686082" y1="463" x2="1195.1200603686082" y2="489" stroke="#199A8E" stroke-width="5"/>
+<circle cx="1154.6647518499462" cy="476" r="7" fill="#FFFFFF" stroke="#199A8E" stroke-width="4"/>
+<circle cx="1195.1200603686082" cy="476" r="7" fill="#FFFFFF" stroke="#199A8E" stroke-width="4"/>
+<text x="1213.1200603686082" y="458" fill="#199A8E" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">约 12–17 ms</text>
+<rect x="55" y="508" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="541" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">gel-MA</text>
+<text x="590" y="541" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Zhang/Kalow 2023</text>
+<text x="590" y="566" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">固定条件</text>
+<circle cx="1622.2034102353255" cy="539" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="1640.2034102353255" y="521" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">0.672 s</text>
+<text x="70" y="604" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">CY-Net</text>
+<text x="590" y="604" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">El-Zaatari/Kalow 2020</text>
+<text x="590" y="629" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">150→100 °C</text>
+<line x1="1820.3330192272197" y1="602" x2="2094.7794030073815" y2="602" stroke="#E4872B" stroke-width="10" stroke-linecap="round"/>
+<line x1="1820.3330192272197" y1="589" x2="1820.3330192272197" y2="615" stroke="#E4872B" stroke-width="5"/>
+<line x1="2094.7794030073815" y1="589" x2="2094.7794030073815" y2="615" stroke="#E4872B" stroke-width="5"/>
+<circle cx="1820.3330192272197" cy="602" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<circle cx="2094.7794030073815" cy="602" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<text x="2112.7794030073815" y="584" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">3.7–39.3 s</text>
+<rect x="55" y="634" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="667" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">Marozas allyl-sulfide gel</text>
+<text x="590" y="667" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Marozas 2019</text>
+<text x="590" y="692" fill="#3F8FD2" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">365 nm 光强</text>
+<line x1="1975.7213905938806" y1="665" x2="2291.622288221295" y2="665" stroke="#3F8FD2" stroke-width="10" stroke-linecap="round"/>
+<line x1="1975.7213905938806" y1="652" x2="1975.7213905938806" y2="678" stroke="#3F8FD2" stroke-width="5"/>
+<line x1="2291.622288221295" y1="652" x2="2291.622288221295" y2="678" stroke="#3F8FD2" stroke-width="5"/>
+<circle cx="1975.7213905938806" cy="665" r="7" fill="#FFFFFF" stroke="#3F8FD2" stroke-width="4"/>
+<circle cx="2291.622288221295" cy="665" r="7" fill="#FFFFFF" stroke="#3F8FD2" stroke-width="4"/>
+<text x="2309.622288221295" y="647" fill="#3F8FD2" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">14.1–214 s</text>
+<text x="70" y="730" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">Wei living polymer network</text>
+<text x="590" y="730" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Wei/Campos 2024</text>
+<text x="590" y="755" fill="#3F8FD2" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">蓝光/暗；tau_R</text>
+<line x1="2016.321975584553" y1="728" x2="2424.1827960711507" y2="728" stroke="#3F8FD2" stroke-width="10" stroke-linecap="round"/>
+<line x1="2016.321975584553" y1="715" x2="2016.321975584553" y2="741" stroke="#3F8FD2" stroke-width="5"/>
+<line x1="2424.1827960711507" y1="715" x2="2424.1827960711507" y2="741" stroke="#3F8FD2" stroke-width="5"/>
+<circle cx="2016.321975584553" cy="728" r="7" fill="#FFFFFF" stroke="#3F8FD2" stroke-width="4"/>
+<circle cx="2424.1827960711507" cy="728" r="7" fill="#FFFFFF" stroke="#3F8FD2" stroke-width="4"/>
+<text x="2442.1827960711507" y="710" fill="#3F8FD2" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">约 20–670 s</text>
+<rect x="55" y="760" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="793" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">BA-Net</text>
+<text x="590" y="793" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">El-Zaatari/Kalow 2020</text>
+<text x="590" y="818" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">150→100 °C</text>
+<line x1="2084.914716788722" y1="791" x2="2362.221263472498" y2="791" stroke="#E4872B" stroke-width="10" stroke-linecap="round"/>
+<line x1="2084.914716788722" y1="778" x2="2084.914716788722" y2="804" stroke="#E4872B" stroke-width="5"/>
+<line x1="2362.221263472498" y1="778" x2="2362.221263472498" y2="804" stroke="#E4872B" stroke-width="5"/>
+<circle cx="2084.914716788722" cy="791" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<circle cx="2362.221263472498" cy="791" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<text x="2380.221263472498" y="773" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">36.1–393 s</text>
+<text x="70" y="856" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">CY/MA-Net</text>
+<text x="590" y="856" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">El-Zaatari/Kalow 2020</text>
+<text x="590" y="881" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">140 °C</text>
+<circle cx="2112.5190003026096" cy="854" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2130.5190003026096" y="836" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">45.8 s</text>
+<rect x="55" y="886" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="919" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">PBEDS</text>
+<text x="590" y="919" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Lu/Zheng 2025</text>
+<text x="590" y="944" fill="#3F8FD2" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">445 nm 光强/暗</text>
+<line x1="2203.255813953488" y1="917" x2="2390.189652322423" y2="917" stroke="#3F8FD2" stroke-width="10" stroke-linecap="round"/>
+<line x1="2203.255813953488" y1="904" x2="2203.255813953488" y2="930" stroke="#3F8FD2" stroke-width="5"/>
+<line x1="2390.189652322423" y1="904" x2="2390.189652322423" y2="930" stroke="#3F8FD2" stroke-width="5"/>
+<circle cx="2203.255813953488" cy="917" r="7" fill="#FFFFFF" stroke="#3F8FD2" stroke-width="4"/>
+<circle cx="2390.189652322423" cy="917" r="7" fill="#FFFFFF" stroke="#3F8FD2" stroke-width="4"/>
+<text x="2408.189652322423" y="899" fill="#3F8FD2" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">100–500 s</text>
+<text x="70" y="982" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">BA/MA-Net</text>
+<text x="590" y="982" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">El-Zaatari/Kalow 2020</text>
+<text x="590" y="1007" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">140 °C</text>
+<circle cx="2210.8958753913093" cy="980" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2228.8958753913093" y="962" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">106.8 s</text>
+<rect x="55" y="1012" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="1045" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">gel-CH</text>
+<text x="590" y="1045" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Zhang/Kalow 2023</text>
+<text x="590" y="1070" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">固定条件</text>
+<circle cx="2219.4889573038727" cy="1043" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2237.4889573038727" y="1025" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">115 s</text>
+<text x="70" y="1108" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">IND-Net</text>
+<text x="590" y="1108" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">El-Zaatari/Kalow 2020</text>
+<text x="590" y="1133" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">150→100 °C</text>
+<line x1="2248.790923884698" y1="1106" x2="2553.676423634259" y2="1106" stroke="#E4872B" stroke-width="10" stroke-linecap="round"/>
+<line x1="2248.790923884698" y1="1093" x2="2248.790923884698" y2="1119" stroke="#E4872B" stroke-width="5"/>
+<line x1="2553.676423634259" y1="1093" x2="2553.676423634259" y2="1119" stroke="#E4872B" stroke-width="5"/>
+<circle cx="2248.790923884698" cy="1106" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<circle cx="2553.676423634259" cy="1106" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<text x="2571.676423634259" y="1088" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">148–2043 s</text>
+<rect x="55" y="1138" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="1171" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">gel-AA</text>
+<text x="590" y="1171" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Zhang/Kalow 2023</text>
+<text x="590" y="1196" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">固定条件</text>
+<circle cx="2266.919306650724" cy="1169" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2284.919306650724" y="1151" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">173 s</text>
+<text x="70" y="1234" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">BA/DP-Net</text>
+<text x="590" y="1234" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">El-Zaatari/Kalow 2020</text>
+<text x="590" y="1259" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">140 °C</text>
+<circle cx="2301.8152936251913" cy="1232" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2319.8152936251913" y="1214" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">233.6 s</text>
+<rect x="55" y="1264" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="1297" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">MA-Net</text>
+<text x="590" y="1297" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">El-Zaatari/Kalow 2020</text>
+<text x="590" y="1322" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">150→100 °C</text>
+<line x1="2326.116595563515" y1="1295" x2="2597.0151577358993" y2="1295" stroke="#E4872B" stroke-width="10" stroke-linecap="round"/>
+<line x1="2326.116595563515" y1="1282" x2="2326.116595563515" y2="1308" stroke="#E4872B" stroke-width="5"/>
+<line x1="2597.0151577358993" y1="1282" x2="2597.0151577358993" y2="1308" stroke="#E4872B" stroke-width="5"/>
+<circle cx="2326.116595563515" cy="1295" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<circle cx="2597.0151577358993" cy="1295" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<text x="2615.0151577358993" y="1277" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">288–2967 s</text>
+<text x="70" y="1360" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">gel-MM</text>
+<text x="590" y="1360" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Zhang/Kalow 2023</text>
+<text x="590" y="1385" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">固定条件</text>
+<circle cx="2415.361707023969" cy="1358" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2433.361707023969" y="1340" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">621 s</text>
+<rect x="55" y="1390" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="1423" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">DASA Net-1</text>
+<text x="590" y="1423" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Garcia Villatoro/Kalow 2025</text>
+<text x="590" y="1448" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">160→100 °C</text>
+<line x1="2422.436168807709" y1="1421" x2="2725.9020664779587" y2="1421" stroke="#E4872B" stroke-width="10" stroke-linecap="round"/>
+<line x1="2422.436168807709" y1="1408" x2="2422.436168807709" y2="1434" stroke="#E4872B" stroke-width="5"/>
+<line x1="2725.9020664779587" y1="1408" x2="2725.9020664779587" y2="1434" stroke="#E4872B" stroke-width="5"/>
+<circle cx="2422.436168807709" cy="1421" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<circle cx="2725.9020664779587" cy="1421" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<text x="2743.9020664779587" y="1403" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">约 660–9000 s</text>
+<text x="70" y="1486" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">gel-AA_cap</text>
+<text x="590" y="1486" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Zhang/Kalow 2023</text>
+<text x="590" y="1511" fill="#8767C8" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">巯基封端</text>
+<circle cx="2425.0463578501576" cy="1484" r="10" fill="#8767C8" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2443.0463578501576" y="1466" fill="#8767C8" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">675 s</text>
+<rect x="55" y="1516" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="1549" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">MDADS</text>
+<text x="590" y="1549" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Lu/Zheng 2025</text>
+<text x="590" y="1574" fill="#3F8FD2" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">445 nm 光/暗</text>
+<line x1="2501.170896547177" y1="1547" x2="2577.1234906913587" y2="1547" stroke="#3F8FD2" stroke-width="10" stroke-linecap="round"/>
+<line x1="2501.170896547177" y1="1534" x2="2501.170896547177" y2="1560" stroke="#3F8FD2" stroke-width="5"/>
+<line x1="2577.1234906913587" y1="1534" x2="2577.1234906913587" y2="1560" stroke="#3F8FD2" stroke-width="5"/>
+<circle cx="2501.170896547177" cy="1547" r="7" fill="#FFFFFF" stroke="#3F8FD2" stroke-width="4"/>
+<circle cx="2577.1234906913587" cy="1547" r="7" fill="#FFFFFF" stroke="#3F8FD2" stroke-width="4"/>
+<text x="2595.1234906913587" y="1529" fill="#3F8FD2" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">约 1300–2500 s</text>
+<text x="70" y="1612" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">ALYDS（宏观流变）</text>
+<text x="590" y="1612" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Lu/Zheng 2025</text>
+<text x="590" y="1637" fill="#3F8FD2" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">445 nm 光/暗</text>
+<line x1="2517.7918483521007" y1="1610" x2="2612.8373847903704" y2="1610" stroke="#3F8FD2" stroke-width="10" stroke-linecap="round"/>
+<line x1="2517.7918483521007" y1="1597" x2="2517.7918483521007" y2="1623" stroke="#3F8FD2" stroke-width="5"/>
+<line x1="2612.8373847903704" y1="1597" x2="2612.8373847903704" y2="1623" stroke="#3F8FD2" stroke-width="5"/>
+<circle cx="2517.7918483521007" cy="1610" r="7" fill="#FFFFFF" stroke="#3F8FD2" stroke-width="4"/>
+<circle cx="2612.8373847903704" cy="1610" r="7" fill="#FFFFFF" stroke="#3F8FD2" stroke-width="4"/>
+<text x="2630.8373847903704" y="1592" fill="#3F8FD2" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">1500–3400 s</text>
+<rect x="55" y="1642" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="1675" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">gel-ctrl</text>
+<text x="590" y="1675" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Zhang/Kalow 2023</text>
+<text x="590" y="1700" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">非动态对照</text>
+<circle cx="2521.824924206475" cy="1673" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2539.824924206475" y="1655" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">1553 s</text>
+<text x="70" y="1738" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">C3-ALY</text>
+<text x="590" y="1738" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Lu/Zheng 2025</text>
+<text x="590" y="1763" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">光不响应对照</text>
+<circle cx="2586.0624020425194" cy="1736" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2604.0624020425194" y="1718" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">2700 s</text>
+<rect x="55" y="1768" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="1801" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">DASA Net-2</text>
+<text x="590" y="1801" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Garcia Villatoro/Kalow 2025</text>
+<text x="590" y="1826" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">160→100 °C</text>
+<line x1="2632.293014197009" y1="1799" x2="2759.3159146406438" y2="1799" stroke="#E4872B" stroke-width="10" stroke-linecap="round"/>
+<line x1="2632.293014197009" y1="1786" x2="2632.293014197009" y2="1812" stroke="#E4872B" stroke-width="5"/>
+<line x1="2759.3159146406438" y1="1786" x2="2759.3159146406438" y2="1812" stroke="#E4872B" stroke-width="5"/>
+<circle cx="2632.293014197009" cy="1799" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<circle cx="2759.3159146406438" cy="1799" r="7" fill="#FFFFFF" stroke="#E4872B" stroke-width="4"/>
+<text x="2777.3159146406438" y="1781" fill="#E4872B" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">约 4020–12000 s</text>
+<text x="70" y="1864" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">CN-Net</text>
+<text x="590" y="1864" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">El-Zaatari/Kalow 2020</text>
+<text x="590" y="1889" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">150 °C；外推</text>
+<circle cx="2807.3867803042813" cy="1862" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2825.3867803042813" y="1844" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">18152 s</text>
+<rect x="55" y="1894" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="1927" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">DP-Net</text>
+<text x="590" y="1927" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">El-Zaatari/Kalow 2020</text>
+<text x="590" y="1952" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">150 °C；外推</text>
+<circle cx="2832.229760339401" cy="1925" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2850.229760339401" y="1907" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">22481 s</text>
+<text x="70" y="1990" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">DASA Control-1</text>
+<text x="590" y="1990" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Garcia Villatoro/Kalow 2025</text>
+<text x="590" y="2015" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">100 °C；外推</text>
+<circle cx="2865.741730913398" cy="1988" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="2883.741730913398" y="1970" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">30000 s</text>
+<rect x="55" y="2020" width="3490" height="63" fill="#FAFBFD"/>
+<text x="70" y="2053" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">DASA Control-2</text>
+<text x="590" y="2053" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Garcia Villatoro/Kalow 2025</text>
+<text x="590" y="2078" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">100 °C；外推</text>
+<circle cx="3004.4140636714374" cy="2051" r="10" fill="#344054" stroke="#FFFFFF" stroke-width="3"/>
+<text x="3022.4140636714374" y="2033" fill="#344054" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="start">99000 s</text>
+<text x="70" y="2116" fill="#1D2939" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="700" text-anchor="start">PEG thioester gels</text>
+<text x="590" y="2116" fill="#667085" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">Carberry/Anseth 2020</text>
+<text x="590" y="2141" fill="#8767C8" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="start">过量巯基 200→0%</text>
+<line x1="3091.756323010234" y1="2114" x2="3341.293809504372" y2="2114" stroke="#8767C8" stroke-width="10" stroke-linecap="round"/>
+<line x1="3091.756323010234" y1="2101" x2="3091.756323010234" y2="2127" stroke="#8767C8" stroke-width="5"/>
+<line x1="3341.293809504372" y1="2101" x2="3341.293809504372" y2="2127" stroke="#8767C8" stroke-width="5"/>
+<circle cx="3091.756323010234" cy="2114" r="7" fill="#FFFFFF" stroke="#8767C8" stroke-width="4"/>
+<circle cx="3341.293809504372" cy="2114" r="7" fill="#FFFFFF" stroke="#8767C8" stroke-width="4"/>
+<text x="3323.293809504372" y="2096" fill="#8767C8" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="700" text-anchor="end">约 2.1×10^5–1.8×10^6 s</text>
+<text x="72" y="2206" fill="#253351" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="28" font-weight="700" text-anchor="start">读图说明</text>
+<text x="72" y="2258" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" text-anchor="start">• 所有值统一换算为秒并放在对数轴上；点为单一条件，范围线为同一网络在不同光照、温度或配方下的最小–最大值。</text>
+<text x="72" y="2298" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" text-anchor="start">• tau_sr、tau*、&lt;tau&gt;、tau_1/2、tau_R=1/omega_c 与 AFM 局部 tau'_1/2 的定义并不相同；本图用于时间尺度定位，不代表这些模型参数可直接等同。</text>
+<text x="72" y="2338" fill="#52617A" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" text-anchor="start">• 带“约”的端点含原图估读；DASA 高温端、Zheng 中间光强及部分 Carberry 数值均应结合完整核对表读取。</text>
+<g opacity="0.30"><text x="3522" y="2328" fill="#40517C" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="46" font-weight="700" text-anchor="end">Jionglin Li</text><text x="3522" y="2382" fill="#40517C" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="31" font-weight="400" text-anchor="end">(PKU Zheng Group)</text></g>
+<text x="3530" y="2438" fill="#98A2B3" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="400" text-anchor="end">数据来源：用户提供的 19 篇论文及其公开补充信息｜整理：2026-08-27</text>
+</svg>

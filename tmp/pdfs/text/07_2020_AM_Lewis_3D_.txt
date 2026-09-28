@@ -1,0 +1,559 @@
+
+
+===== PDF PAGE 1 =====
+1905682 (1 of 6) © 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advmat.de
+CommuniCation
+3D Printable and Reconfigurable Liquid Crystal Elastomers 
+with Light-Induced Shape Memory via Dynamic 
+Bond Exchange
+Emily C. Davidson, Arda Kotikian, Shucong Li, Joanna Aizenberg, and Jennifer A. Lewis*
+Dr. E. C. Davidson, A. Kotikian, Prof. J. Aizenberg, Prof. J. A. Lewis
+John A. Paulson School of Engineering and Applied Sciences
+Harvard University
+Cambridge, MA 02138, USA
+E-mail: jalewis@seas.harvard.edu
+Dr. E. C. Davidson, A. Kotikian, Prof. J. Aizenberg, Prof. J. A. Lewis
+Wyss Institute for Biologically Inspired Engineering
+Harvard University
+Cambridge, MA 02138, USA
+S. Li, Prof. J. Aizenberg
+Department of Chemistry and Chemical Biology
+Harvard University
+Cambridge, MA 02138, USA
+The ORCID identification number(s) for the author(s) of this article 
+can be found under https://doi.org/10.1002/adma.201905682.
+DOI: 10.1002/adma.201905682
+reversible contraction and high specific 
+work, they must be continuously heated 
+above their T NI to maintain their actuated 
+shape. The ability to create programmable 
+3D LCEs that lock-in to an actuated state 
+on demand will both reduce their energy 
+consumption and improve their versatility.
+The integration of exchangeable 
+dynamic bonds within LCEs is a prom-
+ising approach to achieving locked-in 
+states. While exchangeable bond strate-
+gies, such as transesterification, have 
+been reported,
+[15–17] acid-catalyzed bond 
+exchange exhibits an Arrhenius tempera-
+ture dependence and requires heating 
+above T
+NI to induce significant transesterification. [18] Hence, 
+this strategy limits the ability to precisely program and repro-
+gram LCEs, since they must be processed in the isotropic state. 
+It is also important to ensure that bond exchange cannot occur 
+during normal use. New strategies are therefore needed in 
+which the trigger for their bond exchange is orthogonal to the 
+stimulus required for their actuation. One promising approach 
+would be to harness light-mediated bond exchange through 
+either direct (e.g., reversible anthracene or cinnamic acid 
+cycloaddition)
+[19,20] or indirect (e.g., photoinitiator-triggered rad-
+ical exchange leveraging addition-fragmentation chain transfer 
+(AFT) agents, such as trithiocarbonates or allyl disulfides) [21–23] 
+methods to achieve the desired reorganization of LCE networks.
+Here, we demonstrate 3D printable and reconfigurable LCEs 
+that lock-in on demand in response to optical stimuli allowing 
+complex actuated states to be permanently maintained. Light-
+activated bond exchange ensures that the trigger for network 
+reconfiguration is independent of the thermal stimuli needed 
+to induce actuation. We integrate these exchangeable bonds 
+into 3D LCE structures by first synthesizing a printable “recon-
+figurable” LCE-based ink composed of liquid crystal mesogens 
+polymerized with an allyl dithiol chain extender (Figure 1a).
+[24] 
+During printing, the director is aligned along the print path 
+(Figure 1b). After crosslinking, the resulting LCE exhibits a 
+fully reversible and programmable shape-change upon heating 
+above and below its T
+NI. When exposed to UV light during 
+actuation, the stress in the dynamic LCE network drives bond 
+exchange without requiring an externally imposed mechanical 
+field, enabling the programmed actuated shape to be main-
+tained even upon cooling to ambient conditions (Figure 1c,d). 
+Importantly, the integration of dynamic bonds within these 
+reconfigurable LCEs enables the generation of 3D architectures 
+that are inaccessible by printing alone. By co-patterning LCEs 
+3D printable and reconfigurable liquid crystal elastomers (LCEs) that revers-
+ibly shape-morph when cycled above and below their nematic-to-isotropic 
+transition temperature (TNI) are created, whose actuated shape can be locked-
+in via high-temperature UV exposure. By synthesizing LCE-based inks with 
+light-triggerable dynamic bonds, printing can be harnessed to locally program 
+their director alignment and UV light can be used to enable controlled net-
+work reconfiguration without requiring an imposed mechanical field. Using 
+this integrated approach, 3D LCEs are constructed in both monolithic and 
+heterogenous layouts that exhibit complex shape changes, and whose trans-
+formed shapes could be locked-in on demand.
+Liquid crystal elastomers (LCEs) may find potential applica-
+tions in deployable devices, [1,2] soft robotics, [3,4] and active sys-
+tems that rely on artificial muscles. [5–8] LCEs directly couple 
+stimuli-responsive changes of their local molecular order to a 
+macroscopic shape change. When heated above their nematic-
+to-isotropic transition temperature (T
+NI), programmed LCEs 
+contract along the direction of their director alignment and 
+expand in the orthogonal directions. Upon cooling below T NI, 
+this process reverses. To date, LCEs with programmed director 
+alignment have been generated by a two-stage process of 
+mechanically stretching and crosslinking,
+[9] an applied mag-
+netic field,[5] or command surfaces for thin films (<50 µm).[10,11] 
+Recently, bulk LCE films (>1 mm thick) with programmed 
+alignment have been achieved via high operating temperature-
+direct ink writing (HOT-DIW), an extrusion-based 3D printing 
+(3DP) technique. [12–14] Although these LCEs exhibit large, 
+Adv. Mater. 2020, 32, 1905682
+
+
+===== PDF PAGE 2 =====
+© 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905682 (2 of 6)
+www.advmat.dewww.advancedsciencenews.com
+with and without dynamic bonds via multimaterial 3D printing, 
+we demonstrate a path toward hierarchical, reconfigurable, and 
+adaptive elastomeric architectures.
+To create an LCE ink that is both printable and reconfigur -
+able, we introduce radical-mediated dynamic covalent bonds 
+to the network (Figure 1a). Inspired by optically reprogram-
+mable thin films composed of a liquid crystalline network 
+developed by McBride et al.,
+[25] we synthesized an LCE ink 
+composed of a linear liquid crystalline polymer (M n ≈ 9.8 kDa) 
+using an excess of a difunctional mesogen (RM82) and a 50:50 
+molar mixture of two dithiols (Figure 1a): allyl dithiol (ADT) 
+(Figure S1, Supporting Information), which is well known to 
+undergo efficient bond exchange in the presence of radicals, 
+and ethylene dioxydiethane thiol (EDDT) (Figure 1a; Figure S2, 
+Supporting Information). EDDT decreases the T
+NI relative to a 
+pure ADT ink and suppresses crystallization at room tempera-
+ture (Figures S3 and S4, Supporting Information). As a con-
+trol, we also synthesized an LCE ink without dynamic bonds 
+that contains propane dithiol (PDT) rather than the dynamic 
+ADT. Upon printing, the LCE ink with dynamic bonds is 
+crosslinked to retain the shear-induced, programmed director 
+alignment. However, residual photoinitiator is needed to 
+enable subsequent bond exchange via exposure to UV light. To 
+independently control these processes, two photoinitiators are 
+used. Bis-acylphosphine oxide (BAPO) absorbs light at wave-
+lengths up to 420 nm to facilitate initial crosslinking, while  
+dimethoxyphenylacetophenone (DMPA) only absorbs 
+light below 400 nm and is used to drive dynamic network 
+reconfiguration.
+Our LCE ink with dynamic bonds is printed at 60 °C using 
+HOT-DIW (Figure 1b; Movie S1 and Figure S5, Supporting 
+Information). This temperature is roughly midway between 
+its smectic–nematic transition (T
+SmN; 34 °C) and T NI (90 °C) 
+(Figure S3, Supporting Information). The ink exhibits the 
+desired shear thinning behavior at 60 °C to facilitate both 
+filamentary printing and programmed director alignment 
+(Figure S6a, Supporting Information). This ink exhibits a 
+liquid-like response at 60 °C (Figure S6b, Supporting Infor -
+mation) that quickly transitions to a solid-like response upon 
+printing onto a glass substrate held at ambient conditions, 
+where the ink is rapidly photo-crosslinked (
+λ = 400–500 nm) 
+(Figure 1b) to form a cybotactic (or locally smectic-C) liquid 
+crystal elastomer (Figure S4, Supporting Information). This 
+rapid cooling and crosslinking process locks-in the align-
+ment field obviating any effects that arise from anchoring the 
+printed LCEs to the substrate. While the extruded ink contains  
+multiple domains and defects, this programmed director align-
+ment dominates its actuation behavior. Our control ink without 
+dynamic bonds exhibits similar thermal (Figure S5, Supporting 
+Information) and rheological properties (Figure S6, Supporting 
+Information).
+To demonstrate dynamic bond exchange-enabled locked-in 
+states, we printed LCE strips (20 mm × 5 mm × 0.25 mm) using 
+a 250 µm nozzle. The printed dynamic strips are optically trans-
+parent (Figure 2a) due to the alignment of liquid crystalline 
+domains achieved via printing. Unbiased linear actuation of 
+these strips occurs over a wide temperature window, beginning 
+at 50 °C and reaching a maximum at 125 °C with a contractile 
+Adv. Mater. 2020, 32, 1905682
+Figure 1. Reconfigurable LCE ink design and printing. a) Synthesis of the photopolymerizable LCE ink composed of exchangeable spacer (green), inert 
+spacer (gray), and mesogen (blue). b) Image of HOT-DIW for extrusion and programming of the LCE ink with blue-light in situ photo-crosslinking.  
+c) Schematic illustration of the LCE network reconfiguration under UV light via dynamic covalent bond exchange, and d) schematic view of LCE samples 
+after printing (left), heating above their T NI (middle), and after network reconfiguration into a locked-in state (right).
+
+===== PDF PAGE 3 =====
+© 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905682 (3 of 6)
+www.advmat.dewww.advancedsciencenews.com
+strain of ≈50% along the print path (x) and an expansion of 
+≈50% perpendicular to the print path (y) (Figure 2; Figure S7a, 
+Supporting Information) as well as fully reversible actuation 
+over at least 20 cycles between 25 and 135 °C (Figure 2b, top). 
+Control LCEs without dynamic bonds printed under opti-
+mized conditions exhibit comparable actuation behavior 
+(Figure S7b, Supporting Information). When programmed LCE 
+strips with dynamic bonds are exposed to UV light while actuated  
+(Figure S8, Supporting Information), they maintain their actu-
+ated shape at ambient conditions (Figure 2a; Movie S2, Sup-
+porting Information). Upon further thermal cycling, these 
+locked-in LCEs exhibit modest positive strains arising from 
+thermal expansion both parallel and perpendicular to the 
+print path, i.e., their initial molecular programming is erased 
+(Figure 2b, bottom). Wide-angle X-ray scattering (WAXS) con-
+firms the loss of the programmed mesogen orientation both 
+in the isotropic state and upon cooling to ambient conditions 
+after UV exposure (Figure 2c). Their optical properties are 
+also impacted by the lock-in process: after high-temperature 
+dynamic bond exchange, locked-in samples cooled to ambient 
+conditions appear opaque (Figure 2a). This opacity arises from 
+light scattering at the interfaces of nonaligned liquid crystalline 
+domains.
+To further explore the impact of dynamic bond exchange 
+on LCE network reconfiguration, we characterized the 
+mechanical and optical properties of nonaligned LCE 
+strips (20 mm × 5 mm × 0.25 mm) both before and after 
+high-temperature UV exposure. Over the observed stress–
+strain regimes of LCE mechanical response,
+[26] these LCE 
+strips exhibit similar properties before and after high-tem-
+perature UV exposure. They have a comparable initial elastic 
+response, semisoft elastic plateau stress, and final elastic 
+modulus, emphasizing that the loss of shape recovery after 
+UV exposure cannot be attributed to a loss of crosslink den-
+sity. However, after UV exposure the semisoft elastic plateau
+[26] 
+does not persist to comparably high strains (Figure S9a, Sup-
+porting Information). We attribute this change in mechanical 
+behavior to limited local chain anisotropy from a suppressed 
+room temperature liquid crystalline phase.
+[27–29] As expected, 
+high-temperature UV-exposed samples remain optically clear 
+to lower temperatures, showing that the T
+NI has been sup-
+pressed (Figures S9c and S10, Supporting Information). [30,31] 
+No significant change in properties is observed in the control 
+LCE strips (Figure S9b,d, Supporting Information). Finally, 
+we demonstrate that the degree of lock-in is controlled by the 
+UV exposure time at 18 mW cm
+−2; full lock-in is achieved after 
+Adv. Mater. 2020, 32, 1905682
+Figure 2. 3D reconfigurable LCE lock-in via UV light. a) (Top) Images of printed LCE reversibly actuating above/below the T NI until (bottom) stress 
+relaxation from UV exposure at 125 °C locks-in the actuated state. b) Strain parallel (x) and perpendicular (y) to the print path upon thermal cycling 
+of (top) as-printed LCE and (bottom) locked-in LCE. c) Changes in mesostructure and alignment as probed via WAXS accompany both actuation and 
+network reconfiguration. d) Degree of lock-in strain along the print path and in both perpendicular directions as a function of UV exposure time at 
+18 mW cm
+−2 and 125 °C. Full lock-in is achieved after ≈180 s.
+
+===== PDF PAGE 4 =====
+© 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905682 (4 of 6)
+www.advmat.dewww.advancedsciencenews.com
+only 180 s (Figure 2d; Figure S12c, Supporting Information). 
+Minimal lock-in is observed in control LCE strips (i.e., without 
+dynamic bonds) after exposure at the same intensity for  
+1800 s (Figure S11, Supporting Information). Confirming the 
+coupling of molecular and macroscopic structure before and 
+after lock-in, the degree of mesogen orientation in the pro-
+grammed LCE varies smoothly with temperature for as-printed 
+actuating strips (Figure S12a,d, Supporting Information) 
+and lacks orientation at all temperatures in locked-in strips  
+(Figure S12b,d, Supporting Information).
+Next, we demonstrated that this approach can be extended 
+to more complex shape morphing LCE architectures. Specifi-
+cally, a square print path is used to create LCEs with dynamic 
+bonds that reversibly transform between flat (a 0.25 mm thick 
+film) and a conical shape (height of 7 mm). Upon exposure 
+to UV light, the LCEs become opaque, yet retain their shape 
+upon cooling (Figure 3a; Movie S3, Supporting Information). 
+Dynamic bond exchange can also be induced in minimally 
+actuated (60 °C) LCEs to create geometries that otherwise 
+would be difficult to achieve.
+[32] However, bond exchange rates 
+are sufficiently fast under these conditions, allowing chemical 
+welding of programmed LCEs (Figure S13, Supporting Infor -
+mation) into the form of a Möbius strip that is capable of revers-
+ible actuation upon thermal cycling above and below its T
+NI 
+(Figure 3b) as well as reprogramming of a manually stretched 
+printed sample so that the director is orthogonal to the original 
+print direction (Figure S14, Supporting Information).
+We can also combine printing of reconfigurable LCEs with 
+photolithography to achieve highly localized control over their 
+properties. As a simple demonstration, we first printed LCE 
+strips with dynamic bonds (10 mm × 28 mm × 0.25 mm) with 
+the director programmed along their width. Upon actuation 
+above their T
+NI, we placed a photomask over the printed strip 
+that selectively blocks UV transmission in alternating masked 
+and unmasked regions. After UV exposure and cooling, the 
+LCE strips exhibit alternating opaque (locked-in) and clear 
+(shape recovered) regions (Figure 4a). Although the combina-
+tion of printing and optical patterning via photolithography is 
+powerful, the latter method only provides planar control over 
+the patterned regions.
+As a final demonstration, we patterned LCE inks both with 
+and without dynamic bonds via multimaterial 3D printing. 
+Upon thermal cycling above and below their T
+NI, these locked-in  
+heterogeneously alternating LCE strips only transform in 
+regions composed of LCE without dynamic bonds (Figure 4b). 
+Heterogeneous LCE bilayers (20 mm × 5 mm × 0.50 mm) com-
+posed of both a layer with and a layer without dynamic bonds 
+are also patterned by this method. Before UV exposure, the 
+Adv. Mater. 2020, 32, 1905682
+Figure 3. Reconfigurable LCEs exhibit complex shapes. a) Printed con-
+centric squares reversibly actuate into a square cone until exposed to 
+UV light, resulting in a locked-in, opaque cone at ambient conditions. 
+b) A printed strip exhibits reversible linear actuation until the ends are 
+welded together at 60 °C via dynamic bond exchange to form a reversibly 
+actuating Möbius strip.
+Figure 4. Patterning methods for locally reconfigured and heterogenous 
+LCE structures. a) Locally controlled network reconfiguration via photo-
+lithography. b) Heterogenous alternating strip of LCE inks with and 
+without dynamic bonds. c) Heterogenous printed bilayer transitions from 
+linear actuation to bending actuation after high-temperature UV exposure.
+
+===== PDF PAGE 5 =====
+© 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905682 (5 of 6)
+www.advmat.dewww.advancedsciencenews.com
+bilayer exhibited a reversible contractile response, while after -
+ward, it exhibited a bending response due to the loss of director 
+alignment in the dynamically bonded, reconfigured layer 
+(Figure 4c). This close coupling of network reconfiguration and 
+programmed shape change can only be achieved in bulk shapes 
+by 3D multimaterial printing. Despite these advances, our 
+printable and reconfigurable LCEs do have some limitations 
+in their present form. First, they exhibit large strains when 
+subjected to external loads due to semisoft elasticity,
+[26] which 
+prevents them from holding large weights in place in their 
+locked-in, mechanically soft state. Second, they also lack the 
+ability to be repeatedly switched between locked-in and normal 
+states. Both of these capabilities are of interest for future syn-
+thetic embodiments.
+In summary, we have created 3D printable and reconfig-
+urable LCEs that reversibly shape-morph when cycled above 
+and below their T
+NI, whose actuated shape can be locked-in 
+via high-temperature UV exposure. By synthesizing LCE-
+based inks with light-triggerable dynamic bonds, we can har -
+ness printing to locally program their director alignment and 
+use UV light to enable controlled network reconfiguration 
+without requiring an imposed mechanical field. Using this 
+integrated approach, we constructed 3D LCEs in both mono-
+lithic and heterogenous layouts that exhibited complex shape 
+changes, and whose transformed shapes could be locked-in 
+on demand.
+Experimental Section
+LCE Ink Synthesis: All reagents were used without additional 
+purification unless otherwise noted. The bond-exchangeable liquid 
+crystalline elastomer ink was synthesized by combining the difunctional 
+liquid crystal mesogen 1,4-bis-[4-(6-acryloyloxyhexyloxy)benzoyloxy]-2-
+methylbenzene (10.99 g, 1.15 equiv) (Wilshire Technologies; Princeton, 
+NJ) with 2,2′-(ethylenedioxy)diethanethiol (1.29 g, 0.5 equiv) (Sigma-
+Aldrich) and allyl dithiol (0.98 g, 0.5 equiv) (synthesized) with butylated 
+hydroxytoluene (MPI; 26.54 mg, 0.2 wt%) in dichloromethane (DCM; 
+VWR; 33 mL) and triethylamine (TEA; 8.94 mL). The reaction was stirred 
+for 24 h with a PTFE coated stir bar. TEA was removed by extracting the 
+polymer in DCM twice with 1 N aqueous HCl (TCI) followed by a brine 
+wash. DCM was dried with sodium sulfate and filtered. Photoinitiators 
+(phenylbis(2,4,6-trimethylbenzoyl)phosphine oxide (BAPO); Sigma-
+Aldrich and 2,2-dimethoxy-2-phenylacetophenone (DMPA); BASF) 
+were mixed in at 1.5 wt% each relative to the final polymer. DCM was 
+removed by rotary evaporation followed by drying under vacuum at 
+ambient temperature at 150 mTorr for 24 h until remaining DCM was 
+<1 wt% by 
+1H NMR, recovering LCE ink (9.09 g) with dynamic bonds. 
+The control LCE ink without dynamic bonds was synthesized following 
+the same procedure, substituting allyl dithiol with PDT (Sigma-Aldrich). 
+Additional pure EDDT, ADT, and PDT linked LCE control inks were 
+synthesized following the same procedure, with a mesogen:dithiol ratio 
+of 1.15:1. Allyl dithiol was synthesized following previously reported 
+methods and purified via distillation under vacuum.
+[25,33] Absolute 
+ethanol, ethyl ether, and sulfuric acid were acquired from VWR; all other 
+reagents for allyl dithiol synthesis were purchased from Sigma-Aldrich. 
+1H NMR of allyl dithiol and liquid crystalline polymers was collected on 
+a DD2 Varian 600 MHz instrument at ≈1 wt% polymer in deuterated 
+chloroform (Cambridge Isotopes) and processed via MNova. Molecular 
+weights were calculated based on end group analysis via NMR  
+(M
+n,with dynamic bonds = 9770 kDa; Mn,without dynamic bonds = 7700 kDa).
+Differential Scanning Calorimetry: Approximately 10 mg samples 
+for DSC were prepared by loading in Tzero aluminum hermetic pans. 
+Samples were heated to 150 °C to erase thermal history, held for 5 min, 
+cooled to −50 °C, and heated to 150 °C at a ramp rate of 10 °C min
+−1 
+(Q200; TA Instruments). Data shown from the second heating cycle.
+Ink Rheology: Rheological properties of the LCE inks with and without 
+dynamic bonds were characterized using a controlled stress rheometer 
+(Discovery HR-3 Hybrid Rheometer, TA Instruments) equipped with a 
+20 mm steel Peltier plate geometry and a 0.250 mm gap. Prior to testing, 
+each ink was heated above its T
+NI to erase thermal history, and then 
+cooled to 60 °C.
+3D Printing: LCE inks were patterned using HOT-DIW. A machined 
+copper block with RTD sensor (Omega) and two 100 W cartridge heaters 
+(Omega) provided heating via an Omega platinum series single zone 
+temperature controller and coupled to a Nordson 3 cc high pressure 
+adapter. The inks were loaded into custom stainless steel 3 mL syringes 
+fitted with 250 µm stainless steel nozzles (TecDia). The LCE ink with 
+dynamic bonds was printed at a temperature of 60 °C and a print speed 
+of 12 mm s
+−1, while the LCE ink without dynamic bonds was printed 
+at a temperature of 50 °C and a print speed of 28 mm s −1. Both inks 
+were printed at the same nozzle height of 0.125 mm, filament spacing 
+of 0.125 mm, and an applied pressure of 385 psi using a high-pressure 
+adapter (Nordson) controlled by a pressure box (Ultimus V, Nordson). 
+The HOT-DIW printhead was mounted to a custom three-axis motion 
+control stage (Aerotech Inc.). The extruded LCE ink filaments were 
+cured in situ during printing (Omnicure S2000 with 400–500 nm filter, 
+Excelitas) at 1 mW cm
+−2 (450 ± 80 nm sensor, SolarLight), followed by 
+post curing for 30 min at 25 and 50 °C on each side at 3 mW cm−2 under 
+inert N2 purge. The outer edges (distance = 0.25 mm, where the nozzle 
+makes 180° turns) of the heterogeneous LCE samples were removed to 
+prevent edge effects from impacting the observed actuation response.
+Actuation Measurements: Actuation as a function of temperature 
+measurements was carried out by placing the printed LCE strips 
+(20 mm × 5 mm × 0.25 mm) under a glass slide with PTFE spacers on 
+a controlled temperature stage (Instec HCS302) that was coated with a 
+thin layer of silicone oil. The strips were heated and cooled at 20 °C min
+−1 
+for cyclic measurements, while high resolution measurements of the 
+actuation strain as a function of temperature were collected during 
+heating at a controlled ramp rate of 4 °C min
+−1. The strips were imaged 
+from above (Canon T2i) and a custom MATLAB image analysis script 
+was used to determine their dimensions for each experimental condition 
+of interest. Using this method, the contrast of each image was first 
+enhanced prior to conversion to greyscale. Next, the bright region was 
+selected and fit to a rectangle. Finally, the exported x and y dimensions 
+were converted to strains in x and y.
+LCE Network Reconfiguration: Lock-in via network reconfiguration 
+was performed by heating printed LCE samples to 125 °C in silicone oil 
+followed by exposure to UV light (Omnicure S2000 with 320–500 nm 
+filter) at 18 mW cm
+−2 (UVA A&B sensor, SolarLight) for controlled time 
+under an inert N2 purge. LCE network reconfigurability was also explored 
+at 60 °C, below their TNI. Specifically, multiple printed LCEs were pressed 
+together between two glass slides (welding) or clamped to maintain 
+their manually reprogrammed shape while exposing them to UV light for 
+30 min per side (top and bottom).
+Mechanical Testing: Stress–strain tests were performed on an 
+Instron 5566 with a 100 N load cell and pneumatic grips at 0.2 mm s
+−1. 
+Nonaligned LCE strips (20 mm × 5 mm × 0.25 mm) were prepared by 
+printing samples without incident UV light and then heating them from 
+25 to 110 °C at 10 °C min
+−1 to erase their shear-induced director alignment 
+prior to crosslinking. These samples were then placed on a glass plate with 
+a thin layer of silicone oil at 125 °C under an inert N
+2 purge and exposed to 
+UV at 18 mW cm−2. For adhesion tests, printed and crosslinked LCE strips 
+(20 mm × 5 mm × 0.25 mm) were cleaned to remove any residual silicone 
+oil by soaking in hexanes and then cut to form two 10 mm ×  5 mm ×  
+0.25 mm strips. Each strip was placed between two clamped sheets of 
+glass held at 60 ° C. Chemically adhered samples were exposed to UV at 
+18 mW cm
+−2 for 30 min per side (top and bottom).
+Wide-Angle X-ray Scattering: X-ray measurements were performed 
+on a SAXSLAB system with a Rigaku 002 microfocus X-ray source 
+(CuK
+α 1 = 1.5409 Å) and sample to detector (PILATUS 200K, Dectris) 
+Adv. Mater. 2020, 32, 1905682
+
+===== PDF PAGE 6 =====
+© 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905682 (6 of 6)
+www.advmat.dewww.advancedsciencenews.comAdv. Mater. 2020, 32, 1905682
+distance of 109.1 mm. 250 µ m thick printed samples and 500 µ m 
+thick locked-in samples were exposed for 5 min (ambient conditions) 
+or 30 s (on heating) (Linkam Scientific, HCSX350). Heated samples 
+were reloaded at each temperature to ensure that order parameters 
+reflected unbiased degrees of orientation. Data were reduced using 
+the Nika macro for Igor Pro. Orientational order parameters < P
+2> were 
+calculated by extracting the mesogen scattering peak intensity as a 
+function of azimuthal angle, masking the beamstop and detector gap 
+regions, and integrating intensity versus azimuthal angle via a custom 
+MATLAB script.
+Supporting Information
+Supporting Information is available from the Wiley Online Library or 
+from the author.
+Acknowledgements
+The authors gratefully acknowledge support via ARO MURI award 
+W911NF-17-1-0351 Adaptive Self-Assembled Systems (ASSEMBLE). This 
+work made use of shared experimental facilities at Harvard University 
+and MIT supported in part by the MRSEC program of the National 
+Science Foundation under awards DMR-1420570 (Harvard) and DMR-
+1419807 (MIT). A.K. acknowledges support from the NSF Graduate 
+Research Fellowship program. Finally, the authors thank L.K. Sanders 
+and C. Settens for technical assistance.
+Conflict of Interest
+J.A.L. is a co-founder of Voxel8, Inc., a multimaterial 3D printing 
+company.
+Keywords
+3D printing, dynamic covalent bonds, light responsive, liquid crystal 
+elastomers, shape memory
+Received: September 1, 2019
+Revised: October 6, 2019
+Published online: October 30, 2019
+[1] H. Aharoni, Y . Xia, X. Y . Zhang, R. D. Kamien, S. Yang, Proc. Natl. 
+Acad. Sci. USA 2018, 115, 7206.
+[2] R. R. Kohlmeyer, J. Chen, Angew. Chem., Int. Ed. 2013, 52,  
+9234.
+[3] M. Camacho-Lopez, H. Finkelmann, P. Palffy-Muhoray, M. Shelley, 
+Nat. Mater. 2004, 3, 307.
+[4] M. Rogoz, H. Zeng, C. Xuan, D. S. Wiersma, P. Wasylczyk, Adv. 
+Opt. Mater. 2016, 4, 1689.
+[5] Y . X. Yao, J. T. Waters, A. V. Shneidman, J. X. Cui, X. G. Wang,  
+N. K. Mandsberg, S. C. Li, A. C. Balazs, J. Aizenberg, Proc. Natl. 
+Acad. Sci. USA 2018, 115, 12950.
+[6] C. L. van Oosten, C. W. M. Bastiaansen, D. J. Broer, Nat. Mater. 
+2009, 8, 677.
+[7] C. Ohm, C. Serra, R. Zentel, Adv. Mater. 2009, 21, 4859.
+[8] D. L. Thomsen, P. Keller, J. Naciri, R. Pink, H. Jeon, D. Shenoy,  
+B. R. Ratna, Macromolecules 2001, 34, 5868.
+[9] J. Kupfer, H. Finkelmann, Makromol. Chem., Rapid Commun. 1991, 
+12, 717.
+[10] L. T. de Haan, V. Gimenez-Pinto, A. Konya, T. S. Nguyen, J. M. N. Verjans, 
+C. Sanchez-Somolinos, J. V. Selinger, R. L. B. Selinger, D. J. Broer,  
+A. P. H. J. Schenning, Adv. Funct. Mater. 2014, 24, 1251.
+[11] T. H. Ware, M. E. McConney, J. J. Wie, V. P. Tondiglia, T. J. White, 
+Science 2015, 347, 982.
+[12] C. P. Ambulo, J. J. Burroughs, J. M. Boothby, H. Kim, M. R. Shankar, 
+T. H. Ware, ACS Appl. Mater. Interfaces 2017, 9, 37332.
+[13] M. Lopez-Valdeolivas, D. Q. Liu, D. J. Broer, C. Sanchez-Somolinos, 
+Macromol. Rapid Commun. 2018, 39, 1700710.
+[14] A. Kotikian, R. L. Truby, J. W. Boley, T. J. White, J. A. Lewis, Adv. 
+Mater. 2018, 30, 1706164.
+[15] Z. Q. Pei, Y . Yang, Q. M. Chen, E. M. Terentjev, Y . Wei, Y . Ji, Nat. 
+Mater. 2014, 13, 36.
+[16] Z. J. Wang, H. M. Tian, Q. G. He, S. Q. Cai, ACS Appl. Mater. Inter-
+faces 2017, 9, 33119.
+[17] Z. B. Wen, M. K. McBride, X. P. Zhang, X. Han, A. M. Martinez, 
+R. F. Shao, C. H. Zhu, R. Visvanathan, N. A. Clark, Y . Z. Wang,  
+K. K. Yang, C. N. Bowman, Macromolecules 2018, 51, 5812.
+[18] D. W. Hanzon, N. A. Traugutt, M. K. McBride, C. N. Bowman,  
+C. M. Yakacki, K. Yu, Soft Matter 2018, 14, 951.
+[19] M. Gernhardt, E. Blasco, M. Hippler, J. Blinco, M. Bastmeyer, 
+M. Wegener, H. Frisch, C. Barner-Kowollik, Adv. Mater. 2019, 31, 1901269.
+[20] A. Lendlein, H. Y . Jiang, O. Junger, R. Langer, Nature 2005, 434, 879.
+[21] T. F. Scott, A. D. Schneider, W. D. Cook, C. N. Bowman, Science 
+2005, 308, 1615.
+[22] C. J. Kloxin, C. N. Bowman, Chem. Soc. Rev. 2013, 42, 7161.
+[23] R. Nicolay, J. Kamada, A. Van Wassen, K. Matyjaszewski, Macromol-
+ecules 2010, 43, 4355.
+[24] D. P. Nair, M. Podgorski, S. Chatani, T. Gong, W. X. Xi, C. R. Fenoli, 
+C. N. Bowman, Chem. Mater. 2014, 26, 724.
+[25] M. K. McBride, M. Hendrikx, D. Q. Liu, B. T. Worrell, D. J. Broer,  
+C. N. Bowman, Adv. Mater. 2017, 29, 1606509.
+[26] M. Warner, P. Bladon, E. M. Terentjev, J. Phys. II 1994, 4, 93.
+[27] K. Urayama, E. Kohmon, M. Kojima, T. Takigawa, Macromolecules 
+2009, 42, 4084.
+[28] N. A. Traugutt, R. H. Volpe, M. S. Bollinger, M. O. Saed,  
+A. H. Torbati, K. Yu, N. Dadivanyan, C. M. Yakacki, Soft Matter 
+2017, 13, 7013.
+[29] G. Skacej, C. Zannoni, Macromolecules 2014, 47, 8824.
+[30] G. Skacej, Soft Matter 2018, 14, 1408.
+[31] F. J. Davis, G. R. Mitchell, Polymer 1996, 37, 1345.
+[32] M. K. McBride, A. M. Martinez, L. Cox, M. Alim, K. Childress, 
+M. Beiswinger, M. Podgorski, B. T. Worrell, J. Killgore,  
+C. N. Bowman, Sci. Adv. 2018, 4, eaat4634.
+[33] R. A. Evans, E. Rizzardo, Macromolecules 1996, 29, 6983.

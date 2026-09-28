@@ -1,0 +1,1426 @@
+
+
+===== PDF PAGE 1 =====
+Donor−Acceptor Stenhouse Adducts as Intrinsically
+Photoswitchable Dynamic Covalent Bonds
+Emmanuel A. Garcia Villatoro, Shoki Matsushima, Jonathan H. Sklar, and Julia A. Kalow*
+Cite This: J. Am. Chem. Soc. 2025, 147, 38452−38464
+ Read Online
+ACCESS
+Metrics & More
+ Article Recommendations *
+sı Supporting Information
+ABSTRACT: Combining dynamic covalent bonds with photoswitches
+allows the kinetics and thermodynamics of exchange to be controlled with
+light. However, this two-component strategy introduces synthetic and
+compatibility challenges. Here, we present a single-component strategy
+using donor−acceptor Stenhouse adducts (DASAs) as both the photo-
+switch and the dynamic covalent bond. DASAs isomerize from “open” to
+“closed” forms with light and heat, respectively. We discovered that open
+DASA isomers undergo dynamic covalent exchange of their amine donor
+via two pathways, reversible dissociation and conjugate transamination.
+Exchange can then be arrested upon irradiation to form the closed DASA
+isomer, offering a handle to gate dynamic behavior. Consequently,
+incorporating DASAs as cross-linkers in PDMS-based networks yields covalent adaptable networks (CANs) with viscoelastic
+behavior that can be tuned by light. We also identify degradation pathways that limit the reversibility of this system under extended
+heating. Overall, DASA exchange represents a synthetically accessible platform for photocontrolled soft materials. More broadly, this
+work introduces DASAs as a new class of intrinsically photoswitchable dynamic covalent bonds and lays the foundation for the
+discovery of other stimuli-gated dynamic bonds that combine reactivity and responsiveness in a single molecular unit.
+■
+INTRODUCTION
+Dynamic covalent chemistry has emerged as a powerful
+strategy to control the assembly and reorganization of
+molecules and materials using reactivity principles.
+1
+Among
+the many applications of dynamic covalent bonds, covalent
+adaptable networks (CANs) represent a promising opportunity
+to combine the elasticity of permanent networks with the
+ability to flow under conditions that permit bond exchange.
+2−4
+Tuning the kinetics and thermodynamics of the dynamic
+bonds within the CAN in turn tunes key material properties
+such as relaxation time, cross-link density, and degradability.
+5,6
+We can gain further spatiotemporal control over material
+properties when we couple exchange to an external stimulus.
+Among such stimuli, light is especially advantageous, providing
+fast and precise localized control without direct physical
+contact or additional reagents. Photocontrol is therefore
+attractive for applications that demand on-demand reconfigur-
+ability such as soft robotics,
+7
+microfabrication,
+8,9
+and adaptive
+biomedical materials.
+10,11
+Reversible spatiotemporal control of dynamic covalent
+bonds has previously been achieved using photoswitches,
+chromophores that undergo rapid and reversible chemical
+transformations upon light absorption. By engineering the
+interaction of a photoswitch with one partner of a dynamic
+covalent bond, thermodynamics and kinetics can be affected.
+Design principles include (de)activating the dynamic bond
+through valence bond tautomerization,
+12−17
+gating the activity
+of an internal catalyst,
+18,19
+and preferentially stabilizing the
+bound or unbound state (Figure 1a).
+18,20,21
+While this
+approach is effective, it requires the incorporation of a separate
+light-responsive unit in addition to the exchangeable bond,
+demanding significant synthetic effort and thus hindering
+scalability and iterative optimization. Compatibility between
+the dynamic bond and the photoswitch is also a limiting factor.
+For example, strong nucleophiles commonly used in dynamic
+covalent bonds, such as thiols and amines, can compromise
+photoswitch stability.
+22−24
+To overcome these limitations, we
+envision that dynamic control could be achieved using a single
+chemical entity capable of both bond exchange and photo-
+switching (Figure 1b). This approach is underrepresented in
+the literature
+25−29
+and has not been explored in CANs.
+To achieve the goal of intrinsically photoswitchable dynamic
+covalent chemistry, we focused on donor−acceptor Stenhouse
+adducts (DASAs). Upon visible-light irradiation, the thermally
+stable, highly colored “open” DASA isomer converts to a
+colorless “closed” isomer.
+30−32
+This transformation reduces
+optical density and enhances light penetration into the bulk
+material, an advantage over other photoswitch classes.
+33
+The
+Received: July 11, 2025
+Revised: September 26, 2025
+Accepted: September 29, 2025
+Published: October 14, 2025
+Articlepubs.acs.org/JACS
+© 2025 American Chemical Society
+38452
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 2 =====
+closed form can thermally revert to the open isomer, enabling
+repeated cycling. Consequently, DASA incorporation into
+polymers has enabled applications for sensing, actuation,
+encryption, and photosensitive nanoreactors.
+30,34−38
+Recent studies indicate that the underlying DASA-forming
+reaction�the aza-Piancatelli rearrangement�might itself be
+reversible, rendering DASA formation dynamic (Figure
+1b).
+39−45
+Evidence suggests that polymer-bound DASAs can
+slowly dissociate in the dark into their constituent activated
+furan and secondary amine.
+46−48
+Small-molecule studies
+support the reversibility hypothesis,
+39,41
+especially under acidic
+conditions
+42
+or for sterically hindered DASAs.
+40
+Rather than as
+a liability, we view this dynamic association−dissociation as a
+foundation for stimuli-responsive CANs.
+In this work, we study the dynamic chemistry of the open
+DASA isomer and construct DASA-cross-linked polymer
+networks with photoswitchable viscoelasticity (Figure 1c).
+Small-molecule model systems reveal that the open DASA
+isomer undergoes thermally activated dissociation into its
+starting materials via the retro-aza-Piancatelli reaction, a
+process that is not possible in the closed state. In addition to
+this mechanism, we describe an alternative conjugate
+addition−elimination pathway for transamination of the open
+DASA. This second exchange process is analogous to the well-
+known vinylogous urethane transamination reaction,
+49−52
+previously found to mediate exchange in the related spiropyran
+and polymethine polyenes.
+53,54,28
+Notably, there are reports of
+reversible Michael addition of thiols, amines, and alcohols to
+the closed isomer;
+55−57
+however, these reactions are not light-
+addressable and thus do achieve the photoswitchable behavior
+described here. We also characterize decomposition pathways
+for DASAs that become significant at elevated temperatures.
+Building on these findings, we developed a simple, scalable
+method for incorporating DASAs as cross-linkers in poly-
+dimethylsiloxane (PDMS) CANs. Shear rheology measure-
+ments reveal that DASA cross-linkers impart viscoelastic flow
+behavior to the material, with a characteristic Arrhenius
+dependence of relaxation time with temperature. Finally, we
+show that DASA photoisomerization enables modulation of
+network viscoelasticity, as evidenced by a reduction in creep
+rate under continuous irradiation. Acting as a kinetic sink in
+the dynamic covalent system, photoisomerization effectively
+controls the material’s dynamic behavior. However, full
+reversibility is compromised by DASA isomerization to a
+Figure 1. Strategies for light-controlled dynamic covalent exchange in CANs. (a) Previous strategies commonly rely on a two-component design
+wherein the photoswitch (red) and dynamic bond (blue) are separate units. An example from the literature illustrates this principle.
+19
+(b) Donor−
+acceptor Stenhouse adducts (DASAs) as intrinsically photoswitchable dynamic bonds, undergoing exchange only in the open state. (c) Proposed
+pathways for dynamic covalent exchange on the DASA structure and application to CANs with gated viscoelasticity. Dashed arrows represent
+previously underexplored reactions. Note that neutral forms of the DASA are shown throughout this manuscript; however, depending on the
+donor/acceptor identities, solvent, and concentration, zwitterionic forms (not shown) may be favored.
+33
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38453
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 3 =====
+nonexchanging species. These findings highlight DASAs as
+uniquely multifunctional cross-linkers capable of both dynamic
+bonding and photoresponse.
+■
+RESULTS AND DISCUSSION
+NMR Evidence for a DASA aza-Piancantelli Equili-
+brium. Previous reports suggest slow DASA dissociation at
+room temperature, only detecting dissociation products after
+several days.
+48
+However, few studies had been performed at
+elevated temperature.
+58,59
+We decided to verify this general
+reactivity using variable-temperature
+1
+H NMR (VT-NMR) to
+monitor the dissociation of open first-generation DASA (1o)
+into the constituent amine and activated furan by a dissociative
+retro-aza-Piancatelli pathway (Figure 2a). Detection of the
+barbituric acid-derived activated furan (2) and the secondary
+amine (3) was quickly observed at 100 °C in ortho-
+dichlorobenzene-d4 (o-DCB-d
+4
+) (Figure 2b), reaching a steady
+state at 5% conversion, as measured by the intensity of the
+furan aromatic signal at 8.2 ppm (Figure 2c). This equilibrium
+condition suggests dissociation might be a reversible process.
+The formation of 2 and 3, however, is accompanied by a steady
+decrease in 1o concentration, according to the hydroxyl signal
+intensity at 12.5 ppm. By 200 min at 100 °C, 25% of the initial
+1o was consumed without reaching a final steady-state
+concentration; most of this conversion does not result in the
+dissociation product. This observation therefore suggests that
+additional reaction pathways may be involved, such as thermal
+isomerization or decomposition.
+To confirm the reversibility of the aza-Piancatelli reaction at
+100 °C, we also analyzed the association between 2 and 3.
+Tracking the same signals by
+1
+H NMR, rapid formation of 1o
+from 2 and 3 was observed (see Supporting Information (SI),
+Figure S4). Again, the amount of 1o formed was less than the
+amount of 2 consumed, suggesting a side reaction of 1o. In
+both directions, signal overlaps in key regions of the spectrum
+prevented a definitive identification of these side reactions
+using VT-NMR alone.
+LCMS Kinetic Studies of the DASA Dissociative
+Equilibrium. Given the limitations of NMR techniques, we
+turned to reverse-phase liquid chromatography−mass spec-
+trometry (LCMS) to gain more insight into the reaction. Since
+DASA isomers differ greatly in geometry and polarity, we were
+able to detect three stable species in solution (Figure S5).
+Based on the retention times of authentic samples and m/z
+values, these species were identified as the open triene isomer
+(1o), the closed cyclopentenone isomer (1c), and a β-
+enaminone closed isomer (1e) (Figure 3a). LCMS calibration
+curves for all the relevant species were measured using disperse
+red 1 as an internal standard for quantification (Figure S6).
+While we were unable to quantify 3 by LCMS, we observed
+good fits to our kinetic model even without this information
+(vide inf ra). Kinetic studies of the reaction in both the
+associative (from 2 and 3) and dissociative (from 1) directions
+were performed between 80−120 °C in o-DCB (Figures S12−
+S14). Full experimental details can be found in the SI (Section
+IIb).
+In the association (aza-Piancantelli) direction, we observed
+rapid consumption of 2 and formation of 1o, in agreement
+with the VT-NMR studies (Figure 3b). Although the literature
+often describes the open triene to be the predominant species
+at elevated temperature, particularly in nonpolar sol-
+vents,
+33,58,60
+we also observed fast thermal isomerization to
+1c after initial formation of 1o. However, 1c does not build up
+because a second isomerization to a β-enaminone closed
+isomer (1e) was observed. We speculate that 1c undergoes a
+double bond migration in the cyclopentenone core to form the
+β-enaminone isomer, a thermodynamically favorable trans-
+formation due to conjugation of the nitrogen lone pair with the
+carbonyl group (Figure S7). A related β-enaminone isomer
+(further condensed to form the iminium) was previously
+isolated by Breza and co-workers in their study of the thermal
+reactivity of Meldrum’s acid-derived DASAs.
+59
+Kinetic experi-
+ments in the presence of iPr
+2
+NEt suggest that it acts as a
+Figure 2. VT-NMR studies of the retro aza-Piancatelli dissociation
+reaction. (a) Model reaction scheme. (b) Representative
+1
+H NMR
+traces. Dimethylsulfone was used as internal standard. See SI for full
+spectra (Figure S3). (c) Relative concentrations for the model
+reaction. For clarity, only the activated furan 2 (green circles) and
+open-DASA 1o (purple squares) are shown. [1o]
+0
+= 25 mM in o-
+DCB-d
+4
+at 100 °C.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38454
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 4 =====
+proton shuttle, with increasing isomerization and decom-
+position rates (Figure S15 and Table S1). Interestingly, the
+dissociation of 1o was mildly inhibited in the presence of base.
+At temperatures below 100 °C, a steady-state equilibrium
+among the activated furan and various DASA isomers is
+established (Figure 3b), suggesting the reversibility of the
+DASA formation and isomerization processes. This reversi-
+bility was confirmed by cooling the dissociated species to 50
+°C. Slow consumption of 2 and reformation of DASA were
+observed over 150 min (Figure S14). However, after prolonged
+heating at higher temperatures (≥100 °C), irreversible side
+reactions were detected, leading to a decrease in total DASA
+concentration (Figure 3c). Decomposition of the DASA was
+correlated with the appearance of new species by LCMS
+(Figure S5). One of these decomposition products was isolated
+by preparative HPLC and characterized as 1d. We also
+identified fragment 1d′ by mass and hypothesize that
+hydrolytic cleavage of 1e by trace water in the medium can
+lead to the observed decomposition products (Figure S8).
+While these results provide insight into the thermal behavior of
+this specific DASA, the generality of this reactivity across
+different DASA structures and environmental conditions is still
+under investigation.
+We fit our kinetic data to the set of elementary reactions
+outlined in Figure 3a using a custom fitting program to
+quantitatively describe the observed reactivity of our model
+system. Briefly, we formulated a system of ordinary differential
+equations arising from the law of mass action for our model
+system. This system can be numerically solved in time
+according to guesses for the various rate constants for all
+hypothesized species. The rate constants were then optimized
+for best fit of the experimental data (quantified via LCMS).
+Additional details can be found in the SI (Section IIb).
+Although the model predicts the time-dependent concen-
+trations of all species in the reaction, we restrict direct
+comparison to those species that can be experimentally
+observed.
+To draw insights into the thermodynamics of the model
+system, we focus on the association−dissociation reactions as
+they control the dynamic exchange process (Figure 4a). The
+equilibrium constant K
+eq
+for this association−dissociation (aza-
+Piancatelli) equilibrium was approximated from the ratio of k
+a
+/
+k
+d
+(Figure 4b). As expected from the change in molecularity,
+K
+eq
+displays an inverse relationship with temperature and
+confirms that dissociation is driven by entropy at higher
+temperatures. Accordingly, van’t Hoff analysis provides ΔH
+r
+=
+−65 kJ mol
+−1
+and ΔS
+r
+= −166 J mol
+−1
+K
+−1
+for the associative
+equilibrium (Figure S18). Both association and dissociation
+exhibit Arrhenius behavior, suggesting that a single mechanism
+dominates throughout the temperature interval studied (Figure
+4c). Although these transformations likely involve multistep
+mechanisms, using this Arrhenius relationship, we approximate
+the overall activation energies for the association and
+dissociation processes as 46 and 111 kJ/mol, respectively.
+The impact of amine nucleophilicity on the equilibrium was
+assessed using amine 4, which has an inductively electron-
+withdrawing methoxy substituent (Figure 4b). As before, rapid
+formation of the open DASA isomer 5o is observed, followed
+by the same sequence of isomerization steps via the closed
+cyclopentenone 5c followed by olefin migration to β-
+enaminone 5e (Figure S17). As expected from the lower
+nucleophilicity of 4,
+39
+a 3-fold reduction in association rate
+Figure 3. Kinetics studies of DASA dynamic covalent exchange. (a) Elementary steps involved in the thermal reactivity. Representative
+concentration versus time profiles for the association reaction at (b) 80 °C and (c) 100 °C. The complete data set can be found in the SI (Figure
+S12). For the association direction, [2]
+0
+= [3]
+0
+= 25 mM in o-DCB. The same reactivity was observed when studying the system in the dissociation
+(retro-aza-Piancantelli) direction (Figure S13). Markers are experimental data; smooth lines are fits to the kinetic model.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38455
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 5 =====
+(k
+a
+) compared to 3 was observed along with a 3-fold increase
+in dissociation rate (k
+d
+) compared to 1o (Figure 4b). A similar
+trend was observed for the thermal decomposition trend, with
+k
+L
+increasing from 0.37 × 10
+−3
+s
+−1
+to 0.52 × 10
+−3
+s
+−1
+. (Table
+S1). These results show how amine nucleophilicity plays a key
+role on the dissociative equilibrium by controlling the stability
+and kinetic lability of the DASA. These results also suggest that
+second- and third-generation DASAs that feature weakly
+nucleophilic amine donors may undergo dissociation at lower
+temperatures.
+61
+Exchange studies with different DASA donors
+and acceptors are ongoing.
+DASA Dynamic Covalent Exchange. We next sought to
+confirm whether DASAs can undergo exchange via this
+dissociative mechanism. We performed a crossover experiment
+between mass-labeled DASA 5o and 6o at 100 °C. LCMS
+analysis revealed partial scrambling of the amines, providing
+direct support for dynamic exchange through this dissociative
+mechanism (Figure 5). However, this reaction exhibited a
+considerable induction period before the expected exchange
+products were observed, with side reactions such as isomer-
+ization and decomposition to 5−6d/d′ outcompeting
+exchange (Figure S9). The induction period is the expected
+result of a slow dissociation process producing low
+concentrations of exchangeable partners and, consequently, a
+slow rate for bimolecular reassociation.
+Given recent literature on related polyenes, such as
+spiropyran and cyanines,
+28,53,54
+we hypothesize DASAs could
+also undergo an associative (bimolecular) transamination
+exchange mechanism via addition of amine followed by
+elimination (Figure 6a). To test the relevance of this
+mechanism, we studied the reactivity of the DASA 5o in the
+presence of an equimolar amount of amine 3 at 100 °C (Figure
+6b). Under these conditions, rapid formation of the expected
+exchange product 1o was confirmed. However, rapid and
+irreversible isomerization of both DASAs to the β-enaminone
+analogs, 1e and 5e, were also observed. The corresponding
+closed isomers, 1c and 5c, were also detected as intermediates
+in the amine-mediated isomerization of DASAs.
+37,59
+Once the
+concentrations of olefin-migrated closed isomers 1e and 5e
+reach a steady state, no further exchange is observed,
+demonstrating that the β-enaminone does not exchange. If
+exchange of these species were possible, we would expect 1e to
+be favored over 5e by ∼8:1 based on the previously
+determined equilibrium constants for DASA formation and
+greater nucleophilicity of amine 3. The steady-state composi-
+tion instead favors 5e by 1:7, consistent with these isomers
+being kinetically trapped. Although thermal decomposition
+products 1d and 5d were detected, this process was not found
+to be significant under these conditions (<2%). Further studies
+are required to understand why this decomposition pathway is
+suppressed in the presence of added amine.
+The role of basic additives in the system was analyzed by
+performing exchange of 1o with 3 in the presence of DIPEA
+(Figure S19). The addition of base resulted in an overall slower
+exchange process. Interestingly, thermal decomposition to 1d
+and 1d′ increased under these conditions. This latter
+observation lends additional support for the proposed
+hydrolysis mechanism for their formation (Figure S8)).
+Initial rate kinetics experiments show that the rate of
+formation of exchange products depends on the concentration
+of the exchangeable amine (Figure S20). Power-law fitting of
+the data provided a fractional rate order of ∼ 0.7, indicating the
+free amines are partially involved in the rate-determining step.
+Figure 4. Kinetic analysis of the DASA equilibrium. (a) Generalized
+model reaction system. (b) Fitted kinetic parameters. (c) Arrhenius
+analysis for the determination of activation energy parameters for the
+association (aza-Piancatelli) and dissociation (retro-aza-Piancatelli)
+reactions. A similar analysis for the isomerization and decomposition
+reactions can be found in the SI (Figure S16).
+Figure 5. Dissociative exchange crossover experiment. The formation
+of the corresponding closed and enaminone isomers was also
+detected. Initial concentrations: [5o]
+0
+= [6o]
+0
+= 25 mM in o-DCB
+at 100 °C. Kinetic traces can be found in the SI (Figure S9). Due to
+the lack of authentic standards for all the possible species present,
+quantitative analysis is not performed.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38456
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 6 =====
+This observation suggests that a combination of dissociative
+and associative mechanistic pathways is involved in the DASA
+exchange process.
+To demonstrate the light-addressability of the system, the
+exchange reaction was also studied with continuous irradiation
+(Figure S21). Under irradiation with high-power white LEDs
+at 100 °C in o-DCB, we observe significantly slower formation
+of the exchange products, ultimately resulting in a decrease in
+the total exchange fraction (Figure 6c). To confirm this
+difference in reactivity is the result of the formation of closed
+isomer 5c, exchange starting with the isolated isomer was
+performed, reaching a similar result (Figure S22). However,
+even under irradiation, rapid thermal isomerization of the
+cyclopentenone into the open (5o) and β-enaminone (5e)
+isomers results in significant exchange and makes it challenging
+to isolate the contribution of 5c.
+As is known that the closed isomer is stabilized in polar
+protic solvents, we also probed the differences in reactivity
+Figure 6. DASA dynamic covalent exchange. (a) Pathways for DASA exchange, involving a combination of addition−elimination (top) and
+dissociation−association (middle) mechanisms. (b) Kinetic traces for the exchange experiments using [5o]
+0
+= [3]
+0
+= 50 mM at 100 °C in o-DCB.
+The traces for the closed 5c and 1c isomers were omitted for clarity as they quickly convert back to the open form in the LCMS solution. (c)
+Exchange product fraction under different irradiation conditions (100 °C, o-DCB). Irradiation was provided by a white light LED array with 34.1
+W total radiant flux.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38457
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 7 =====
+using a mixture of 2-methoxyethanol and water (8:2) at room
+temperature to minimize contributions from the thermal
+isomerization pathway (Figure S23). When starting the
+reaction with 5o, 16% exchange yield was observed after 24
+h. In contrast, when starting the reaction with the closed
+isomer 5c under the same conditions, minimal formation of
+exchange products was observed (<3%), likely arising from the
+small fraction of open isomer present under these conditions.
+These observations support the hypothesis that the closed
+isomer does not exchange through associative or dissociative
+pathways and suggest that DASA isomerization with external
+stimuli can control the dynamic covalent chemistry.
+DASA-Cross-Linked Covalent Adaptable Networks.
+Given the tunability of DASA exchange observed in small-
+molecule model systems, we sought to integrate DASAs as
+dynamic cross-links into polymeric networks and investigate
+their macroscopic viscoelastic behavior. Although a large body
+of literature describes polymers with pendent DASAs, their
+incorporation as cross-linkers remains unexplored.
+33
+Building
+on protocols for installing pendent DASAs, we incorporated
+DASA cross-linkers into an elastomeric network by cross-
+linking a secondary amine-containing PDMS prepolymer with
+a bifunctional activated furan (Figure 7a).
+To simplify the material’s rheological behavior, we initially
+selected commercial PDMS (M
+n
+12 kg/mol) below entangle-
+ment molecular weight.
+62,63
+Both prepolymer P1 (10%
+secondary amine functionalization, 10 amines/chain on
+average) and the activated furan cross-linker 8 were readily
+prepared in two steps from commercially available starting
+materials at the multigram scale. Full synthetic details can be
+found in the SI. Upon mixing P1 and 8 in CHCl
+3
+, a gel (Net-
+1) with the characteristic dark purple color of the DASA was
+formed. A second network (Net-2) using higher-molecular-
+weight PDMS (P2, M
+n
+50 kg/mol) was also prepared in one
+step from commercially available precursors. A lower
+secondary amine content (3%) was used in Net-2 to maintain
+approximately 30 amines per chain on average. To lower the
+grafting density of the commercial PDMS prepolymers and
+form materials with suitable properties for mechanical testing,
+while avoiding side reactions of the excess secondary amines,
+we alkylated a fraction of the secondary amines, forming
+tertiary amines that do not undergo cross-linking.
+Network formation was characterized using oscillatory shear
+rheology, showing a gel point for the P1/8 mixture at 1800 s
+(Figure 7b). The storage modulus continued to increase after
+this time due to a combination of additional cross-linking and
+solvent evaporation, approaching a maximum after 20 h. Based
+on these results, dry polymer networks were prepared by
+solvent casting P1 or P2 and 8 in a 1:1 ratio of donor and
+acceptor, followed by curing at room temperature for 48 h to
+allow slow solvent evaporation. The samples were then
+annealed into flat films of uniform width by heating at 100
+°C for 10 min under ten tons of ram force. Our small-molecule
+kinetics studies suggest that <5% isomerization and decom-
+position occur within 10 min. Control static networks with
+amide cross-linkers, Control-1 and Control-2, were also
+prepared using P2 and P2 according to literature protocols.
+64
+To confirm the incorporation of DASAs into the networks,
+attenuated total reflectance Fourier transform infrared spec-
+troscopy (ATR-FTIR) was performed (Figure S26). The
+disappearance of the alkenyl C−H and carbonyl C = O bands
+at 3125 and 1727 cm
+−1
+, respectively, indicated complete
+consumption of the activated furan cross-linker. Several bands
+in the 1750−1250 cm
+−1
+region were used as evidence of DASA
+formation by comparison to small-molecule spectra. No
+significant changes in the chemical composition of the network
+can be readily observed due to the annealing step, as expected
+from small-molecule experiments (Figure S26). Phase
+separation in the DASA-cross-linked materials Net-1 and
+Net-2 was observed using small-angle X-ray scattering (Figure
+S27), revealing disorganized phases with domain sizes of 6.3
+and 6.1 nm, respectively. No phase separation was observed for
+Control-1, whereas Control-2 exhibits a diffuse feature
+corresponding to a domain size of 13.2 nm. Wide-angle X-
+ray scattering suggests there is no crystallization in any of the
+control or DASA networks (Figure S28). Similar phase
+separation was observed previously when incorporating
+pendent DASAs in a PDMS matrix
+65
+and could be exacerbated
+by the dynamic covalent chemistry.
+66
+Dynamic mechanical thermal analysis (DMTA) was used to
+study the networks’ mechanical properties as a function of
+temperature (Figures S29−S31). For Net-1, two individual
+Figure 7. (a) Scheme for the synthesis of DASA-cross-linker network
+Net-1. A photograph of the material is included to show the
+characteristic dark purple color of the DASA chromophore. (b)
+Oscillatory shear time sweep to monitor gelation kinetics (1% strain,
+10 Hz). The inset highlights the crossover point at 1800 s. The
+apparent crossover point around 1200 s is an experimental artifact
+from the torque resolution of the instrument at low viscosity.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38458
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 8 =====
+phase transitions were observed, confirming a significant
+degree of phase separation. The first transition at −78 °C is
+assigned to the glass transition of the PDMS backbone. The
+second transition at 69 °C is likely a localized phase transition
+within a DASA-rich phase. This second transition was not
+observed for the control network, which exhibited a single T
+g
+at −47 °C. Interestingly, Net-1 exhibited a significantly higher
+plateau modulus (G′ = 380 kPa at 100 °C) than the
+corresponding Control-1 (G′ = 115 kPa at 100 °C) even
+though they are prepared from the same prepolymer, with the
+same stoichiometry of cross-linker (Figures S32−S33). This
+increased stiffness has been observed previously for polymers
+with pendent DASAs and could be attributed in part to phase
+separation,
+65
+hydrogen bonding, and the formation of DASA J-
+aggregates.
+36,67,68
+Net-2 derived from higher-molecular-weight
+PDMS also exhibited two thermal transitions, at −105 and 25
+°C. As expected from the lower cross-link density, the rubbery
+plateau modulus of Net-2 is lower (G′ = 136 kPa at 100 °C)
+than that of Net-1. The molecular weight between cross-links
+of Net-2 is estimated to be ∼22 000 g/mol, consistent with an
+entangled network.
+69
+Although the corresponding Control-2 is
+slightly softer (G′ = 105 kPa at 100 °C) than Net-2, the
+difference is not as significant as that of the materials made
+with P1, likely due to the lower degree of functionalization.
+To further probe cross-link density, swelling ratios in CHCl
+3
+were measured for Net-1 (2.7), Control-1 (4.2), Net-2 (3.7)
+and Control-2 (5.7). These results suggest that DASA-cross-
+linked networks may have significantly higher effective cross-
+link density than control networks, even when the effect of
+phase separation is removed or reduced. Incomplete
+conversion is unlikely to account for the observed differences
+as gel fractions between 90−93% were obtained for all samples
+(Table S2). Instead, the discrepancies in effective cross-link
+density may arise from variations in the proportion of
+elastically ineffective defects (e.g., loops) within the networks.
+The shorter cross-linker of the control networks likely
+promotes loop formation, reducing effective cross-link
+density.
+70
+Furthermore, the dynamic nature of the DASA
+cross-links may facilitate defect healing,
+71
+resulting in a stiffer
+material.
+Stress Relaxation Measurements. The effect of DASA
+cross-linkers on the strain response of the polymer networks
+was evaluated using shear stress relaxation (Figure 8). These
+measurements were performed in the linear viscoelastic regime
+as confirmed by frequency and amplitude sweeps (Figures
+S32−S33). As shown in Figure 8a, Net-1 exhibited substantial
+stress relaxation over the measured time window compared to
+the amide-cross-linked Control-1. The stress relaxation data
+were fit to a stretched exponential model
+72
+to obtain a
+characteristic relaxation time τ = 150 min at 100 °C. Due to
+backbone entanglement, stress relaxation time of Net-2 was
+slightly slower (τ = 200 min at 100 °C). The fitting factor β for
+Net-1 and Net-2 were 0.47 and 0.44, respectively, consistent
+with inhomogeneous materials that cannot be accurately
+represented with a single Maxwell element. In contrast, the
+control networks exhibited slow relaxation, retaining >75% of
+their stress after 150 min. The stress relaxation data for
+Control-1 and Control-2 were fit to the same stretched
+exponential model to obtain extrapolated relaxation times of
+500 and 1650 min at this temperature. This slow partial
+relaxation is ascribed to chain mobility through defects like
+dangling ends or background siloxane exchange; we note,
+however, that the latter process generally requires a strong acid
+or base catalyst.
+73−75
+Although noncovalent interactions (e.g.,
+H-bonding) can impart dynamic behavior on polymer
+networks, the lifetime of such interaction is too short to
+significantly contribute to the observed slow relaxation at the
+elevated temperatures used in these measurements.
+76−78
+Therefore, the dynamic behavior is primarily attributed to
+the dynamic covalent chemistry of the DASA cross-links, albeit
+Figure 8. Representative stress relaxation experiments for (a) Net-1
+and (b) Net-2 at several temperatures (1% strain, 1N normal force).
+Stress was normalized relative to the value at 1s. (c) Arrhenius
+analysis to determine the material flow activation energy. Symbols
+correspond to experimental data, and lines represent fit to the model.
+Experiments were performed in triplicate (Figures S34−S37); the
+complete data set is available in the Supporting Information (Tables
+S3−S4).
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38459
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 9 =====
+influenced by these noncovalent interactions.
+79
+Taken
+together, these results confirm that DASAs effectively act as
+dynamic covalent cross-links, enabling time-dependent strain
+response.
+The relaxation time for both Net-1 and Net-2 follows an
+Arrhenius relationship between 100 and 160 °C (Figure 8),
+suggesting CAN relaxation is dominated by a single process
+within this temperature range. However, we were unable to
+perform stress relaxation measurements over a sufficiently large
+temperature range to observe a change in slope, as has been
+observed for other CANs featuring multiple exchange
+mechanisms or relaxation processes.
+80,81
+From the Arrhenius
+analysis, the flow activation energy (E
+a
+) was determined to be
+62 ± 8 kJ/mol for Net-1. This value aligns with reported
+activation energies for other PDMS-based CANs, such as those
+based on transesterification (74 kJ/mol),
+82
+dithioalkylidenes
+(55−70 kJ/mol),
+83
+disulfides (94−120 kJ/mol),
+84
+and vinyl-
+ogous urethane (68−150 kJ/mol).
+85
+Assuming full conversion
+of the amine side-chains during the network preparation, we
+expect that the dissociation-association pathway should be the
+dominant mechanism for exchange. However, the flow
+activation energy found is notably lower than that of the
+small-molecule model system (111 kJ/mol). This discrepancy
+may arise from matrix effects such as polarity, phase separation,
+contributions from the associative exchange mechanism, and
+polymer dynamics, all of which can significantly influence
+activation energy.
+85,86
+Further studies exploring the impact of
+matrix effects on the exchange process are currently underway.
+Following the same Arrhenius analysis (Figure 8c), the flow
+activation energy for Net-2 was found to be 28 ± 2 kJ/mol,
+much smaller than the value observed for Net-1. We
+hypothesize that the relaxation of this entangled network
+might be controlled by backbone reptation enabled by the
+DASA dynamic covalent chemistry, an observation previously
+reported for other dynamic polymer networks.
+87,88
+As a result,
+the flow activation energy is aligned closer to the value found
+for PDMS reptation (18.3 kJ/mol
+89
+).
+Photoisomerization of DASA-Cross-Linked Materials.
+To explore the potential for external control over the
+viscoelastic properties of the network, we investigated the
+photoisomerization behavior of DASA-based CANs. Although
+there is a large body of evidence showing the ability of DASAs
+to isomerize in solid matrices,
+33
+most reports incorporate them
+only as pendent groups with high conformational freedom. We
+were initially concerned that increased conformational
+constraints imposed on DASAs as cross-linkers might impede
+their photochromic behavior. To study photochromism within
+the network, we dropcast Net-1 on a glass slide to make thin
+films of the material (Section IIf). Despite being covalently
+integrated as cross-linkers, we showed that DASAs retained
+their ability to undergo reversible photoisomerization under
+visible light irradiation (Figure 9a). Thermal back isomer-
+ization was then promoted by gently heating the sample for 2
+min at 80 °C, above its second thermal transition. Without
+heating, isomerization back to the open form is not evident,
+even after several days at room temperature. The absence of
+reversion at room temperature is likely due to restricted
+chromophore mobility within the high-T
+g
+, DASA-rich
+domains.
+UV−vis spectrophotometry was then used to quantify the
+reversibility of the process by monitoring the relative
+absorbance at 530 nm after several cycles of irradiation and
+heating (Figure 9b). To minimize irreversible bleaching/
+decomposition during extended irradiation or heating, which
+are known phenonena,
+33
+we did not attempt to reach the
+photostationary state during each cycle. As expected,
+irradiation and heating of the samples results in partially
+reversible changes in light absorption. The changes in
+absorbance suggest that approximately 45 ± 9% of cross-
+links undergo transformation per irradiation cycle, but this
+value cannot be solely attributed to photoisomerization. In
+addition to the desired photoisomerization, the incomplete
+reversion indicates that irreversible photoconversion and
+decomposition also contribute significantly. Some degree of
+irreversible bleaching is likely caused by the harsh irradiation
+conditions (100 mW/cm
+2
+). Nonetheless, FTIR measurements
+on this material suggest a similar chemical composition is
+recovered after the heating cycles, albeit without fully returning
+to the initial state (Figure S38).
+The network incorporates a significant fraction of free
+tertiary amines as side-chains that accelerate irreversible
+thermal isomerization to the colorless β-enaminone isomer,
+as supported by our small-molecule model studies. These
+results may suggest that the efficiency and reversibility of
+DASA photoisomerization in networks could be further
+improved through side-chain engineering or by tuning the
+polymer matrix properties.
+Light-Responsive Creep. The impact of photoisomeriza-
+tion on the material’s stress response was assessed using creep
+experiments under continuous irradiation. When a constant
+load is applied, elastic materials experience an initial
+deformation (strain) but then maintain their shape. A
+viscoelastic material such as a CAN continues deforming as
+bond exchange reconfigures the network topology. To enable
+the dynamic chemistry, these experiments were performed
+above the upper thermal transition temperature. To avoid
+rapid thermal back isomerization and decomposition, we
+sought to avoid elevated temperatures, which rendered Net-1
+unsuitable for these studies, as its upper thermal transition is
+Figure 9. Photochromism of DASA-cross-linked network (Net-1).
+(a) Representative photographs of dropcast thin films on glass during
+the photoisomerization process. Sample preparation details can be
+found in the SI. (b) Absorbance changes following cycles of
+irradiation and heating (80 °C, 2 min). Green boxes indicate light-
+on periods (525 nm, 5 min, 100 mW/cm
+2
+).
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38460
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 10 =====
+above 69 °C. Therefore, we focused on Net-2, which has an
+upper thermal transition temperature of 25 °C, and performed
+creep measurements at 40 °C (Figure 10a). A dark-adapted
+sample of Net-2 displayed significant creep when subjected to
+constant (500 Pa) shear stress consistent with a viscoelastic
+liquid. Under these conditions, a steady-state creep rate was
+calculated as 0.12% h
+−1
+from a linear fit of the strain over time.
+In comparison, we observed a 12-fold reduction of creep rate
+(0.01% h
+−1
+) for a separate sample measured under constant
+green light irradiation (3 mW/cm
+2
+). This observation is
+consistent with the formation of a more elastic network upon
+DASA photoisomerization to the closed form. The degree of
+viscoelastic modulation was directly dependent on light
+intensity, as lowering light intensity to 1.25 mW led to only
+a 3-fold reduction in creep rate (Figure S39), suggesting the
+observed changes are related to a photochemical process.
+These observations are consistent with the formation of a more
+elastic network upon DASA photoisomerization to the closed
+form that does not engage in dynamic covalent exchange, as
+demonstrated in the small-molecule model system.
+Crucially, this effect was found to be partially reversible
+when irradiation is cycled. By continuously monitoring creep
+as light was turned on then off, we observed a 2-fold increase in
+creep rate after the light source was removed (Figure 10b).
+However, the reversible control of creep is limited to one cycle
+and changes in creep rate decrease after subsequent light on/
+off cycles. The decrease in creep rate after the second
+irradiation suggests that thermal isomerization to a static β-
+enaminone isomer is converting the CAN to a permanent
+network. While we cannot rule out decomposition leading to
+dissociated species analogous to 1d/d′, the formation of these
+species should be minimal at 40 °C and is expected to lead to
+decreased modulus, which is not observed. Quantitative
+measurements of photoisomerization to assess stability of the
+DASAs is challenging for the bulk polymer network due to
+sample thickness. However, it should be noted that the
+conditions used for photorheology (3 mW/cm
+2
+, 21 J total light
+dose, 40 °C) are significantly milder than the conditions used
+for the UV−vis study in Figure 9 (100 mW/cm
+2
+, 30 J total
+light dose, 80 °C).
+Based on these creep experiments and our small-molecule
+kinetics, we hypothesize that the impact of light on
+viscoelasticity corresponds to changes in the DASA-cross-link
+reactivity upon photoisomerization, switching from a dynamic
+open state to a static closed state. Irradiation favors the closed
+form, which cannot exchange. In the dark, the open form is
+able to exchange and rearrange network topology. Interest-
+ingly, no changes in stiffness were observed during irradiation,
+suggesting that cross-link density remains constant even as the
+cross-link exchange rate is modulated (Figure 10c). A constant
+cross-link density implies that either exchange can occur with
+minimal dissociation, or that associative (conjugate addition−
+elimination) exchange dominates at this temperature.
+90
+Based
+on extrapolating our Van’t Hoff analysis, the DASA
+equilibrium at 40 °C should favor the adduct by >99% (Figure
+S18). Moreover, this experiment confirms that creep is not
+slowed under irradiation due to the formation of additional
+cross-links. Instead, this result is consistent with isomerization
+to a β-enaminone, which maintains the cross-link density but
+cannot exchange under these conditions. Altogether, these
+results highlight the potential for light-responsive control over
+the viscoelastic behavior of DASA-cross-linked CANs without
+significantly altering network connectivity.
+■
+CONCLUSIONS
+In this work, we discovered that the open form of DASAs can
+undergo dynamic covalent exchange though a combination of
+the reversible aza-Piancatelli reaction (dissociation-associa-
+tion) and conjugate transamination (addition−elimination)
+Figure 10. Light-controlled creep behavior. (a) Creep measurements
+of Net-2 for a dark-adapted sample (purple circles) and for a sample
+under constant irradiation (green diamonds). (b) Creep measure-
+ments under alternating irradiation cycles. Both experiments were
+performed at 40 °C under constant 500 Pa shear stress. Creep rates
+(black squares) were calculated from linear fits of creep strain versus
+time. (c) Oscillatory shear time sweep under alternating irradiation
+cycles (1% strain, 10 Hz). Green boxes indicate light-on periods (3
+mW/cm
+2
+).
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38461
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 11 =====
+mechanisms. A significant degradation pathway at elevated
+temperature, involving olefin isomerization followed by
+irreversible dissociation, was also identified. We believe these
+side reactions may contribute to the previously reported DASA
+photoswitching fatigue and influence the long-term material
+stability. Crucially, these studies also showed significant
+differences in reactivity between closed and open isomers,
+wherein the closed DASA does not undergo exchange.
+Building on these findings, we incorporated DASAs as
+dynamic cross-linkers into PDMS-based networks, forming
+CANs with photoresponsive viscoelastic properties. Stress
+relaxation confirmed that DASA cross-linkers impart viscoe-
+lastic flow to the material, with relaxation behavior following an
+Arrhenius temperature dependence. Significantly, we show
+how DASA photoisomerization to the closed form leads to
+deactivation of exchange and thus slows creep under
+irradiation. This externally controlled viscoelasticity has the
+potential for applications such as microfabrication and soft
+robotics taking advantage of this viscoelastic−elastic tran-
+sition.
+8,9
+However, the aforementioned degradation pathways
+prevent reversibility in this photoresponse for more than one
+cycle of irradiation. While our results demonstrate exchange of
+a first-generation DASA under nonpolar conditions, the
+general applicability of DASA-based exchange across different
+chemical environments, structures, and material platforms
+remains to be established, and ongoing work is focused on
+understanding these parameters and suppressing decomposi-
+tion. We anticipate that this proof-of-principle study will lay
+the groundwork for future exploration of this untapped
+chemical space with transformative potential in the field of
+light-controlled soft materials.
+■
+ASSOCIATED CONTENT
+*
+sı
+Supporting Information
+The Supporting Information is available free of charge at
+https://pubs.acs.org/doi/10.1021/jacs.5c11859.
+Synthetic procedures, characterization data for new
+compounds, small-molecule kinetics procedures, non-
+linear fitting, polymer preparation and characterization,
+rheological data and photorheology experiments (PDF)
+■
+AUTHOR INFORMATION
+Corresponding Author
+Julia A. Kalow − Department of Chemistry, Northwestern
+University, Evanston, Illinois 60201, United States;
+orcid.org/0000-0002-4449-9566; Email: jkalow@
+northwestern.edu
+Authors
+Emmanuel A. Garcia Villatoro − Department of Chemistry,
+Northwestern University, Evanston, Illinois 60201, United
+States
+Shoki Matsushima − Department of Chemistry, Northwestern
+University, Evanston, Illinois 60201, United States;
+orcid.org/0009-0009-8152-0799
+Jonathan H. Sklar − Department of Chemistry, Northwestern
+University, Evanston, Illinois 60201, United States;
+orcid.org/0000-0001-7896-9274
+Complete contact information is available at:
+https://pubs.acs.org/10.1021/jacs.5c11859
+Notes
+The authors declare no competing financial interest.
+■
+ACKNOWLEDGMENTS
+This work was supported by the National Science Foundation
+(CHE-2404030). J.A.K. was partially supported by a Dreyfus
+Teacher-Scholar Award. This content is solely the responsi-
+bility of the authors and does not necessarily represent the
+official views of the National Science Foundation. This work
+made use of NMR and MS instrumentation at the Integrated
+Molecular Structure Education and Research Center (IM-
+SERC) at Northwestern, which has received support from the
+NSF (CHE-9871268), Soft and Hybrid Nanotechnology
+Experimental (SHyNE) Resource (NSF ECCS-1542205), the
+State of Illinois, and the International Institute for Nano-
+technology. The rheometer used in this work was purchased
+with the support of NSF CHE-1901635, NIH R01GM132677,
+and Northwestern University. This work made use of the
+MatCI Facility supported by the MRSEC program of the
+National Science Foundation (DMR-2308691) at the Materi-
+als Research Center of Northwestern University. The authors
+gratefully acknowledge Dr. Steven Weigand for collecting X-ray
+scattering data. This research used resources of the Advanced
+Photon Source, a U.S. Department of Energy (DOE) Office of
+Science user facility operated for the DOE Office of Science by
+Argonne National Laboratory under Contract No. DE-AC02-
+06CH11357.
+■
+REFERENCES
+(1) Rowan, S. J.; Cantrill, S. J.; Cousins, G. R. L.; Sanders, J. K. M.;
+Stoddart, J. F. Dynamic Covalent Chemistry. Angew. Chem., Int. Ed.
+2002, 41, 898−952.
+(2) Kloxin, C. J.; Scott, T. F.; Adzima, B. J.; Bowman, C. N. Covalent
+Adaptable Networks (CANs). Macromolecules 2010, 43, 2643−2653.
+(3) McBride, M. K.; Worrell, B. T.; Brown, T.; Cox, L. M.; Sowan,
+N.; Wang, C.; Podgorski, M.; Martinez, A. M.; Bowman, C. N.
+Enabling Applications of Covalent Adaptable Networks. Annu. Rev.
+Chem. Biomol. Eng. 2019, 10, 175−198.
+(4) Maes, S.; Badi, N.; Winne, J. M.; Du Prez, F. E. Taking Dynamic
+Covalent Chemistry out of the Lab and into Reprocessable Industrial
+Thermosets. Nat. Rev. Chem. 2025, 9, 144−158.
+(5) Webber, M. J.; Tibbitt, M. W. Dynamic and Reconfigurable
+Materials from Reversible Network Interactions. Nat. Rev. Mater.
+2022, 7, 541−556.
+(6) Zhang, V.; Kang, B.; Accardo, J. V.; Kalow, J. A. Structure-
+Reactivity-Property Relationships in Covalent Adaptable Networks. J.
+Am. Chem. Soc. 2022, 144, 22358−22377.
+(7) Roels, E.; Terryn, S.; Iida, F.; Bosman, A. W.; Norvez, S.;
+Clemens, F.; Van Assche, G.; Vanderborght, B.; Brancart, J.
+Processing of Self-Healing Polymers for Soft Robotics. Adv. Mater.
+2022, 34, 2104798.
+(8) Rossegger, E.; Höller, R.; Reisinger, D.; Fleisch, M.; Strasser, J.;
+Wieser, V.; Griesser, T.; Schlögl, S. High Resolution Additive
+Manufacturing with Acrylate Based Vitrimers Using Organic
+Phosphates as Transesterification Catalyst. Polymer 2021, 221,
+123631.
+(9) Rossegger, E.; Höller, R.; Reisinger, D.; Strasser, J.; Fleisch, M.;
+Griesser, T.; Schlögl, S. Digital Light Processing 3D Printing with
+Thiol-Acrylate Vitrimers. Polym. Chem. 2021, 12, 639−644.
+(10) Luo, R.; Xiang, X.; Jiao, Q.; Hua, H.; Chen, Y. Photoresponsive
+Hydrogels for Tissue Engineering. ACS Biomater. Sci. Eng. 2024, 10,
+3612−3630.
+(11) Abenojar, E. C.; Minocha, E.; Garcia Villatoro, E. A.; Kirinda,
+V. C.; Gupta, A. K.; Kang, B.; Cho, I. S.; Zhang, V.; Shin, J.-W.;
+Wertheim, J. A.; Kalow, J. A. Polyacrylamide Hydrogels with
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38462
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 12 =====
+Reversibly Photocontrolled Stiffness for 2D Mechanobiology. ACS
+Appl. Mater. Interfaces 2025, 17, 34997−35008.
+(12) Lemieux, V.; Gauthier, S.; Branda, N. R. Selective and
+Sequential Photorelease Using Molecular Switches. Angew. Chem., Int.
+Ed. 2006, 45, 6820−6824.
+(13) Göstl, R.; Hecht, S. Controlling Covalent Connection and
+Disconnection with Light. Angew. Chem., Int. Ed. 2014, 53, 8784−
+8787.
+(14) Fuhrmann, A.; Göstl, R.; Wendt, R.; Kötteritzsch, J.; Hager, M.
+D.; Schubert, U. S.; Brademann-Jock, K.; Thu ̈nemann, A. F.; Nöchel,
+U.; Behl, M.; Hecht, S. Conditional Repair by Locally Switching the
+Thermal Healing Capability of Dynamic Covalent Polymers with
+Light. Nat. Commun. 2016, 7, 13623.
+(15) Kathan, M.; Eisenreich, F.; Jurissek, C.; Dallmann, A.; Gurke, J.;
+Hecht, S. Light-Driven Molecular Trap Enables Bidirectional
+Manipulation of Dynamic Covalent Systems. Nat. Chem. 2018, 10,
+1031−1036.
+(16) Hai, Y.; Ye, H.; Li, Z.; Zou, H.; Lu, H.; You, L. Light-Induced
+Formation/Scission of C-N, C-O, and C-S Bonds Enables Switchable
+Stability/Degradability in Covalent Systems. J. Am. Chem. Soc. 2021,
+143, 20368−20376.
+(17) Lu, H.; Ye, H.; Zhang, M.; Liu, Z.; Zou, H.; You, L.
+Photoswitchable Dynamic Conjugate Addition-Elimination Reactions
+as a Tool for Light-Mediated Click and Clip Chemistry. Nat.
+Commun. 2023, 14, 4015.
+(18) Kathan, M.; Kovar ̌íc ̌ek, P.; Jurissek, C.; Senf, A.; Dallmann, A.;
+Thu ̈nemann, A. F.; Hecht, S. Control of Imine Exchange Kinetics
+with Photoswitches to Modulate Self-Healing in Polysiloxane
+Networks by Light Illumination. Angew. Chem., Int. Ed. 2016, 55,
+13882−13886.
+(19) Barsoum, D. N.; Kirinda, V. C.; Kang, B.; Kalow, J. A. Remote-
+Controlled Exchange Rates by Photoswitchable Internal Catalysis of
+Dynamic Covalent Bonds. J. Am. Chem. Soc. 2022, 144, 10168−
+10173.
+(20) Accardo, J. V.; Kalow, J. A. Reversibly Tuning Hydrogel
+Stiffness through Photocontrolled Dynamic Covalent Crosslinks.
+Chem. Sci. 2018, 9, 5987−5993.
+(21) Accardo, J. V.; McClure, E. R.; Mosquera, M. A.; Kalow, J. A.
+Using Visible Light to Tune Boronic Acid-Ester Equilibria. J. Am.
+Chem. Soc. 2020, 142, 19969−19979.
+(22) Standaert, R. F.; Park, S. B. Abc Amino Acids. J. Org. Chem.
+2006, 71, 7952−7966.
+(23) Cvrtila, I.; Fanlo-Virgós, H.; Schaeffer, G.; Monreal Santiago,
+G.; Otto, S. Redox Control over Acyl Hydrazone Photoswitches. J.
+Am. Chem. Soc. 2017, 139, 12459−12465.
+(24) Lv, Y.; Ye, H.; You, L. Multiple Control of Azoquinoline Based
+Molecular Photoswitches. Chem. Sci. 2024, 15, 3290−3299.
+(25) König, N. F.; Mutruc, D.; Hecht, S. Accelerated Discovery of α-
+Cyanodiarylethene Photoswitches. J. Am. Chem. Soc. 2021, 143,
+9162−9168.
+(26) Bykov, V. N.; Ukhanev, S. A.; Ushakov, I. A.; Vologzhanina, A.
+V.; Antsiferov, E. A.; Klimenko, L. S.; Lvov, A. G. Activation of
+Anthraquinone’s Electrophilicity by Light for a Dynamic C-O Bond. J.
+Am. Chem. Soc. 2024, 146, 1799−1805.
+(27) Wu, J.; Greenfield, J. L. Photoswitchable Imines Drive Dynamic
+Covalent Systems to Nonequilibrium Steady States. J. Am. Chem. Soc.
+2024, 146, 20720−20727.
+(28) Drichel, A.; Garmshausen, Y.; Hecht, S. Dynamic Covalent
+Spiropyran Exchange for Rapid Structural Diversification. Angew.
+Chem. Int. Ed 2025, 64, No. e202419531.
+(29) Wu, J.; Kreimendahl, L.; Greenfield, J. L. Enhancing the
+Photoswitching Properties of N-Alkyl Imines. J. Am. Chem. Soc. 2025,
+147, 17549−17554.
+(30) Helmy, S.; Leibfarth, F. A.; Oh, S.; Poelma, J. E.; Hawker, C. J.;
+Read de Alaniz, J. Photoswitching Using Visible Light. J. Am. Chem.
+Soc. 2014, 136, 8169−8172.
+(31) Hemmer, J. R.; Poelma, S. O.; Treat, N.; Page, Z. A.; Dolinski,
+N. D.; Diaz, Y. J.; Tomlinson, W.; Clark, K. D.; Hooper, J. P.; Hawker,
+C.; Read de Alaniz, J. Tunable Visible and Near Infrared
+Photoswitches. J. Am. Chem. Soc. 2016, 138, 13960−13966.
+(32) Hemmer, J. R.; Page, Z. A.; Clark, K. D.; Stricker, F.; Dolinski,
+N. D.; Hawker, C. J.; Read de Alaniz, J. Controlling Dark Equilibria
+and Enhancing Donor-Acceptor Stenhouse Adduct Photoswitching
+Properties through Carbon Acid Design. J. Am. Chem. Soc. 2018, 140,
+10425−10429.
+(33) Clerc, M.; Sandlass, S.; Rifaie-Graham, O.; Peterson, J. A.;
+Bruns, N.; Read De Alaniz, J.; Boesel, L. F. Visible Light-Responsive
+Materials. Chem. Soc. Rev. 2023, 52, 8245−8294.
+(34) Ulrich, S.; Moura, S. O.; Diaz, Y.; Clerc, M.; Guex, A. G.; de
+Alaniz, J. R.; Martins, A.; Neves, N. M.; Rottmar, M.; Rossi, R. M.;
+Fortunato, G.; Boesel, L. F. Electrospun Colourimetric Sensors for
+Detecting Volatile Amines. Sens. Actuators, B 2020, 322, 128570.
+(35) Lee, J.; Sroda, M. M.; Kwon, Y.; El-Arid, S.; Seshadri, S.;
+Gockowski, L. F.; Hawkes, E. W.; Valentine, M. T.; Read de Alaniz, J.
+Tunable Photothermal Actuation Enabled by Photoswitching of
+Donor-Acceptor Stenhouse Adducts. ACS Appl. Mater. Interfaces
+2020, 12, 54075−54082.
+(36) Sroda, M. M.; Lee, J.; Kwon, Y.; Stricker, F.; Park, M.;
+Valentine, M. T.; Read de Alaniz, J. Role of Material Composition in
+Photothermal Actuation of DASA-Based Polymers. ACS Appl. Polym.
+Mater. 2022, 4, 141−149.
+(37) Dong, Y.; Ling, Y.; Wang, D.; Liu, Y.; Chen, X.; Zheng, S.; Wu,
+X.; Shen, J.; Feng, S.; Zhang, J.; Huang, W. Harnessing Molecular
+Isomerization in Polymer Gels for Sequential Logic Encryption and
+Anticounterfeiting. Science Advances 2022, 8, No. eadd1980.
+(38) Rifaie-Graham, O.; Yeow, J.; Najer, A.; Wang, R.; Sun, R.;
+Zhou, K.; Dell, T. N.; Adrianus, C.; Thanapongpibul, C.; Chami, M.;
+Mann, S.; de Alaniz, J. R.; Stevens, M. M. Photoswitchable Gating of
+Non-Equilibrium Enzymatic Feedback in Chemically Communicating
+Polymersome Nanoreactors. Nat. Chem. 2023, 15, 110−118.
+(39) Clerc, M.; Stricker, F.; Ulrich, S.; Sroda, M.; Bruns, N.; Boesel,
+L. F.; Read de Alaniz, J. Promoting the Furan Ring-Opening Reaction
+to Access New Donor-Acceptor Stenhouse Adducts with Hexafluor-
+oisopropanol. Angew. Chem., Int. Ed. 2021, 60, 10219−10227.
+(40) Peterson, J. A.; Stricker, F.; Read de Alaniz, J. Improving the
+Kinetics and Dark Equilibrium of Donor-Acceptor Stenhouse Adduct
+by Triene Backbone Design. Chem. Commun. 2022, 58, 2303−2306.
+(41) Peterson, J. A.; Neris, N. M.; Read De Alaniz, J. Tethered
+Together. Chem. Sci. 2023, 14, 13025−13030.
+(42) Shpinov, Y.; Schlichter, A.; Pelupessy, P.; Le Saux, T.; Jullien,
+L.; Adelizzi, B. Unexpected Acid-Triggered Formation of Reversibly
+Photoswitchable Stenhouse Salts from Donor-Acceptor Stenhouse
+Adducts. Chem.�Eur. J. 2022, 28, No. e202200497.
+(43) Pen ̃ín, B.; Sanosa, N.; Sampedro, D.; Funes-Ardoiz, I.
+Mechanism of the Aza-Piancatelli Reaction. ACS Omega 2022, 7,
+22811−22817.
+(44) Xu, L.; Li, H.; Xing, L.; Yang, Q.; Tang, Y.; Cai, Y. Retro-Aza-
+Piancatelli Rearrangement Triggered Cascade Reaction of Methyl
+Furylacrylates with Anilines to Access Cyclopenta[b]Pyrrolidinones. J.
+Org. Chem. 2022, 87, 855−865.
+(45) Piutti, C.; Quartieri, F. The Piancatelli Rearrangement.
+Molecules 2013, 18, 12290−12312.
+(46) Yap, J. E.; Mallo, N.; Thomas, D. S.; Beves, J. E.; Stenzel, M. H.
+Comparing Photoswitching of Acrylate or Methacrylate Polymers
+Conjugated with Donor-Acceptor Stenhouse Adducts. Polym. Chem.
+2019, 10, 6515−6522.
+(47) McDonough, R.; Rudgley, N.; Majewski, O.; Perkins, M. V.;
+Evans, R. A.; Lewis, D. A. Photochromic Performance of Donor-
+Acceptor Stenhouse Adducts in Polymer Binders and Solution.
+ChemPhotoChem. 2022, 6, No. e202200076.
+(48) McDonough, R.; Rudgley, N.; Majewski, O.; Perkins, M. V.;
+Evans, R. A.; Lewis, D. A. Fatigue of Donor-Acceptor Stenhouse
+Adducts in Polymer Matrices and Solution. ChemPhotoChem. 2023, 7,
+No. e202200247.
+(49) Denissen, W.; Rivero, G.; Nicolay ̈, R.; Leibler, L.; Winne, J. M.;
+Du Prez, F. E. Vinylogous Urethane Vitrimers. Adv. Funct. Mater.
+2015, 25, 2451−2457.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38463
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026
+
+
+===== PDF PAGE 13 =====
+(50) Denissen, W.; Droesbeke, M.; Nicolay ̈, R.; Leibler, L.; Winne, J.
+M.; Du Prez, F. E. Chemical Control of the Viscoelastic Properties of
+Vinylogous Urethane Vitrimers. Nat. Commun. 2017, 8, 14857.
+(51) Van Lijsebetten, F.; De Bruycker, K.; Spiesschaert, Y.; Winne, J.
+M.; Du Prez, F. E. Suppressing Creep and Promoting Fast
+Reprocessing of Vitrimers with Reversibly Trapped Amines. Angew.
+Chem., Int. Ed. 2022, 61, No. e202113872.
+(52) Chen, F.; Gao, F.; Guo, X.; Shen, L.; Lin, Y. Tuning the
+Dynamics of Enamine-One-Based Vitrimers through Substituent
+Modulation of Secondary Amine Substrates. Macromolecules 2022,
+55, 10124−10133.
+(53) Okoroc ̌enkova, J.; Filgas, J.; Khan, N. M.; Slavíc ̌ek, P.; Klán, P.
+Thermal Truncation of Heptamethine Cyanine Dyes. J. Am. Chem.
+Soc. 2024, 146, 19768−19781.
+(54) Vahdani, A.; Moemeni, M.; Holmes, D.; Lunt, R. R.; Jackson, J.
+E.; Borhan, B. Mechanistic Insight into the Thermal “Blueing” of
+Cyanine Dyes. J. Am. Chem. Soc. 2024, 146, 19756−19767.
+(55) Zheng, P. X.; Ou, S. L.; Qu, L. Y.; Zhang, Y.; Jiang, S. Q.; Li, X.;
+Wan, J. X.; Zhang, M.; Bao, X. Enriched Switching in a Donor-
+Acceptor Stenhouse Adduct via Reversible Covalent Bonding. Chem.
+Commun. 2024, 60, 1333−1336.
+(56) Cai, Y.-D.; Chen, T.-Y.; Chen, X. Q.; Bao, X. Multiresponsive
+Donor-Acceptor Stenhouse Adduct. Org. Lett. 2019, 21, 7445−7449.
+(57) Alves, J.; Wiedbrauk, S.; Gräfe, D.; Walden, S. L.; Blinco, J. P.;
+Barner-Kowollik, C. It’s a Trap. Chem.�Eur. J. 2020, 26, 809−813.
+(58) Mason, B. P.; Whittaker, M.; Hemmer, J.; Arora, S.; Harper, A.;
+Alnemrat, S.; McEachen, A.; Helmy, S.; Read de Alaniz, J.; Hooper, J.
+P. A Temperature-Mapping Molecular Sensor for Polyurethane-Based
+Elastomers. Appl. Phys. Lett. 2016, 108, 041906.
+(59) S
+̌
+afár ̌, P.; Povaz ̌anec, F.; Prónayová, N.; Baran, P.; Kickelbick,
+G.; Koz ̌ís ̌ek, J.; Breza, M. Dichotomy in the Ring Opening Reaction of
+5-[(2-Furyl)Methylidene]-2,2-Dimethyl-1,3-Dioxane-4,6-Dione with
+Cyclic Secondary Amines. Collect. Czech. Chem. Commun. 2000, 65,
+1911−1938.
+(60) Lerch, M. M.; Szyman ́ski, W.; Feringa, B. L. The (Photo)-
+Chemistry of Stenhouse Photoswitches. Chem. Soc. Rev. 2018, 47,
+1910−1937.
+(61) Reyes, C. A.; Karr, A.; Ramsperger, C. A.; K, A. T. G.; Lee, H.
+J.; Picazo, E. Compartmentalizing Donor-Acceptor Stenhouse
+Adducts for Structure-Property Relationship Analysis. J. Am. Chem.
+Soc. 2025, 147, 10−26.
+(62) Mark, J. E. Physical Properties of Polymers Handbook, 2nd ed.;
+Springer: New York, 2007. DOI: 10.1007/978-0-387-69002-5.
+(63) Ricarte, R. G.; Shanbhag, S. Unentangled Vitrimer Melts.
+Macromolecules 2021, 54, 3304−3320.
+(64) Lu, H.; Hu, Z.; Wang, D.; Chen, K.; Feng, S. Self-Recoverable
+Dual-Network Silicon Elastomer Applied in Cell Adhesives. ACS Appl.
+Polym. Mater. 2019, 1, 2826−2832.
+(65) Clerc, M.; Tekin, C.; Ulrich, S.; Freire, R. V. M.; Salentinig, S.;
+Bruns, N.; Boesel, L. F. Donor-Acceptor Stenhouse Adduct-
+Polydimethylsiloxane-Conjugates for Enhanced Photoswitching in
+Bulk Polymers. Macromol. Rapid Commun. 2022, 43, 2200120.
+(66) Herbert, K. M.; Getty, P. T.; Dolinski, N. D.; Hertzog, J. E.; de
+Jong, D.; Lettow, J. H.; Romulus, J.; Onorato, J. W.; Foster, E. M.;
+Rowan, S. J. Dynamic Reaction-Induced Phase Separation in Tunable,
+Adaptive Covalent Networks. Chem. Sci. 2020, 11, 5028−5036.
+(67) Alves, J.; Wiedbrauk, S.; Barner-Kowollik, C.; Blinco, J. P. The
+Missing Piece. ChemPhotoChem. 2021, 5, 711−715.
+(68) Lui, B. F.; Tierce, N. T.; Tong, F.; Sroda, M. M.; Lu, H.; De
+Alani, J. R.; Bardeen, C. J. Unusual Concentration Dependence of the
+Photoisomerization Reaction in Donor-Acceptor Stenhouse Adducts.
+Photochem. Photobiol. Sci. 2019, 18, 1587−1595.
+(69) Polymer Data Handbook, 2nd ed.; Mark, J. E., Ed.; Oxford
+University Press: Oxford New York, 2009.
+(70) Wang, J.; Wang, R.; Gu, Y.; Sourakov, A.; Olsen, B. D.;
+Johnson, J. A. Counting Loops in Sidechain-Crosslinked Polymers
+from Elastic Solids to Single-Chain Nanoparticles. Chem. Sci. 2019,
+10, 5332−5337.
+(71) Ezzeddine, D.; Barzycki, D. C.; Ricarte, R. G. Impact of Cross-
+Link Density on Polybutadiene Permanent and Vitrimer Networks.
+ACS Macro Lett. 2025, 14, 1011−1018.
+(72) Li, L.; Chen, X.; Jin, K.; Torkelson, J. M. Vitrimers Designed
+Both To Strongly Suppress Creep and To Recover Original Cross-
+Link Density after Reprocessing. Macromolecules 2018, 51, 5537−
+5546.
+(73) Debsharma, T.; Amfilochiou, V.; Wróblewska, A. A.; De Baere,
+I.; Van Paepegem, W.; Du Prez, F. E. Fast Dynamic Siloxane
+Exchange Mechanism for Reshapable Vitrimer Composites. J. Am.
+Chem. Soc. 2022, 144, 12280−12289.
+(74) Khedaioui, D. Z.; Tribout, C.; Bratasanu, J.; D’Agosto, F.;
+Boisson, C.; Montarnal, D. Deciphering Siloxane Bond Exchanges:
+From a Molecular Study to Vitrimerization and Recycling of Silicone
+Elastomers. Angew. Chem., Int. Ed. 2023, 62, No. e202300225.
+(75) Saed, M. O.; Terentjev, E. M. Siloxane Crosslinks with
+Dynamic Bond Exchange Enable Shape Programming in Liquid-
+Crystalline Elastomers. Sci. Rep 2020, 10, 6609.
+(76) Wanasinghe, S. V.; Dodo, O. J.; Konkolewicz, D. Dynamic
+Bonds: Adaptable Timescales for Responsive Materials. Angew. Chem.,
+Int. Ed. 2022, 61, No. e202206938.
+(77) Keizer, H. M.; Sijbesma, R. P.; Jansen, J. F. G. A.; Pasternack,
+G.; Meijer, E. W. Polymerization-Induced Phase Separation Using
+Hydrogen-Bonded Supramolecular Polymers. Macromolecules 2003,
+36, 5602−5606.
+(78) Li, J.; Viveros, J. A.; Wrue, M. H.; Anthamatten, M. Shape-
+Memory Effects in Polymer Networks Containing Reversibly
+Associating Side-Groups. Adv. Mater. 2007, 19, 2851−2855.
+(79) Engelen, S.; Dolinski, N. D.; Chen, C.; Ghimire, E.; Lindberg,
+C. A.; Crolais, A. E.; Nitta, N.; Winne, J. M.; Rowan, S. J.; Du Prez, F.
+E. Vinylogous Urea�Urethane Vitrimers. Angew. Chem., Int. Ed.
+2024, 63, No. e202318412.
+(80) Guerre, M.; Taplan, C.; Nicolay ̈, R.; Winne, J. M.; Du Prez, F.
+E. Fluorinated Vitrimer Elastomers with a Dual Temperature
+Response. J. Am. Chem. Soc. 2018, 140, 13272−13284.
+(81) Porath, L. E.; Evans, C. M. Importance of Broad Temperature
+Windows and Multiple Rheological Approaches for Probing
+Viscoelasticity and Entropic Elasticity in Vitrimers. Macromolecules
+2021, 54, 4782−4791.
+(82) Zhang, H.; Cai, C.; Liu, W.; Li, D.; Zhang, J.; Zhao, N.; Xu, J.
+Recyclable Polydimethylsiloxane Network Crosslinked by Dynamic
+Transesterification Reaction. Sci. Rep 2017, 7, 11833.
+(83) Ishibashi, J. S. A.; Kalow, J. A. Vitrimeric Silicone Elastomers
+Enabled by Dynamic Meldrum’s Acid-Derived Cross-Links. ACS
+Macro Lett. 2018, 7, 482−486.
+(84) Luo, J.; Zhao, X.; Ju, H.; Chen, X.; Zhao, S.; Demchuk, Z.; Li,
+B.; Bocharova, V.; Carrillo, J. Y.; Keum, J. K.; Xu, S.; Sokolov, A. P.;
+Chen, J.; Cao, P. Highly Recyclable and Tough Elastic Vitrimers from
+a Defined Polydimethylsiloxane Network. Angew. Chem. Int. Ed 2023,
+62, No. e202310989.
+(85) Spiesschaert, Y.; Taplan, C.; Stricker, L.; Guerre, M.; Winne, J.
+M.; Du Prez, F. E. Influence of the Polymer Matrix on the Viscoelastic
+Behaviour of Vitrimers. Polym. Chem. 2020, 11, 5377−5385.
+(86) Jourdain, A.; Asbai, R.; Anaya, O.; Chehimi, M. M.;
+Drockenmuller, E.; Montarnal, D. Rheological Properties of Covalent
+Adaptable Networks with 1,2,3-Triazolium Cross-Links. Macro-
+molecules 2020, 53, 1884−1900.
+(87) Fenimore, L. M.; Suazo, M. J.; Torkelson, J. M. Covalent
+Adaptable Networks Made by Reactive Processing of Highly
+Entangled Polymer. Macromolecules 2024, 57, 2756−2772.
+(88) Kito, T.; Hayashi, M. Intrinsic Differences of Unentangled and
+Highly Entangled Vitrimer-like Materials with Bond Exchangeable
+Nanodomains. Eur. Polym. J. 2024, 208, 112862.
+(89) Ilyin, S. O.; Kulichikhin, V. G. Rheology and Miscibility of
+Linear/Hyperbranched Polydimethylsiloxane Blends and an Abnor-
+mal Decrease in Their Viscosity. Macromolecules 2023, 56, 6818−
+6833.
+(90) Elling, B. R.; Dichtel, W. R. Reprocessable Cross-Linked
+Polymer Networks. ACS Cent. Sci. 2020, 6, 1488−1496.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c11859
+J. Am. Chem. Soc. 2025, 147, 38452−38464
+38464
+Downloaded from pubs.​acs.​org/​jacsat/​article-pdf/​147/​42/​38452/​41992049/​ja5c11859.​pdf by PEKING UNIV user on 26 August 2026

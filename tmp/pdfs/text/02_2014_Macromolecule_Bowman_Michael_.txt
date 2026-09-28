@@ -1,0 +1,523 @@
+
+
+===== PDF PAGE 1 =====
+Spatial and Temporal Control of Thiol-Michael Addition via
+Photocaged Superbase in Photopatterning and Two-Stage Polymer
+Networks Formation
+Weixian Xi, † Haiyan Peng, †,‡ Alan Aguirre-Soto, † Christopher J. Kloxin, § Jeﬀery W. Stansbury, †
+and Christopher N. Bowman †,*
+†Department of Chemical and Biological Engineering, University of Colorado, Boulder, Colorado 80309-0596, United States
+‡Guangzhou Institute of Advanced Technology, Chinese Academy of Science, Guangzhou, 511458, People ’s Republic of China
+§Department of Materials Science & Engineering and Department of Chemical & Biomolecular Engineering,
+University of Delaware, 150 Academy Street, Newark, Delaware 19716, United States
+*S Supporting Information
+ABSTRACT: Photochemical processes enable spatial and temporal control of
+reactions, which can be implemented as an accurate external control approach
+in both polymer synthesis and materials applications. “Click” reactions have
+also been employed as e ﬃ cient tools in the same ﬁeld. Herein, we combined
+photochemical processes and thiol-Michael “click” reactions to achieve a
+“photo-click” reaction that can be used in surface patterning and controlled
+polymer network formation, owing to the ease of spatial and temporal control
+through use of photolabile amines as appropriate catalysts.
+■ INTRODUCTION
+The “click” reaction concept, as ﬁrst introduced by Kolb, Finn,
+and Sharpless in 2001, is a rubric that generally de ﬁnes a set of
+selective and highly e ﬃ cient reactions that are modular in
+nature and exhibit nearly ideal (e.g., 1:1 stoichiometry and
+complete) reactivity.
+1 Over the past decade, the “click” concept
+has been employed by thousands of researchers in a range of
+reactions, including bioconjugation, polymer synthesis/mod-
+iﬁcation, surface functionalization, cross-link network forma-
+tion, and dendrimer synthesis.
+2 The Cu-catalyzed azide −alkyne
+cycloaddition (CuAAC), 3 radical thiol −ene/yne reaction, 4
+thiol−Michael addition reaction, 5 and thiol −isocynate reac-
+tion4,6 are a few of the select group of reactions employed in
+the literature that exhibit “click” reaction characteristics under
+appropriate conditions.
+Unfortunately, though several of these reactions have been
+photoinitiated,7 many of these “click” reactions lack the control
+aﬀorded by light initiation that enables the user to dictate
+precisely where and when the reaction will commence, as seen
+in photoinitiation of the thiol −ene/yne “click” reaction. To
+address this issue, several researchers have utilized a scheme
+whereby the catalyst is created or activated utilizing light;
+thus, a reaction that is otherwise limited by slow kinetics
+becomes spatiotemporally controlled. For example, the
+archetypical CuAAC “click” is readily photoinduced by
+employing a radical photoinitiator to convert Cu(II) to Cu(I)
+(i.e., the catalytic form of copper).
+8 Besides this photocatalytic
+strategy, another approach to photoclick reactions is based
+on photoinduced/generated reactive substrates/intermediates
+via the “click” reaction, including light activation of cyclo-
+propenones for strain-promoted azide −alkyne cycloaddition;
+9
+UV induced generation of a nitrile imine intermediate for
+1,3-dipolar cycloaddition;10 light activated diene for Diels−Alder
+reaction;11 and phototriggered generation of a nitrobenzyl
+aldehyde for oxime formation. 12 These photoclick reaction
+schemes enable a variety of new applications for click reactions,
+such as photopatterning,
+11c,13 polymer modi ﬁcation;14 bio-
+conjugation,15 surface immobilization, 16nanoparticle modi ﬁca-
+tion,17 and spatiotemporal control in biochemical labeling. 18
+Although many endeavors have been made to expand the
+quality and quantity of photoclick reactions, there are still a
+large number of “click” reactions that are not e ﬃ ciently
+photoinitiated, such as the thiol −Michael addition. The thiol −
+Michael addition is an e ﬃ cient and fast tool in both polymer
+chemistry and materials science.
+5 In most cases, these reactions
+are performed utilizing base (e.g., hexylamine or triethylamine)
+or nucleophile (e.g., dimethylphenyl phosphine) catalysts,
+19
+and previous attempts to photoinitiate this reaction have been
+Received: July 2, 2014
+Revised: August 15, 2014
+Published: September 8, 2014
+Article
+pubs.acs.org/Macromolecules
+© 2014 American Chemical Society 6159 dx.doi.org/10.1021/ma501366f | Macromolecules 2014, 47, 6159 −6165
+This is an open access article published under an ACS AuthorChoice License, which permits
+copying and redistribution of the article or any adaptations for non-commercial purposes.
+Downloaded via MASSACHUSETTS INST OF TECHNOLOGY on May 2, 2024 at 19:44:30 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+
+===== PDF PAGE 2 =====
+limited.20 Perhaps the most straightforward route to enable
+photocontrol of the thiol −Michael addition is to trigger the
+reaction using the photorelease of a catalyst. Recently, for
+example, we have demonstrated a photocaged amine catalyst
+for thiol −Michael addition.
+21 Herein, we greatly expand the
+photoinduced thiol−Michael concept to new photocaged amine
+catalysts and more e ﬃ cient photolabile species (Scheme 1).
+Here, with terminology similar to that used by others, 22 we refer
+to structures such as these as photocaged amines, implying not
+a physical cage but rather a chemical structure in which the
+absorption of a photon has the potential for freeing the amine
+and leading to a dramatic increase in basicity. Furthermore,
+we demonstrate the utilization of these species as an approach
+for photoinduced polymer network formation and surface
+modiﬁcation. Amine-based catalysts (e.g., triethylamine) are the
+most common and widely used catalysts for the thiol −Michael
+addition reaction in organic chemistry. In most cases, amines
+play a role of a base that deprotonates the thiol, generating
+a reactive thiolate anion. The thiolate anion then reacts with
+an electron poor vinyl group, such as an acrylate, creating a
+highly reactive carbo-anion, which subsequently abstracts a
+hydrogen from another thiol to reinitiate the reaction cycle. The
+result of this reaction cycle is that all thiol and electron poor
+species are covalently linked via a thioether bond, typically at
+near quantitative conversion. Often guanidine and its derivatives
+are used as a “superbase” for various reactions in organic
+synthesis owing to their high p K
+a values. (guanidine p Ka =
+13.6)23 In this work, we use a photocaged superbase
+to accelerate the kinetics of the phototriggered thiol −Michael
+addition.
+■ MATERIALS AND METHODS
+Materials. 6-Nitroveratryl chloroformate, 2-(2-nitrophenyl)propyl
+chloroformate, N,N-diisopropylethylamine (DIPEA), hexylamine(HA),
+diethylamine (DEA), triethylamine (TEA), N,N,N′,N′-tetramethylgua-
+nidine (TMG), trimethylolpropane trimethacrylate (TMPTMA), and
+trimethylolpropane triacrylate (TMPTA) were purchased from Sigma-
+Aldrich. Pentaerythritol tetrakis(2-mercaptoacetate) (PETMA) was
+obtained from TCI-America. Acryloxyethyl thiocarbamoyl rhodamine
+B was purchased from Polyscience, Inc. All chemical reagents were
+obtained commercially and used without further puri ﬁcation.
+Methods. Synthetic Procedure for Photolabile Amines. NVOC-
+HA. 6-Nitroveratryl chloroformate (2 mmol, 551 mg) in 10 mL of
+CH
+2Cl2 was added dropwise to a stirred solution of hexylamine
+(2 mmol, 264 μL) and DIPEA (4 mmol, 344 μL)in 20 mL of CH 2Cl2
+at 0 °C. The reaction was stirred at ambient temperature for 8 h. The
+mixture was washed with brine (30 mL × 3) and dried with anhydrous
+Na2SO4. The crude product was puri ﬁed by silica gel column
+chromatography using hexane:EtOAc (1:1) to give a pure product
+(537 mg, 79%) as a light yellow oil. 1H NMR (400 MHz, chloroform-
+d): δ 7.70 (s, 1H), 7.00 (s, 1H), 5.50 (s, 2H), 3.96 (d, J = 8.1 Hz, 6H),
+3.21 (q, J = 7.0 Hz, 2H), 1.57 −1.45 (m, 2H), 1.37 −1.22 (m, 6H),
+0.93−0.82 (m, 3H). 13C NMR (101 MHz, chloroform- d): δ 153.60,
+148.25, 110.47, 108.34, 63.57, 56.56, 56.51, 41.37, 31.59, 30.09,
+26.54, 22.70, 14.14, 17.78, 17.32, 13.98. Mass: calcd for C 16N24N2O6
+[M + H] +, 341.1708; found, 341.1710.
+NVOC-DEA. 6-Nitroveratryl chloroformate (2 mmol, 551 mg) in
+10 mL of CH 2Cl2 was added dropwise to a stirred solution of diethyl
+amine (2.4 mmol, 248 μL) in 20 mL of CH 2Cl2 at 0 °C. The reaction
+was stirred at ambient temperature for 8 h. The mixture was washed
+with brine (30 mL × 3) and dried with anhydrous Na 2SO4. The crude
+product was puri ﬁed by silica gel column chromatography using
+hexane:EtOAc (1:1) to give a pure product (505 mg, 81%) as a light
+yellow oil. 1H NMR (400 MHz, chloroform- d): δ 7.70 (s, 1H), 7.01 (s,
+1H), 5.53 (d, J = 0.6 Hz, 2H), 3.95 (d, J =2 . 0H z ,6 H ) ,3 . 3 4( q ,J =7 . 1
+Hz, 4H), 1.16 (d, J = 8.6 Hz, 6H). 13C NMR (101 MHz, chloroform-d):
+δ 155.31, 153.53, 148.09, 139.98, 128.77, 110.16, 108.31, 63.95, 56.53,
+56.38, 42.27, 41.56, 14.39, 13.62. Mass: calcd for C14N20N2O6[M + H]+,
+313.1395; found, 313.1400.
+NVOC-TMG. 6-Nitroveratryl chloroformate (2 mmol, 551 mg) in
+10 mL of CH 2Cl2 was added dropwise to a stirred solution of
+N,N,N′,N′-tetramethylguanidine (2.5 mmol, 313 μL) in 20 mL of
+CH2Cl2 at 0 °C. The reaction was stirred at ambient temperature for
+8 h. The mixture was washed with brine (30 mL × 3) and dried with
+anhydrous Na 2SO4. The crude product was puri ﬁed by silica gel
+column chromatography using MeOH:DCM (1:10) to give a pure
+product (445 mg, 63%) as a light yellow oil. 1H NMR (400 MHz,
+chloroform-d): δ 7.70 (s, 1H), 7.20 (s, 1H), 5.56 −5.49 (m, 2H), 3.95
+(d, J = 9.3 Hz, 6H), 2.89 (s, 12H). 13C NMR (101 MHz, chloroform-
+d): δ 166.94, 159.80, 153.72, 147.75, 130.46, 109.88, 108.12, 63.86,
+56.54, 56.49, 40.04. Mass: calcd for C 15N22N4O6 [M + H] +, 355.1613;
+found, 355.1615.
+NPPOC-DEA. 2-(2-Nitrophenyl)propyl chloroformate (2 mmol,
+587 mg) in 10 mL of CH 2Cl2 was added dropwise to a stirred solution
+of diethylamine (2 mmol, 248 μL) and DIPEA (4 mmol, 344 μL) in
+Scheme 1. Principle Photolytic Pathway of NVOC −Amine and NPPOC −Amine Compounds
+Macromolecules Article
+dx.doi.org/10.1021/ma501366f | Macromolecules 2014, 47, 6159 −61656160
+
+
+===== PDF PAGE 3 =====
+20 mL of CH 2Cl2 at 0 °C. The reaction was stirred at ambient
+temperature for 8 h. The mixture was washed with brine (30 mL × 3)
+and dried with anhydrous Na 2SO4. The crude product was puri ﬁed by
+silica gel column chromatography using hexane:EtOAc (1:1) to give a
+pure product (302 mg, 54%) as a light yellow oil. 1H NMR (400 MHz,
+chloroform-d): δ 7.71 (dd, J = 8.1, 1.2 Hz, 1H), 7.62 −7.40 (m, 2H),
+7.33 (ddd, J = 8.1, 7.3, 1.5 Hz, 1H), 4.28 −4.11 (m, 2H), 3.66 (h, J =
+6.9 Hz, 1H), 3.31 −2.90 (m, 4H), 1.33 (d, J = 7.0 Hz, 3H), 0.95 (d, J =
+69.8 Hz, 6H). 13C NMR (101 MHz, CDCl 3): δ 155.56, 150.61,
+137.92, 132.56, 128.26, 127.29, 124.01, 69.01, 41.87, 41.23, 33.54,
+18.09, 13.86, 13.50. Mass: calcd for C 14N20N2O4 [M + H] +, 281.1496;
+found, 281.1497.
+NPPOC-TMG. 2-(2-Nitrophenyl)propyl chloroformate (2 mmol,
+587 mg) in 10 mL of CH 2Cl2 was added dropwise to a stirred solution
+of TMG (2.5 mmol, 313 μL) in 20 mL of CH 2Cl2 at 0 °C. The
+reaction was stirred at ambient temperature for 8 h. The mixture was
+washed with brine (30 mL × 3) and dried with anhydrous Na 2SO4.
+The crude product was puri ﬁed by silica gel column chromatography
+using MeOH:DCM (1:10) to give a pure product (336 mg, 52%) as a
+light yellow oil.
+1H NMR (400 MHz, chloroform- d): δ 7.66−7.59 (m,
+1H), 7.48 −7.41 (m, 2H), 7.24 (ddd, J = 8.2, 5.3, 3.4 Hz, 1H), 4.19
+(dd, J = 6.9, 1.3 Hz, 2H), 3.66 −3.53 (m, 1H), 2.72 (s, 12H), 1.28 (d,
+J = 6.9 Hz, 3H). 13C NMR (101 MHz, CDCl 3): δ 166.24, 160.20,
+150.40, 138.39, 132.60, 132.57, 128.53, 128.33, 127.10, 127.03, 124.12,
+124.03, 68.45, 67.60, 53.52, 39.77, 36.46, 33.95, 18.62, 17.70. Mass:
+calcd for C 15N22N4O4[M + H] +, 323.1714; found, 323.1725.
+Real-Time Fourier Transform Infrared (FT-IR) Spectroscopy.
+Reaction kinetics were monitored by FT-IR spectroscopy at a series
+scan rate of one scan per 2 s. These studies were performed on a
+Nicolet 750 Magna FT-IR spectrometer with a KBr beam splitter and
+an MCT/A detector under dry air. Samples were sandwiched between
+two NaCl windows and placed into a horizontal transmission apparatus.
+The sample thicknesses were approximately 200 μm. The conversion of
+thiol and vinyl functional groups was assessed by monitoring the
+disappearance of the peak areas centered around 2567 and 812 cm
+−1,
+respectively.
+Photopatterning. A monomer mixture containing PETMA/TMPTMA,
+2 mol % NPPOC-TMG and 1 mol % acryloxyethyl thiocarbamoyl
+rhodamine B was spread on the top of thiol-modi ﬁed glass with a
+thickness of 200 μm. A photomask was placed on top of the glass
+slide and 320 −390 nm (20 mW/cm 2) UV light was irradiated for
+4 min, and unreacted species were then washed o ﬀ by solvent wash
+(DCM and DMF).
+Dynamic Mechanical Analysis (DMA). The mechanical properties
+(E′ and E″) of the fully formed polymer networks were analyzed with
+Table 1. Photochemical Properties of Photolabile Amines
+entry compound ε368/cm−1 M−1 Φchem
+1 NVOC-HA 4780 0.0013
+2 NVOC-DEA 1776 0.0085
+3 NVOC-TMG 1988 0.0074
+4 NPPOC-HA 4600 0.0010
+5 NPPOC-DEA 196 0.2014
+6 NPPOC-TMG 240 0.1497
+Table 2. Scope of Photo Thiol −Michael Addition Catalyzed by Various Photo-Caged Amines a
+aKey: (a) Reaction yields are determined by 1H NMR. (b) Reaction condition: thiol (1 mmol), electron de ﬁcient vinyl (1 mmol) and photolabile
+catalysts irradiated using a Hg source with 320 −390 nm band-pass ﬁlter at 20 mW/cm 2 for either 30 or 60 min (as indicated).
+Macromolecules Article
+dx.doi.org/10.1021/ma501366f | Macromolecules 2014, 47, 6159 −61656161
+
+
+===== PDF PAGE 4 =====
+a TA Q800 dynamic mechanical analyzer. 3 A rectangular sample
+geometry was used with dimensions of 10.72 mm × 2.2 mm ×
+0.90 mm for the PETMA/TMPTMA/TMPTA. Experiments were
+performed over a temperature range of −40 to +80 °C with a scanning
+rate of 2 °C/min. Finally, the Tg was determined as the maximum of
+the tan δ curve (where tan δ = E″/E′).
+■ RESULTS AND DISCUSSION
+All photolabile catalysts were prepared through classic amida-
+tion of amines and NVOC-Cl or NPPOC-Cl (see Supporting
+Information). The photolysis of each catalyst proceeded in
+MeOH at 0.025 mM concentration (UV −vis data of the
+photobases are presented in the Supporting Information). The
+photochemical properties of each catalyst are calculated and listed
+in Table 1. The NPPOC amines exhibit larger quantum yields
+than NVOC amines, indicatin g that the photolysis of NPPOC
+amines are more e ﬃ cient than NVOC under UV irradiation,
+which is in agreement with previous results. The photocleavage
+of NVOC amines involves an intramolecular redox process
+that generates o-nitrosobezaldehyde which can be quenched by
+nucleophiles such as amines. o-Nitrosoaldehyde-derived by-
+products have a strong UV absorption which prevents e ﬃ cient
+light absorption by the NVOC-amines as these byproducts act as
+an “internal ﬁlter”. However, since the photocleavage of NPPOC
+amines has an entirely di ﬀerent mechanism, which consists
+al i g h t - i n d u c e dβ elimination that generates o-nitrostyrene that
+is nonreactive toward free amines, no such byproducts are
+produced (Scheme 1).
+24
+To investigate the catalytic activity of these photolabile
+amines toward thiol −Michael addition, we employed thiol
+glycolate and ethyl acrylate as model reactants. The yields of
+the catalyst used in this model reaction (as shown in Table 2)
+are readily divided into two distinct categories: photolabile
+base (NPPOC-HA, NPPOC-DEA, NVOC-HA, NVOC-DEA)
+and photolabile superbase (NPPOC-TMG, NVOC-TMG).
+Catalysis of the thiol −acrylate additions with NPPOC-TMG
+and NVOC-TMG have higher yields than the others at the
+same catalyst loading owing to the stronger basicity (larger
+pK
+a) of TMG. Additionally, the catalyst load of 1 mol %
+NPPOC-TMG is still e ﬀective in achieving over 90%
+conversion in 1 h.
+Figure 1. Thiol conversion versus time monitored by FT-IR for the
+model reaction between thiol glycolate and ethyl acrylate with 5 mol %
+photolabile catalyst irradiated using a Hg light source equipped with
+320−390 nm (20 mW/cm 2)( ﬁlled square, NPPOC-TMG; open
+square, NVOC-TMG; ﬁlled triangle, NPPOC-DEA; open triangle,
+NVOC-DEA; open circle, NVOC-HA).
+Figure 2. Monomers used for polymer networks formation.
+Figure 3. Photopatterning with 320−390 nm (20 mW/cm 2) light of a
+tetra-thiol (PETMA) and trimethacrylate (TMPTMA) thiol-Michael
+addition monomer system (1 mol % rhodamine B-modifed acrylate was
+used as dye to provide contrast). Key: (a) Cubic size: width ∼ 400 μm,
+height ∼200 μm. (b) The width of the CU bu ﬀ logo is ∼16 mm.
+Macromolecules Article
+dx.doi.org/10.1021/ma501366f | Macromolecules 2014, 47, 6159 −61656162
+
+
+===== PDF PAGE 5 =====
+To examine the kinetic details of photo thiol −Michael
+addition of each catalyst, we monitored the conversion during
+irradiation using real-time Fourier transform infrared (FT-IR)
+spectroscopy (Figure 1). As expected, the TMG superbase
+catalysts both exhibited fast kinetics, where the reaction
+containing the NPPOC-TMG catalyst achieves over 85%
+conversion within 2 min under continuous irradiation, which
+is comparable to the radical initiated thiol −ene reaction.
+25
+Additionally, the decrease of irradiation time from 2 to 0.5 min
+reduced the reaction rate and conversion owing to the reduced
+TMG generated. (See Supporting Information)
+To demonstrate the spatial and temporal control of the
+thiol−Michael addition, we selected NPPOC-TMG as a photo-
+catalyst for the formation of a polymer network. Photopatterning
+is a straightforward method to demonstrate the spatial control
+in a photopolymerization reaction. A mixture of pentaerythritol
+tetrakis(2-mercaptoacetate) (PETMA), trimethylolpropane tri-
+methacrylate (TMPTMA), 1 mol % acryloxyethyl thiocarbamoyl
+rhodamine B, and 2 mol % NPPOC-TMG were placed on the
+top of the thiol-modifed microscope slide (Figure 2). The samples
+were then irradiated through a photomask with 320−390 nm light
+(i.e., predominately the I-line of a Hg source). After 4 min of
+irradiation, the crude mixture was washed with solvents to remove
+the unreacted, non-cross-linke d material. The patterning was
+visually conﬁrmed (Figure 3), indicating spatial control of the
+thiol−Michael addition polymerization using the NPPOC-TMG
+photocatalyst. The proﬁlometer scan of the patterned surface on
+the glass slide gave the height and diameters of the resulting cubic
+spots. For this photopatterning experiment, it is worth noting that
+diﬀusion of the base will reduce the resolution of the feature if
+long irradiation times are used. However, the rapid formation of
+the polymerized networks also signi ﬁcantly reduces the catalyst
+diﬀusion, which improves the feature ﬁdelity.
+Temporal control of the thiol −Michael addition is
+demonstrated in a kinetically controlled two-stage reaction
+scheme. The typical base catalyzed thiol −acrylate addition
+and thiol −methacrylate addition reactions have signi ﬁcantly
+diﬀerent reaction rates owing to the inductive e ﬀect of the
+methyl group in the methacrylate.
+26 Using a one-pot reaction
+methodology, we mixed butyl thiol glycolate, ethyl acrylate,
+and methyl methacrylate stoichiometrically as well as 1 mol %
+TEA and 1 mol % NPPOC-TMG, used as catalysts. In the ﬁrst
+stage, the acrylate and thiol species readily undergo a Michael
+addition in the presence of TEA. The
+1H NMR monitored
+acrylate conversion was 90% after 5 h while the methacrylate
+conversion was only 9%. At a later time, when the TEA-catalyzed
+acrylate reaction was near completion, the TMG superbase was
+activated using light. The
+1H NMR results indicated that the
+acrylate achieved complete conversion, and the methacrylate
+conversion also reached 90% (Figure 4). Thus, these results
+indicate that we can control the basicities of catalysts in the thiol-
+Michael system through this photolabile superbase.
+To demonstrate our kinetically controlled thiol −Michael
+strategy in polymer network formation, we used PETMA,
+TMPTA, and TMPTMA (Figure 2) as multifunctional
+monomers and 1 mol % TEA as a stage 1 catalyst and 2 mol
+% NPPOC-TMG as a photo-triggered stage 2 catalyst (Figure 5).
+TEA-catalyzed thiol −acrylate reaction resulting in a polymer
+network with a glass transition temperature ( T
+g)o f1 2 °C.
+Subsequently, the sample was irradiated using 320−390 nm light,
+t r i g g e r i n gt h er e l e a s eo ft h eT M Gs u p e r b a s et oc a t a l y z et h et h i o l−
+methacrylate Michael addition. The stage-2 polymer network
+formed with a T
+g at 35 °C (Figure 5). The formation of a polymer
+network and mechanical property modiﬁcation using a two-stage
+thiol−Michael addition based on kinetic diﬀerences demonstrates
+the temporal control of using a caged superbase. 27
+Figure 4. CC conversion of thiol −acrylate (stoichiometric mixture of butyl thiol glycolate and methyl acrylate with 1 mol % TEA) and thiol −
+methacrylate (stoichiometric mixture of butyl thiol glycolate and ethyl methacrylate with 1 mol % NPPOC-TMG) monitored by 1H NMR.
+Macromolecules Article
+dx.doi.org/10.1021/ma501366f | Macromolecules 2014, 47, 6159 −61656163
+
+
+===== PDF PAGE 6 =====
+■ CONCLUSIONS
+In summary, we designed and synthesized ﬁve di ﬀerent
+photoinduced amine catalysts for the thiol −Michael addition
+to enhance both the quantum yield of the photolabile group
+and the basicity of the amine catalyst. All these catalyst were
+evaluated in a model thiol −Michael addition reaction between
+thiol and acrylate. Among these photocaged amines, photo-
+labile superbases (NVOC-TMG and NPPOC-TMG) exhibit
+excellent catalytic activities and achieve over 90% conversion
+within several minutes. The successful implementation of these
+photocaged catalysts in both photopatterning and kinetically
+controlled two-stage polymer network formation demonstrates
+the capability of photo thiol −Michael addition for spatiotem-
+poral control. This work provides a new route for thiol −
+Michael catalysis on-demand (via light activation) and will
+enable new applications of this reaction in polymer chemistry
+and materials science.
+■ ASSOCIATED CONTENT
+*S Supporting Information
+Experimental details, catalyst preparation, photolysis data, and
+NMR spectra. This material is available free of charge via the
+Internet at http://pubs.acs.org.
+■ AUTHOR INFORMATION
+Corresponding Author
+*(C.N.B.) E-mail: Christopher.bowman@colorado.edu.
+Notes
+The authors declare no competing ﬁnancial interest.
+■ ACKNOWLEDGMENTS
+We acknowledge ﬁnancial support from the National Science
+Foundation (CHE 1214109) and the National Institutes of
+Health (U01 DE023777).
+■ REFERENCES
+(1) Kolb, H. C.; Finn, M. G.; Sharpless, K. B. Angew. Chem., Int. Ed.
+2001, 40, 2004.
+(2) (a) Golas, P. L.; Matyjaszewski, K. Chem. Soc. Rev. 2010, 39,
+1338. (b) Iha, R. K.; Wooley, K. L.; Nystrom, A. M.; Burke, D. J.;
+Kade, M. J.; Hawker, C. J. Chem. Rev. 2009, 109, 5620. (c) Xi, W.;
+Scott, T. F.; Kloxin, C. J.; Bowman, C. N. Adv. Funct. Mater. 2014, 24,
+2572.
+(3) (a) Rostovtsev, V. V.; Green, L. G.; Fokin, V. V.; Sharpless, K. B.
+Angew. Chem., Int. Ed. 2002, 41, 2596. (b) Tornoe, C. W.; Christensen,
+C.; Meldal, M. J. Org. Chem. 2002, 67, 3057.
+(4) (a) Lowe, A. B. Polym. Chem. 2010, 1, 17. (b) Hoyle, C. E.;
+Bowman, C. N. Angew. Chem., Int. Ed. 2010, 49, 1540.
+(5) Nair, D. P.; Podgorski, M.; Chatani, S.; Gong, T.; Xi, W. X.;
+Fenoli, C. R.; Bowman, C. N. Chem. Mater. 2014, 26, 724.
+(6) Li, H. B.; Yu, B.; Matsushima, H.; Hoyle, C. E.; Lowe, A. B.
+Macromolecules 2009, 42, 6537.
+(7) Tasdelen, M. A.; Yagci, Y. Angew. Chem., Int. Ed. 2013, 52, 5930.
+(8) (a) Tasdelen, M. A.; Yagci, Y. Tetrahedron lett. 2010, 51, 6945.
+(b) Adzima, B. J.; Tao, Y.; Kloxin, C. J.; DeForest, C. A.; Anseth, K. S.;
+Bowman, C. N. Nat. Chem. 2011, 3, 256.
+(9) Poloukhtine, A. A.; Mbua, N. E.; Wolfert, M. A.; Boons, G. J.;
+Popik, V. V. J. Am. Chem. Soc. 2009, 131, 15769.
+(10) (a) Wang, Y. Z.; Song, W. J.; Hu, W. J.; Lin, Q. Angew. Chem.,
+Int. Ed. 2009, 48, 5330. (b) Song, W.; Wang, Y.; Qu, J.; Lin, Q. J. Am.
+Chem. Soc. 2008, 130, 9654. (c) Song, W.; Wang, Y.; Qu, J.; Madden,
+M. M.; Lin, Q. Angew. Chem., Int. Ed. 2008, 47, 2832.
+(11) (a) Arumugam, S.; Popik, V. V. J. Am. Chem. Soc. 2012, 134,
+8408. (b) Arumugam, S.; Orski, S. V.; Locklin, J.; Popik, V. V. J. Am.
+Chem. Soc. 2012, 134, 179. (c) Arumugam, S.; Popik, V. V. J. Am.
+Chem. Soc. 2011, 133, 15730.
+(12) Pauloehrl, T.; Delaittre, G.; Bruns, M.; Meissler, M.; Borner, H.
+G.; Bastmeyer, M.; Barner-Kowollik, C. Angew. Chem., Int. Ed. 2012,
+51, 9181.
+(13) (a) Blasco, E.; Pinol, M.; Oriol, L.; Schmidt, B. V. K. J.; Welle,
+A.; Trouillet, V.; Bruns, M.; Barner-Kowollik, C. Adv. Funct. Mater.
+2013, 23, 4011. (b) Rodriguez-Emmenegger, C.; Preuss, C. M.;
+Yameen, B.; Pop-Georgievski, O.; Bachmann, M.; Mueller, J. O.;
+Bruns, M.; Goldmann, A. S.; Bastmeyer, M.; Barner-Kowollik, C. Adv.
+Mater. 2013, 25, 6123. (c) Dietrich, M.; Delaittre, G.; Blinco, J. P.;
+Inglis, A. J.; Bruns, M.; Barner-Kowollik, C. Adv. Funct. Mater. 2012,
+22, 304. (d) Gupta, N.; Lin, B. F.; Campos, L.; Dimitriou, M. D.;
+Hikita, S. T.; Treat, N. D.; Tirrell, M. V.; Clegg, D. O.; Kramer, E. J.;
+Hawker, C. J. Nat. Chem. 2010, 2, 138. (e) Kloxin, C. J.; Scott, T. F.;
+Park, H. Y.; Bowman, C. N. Adv. Mater. 2011, 23, 1977.
+(14) (a) Gruendling, T.; Oehlenschlaeger, K. K.; Frick, E.; Glassner,
+M.; Schmid, C.; Barner-Kowollik, C. Macromol. Rapid Commun. 2011,
+32, 807. (b) Oehlenschlaeger, K. K.; Mueller, J. O.; Heine, N. B.;
+Glassner, M.; Guimard, N. K.; Delaittre, G.; Schmidt, F. G.; Barner-
+Kowollik, C. Angew. Chem., Int. Ed. 2013, 52, 762.
+(15) (a) Valkevich, E. M.; Guenette, R. G.; Sanchez, N. A.; Chen, Y.
+C.; Ge, Y.; Strieter, E. R. J. Am. Chem. Soc. 2012, 134, 6916. (b) Bauer,
+D. M.; Rogge, A.; Stolzer, L.; Barner-Kowollik, C.; Fruk, L. Chem.
+Commun. 2013, 49, 8626.
+(16) (a) Pauloehrl, T.; Welle, A.; Bruns, M.; Linkert, K.; Borner, H.
+G.; Bastmeyer, M.; Delaittre, G.; Barner-Kowollik, C. Angew. Chem.,
+Int. Ed. 2013, 52, 9714. (b) Pauloehrl, T.; Welle, A.; Oehlenschlaeger,
+K. K.; Barner-Kowollik, C. Chem. Sci. 2013, 4, 3503. (c) Tischer, T.;
+Claus, T. K.; Bruns, M.; Trouillet, V.; Linkert, K.; Rodriguez-
+Emmenegger, C.; Goldmann, A. S.; Perrier, S.; Borner, H. G.; Barner-
+Kowollik, C. Biomacromolecules 2013, 14, 4340. (d) Pauloehrl, T.;
+Delaittre, G.; Winkler, V.; Welle, A.; Bruns, M.; Borner, H. G.;
+Greiner, A. M.; Bastmeyer, M.; Barner-Kowollik, C. Angew. Chem., Int.
+Ed. 2012, 51, 1071.
+(17) (a) Tucker-Schwartz, A. K.; Farrell, R. A.; Garrell, R. L. J. Am.
+Chem. Soc. 2011, 133, 11026. (b) Altintas, O.; Willenbacher, J.; Wuest,
+K. N. R.; Oehlenschlaeger, K. K.; Krolla-Sidenstein, P.; Gliemann, H.;
+Barner-Kowollik, C. Macromolecules 2013, 46, 8092. (c) Stolzer, L.;
+Ahmed, I.; Rodriguez-Emmenegger, C.; Trouillet, V.; Bockstaller, P.;
+Barner-Kowollik, C.; Fruk, L. Chem. Commun. 2014, 50, 4430.
+(18) (a) Ning, X. H.; Guo, J.; Wolfert, M. A.; Boons, G. J. Angew.
+Chem., Int. Ed. 2008, 47, 2253. (b) Shafiq, Z.; Cui, J. X.; Pastor-Perez,
+L.; San Miguel, V.; Gropeanu, R. A.; Serrano, C.; del Campo, A. Angew.
+Chem., Int. Ed. 2012, 51, 4332.
+Figure 5. Plots of tan δ and elastic modulus vs temperature for two
+stage networks formed through thiol −acrylate−methacrylate monomer
+cross-linking (PETMA −TMPTA−TMPTMA, molar ratio = 3:2:2)
+system. Stage 1 (predominately the thiol −acrylate cross-linking
+reaction) data are in red and stage 2 (the subsequent thiol-methacrylate
+cross-linking reaction) data are in black.
+Macromolecules Article
+dx.doi.org/10.1021/ma501366f | Macromolecules 2014, 47, 6159 −61656164
+
+
+===== PDF PAGE 7 =====
+(19) Gong, T.; Adzima, B. J.; Baker, N. H.; Bowman, C. N. Adv.
+Mater. 2013, 25, 2024.
+(20) (a) Chan, J. W.; Hoyle, C. E.; Lowe, A. B.; Bowman, M.
+Macromolecules 2010, 43, 6381. (b) Xi, W.; Wang, C.; Kloxin, C. J.;
+Bowman, C. N. ACS Macro Lett. 2012, 1, 811.
+(21) (a) Dietliker, K.; Husler, R.; Birbaum, J. L.; Ilg, S.; Villeneuve,
+S.; Studer, K.; Jung, T.; Benkhoff, J.; Kura, H.; Matsumoto, A.; Oka, H.
+Prog. Org. Coat. 2007, 58, 146. (b) Liang, Y. K.; Kiick, K. L. Polym.
+Chem. 2014, 5, 1728.
+(22) Stoll, R. S.; Hecht, S. Angew. Chem., Int. Ed. 2010, 49, 5054.
+(23) Xi, W.; Krieger, M.; Kloxin, C. J.; Bowman, C. N. Chem.
+Commun. 2013, 49, 4504.
+(24) (a) Ishikawa, T.; Kumamoto, T. Synthesis 2006, 5, 737.
+(b) Bochet, C. G. J. Chem. Soc., Perkin Trans. 1 2002, 1, 125.
+(25) Hasan, A.; Stengele, K. P.; Giegrich, H.; Cornwell, P.; Isham, K.
+R.; Sachleben, R. A.; Pfleiderer, W.; Foote, R. S. Tetrahedron 1997, 53,
+4247.
+(26) Cramer, N. B.; Bowman, C. N. J. Polym. Sci., Polym. Chem. 2001,
+39, 3311.
+(27) Li, G. Z.; Randev, R. K.; Soeriyadi, A. H.; Rees, G.; Boyer, C.;
+Tong, Z.; Davis, T. P.; Becer, C. R.; Haddleton, D. M. Polym. Chem.
+2010, 1, 1196.
+Macromolecules Article
+dx.doi.org/10.1021/ma501366f | Macromolecules 2014, 47, 6159 −61656165

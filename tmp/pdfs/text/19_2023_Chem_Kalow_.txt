@@ -1,0 +1,1129 @@
+
+
+===== PDF PAGE 1 =====
+Article
+Tailoring dynamic hydrogels by controlling
+associative exchange rates
+Dithioalkylidene conjugate acceptors undergo dynamic exchange with thiols,
+endowing materials with dynamic properties such as self-healing. We report a
+family of dithioalkylidenes with exchange rates spanning four orders of magnitude
+in water, rationalize their reactivity through computational and experimental
+studies, and use this insight to tune the viscoelastic properties of hydrogels. By
+deﬁning quantitative relationships between cross-link structure, reactivity, and
+macromolecular properties, we establish a means to predictively tune network
+properties starting from the small-molecule level.
+Vivian Zhang, Joseph V.
+Accardo, Ilia Kevlishvili, ...,
+Charlotte L. Stern, Heather J.
+Kulik, Julia A. Kalow
+jkalow@northwestern.edu
+Highlights
+Dynamic conjugate addition-
+elimination of thiols to
+dithioalkylidenes in water
+Fabrication of viscoelastic
+hydrogels with associatively
+exchanging cross-links
+Correlation of macromolecular
+trends with molecular rate
+constants
+Prediction of macromolecular
+trends based on computed
+molecular descriptors
+Zhang et al., Chem 9, 2298–2317
+August 10, 2023 ª 2023 Elsevier Inc.
+https://doi.org/10.1016/j.chempr.2023.05.018
+ll
+
+===== PDF PAGE 2 =====
+Article
+Tailoring dynamic hydrogels
+by controlling associative exchange rates
+Vivian Zhang,1 Joseph V. Accardo, 1 Ilia Kevlishvili,2 Eliot F. Woods, 1 Steven J. Chapman, 1
+Christopher T. Eckdahl, 1 Charlotte L. Stern, 1 Heather J. Kulik, 2 and Julia A. Kalow 1,3,*
+SUMMARY
+Dithioalkylidenes are a newly developed class of conjugate accep-
+tors that undergo thiol exchange via an associative mechanism,
+enabling decoupling of key material properties for sustainability,
+biomedical, and sensing applications. Here, we show that the ex-
+change rate is highly sensitive to the structure of the acceptor and
+tunable over four orders of magnitude in aqueous environments.
+Cyclic acceptors exchange rapidly, from 0.95 to 15.6 M
+/C0 1s/C0 1,
+whereas acyclic acceptors exchange between 3.77 3 10/C0 3 and
+2.17 3 10/C0 2 M/C0 1s/C0 1. Computational, spectro scopic, and structural
+data suggest that cyclic acceptors are more reactive than their
+acyclic counterparts because of resonance stabilization of the tetra-
+hedral exchange intermediate. We p arametrize molecular reactivity
+with respect to computed descriptors of the electrophilic site and
+leverage this insight to design a compound with intermediate char-
+acteristics. Lastly, we incorporate this dynamic bond into hydrogels
+and demonstrate that the charact eristic stress relaxation time ( t)i s
+directly proportional to molecular k
+ex.
+INTRODUCTION
+The physical properties of polymer networks may be varied over a vast range simply
+by changing the identity of network cross-links. Insight into the relationship between
+cross-link structure and bulk properties empowers chemists to precisely design
+materials suitable for a myriad of applications.
+1,2 Hydrogels, three-dimensional
+(3D) hydrophilic networks swelled with water, are a ubiquitous class of soft materials
+used across agriculture, personal care products, and biomedicine.
+3 Imparting visco-
+elasticity (both solid- and liquid-like behaviors) into hydrogels enables desirable
+features such as stress relaxation (adaptation to applied strains) and stimuli respon-
+siveness. 4,5 In biomedical ﬁelds, engineered cell culture scaffolds with biomimetic
+mechanical properties have transformed how cell-matrix interactions and
+downstream processes are studied, motivating the development of hydrogel
+systems in which stress relaxation can be precisely controlled.
+6–9 The timescale of
+stress relaxation in soft tissues ranges from 1 (brain) to 10 3 s (skin), and changes in
+stress relaxation are proposed to be associated with pathological disease pro-
+cesses.
+9 The rate of stress relaxation also inﬂuences developmental processes
+such as tissue organization. 10 The ability to design synthetic hydrogels with stress
+relaxation across these timescales while keeping other network parameters constant
+(stiffness, mesh size, and polymer backbon e) will allow researchers to precisely
+match the mechanics of their scaffold to th e tissue, disease, or developmental state
+of interest. To predictively tailor hydro gel networks through chemical design, we
+THE BIGGER PICTURE
+Dynamic covalent bonds have
+enabled key advances in
+sustainable materials,
+biomedicine, and 3D printing.
+Materials containing dynamic
+bonds exhibit unique properties
+compared with their static
+counterparts, such as self-healing,
+reprocessability, and stimuli
+responsiveness. In hydrogels,
+dynamic bonds provide a
+mechanism to dissipate applied
+stress, which can be exploited to
+develop synthetic materials that
+recapitulate the mechanical
+features of native tissue.
+We develop a suite of hydrogel
+cross-links that employs an
+associative exchange mechanism,
+allowing stress relaxation to be
+tuned independently from
+stiffness. We present a structure-
+reactivity-property relationship
+that enables reactivity and stress
+relaxation timescales to be
+estimated in silico for new
+structures. This work, therefore,
+opens new avenues to design and
+control associative dynamic
+hydrogels with targeted
+properties, overcoming the
+limitations of previous systems
+that have largely relied on
+dissociative exchange
+mechanisms.
+2298 Chem 9, 2298–2317, August 10, 2023 ª 2023 Elsevier Inc.
+ll
+
+===== PDF PAGE 3 =====
+must ﬁrst establish quantitative relationships between cross-link structure, molecular
+reactivity, and macromolecular stress relaxation.
+Viscoelasticity arises in part from cross-link rearrangement, which can occur through
+dissociative or associative mechanisms. The mechanism has implications on how
+network stiffness and stress relaxation are coupled ( Figure 1 A). The majority of
+viscoelastic hydrogels are based on dissociative dynamic interactions, such as
+hydrophobic association,
+12,13 host-guest complexation, 14–16 hydrogen bonding, 17
+or hydrolysable dynamic covalent bonds, such as boronic esters and imines. 8,18–23
+In dissociative networks, stiffness, a prop erty determined by cross-link density, is
+related to Keq (ka/kd) of the cross-link because it deﬁnes the proportion of bound
+to unbound cross-links at equilibrium. The self-healing rate depends on the rate of
+cross-link association ( k
+a), whereas stress relaxation is related to the rate of cross-
+link dissociation ( kd), the ﬁrst step of network rearrangement. 24–26 Because Keq is
+deﬁned by ka and kd, it is challenging to design dissociative reactions for cross-links
+in which rate and equilibrium constants, and, therefore, network stress relaxation
+and stiffness, can be independently manipulated.
+20,23,27 The interdependence of
+these properties can be represented on a non-normalized stress relaxation plot, in
+which a modiﬁcation to k
+d would typically result in chan ges to both the characteristic
+timescale of stress relaxation ( t) and the initial modulus ( G0), which describes
+stiffness.
+To bypass the codependence of these properties in dissociatively exchanging
+networks, we sought to develop hydrogels based instead on associative dynamic
+covalent exchange, following precedent from the ﬁeld of reprocessable networks.
+Dry networks based on associative exchange mechanisms, or vitrimers, have gained
+attention due to their ability to undergo reprocessing while maintaining cross-link
+density.
+28 Inspired by ‘‘declick’’ reactions developed by Anslyn and coworkers, 29
+we previously developed polydimethylsilo xane (PDMS) vitrimers based on the con-
+jugate addition-elimination of thiols to dithioalkylidene cross-links ( Figure 1 B).30 We
+further demonstrated that the rate of vitri mer stress relaxation could be varied over
+four orders of magnitude without affecting stiffness by using different conjugate
+acceptor cross-linkers.
+31
+These studies motivated us to develop hyd rogels cross-linked with associatively
+exchanging dithioalkylidenes. We envisioned tailoring the exchange rate kex to
+tune stress relaxation while the cross-lin k density that determines stiffness is
+unaffected. Meldrum’s acid-derived dithioalkylidenes have been incorporated into
+chemically responsive hydrogels, but stress relaxation (if present) was not character-
+ized.11,32,33 Thioesters, which exchange through an associative mechanism, have
+been used as dynamic cross-links in stress-relaxing hydrogels. At physiological pH
+in the absence of a catalyst, the rate of thioester exchange ( t
+½ > 30 h) leads to stress
+relaxation on the order of 10 4–106 s, which is slower than most soft tissues. 34–37
+Here, we investigate the relationship between conjugate acceptor structure, kex,a n d
+viscoelasticity for conjugate addition-elimination using a series of dithioalkylidenes
+and their corresponding hydrogels ( Figure 1 B). Although we previously observed
+cross-link-dependent effects on stress re laxation for vitrimers, we did not measure
+the small-molecule exchange rates for the cross-links employed. In order to quanti-
+tatively evaluate the relationship between molecular reactivity and network proper-
+ties, these kinetic data are required. We therefore measured the molecular exchange
+rates under aqueous conditions and used computational and experimental data to
+rationalize structure-dependent change s in reactivity. The exchange rates were
+1Department of Chemistry, Northwestern
+University, 2145 Sheridan Road, Evanston, IL, USA
+2Department of Chemical Engineering,
+Massachusetts Institute of Technology, 25 Ames
+Street, Cambridge, MA, USA
+3Lead contact
+*Correspondence: jkalow@northwestern.edu
+https://doi.org/10.1016/j.chempr.2023.05.018
+ll
+Chem 9, 2298–2317, August 10, 2023 2299
+Article
+
+===== PDF PAGE 4 =====
+quantitatively correlated to computed mol ecular parameters. By incorporating the
+corresponding cross-links into photopolymerized hydrogels, we further demon-
+strated that the hydrogel’s characteristic stress relaxation time ( t)i sd i r e c t l y
+proportional to molecular k
+ex. We leveraged this insight to design a compound
+Figure 1. Effects of exchange mechanisms on network properties and examples of associative thiol exchange applied to dynamic networks
+(A) Comparison between dissociative and associ ative exchange mechanisms and their effects on mac roscopic network properties. In dissociative
+systems, the binding constant ( Keq) determines stiffness ( G0), whereas the rate of dissociation ( kd) determines viscoelasticity. In associative systems, the
+cross-link density, determined by synthesis conditions, dictates stiffness, whereas exchange rate ( kex) determines viscoelasticity.
+(B) Examples of associative thiol exchange reactions applied to hydrogels a nd vitrimers. In this work, a range of conjugate acceptors is synthesized from
+organic diacids to study the aqueous exchange mechanism of dithioa lkylidenes and translate these effect s to hydrogel viscoelasticity. aIn Chang et al., 11
+hydrogels with excess thiol were qualitatively self-healing, but stress relaxation was not characterized.
+ll
+2300 Chem 9, 2298–2317, August 10, 2023
+Article
+
+===== PDF PAGE 5 =====
+and computationally appraise its reactivity and relaxation timescale. Overall, we
+demonstrate that mechanistic insight into cross-link exchange and parametrization
+of cross-link reactivity enable the design of materials with targeted viscoelasticity.
+RESULTS AND DISCUSSION
+Kinetic measurements of dithioalkylidene exchange in aqueous media
+We sought to synthesize and measure exchan ge rates for a library of dithioalkylidene
+structures (generically abbreviated XL;s e e Figures 1 Ba n d 4C for abbreviations of
+speciﬁc structures) to evaluate the compatibility of this exchange reaction with asso-
+ciatively exchanging, stress-relaxing hydrogels (see supplemental information ,
+section synthesis and section NMR spectra). We therefore designed the non-degen-
+erate small-molecule model system shown in Figure 2 A to mimic cross-link conju-
+gate exchange. Water-soluble XL-1 was dissolved in an 8:2 mixture of aqueous
+HEPES buffer (0.1 M, pH 7.44)-acetonitrile and subjected to 2 equiv of a chemically
+distinct thiol BT to generate singly and then doubly exchanged products XL-2 and
+XL-3. The concentrations of each species were monitored over time using reverse-
+phase high-performance liquid chromat ography (RP-HPLC) un til equilibrium was
+reached.
+We ﬁrst began our investigation with compound MA-1 and observed that the con-
+centrations of MA-1, -2,a n d -3 approached an approximately 1:2:1 ratio as the
+reaction approached equilibrium over ca. 30 min ( Figure 2 B). The second-order
+rate constant ( k
+ex) for associative exchange of MA-1 with BT was determined to be
+Figure 2. Small-molecule kinetic studies
+(A) The non-degenerate reaction used to monitor the exchange process with various cross-linkers ( XL).
+(B) Representative kinetic proﬁ le for the equilibration of 100 mMo f MA-1 with 200 mM BT to
+generate a 1:2:1 mixture of MA-1 –3. Curves show ﬁt to the second-order kinetic model.
+ll
+Chem 9, 2298–2317, August 10, 2023 2301
+Article
+
+===== PDF PAGE 6 =====
+6.65 G 0.85 M /C0 1s/C0 1 (see supplemental information , section kinetics for details of
+derivation and ﬁt). We independently synthesized MA-3 and performed the reverse
+reaction with ET,w h i c hy i e l d e dakex of 3.56 G 0.49 M /C0 1s/C0 1, indicating that BT and
+ET exhibit comparable, although not identical, exchange rates ( Figures S1 and S2;
+Table S1 ).
+We next synthesized diketones DD-1 and CP-1 from dimedone and 1,3-cyclopenta-
+nedione, respectively, to determine how r ing size and carbonyl class inﬂuence the
+rate of exchange. Equilibration of these compounds with 2 equiv BT occurred within
+an hour, with the disappearance of st arting material following the trend
+CP > MA > DD (Figures S3 –S5; Tables S2 –S4). Inspection of the concentration versus
+time data, however, revealed a gradual decrease in the total concentration of di-
+thioalkylidene species for CP-1 and DD-1, which was not observed for MA-1 on
+the same timescale. Jewett and coworkers previously used related diaminoalkyli-
+denes derived from Meldrum’s acid as tools for the irreversible modiﬁcation of
+amines in basic solution. They discovered that these compounds react reversibly
+with hydroxide anions to form a stable adduct at high pH ( Figure 3B).
+38 We therefore
+hypothesized that DD-1 and CP-1 react analogously with hydroxide but undergo
+irreversible loss of thiol ( Figure 3 C). Control experiments with DD-1 or CP-1 in the
+absence of BT conﬁrmed a slow, linear decrease i n concentration as a function of
+Figure 3. Kinetics and mechanism of dithioalkylidene hydrolysis
+(A) Kinetics of cyclic dithioa lkylidene degradation at pH 7.44.
+(B) pH-dependent amine addition to Meldrum’s ac id-derived diaminoalkylidenes and reversible
+hydrolysis in aqueous solution.
+(C) Proposed hydrolysis of dithioalkylidenes in water.
+ll
+2302 Chem 9, 2298–2317, August 10, 2023
+Article
+
+===== PDF PAGE 7 =====
+time (Figure 3 A), and the hydrolysis products were conﬁrmed by mass spectrometry.
+The kinetic model was modiﬁed to include the hydrolysis pathway for DD and CP,
+and kex values were thus determined to be 0.95 G 0.0046 and 15.6 G 0.45
+M/C0 1s/C0 1,r e s p e c t i v e l y(Figure 4 A). The non-negligible hydrolysis of DD and CP within
+the time frame of the kinetic experiments lim its their use as cross-links in hydrogels
+when stable mechanical properties are required.
+Based on our previous studies of stress relaxation in PDMS vitrimers, 31 we hypothe-
+sized that dithioalkylidenes derived from acyclic 1,3-diketones and diesters would
+undergo exchange more slowly than their cyclic analogs. However, we anticipated
+that the calculated gas-phase exchange mechanism may not apply to the aqueous
+environments of inte rest here. Compounds MM and AA were synthesized from
+dimethyl malonate and acetylacetone as acyclic analogs of MA and DD/CP.U n d e r
+the standard second-order reaction conditions with 2 equiv of BT, MM-1 and
+AA-1 failed to show measurable conversion over multiple days. Therefore, we
+instead employed pseudo-ﬁrst-order conditions with 20–100 equiv BT to measure
+k
+ex for these acyclic dithioalkylidenes ( Figure 4 B). Second-order rate constants (un-
+der pseudo-ﬁrst-order conditions) for kex of MM-1 and AA-1 were determined to be
+3.77 3 10/C0 3 and 2.17 3 10/C0 2 M/C0 1s/C0 1, respectively, which are 2–4 orders of magni-
+tude slower than those of the cyclic acceptors ( Figures 4 C, S6,a n dS7; Tables S5 and
+S6). These data demonstrate the highly sensi tive relationship between cross-link
+structure and kex.
+Figure 4. Structure-reactivity trend for a library of dithioalkylid enes determined using a quasi-degenerate thiol exchange reaction
+(A) Concentration versus time traces for the disappearance of 100 mM MA-1 (green), DD-1 (blue), or CP-1 (purple) with 200 mM BT in 8:2 aqueous HEPES
+(0.1 M, pH 7.44)-acetonitrile. Curves show ﬁt to the sec ond-order kinetic model incorporating hydrolysis.
+(B) kobs versus [ BT] to determine kex for AA-1 (pink), MM-1 (maroon), and CH-1 (teal) (100 mM XL-1 in 8:2 aqueous HEPES [0.1 M, pH 7.44]-acetonitrile)
+with 20–100 equiv BT. Lines show ﬁt to a pseudo-ﬁrst-order kinetic model.
+(C) Summary of kex values for cyclic and acyclic acceptors. Shaded boxes denote a str ucture and corresponding data for which the reactivity was ﬁrst
+calculated in silico before experimental conﬁrmation ( vide infra ).
+ll
+Chem 9, 2298–2317, August 10, 2023 2303
+Article
+
+===== PDF PAGE 8 =====
+Mechanistic rationale
+In order to design cross-linkers with targeted exchange rates, we sought to under-
+stand the structure-dependent changes in kex. We envisioned that at pH 7.44, the
+reaction could occur through either a neutral or anionic pathway. Previously, we
+used gas-phase density functional theory (DFT) calculations to rationalize the
+difference in reactivity between cyclic and acyclic dithioalkylidenes in a nonpolar
+PDMS matrix.
+31 Those studies implicated a neutral pathway, wherein cyclic accep-
+tors experience lower activation energies for thiol addition due to the participation
+of the carbonyl as an internal base that activates the incoming thiol as it attacks in a
+closed transition state ( Figure 5 A). For acyclic acceptors, this closed transition state
+was unfavorable, and thus internal catalysis could not occur.
+However, our kinetic data suggest that the aqueous system may favor a different
+pathway. In the PDMS vitrimers, DD underwent stress relaxation /C24 703 faster than
+MA. In the aqueous experiments described here, MA exchanged /C24 73 faster than
+DD. To determine if the reaction proceeds through an anionic pathway ( Figure 5 B),
+we measured exchange rates of MA-1 with BT in 8:2 aqueous HEPES (0.1 M, pH 7.0–
+8.0)-acetonitrile. We observed a clear pH dependence, with k
+ex increasing as a func-
+tion of pH ( Figure 5 C). These results suggest that th e anionic exchange pathway is
+Figure 5. Possible exchange mechanisms and pH dependence
+(A and B) Proposed mechanisms for exchange through addition of (A) neutral thiol or (B) thiolate.
+(C) Increasing solution pH increases the exchange rate for MA-1 .
+ll
+2304 Chem 9, 2298–2317, August 10, 2023
+Article
+
+===== PDF PAGE 9 =====
+favored under aqueous conditions; increa sing pH increases the concentration of thi-
+olate and thus accelerates the reaction. These results can be rationalized in analogy
+to the well-studied thiol-thioester exchange, which is known to proceed in part
+through a thiolate pathway in water.
+36,37 DFT calculations for both DD and AA in wa-
+ter (conductor-like polarizable continuum model) further corroborated our experi-
+mental observations (see supplemental information , section intrinsic atomic orbital
+analysis for details). The anionic intermediate was signiﬁcantly favored relative to the
+neutral one, by 11 kcal/mol for DD and 4.5 kcal/mol for AA. Accounting for energy
+differences arising from the speciation of the nucleophile (pKa 10 in water) into
+neutral thiol and anionic thiolate at pH 7. 4, the computations are overestimated
+by 3–4 kcal/mol. Despite this overestimation, under aqueous conditions the anionic
+pathway is clearly favorable for the cyclic species and slightly favored for the
+acyclic one.
+The proposed anionic mechanism for dithioalkylidene exchange under aqueous
+conditions is thus distinct from the neutral mechanism proposed for PDMS vitrimers.
+For an anionic mechanism, internal catalysis in a closed transition state cannot be
+implicated because the thiol proton is not present in the rate-limiting step. There-
+fore, we performed computational and spectroscopic studies to understand the
+origin of rate differences for this series of dithioalkylidenes.
+We calculated energy-minimized structures for MA, DD, CP, AA,a n d MM and their
+anionic tetrahedral intermediates followi ng addition of methanethiolate using DFT
+(see supplemental information , section computational details). Based on conforma-
+tional analysis using the conformer-rotame r ensemble sampling tool, the acyclic di-
+thioalkylidenes had many more accessible conformers (19–29) compared with the
+cyclic acceptors (3–6), as expected based on the greater degrees of freedom for
+acyclic acceptors. Although me thanethiolate addition is endergonic for all dithioal-
+kylidenes, it is less endergonic for the cyclic compounds. Indeed, there was a reason-
+able correlation between calculated DDG for addition and the experimental DDG
+z
+determined from the measured exchange rates, consistent with the Bell-Evans-
+Polyani principle ( Figure 6 A; Table S9 ). We next used the lowest-energy conformer
+of each tetrahedral intermediate to optimize transition state geometries for thiolate
+addition to each dithioalkylidene. The calculated DDG
+z values were also consistent
+with the experimental data ( Figure 6 B; Table S9 ). Notably, for both calculated DDG
+and DDGz values, MA was an outlier when compared with experimental trends. The
+anomalously low pKa of Meldrum’s acid (7.3 in DMSO) has long been debated in
+computational studies and may point to factors inﬂuencing the exchange rate that
+cannot be captured by the methods used here.
+39–43
+Inspection of the transition states revealed that the cyclic dithioalkylidenes generally
+featured earlier transition states, with longer distances between the incoming nucle-
+ophile and the acceptor’s b carbon, compared with their acyclic counterparts. For
+example, the C $$$Sd i s t a n c ei s2 . 8 0A˚ in the DD TS and 2.46 A˚ in the AA TS ( Fig-
+ure 6 C). These differences suggest that the a cyclic dithioalkylidenes react via
+more product-like transition states compared with more reactant-like transition
+states for the cyclic dithioalkylidenes ( Table S8 ). These trends are consistent with
+Hammond’s postulate given the more endothermic addition to acyclic dithioalkyli-
+denes. We thus conclude that the stabiliza tion of the anionic tetrahedral intermedi-
+ates governs the overall exchange rate. The conformationally restricted structure of
+the cyclic acceptors provides greater resonance stabilization of this intermediate. By
+contrast, the acyclic dithioalkylidenes can adopt numerous ground-state conforma-
+tions with respect to the carbonyl, which disrupts resonance stabilization.
+ll
+Chem 9, 2298–2317, August 10, 2023 2305
+Article
+
+===== PDF PAGE 10 =====
+Increased polarization between the a and b carbons in cyclic dithioalkylidenes
+compared with acyclic ones was veriﬁed experimentally through 13C NMR spectros-
+copy, crystallography, and UV-vis spectr oscopy. For example, we observe similar
+13CN M Rs h i f t sf o rt h ea and b carbons of acyclic diketone AA (148 and 147 ppm,
+respectively), compared with signiﬁcantly more shielded C a and deshielded C b sig-
+nals for CP (122 and 194 ppm, respectively) ( Figure 7 ). This trend is also observed
+when comparing MM and MA and suggests that the C=C p bonds are more polar-
+ized in the cyclic compounds. This conclusion is further supported by single-crystal
+X-ray structures of CP, AA, MA,a n dMM, which reveal longer C=C bonds and larger
+SC
+aCbC(O) dihedral angles for the cyclic compounds (see supplemental information ,
+section crystallographic data). Greater resonance stabilization for cyclic dithioalkyli-
+denes is also reﬂected in red-shifted lmax for the p-p* transition in UV-vis absorption
+(Figure S15 ). Although we were unable to observe any tetrahedral intermediates
+spectroscopically, we can infer that the resonance stabilization in the dithioalkyli-
+dene reactant will be even more signiﬁcant in the corresponding anionic intermedi-
+ate. Therefore, we believe that these spectroscopic and structural descriptors of
+resonance stabilization trends are reasonable proxies for resonance stabilization
+of the intermediates, which dictates exchange rate.
+Figure 6. Computed thermodynamics and energies for methanethiolate addition to all XLs
+(A) Correlation between calculated and experimental DDGz,b o t hn o r m a l i z e dt oCP.
+(B) Correlation between calculated DDG for addition and experimental DDGz, both normalized to CP.
+(C) Qualitative reaction landscapes co mparing thiolate addition with cyc lic and acyclic dithioalkylidenes. G eometry optimizations of transitio n states
+performed at CAM-B3LYP/def2-SVPD-cpcm(water) level of t heory demonstrate that the nascent bond is longer for cyclic DD (2.80 A˚ )t h a nf o ra c y c l i cAA
+(2.46 A˚ ).
+ll
+2306 Chem 9, 2298–2317, August 10, 2023
+Article
+
+===== PDF PAGE 11 =====
+Based on these trends, we sought a single, computationally derived descriptor of
+resonance stabilization that could be used to predict exchange rates. We ﬁrst
+applied intrinsic atomic orbital (IAO) analysis,
+44,45 which allows localized bonding
+orbitals to be assigned to a speciﬁc atom, to the lowest-energy conformer of each
+dithioalkylidene. This analysis shows how the two electrons in the p bond are delo-
+calized across the C
+aCbC(O) p system ( Figure S11 ; Table S11 ). Compounds that
+exchange faster demonstrated de creased electron density at the b carbon, but
+the percent charge contributions did not c orrelate linearly with observed reaction
+rates. Therefore, we evaluated additional electronic descriptors and found that
+Hirshfeld charges of the dithioalkylidene b carbon ( Figure 8 A) and LUMO ( Figure 8 B)
+are well correlated to the experimental exchange rates. Other descriptors, such as
+HOMO value or condensed electrophilic Fukui function based on Hirshfeld charges,
+showed worse correlation ( Figure S88 ). The Hirshfeld charge intrinsically describes
+the difference between the molecular an d charge density from the promolecule
+(i.e., the constituent atoms). Hirshfeld cha rges have been used to predict electrophi-
+licity for electrophilic aromatic substitution and to generate a quantitative scale of
+electrophilicity and nucleophilicity.
+46–48
+Predicting reactivity of a dithioalkylidene acceptor in silico
+To demonstrate that these structure-reacti vity relationships are indeed predictive,
+we designed an acceptor in silico that was predicted to provide reactivity interme-
+diate to the cyclic and acyclic dithioalkylidenes. CH is a 7-membered cyclic diketone
+that is more ﬂexible than DD and CP. Additionally, CH maintains the cyclic confor-
+mation that would enable internal catalysis and a closed transition state in the neutral
+pathway and can provide additional support for or against the proposed anionic
+mechanism. Indeed, the calculated Hirshfeld charge for C
+b in CH is 0.0161, which
+is greater than but more similar to the acyclic dithioalkylidenes (0.006–0.0102)
+compared with the cyclic ones (0.0344–0.0361) ( Figure 8 A; Table S10 ). Similarly,
+the calculated LUMO value for CH is /C0 0.0685, which also falls between that of the
+cyclic and acyclic values ( Table S10 ). The predicted reaction rates of CH based on
+the linear trend of log( k
+ex) against Hirshfeld charge and LUMO values ( Figure S89 )
+are 5.6 3 10/C0 2 and 4.1 3 10/C0 2 M/C0 1s/C0 1, respectively.
+Encouraged by this result, we synthesized CH from 1,3-cycloheptanedione (see sup-
+plemental information , section synthesis) and noted that the C a and C b
+13Cs h i f t s
+Figure 7. Structural comparisons of cyclic vs. acyclic diketone and diester C a–Cb p bond obtained from 13C NMR and single-crystal X-ray
+crystallography
+ll
+Chem 9, 2298–2317, August 10, 2023 2307
+Article
+
+===== PDF PAGE 12 =====
+appear at 140 and 160 ppm, consistent with p bond polarization intermediate to
+acyclic diketone AA and cyclic diketones DD/CP. Furthermore, UV-vis absorption re-
+vealed lmax intermediate to the acyclic and cyclic dithioalkylidenes ( Figures S12 –
+S15). Water-soluble derivative CH-1 was then prepared and subject to the
+second-order kinetic assay with 2 equiv BT, which failed to show any appreciable
+conversion. Gratifyingly, the kinetic analysis with excess BT under pseudo ﬁrst-order
+conditions revealed an exchange rate of 7.73 3 10/C0 2 M/C0 1s/C0 1 (Figure 4 B; Table S7 ),
+comparable to the predicted kex values. Thus, the ﬂexible cyclic acceptor CH un-
+dergoes exchange 12 times slower than DD and 3.5 times faster than AA.
+Synthesis and characterization of stress-relaxing hydrogels
+We next incorporated these dithioalkyliden e derivatives as cross-linkers in stress-
+relaxing hydrogels to investi gate the relationship between t and kex in associative
+covalent adaptable networks. We ﬁrst attempted to fabricate hydrogels by
+combining mercapto-terminated multi-ar m poly(ethylene glycol) with dithioalkyli-
+denes, wherein displacement and evoluti on of methanethiol would lead to gela-
+tion. This route was limited by the wide range of exchange rates: because gelation
+was contingent on thiol exchange, gelatio n with the acyclic cross-linkers was pro-
+hibitively slow. In order to form the network rapidly independent of the exchange
+chemistry, we designed cross-linkers MA-4, AA-4, CH-4,a n d MM-4 with norbor-
+nene units, which can engage in r apid thiol-ene reactions ( Figure 9 A).
+35 These di-
+thioalkylidenes were selected based on the absence of competitive hydrolysis and
+the range of exchange rates they represent ( Figures S9 and S10). Ctrl was synthe-
+sized as a control cross-link that cannot undergo associative exchange after cross-
+linking.
+To form hydrogels, either MA-4, MM-4, AA-4, CH-4,o r ctrl was added to a solution
+of thiol-terminated 4-arm polyethylene glycol (PEG) (M
+w 5k D a )w i t han o r b o r n e n e : -
+thiol ratio of 1:2 to achieve a ﬁnal polymer concentration of 10 w/v % in methylene
+chloride. When the ratio of norbornene to thi ol is less than 1, free thiols are available
+to participate in the exchange reaction. Eosin Y was added at 5 mol % relative to the
+number of thiol end groups, and the solution was irradiated with 525 nm green light
+for 6–27.5 min depending on the cross-linker, due to variable cross-linker absorption
+at this wavelength ( Figure S15 ). The gelation could not be performed in water due to
+limited aqueous solubility of the linkers; therefore, the organic solvent was
+Figure 8. Electronic descriptors correlated to exchange rates
+Correlating experimental DGz normalized to CP with (A) Hirshfeld charge at C b and (B) calculated LUMO (eV) of each dithioalkylidene.
+ll
+2308 Chem 9, 2298–2317, August 10, 2023
+Article
+
+===== PDF PAGE 13 =====
+subsequently removed in vacuo and the gel re-swelled with 200 mL of aqueous
+HEPES buffer (0.1 M, pH 7.44). Gels did not form in the absence of cross-linker or
+eosin Y, suggesting that disulﬁde formation is not responsible for network formation
+under these conditions.
+In a frequency sweep, all gels exhibited similar plateau moduli of /C24 1,600 G 150 Pa,
+as expected for an associative hydrogel in which cross-link density is dictated by the
+synthesis conditions rather than the exchange chemistry ( Figure 9 B). These mechan-
+ical data, obtained from shear rheology, are available in the supplemental informa-
+tion (Figures S16 –S30; Table S12 ). Only gel-MA u n d e r w e n tc r o s s o v e rb e t w e e nG
+0
+and G00 within the experimental frequency ra nge at 1.6 rad/s, consistent with its
+faster exchange kinetics. The stress relaxation plot of gel-ctrl showed slow but
+evident stress relaxation ( t v a l u eo f1 5 5 3s ) ,w h i c hm a yb eattributed to other modes
+Figure 9. Network formation and mechanical properties
+(A) Conditions for network formation by photoinitiated thiol-ene reaction with 4-arm PEG-thiol and structures of the norbornene-terminated cross -
+linkers.
+(B) Frequency sweeps of gel-MA , gel-CH , gel-AA ,a n d gel-MM in HEPES (10 w/v %, 0.1 M, pH 7.44, 5% strain).
+(C) Stress relaxation proﬁles of gel-MA , gel-CH , gel-AA , gel-MM ,a n d gel-ctrl (5% strain). t values were obtained by ﬁtting data to a single-element
+Maxwell model and taking the average of 3 datasets.
+ll
+Chem 9, 2298–2317, August 10, 2023 2309
+Article
+
+===== PDF PAGE 14 =====
+of stress relaxation, such as the reptation of dangling chain ends ( Figure 9 C).49,50 By
+using a 1:2 norbornene:thiol ratio, these networks were synthesized with a large con-
+centration of dangling ends (free thiol) by design to promote the associative
+exchange reaction. Gel-MA, gel-AA,a n d gel-MM relaxed all stress faster than gel-
+ctrl, and ﬁtting the data to a single-element Maxwell model yielded characteristic
+relaxation times ( t) of 0.672, 173, and 621 s. These trends were replicated in gels irra-
+diated to a different stiffness of 1,200 Pa ( Figure S34 ; Table S13 ). Thus, the rates of
+stress relaxation for the cross-linker scope span four orders of magnitude and match
+the stress relaxation of soft tissues.
+9
+Based on the trends obtained from correlating stress relaxation time with Hirshfeld
+charge ( Figures 10 Aa n d S89A) and LUMO ( Figures 10 Ba n d S89B), gel-CH was pre-
+dicted to exhibit a t value of 49.8 and 53.7 s, respectively. Although gel-CH relaxed
+stress on a timescale intermediate to that of gel-MA and gel-AA as anticipated, its
+characteristic relaxation time was 115 s, approximately twice the predicted value
+(Figure 9 C). This error reﬂects the simplicity of our model, inspired by classic linear
+free energy relationships, which correlates gel properties to a single molecular
+descriptor and assumes that molecular exchange is the sole determinant of stress
+relaxation. The use of multivariate descriptors of reactivity
+51 and the incorporation
+of additional factors that inﬂuence stress relaxation, such as chain dynamics, 26 would
+improve the accuracy of our model. Nevertheless, the simplicity of the approach
+described here makes it readily accessible.
+Qualitatively, the trend in stress relaxation rate correlates with the rates of small-
+molecule thiol exchange: cross-linkers that exchange faster also relax stress faster.
+However, although other studies have provided a similar qualitative comparison
+of small-molecule and mechanical data in associative networks,
+52–57 we sought
+to analyze the scaling relationship quantitatively. In supramolecular networks,
+time-cross-linker superposition of t he frequency sweep data has been applied
+when there is a 1:1 scaling relationship between G
+0 and G00 with kd
+58 or Ea,d.59
+This analysis conﬁrms that networks com posed of distinct but analogous cross-
+linkers rearrange through common mechanisms. However, this approach was
+not compatible with our system because only gel-MA displayed a crossover fre-
+quency within an experimental ly accessible range. Therefore, for a direct compar-
+ison, we instead plotted 1/ t obtained from stress relaxation and small-molecule
+rate constants ( k
+ex) on a log-log plot, yielding a line with a slope of 1.01
+(Figures 10 Ca n d S87; tabulated data available in Table S43 ). The slope of nearly
+unity demonstrates that 1/ t is linearly proportional to kex. These data suggest that
+stress relaxation in swollen associative networks is predominantly controlled by
+network exchange and can be quantitatively predicted by trends in cross-link
+kinetics.
+60
+In an associative mechanism, removing the free thiols should inhibit stress relaxa-
+tion. Therefore, gel- AA
+cap was formed with stoichiometric norbornene end-capper
+cap, which reacts with the excess free thiols. Indeed, gel-AAcap exhibited signiﬁ-
+cantly slower stress relaxation relative to gel-AA (t value of 675 s with cap,c o m p a r e d
+w i t h1 7 3sw i t h o u t ) ,c o n ﬁ r m i n gt h ea s s o c i a t i v en a t u r eo ft h i o l - d i t h i o a l k y l i d e n ee x -
+change ( Figures 11 Ca n d S31–S33). The residual stress relaxation suggests that
+capping may not be quantitative (see supplemental information for a summary of
+capping strategies attempted).
+Associative networks such as vitrimers are commonly assumed to resist dissolution in
+good solvents in the absence of any com petitive nucleoph iles. However, we 61 and
+ll
+2310 Chem 9, 2298–2317, August 10, 2023
+Article
+
+===== PDF PAGE 15 =====
+Figure 10. Correlation between small-molecule kinetics, network viscoelasticity, and electronic
+descriptors
+(A and B) Correlation of stress relaxation timescale of gel-MA , gel-CH , gel-AA ,a n d gel-MM and kex
+of MA-1 , AA-1 , CH-1 ,a n d MM-1 with (A) Hirshfeld charge and (B) LUMO values.
+(C) Log-log plot comparing stress relaxation timescale of gel-MA , gel-CH , gel-AA ,a n d gel-MM to
+exchange rate of MA-1 , AA-1 , CH-1 ,a n d MM-1 .
+Shaded boxes indicate cross-linker for which reac tivity and stress relaxation time were predicted in
+silico before experimental conﬁrmation. Error b ars represent standard deviation for 3-5
+measurements.
+ll
+Chem 9, 2298–2317, August 10, 2023 2311
+Article
+
+===== PDF PAGE 16 =====
+others55,62,63 have shown that vitrimers can undergo dissolution. As concentration of
+the polymer network decreases relative to the surrounding medium, successive
+associative exchange reactions favor intramolecular linkages, disrupting the inﬁnite
+network structure and dissolving it into soluble hyperbranched loopy polymers ( Fig-
+ure 11A). We performed swelling experiments on the hydrogels to evaluate whether
+such a mechanism for dissolution is possible in this system. When gel-AA was
+suspended in excess buffer, we observed complete dissolution of the gel within
+24 h ( Figure 11 B), whereas non-dynamic gel-ctrl remained stable for at least a
+week. Subjecting gel-AA
+cap to the swelling experiment yielded slower dissolution
+than gel-AA (incomplete dissolution after 5 days), again conﬁrming that free thiols
+are required to mediate the exchange reactions that lead to hydrogel dissolution,
+and that hydrolysis is not the major dissolution pathway.
+Figure 11. Effects of capping excess thiol on stress relaxation and exchange-mediated network dissolution
+(A and B) (A) Illustration and (B) photographs of exchange-m ediated dissolution with or without capping agent cap.
+(C) Stress relaxation proﬁles of gel-AA and gel-AA cap .
+ll
+2312 Chem 9, 2298–2317, August 10, 2023
+Article
+
+===== PDF PAGE 17 =====
+We hypothesize that the dissolved network comprises multiple species, including
+unimers with primary loops and numerous large, polydisperse polymers. Gel perme-
+ation chromatography (GPC) of the dissolved gel-AA solution indicated that the
+dissolution products had increased polydispersity compared with a sample of
+4-arm 5 kDa PEG-thiol ( Figure S90 ).
+1H diffusion-ordered spectroscopy (DOSY) anal-
+ysis of 4-arm 5 kDa PEG-thiol and dissolved gel-AA also suggests that larger species
+are present in the latter. Diffusion analysis of the PEG monomer methylene proton at
+3.66 ppm yielded diffusion constants of 2.54 3 10/C0 6 for 4-arm PEG-thiol and 1.57 3
+10/C0 6 for dissolved gel-AA (Table S44 ). We anticipate that with longer reaction times,
+decreased network concentration rela tive to the surrounding medium, and
+increased temperature to accelerate equilibration, the networks will dissolve into
+a more uniform set of products.
+Lastly, we demonstrated the capacity of the gels to undergo self-healing,
+which should also be determined by the rate of associative exchange ( k
+ex). We cut
+samples of gel-MA, gel-AA,a n d gel-ctrl , pressed the cut halves together,
+and qualitatively compared self-healing ability over time ( Figure 12 ). Gel-MA,
+which undergoes the fastest cross-link exchange, healed the fastest of the
+three samples and within minutes could be held against gravity with a spatula.
+Similarly, gel-AA was self-supporting after 30 min. Although healed, it
+still displayed a visible seam where the original gel was divided. By comparison,
+gel-ctrl remained unhealed after 2 h, and an attempt to pick it up resulted in gel re-
+fracture. Taken together, these studies demonstrate that both stress relaxation and
+self-healing rates can be controlled by k
+ex in associative hydrogels.
+Conclusion
+We investigated the aqueous reactivity of a family of dithioalkylidenes to associative
+thiol exchange, elucidating the relationsh ip between structure and reactivity. Cyclic
+compounds were shown to undergo associative exchange faster than their acyclic
+analogs due to reduced conformational fre edom and greater resonance stabiliza-
+tion of the anionic tetrahedral intermed iate. Based on the observed trends with
+spectroscopic and computational data, the relative reactivity of new dithioalkyli-
+denes may be predicted in silico using readily obtained values such as Hirshfeld
+Figure 12. Pictures of gel-MA, gel-AA, and gel-ctrl undergoing self-healing
+Gels are approximately 15 mm in diameter prior to cutting. White boxes outline residual seams.
+ll
+Chem 9, 2298–2317, August 10, 2023 2313
+Article
+
+===== PDF PAGE 18 =====
+charge or LUMO values. Cross-linkers with different exchange rates were incorpo-
+rated into hydrogels and the rates of stress relaxation were quantitatively related
+to associative exchange rates. The timescales of stress relaxation achieved match
+those of soft tissues. We envision that the ease of structural manipulation and predic-
+tive reactivity of dithioalkylidenes will motivate their adoption in stress-relaxing
+hydrogels and other dynamic materials wit h tunable reconﬁguration. Furthermore,
+we hope that this work emphasizes the utilit y of quantitative structure-reactivity-
+property relationships to predict and control the properties of dynamic
+networks.
+55,64
+EXPERIMENTAL PROCEDURES
+Resource availability
+Lead contact
+Further information and requests for resou rces should be directed to the lead con-
+tact, Julia A. Kalow ( jkalow@northwestern.edu ).
+Materials availability
+The experimental dataset and materials generated are available from the lead con-
+tact upon reasonable request.
+Data and code availability
+All data supporting the ﬁndings of this study are included within the article and its
+supplemental information . This paper does not report original code or datasets.
+Any additional information required to reanalyze the data reported in this paper is
+available from the authors upon request.
+SUPPLEMENTAL INFORMATION
+Supplemental information can be found online at https://doi.org/1 0.1016/j.chempr.
+2023.05.018 .
+ACKNOWLEDGMENTS
+This work was supported by the NSF Center f or the Chemistry of Molecularly Opti-
+mized Networks (MONET), CHE-2116298. J.A.K. was supported by a Sloan Research
+Fellowship and a Dreyfus Teacher-Scholar Award. C.T.E. acknowledges support
+from a National Science Foundation Gr aduate Research Fellowship (grant no.
+DGE-1842165). V.Z. was partially supported by the National Institute of Diabetes
+and Digestive and Kidney Diseases of the National Institutes of Health under award
+number F30DK129002. This work made use of NMR and MS instrumentation at the
+Integrated Molecular Structure Education and Research Center (IMSERC) at North-
+western, which has received support from the NSF (NSF CHE-9871268), Soft and
+Hybrid Nanotechnology Experimental (SHyNE) Resource (NSF ECCS-1542205),
+the State of Illinois, and the International Institute for Nanotechnology. The rheom-
+eter used in this work was supported by NSF CHE-1901635, NIH R01GM132677, and
+Northwestern University. This work used Expanse at San Diego Supercomputing
+Center through allocation CHE140073 from the Advanced Cyberinfrastructure Co-
+ordination Ecosystem: Services and Support (ACCESS) program, which is supported
+by National Science Foundation grants #2138259, #2138286, #2138307, #2137603,
+and #2138296.
+AUTHOR CONTRIBUTIONS
+Conceptualization, V.Z., J.V.A., and J.A.K .; methodology, V.Z., J.V.A., I.K., E.F.W.,
+and C.T.E.; investigation, V.Z., J.V.A., I. K., E.F.W., S.J.C., and C.T.E.; validation,
+ll
+2314 Chem 9, 2298–2317, August 10, 2023
+Article
+
+===== PDF PAGE 19 =====
+C.L.S.; writing – original draft, V.Z. and J.V.A.; writing – review & editing, all authors;
+funding acquisition, J.A.K. and H.J.K.; resources, J.A.K. and H.J.K.; supervision,
+J.A.K. and H.J.K.
+DECLARATION OF INTERESTS
+The authors declare no competing interests.
+INCLUSION AND DIVERSITY
+We support inclusive, diverse, and equitable conduct of research.
+Received: February 13, 2023
+Revised: April 3, 2023
+Accepted: May 15, 2023
+Published: June 7, 2023
+REFERENCES
+1. Webber, M.J., and Tibbitt, M.W. (2022).
+Dynamic and reconﬁgurable materials from
+reversible network interactions. Nat. Rev.
+Mater. 7, 541–556. https://doi.org/10.1038/
+s41578-021-00412-x.
+2. Zhang, V., Kang, B., Accardo, J.V., and Kalow,
+J.A. (2022). Structure–reactivity–property
+relationships in covalent adaptable networks.
+J. Am. Chem. Soc. 144, 22358–22377. https://
+doi.org/10.1021/jacs.2c08104.
+3. Ullah, F., Othman, M.B.H., Javed, F., Ahmad,
+Z., and Md Akil, H.Md. (2015). Classiﬁcation,
+processing and application of hydrogels: a
+review. Mater. Sci. Eng. C Mater. Biol. Appl. 57,
+414–433. https://doi.org/10.1016/j.msec.2015.
+07.053.
+4. Lee, K.Y., and Mooney, D.J. (2001). Hydrogels
+for tissue engineering. Chem. Rev. 101, 1869–
+1879. https://doi.org/10.1021/cr000108x.
+5. Calo´ , E., and Khutoryanskiy, V.V. (2015).
+Biomedical applications of hydrogels: a review
+of patents and commercial products. Eur.
+Polym. J. 65, 252–267. https://doi.org/10.1016/
+j.eurpolymj.2014.11.024.
+6. Wang, H., and Heilshorn, S.C. (2015).
+Adaptable hydrogel networks with reversible
+linkages for tissue engineering. Adv. Mater. 27,
+3717–3736. https://doi.org/10.1002/adma.
+201501558.
+7. Rosales, A.M., and Anseth, K.S. (2016). The
+design of reversible hydrogels to capture
+extracellular matrix dynamics. Nat. Rev. Mater.
+1, 15012. https://doi.org/10.1038/natrevmats.
+2015.12.
+8. Tang, S., Richardson, B.M., and Anseth, K.S.
+(2021). Dynamic covalent hydrogels as
+biomaterials to mimic the viscoelasticity of
+soft tissues. Prog. Mater. Sci. 120, 100738.
+https://doi.org/10.1016/j.pmatsci.2020.
+100738.
+9. Chaudhuri, O., Cooper-White, J., Janmey, P.A.,
+Mooney, D.J., and Shenoy, V.B. (2020). Effects
+of extracellular matrix viscoelasticity on cellular
+behaviour. Nature 584, 535–546. https://doi.
+org/10.1038/s41586-020-2612-2.
+10. Elosegui-Artola, A., Gupta, A., Najibi, A.J.,
+Seo, B.R., Garry, R., Tringides, C.M., de
+La´ zaro, I., Darnell, M., Gu, W., Zhou, Q., et al.
+(2023). Matrix viscoelasticity controls
+spatiotemporal tissue organization. Nat.
+Mater. 22, 117–127. https://doi.org/10.1038/
+s41563-022-01400-4 .
+11. Chang, L., Wang, C., Han, S., Sun, X., and Xu, F.
+(2021). Chemically triggered hydrogel
+transformations through covalent adaptable
+networks and applications in cell culture. ACS
+Macro Lett. 10, 901–906. https://doi.org/10.
+1021/acsmacrolett.1c00276.
+12. Tuncaboylu, D.C., Sari, M., Oppermann, W.,
+and Okay, O. (2011). Tough and self-healing
+hydrogels formed via hydrophobic
+interactions. Macromolecules 44, 4997–5005.
+https://doi.org/10.1021/ma200579v.
+13. Jiang, H., Duan, L., Ren, X., and Gao, G. (2019).
+Hydrophobic association hydrogels with
+excellent mechanical and self-healing
+properties. Eur. Polym. J. 112, 660–669.
+https://doi.org/10.1016/j.eurpolymj.2018.
+10.031.
+14. Harada, A., Takashima, Y., and Nakahata, M.
+(2014). Supramolecular polymeric materials via
+cyclodextrin–guest interactions. Acc. Chem.
+Res. 47, 2128–2140. https://doi.org/10.1021/
+ar500109h.
+15. Kakuta, T., Takashima, Y., Nakahata, M.,
+Otsubo, M., Yamaguchi, H., and Harada, A.
+(2013). Preorganized hydrogel: self-healing
+properties of supramolecular hydrogels
+formed by polymerization of host–guest-
+monomers that contain cyclodextrins and
+hydrophobic guest groups. Adv. Mater. 25,
+2849–2853. https://doi.org/10.1002/adma.
+201205321.
+16. Appel, E.A., Biedermann, F., Rauwald, U.,
+Jones, S.T., Zayed, J.M., and Scherman, O.A.
+(2010). Supramolecular cross-linked networks
+via host/C0 guest complexation with Cucurbit[8]
+uril. J. Am. Chem. Soc. 132, 14251–14260.
+https://doi.org/10.1021/ja106362w.
+17. Guo, M., Pitet, L.M., Wyss, H.M., Vos, M.,
+Dankers, P.Y.W., and Meijer, E.W. (2014).
+Tough stimuli-responsive supramolecular
+hydrogels with hydrogen-bonding network
+junctions. J. Am. Chem. Soc. 136, 6969–6977.
+https://doi.org/10.1021/ja500205v.
+18. Kang, B., and Kalow, J.A. (2022). Internal and
+external catalysis in boronic ester networks.
+ACS Macro Lett. 11, 394–401. https://doi.org/
+10.1021/acsmacrolett.2c00056.
+19. Accardo, J.V., McClure, E.R., Mosquera, M.A.,
+and Kalow, J.A. (2020). Using visible light to
+tune boronic acid-ester equilibria. J. Am.
+Chem. Soc. 142, 19969–19979. https://doi.org/
+10.1021/jacs.0c08551.
+20. Accardo, J.V., and Kalow, J.A. (2018).
+Reversibly tuning hydrogel stiffness through
+photocontrolled dynamic covalent crosslinks.
+Chem. Sci. 9, 5987–5993. https://doi.org/10.
+1039/C8SC02093K.
+21. Barsoum, D.N., Kirinda, V.C., Kang, B., and
+Kalow, J.A. (2022). Remote-controlled
+exchange rates by photoswitchable internal
+catalysis of dynamic covalent bonds. J. Am.
+Chem. Soc. 144, 10168–10173. https://doi.org/
+10.1021/jacs.2c04658.
+22. McKinnon, D.D., Domaille, D.W., Cha, J.N.,
+and Anseth, K.S. (2014). Bis-aliphatic
+hydrazone-linked hydrogels form most rapidly
+at physiological pH: identifying the origin of
+hydrogel properties with small molecule kinetic
+studies. Chem. Mater. 26, 2382–2387. https://
+doi.org/10.1021/cm5007789.
+23. Yesilyurt, V., Ayoob, A.M., Appel, E.A.,
+Borenstein, J.T., Langer, R., and Anderson,
+D.G. (2017). Mixed reversible covalent crosslink
+kinetics enable precise, hierarchical
+mechanical tuning of hydrogel networks. Adv.
+Mater. 29, 1605947. https://doi.org/10.1002/
+adma.201605947.
+24. Parada, G.A., and Zhao, X. (2018). Ideal
+reversible polymer networks. Soft Matter 14,
+5186–5196. https://doi.org/10.1039/
+C8SM00646F.
+25. Marco-Dufort, B., Iten, R., and Tibbitt, M.W.
+(2020). Linking molecular behavior to
+macroscopic properties in ideal dynamic
+covalent networks. J. Am. Chem. Soc. 142,
+15371–15385. https://doi.org/10.1021/jacs.
+0c06192.
+ll
+Chem 9, 2298–2317, August 10, 2023 2315
+Article
+
+===== PDF PAGE 20 =====
+26. Cai, P.C., Su, B., Zou, L., Webber, M.J.,
+Heilshorn, S.C., and Spakowitz, A.J. (2022).
+Rheological characterization and theoretical
+modeling establish Molecular Design rules for
+tailored dynamically associating polymers.
+ACS Cent. Sci. 8, 1318–1327. https://doi.org/
+10.1021/acscentsci.2c00432.
+27. FitzSimons, T.M., Oentoro, F., Shanbhag, T.V.,
+Anslyn, E.V., and Rosales, A.M. (2020).
+Preferential control of forward reaction kinetics
+in hydrogels crosslinked with reversible
+conjugate additions. Macromolecules 53,
+3738–3746. https://doi.org/10.1021/acs.
+macromol.0c00335.
+28. Winne, J.M., Leibler, L., and Du Prez, F.E.
+(2019). Dynamic covalent chemistry in polymer
+networks: a mechanistic perspective. Polym.
+Chem. 10, 6091–6108. https://doi.org/10.1039/
+C9PY01260E.
+29. Diehl, K.L., Kolesnichenko, I.V., Robotham,
+S.A., Bachman, J.L., Zhong, Y., Brodbelt, J.S.,
+and Anslyn, E.V. (2016). Click and chemically
+triggered declick reactions through reversible
+amine and thiol coupling via a conjugate
+acceptor. Nat. Chem. 8, 968–973. https://doi.
+org/10.1038/nchem.2601.
+30. Ishibashi, J.S.A., and Kalow, J.A. (2018).
+Vitrimeric silicone elastomers enabled by
+dynamic Meldrum’s acid-derived cross-links.
+ACS Macro Lett. 7, 482–486. https://doi.org/10.
+1021/acsmacrolett.8b00166.
+31. El-Zaatari, B.M., Ishibashi, J.S.A., and Kalow,
+J.A. (2020). Cross-linker control of vitrimer ﬂow.
+Polym. Chem. 11, 5339–5345. https://doi.org/
+10.1039/D0PY00233J.
+32. Sun, X., Chwatko, M., Lee, D.H., Bachman, J.L.,
+Reuther, J.F., Lynd, N.A., and Anslyn, E.V.
+(2020). Chemically triggered synthesis,
+remodeling, and degradation of soft materials.
+J. Am. Chem. Soc. 142, 3913–3922. https://doi.
+org/10.1021/jacs.9b12122.
+33. Feng, X., Wu, T., Sun, X., and Qian, X. (2021).
+‘‘Indanonalkene’’ photoluminescence
+platform: application in real-time tracking the
+synthesis, remodeling, and degradation of soft
+materials. J. Am. Chem. Soc. 143, 21622–21629.
+https://doi.org/10.1021/jacs.1c09895.
+34. Brown, T.E., Carberry, B.J., Worrell, B.T.,
+Dudaryeva, O.Y., McBride, M.K., Bowman,
+C.N., and Anseth, K.S. (2018).
+Photopolymerized dynamic hydrogels with
+tunable viscoelastic properties through
+thioester exchange. Biomaterials 178, 496–503.
+https://doi.org/10.1016/j.biomaterials.2018.
+03.060.
+35. Carberry, B.J., Rao, V.V., and Anseth, K.S.
+(2020). Phototunable viscoelasticity in
+hydrogels through thioester exchange. Ann.
+Biomed. Eng. 48, 2053–2063. https://doi.org/
+10.1007/s10439-020-02460-w.
+36. Worrell, B.T., Mavila, S., Wang, C., Kontour,
+T.M., Lim, C.-H., McBride, M.K., Musgrave,
+C.B., Shoemaker, R., and Bowman, C.N. (2018).
+A user’s guide to the thiol-thioester exchange
+in organic media: scope, limitations, and
+applications in material science. Polym. Chem.
+9, 4523–4534. https://doi.org/10.1039/
+C8PY01031E.
+37. Bracher, P.J., Snyder, P.W., Bohall, B.R., and
+Whitesides, G.M. (2011). The relative rates of
+thiol–thioester exchange and hydrolysis for
+alkyl and aryl Thioalkanoates in water. Orig. Life
+Evol. Biosph. 41, 399–412. https://doi.org/10.
+1007/s11084-011-9243-4.
+38. Davis, G.J., Sofka, H.A., and Jewett, J.C. (2020).
+Highly stable Meldrum’s acid derivatives for
+irreversible aqueous covalent modiﬁcation of
+amines. Org. Lett. 22, 2626–2629. https://doi.
+org/10.1021/acs.orglett.0c00597.
+39. Arnett, E.M., and Harrelson, J.A. (1987). Ion
+pairing and reactivity of enolate anions. 7. A
+spectacular example of the importance of
+rotational barriers: the ionization of Meldrum’s
+acid. J. Am. Chem. Soc. 109, 809–812. https://
+doi.org/10.1021/ja00237a028.
+40. Arnett, E.M., Maroldo, S.G., Schilling, S.L., and
+Harrelson, J.A. (1984). Ion pairing and reactivity
+of enolate anions. 5. Thermodynamics of
+ionization of .beta.-di- and tricarbonyl
+compounds in dimethyl sulfoxide solution and
+ion pairing of their alkali salts. J. Am. Chem.
+Soc. 106, 6759–6767. https://doi.org/10.1021/
+ja00334a049.
+41. Wiberg, K.B., and Laidig, K.E. (1988). Acidity
+of (Z)- and (E)-methyl acetates: relationship
+to Meldrum’s acid. J. Am. Chem. Soc. 110,
+1872–1874. https://doi.org/10.1021/
+ja00214a033 .
+42. Wang, X., and Houk, K.N. (1988). Theoretical
+elucidation of the origin of the anomalously
+high acidity of Meldrum’s acid. J. Am. Chem.
+Soc. 110, 1870–1872. https://doi.org/10.1021/
+ja00214a032.
+43. Byun, K., Mo, Y., and Gao, J. (2001). New insight
+on the origin of the unusual acidity of
+Meldrum’s acid from ab initio and combined
+QM/MM simulation study. J. Am. Chem. Soc.
+123, 3974–3979. https://doi.org/10.1021/
+ja001369r.
+44. Knizia, G. (2013). Intrinsic atomic orbitals: an
+unbiased bridge between quantum theory and
+chemical concepts. J. Chem. Theor. Comput. 9,
+4834–4843. https://doi.org/10.1021/
+ct400687b.
+45. Knizia, G., and Klein, J.E.M.N. (2015). Electron
+ﬂow in reaction mechanisms—revealed from
+ﬁrst principles. Angew. Chem. Int. Ed. Engl. 54,
+5518–5522. https://doi.org/10.1002/anie.
+201410637.
+46. Liu, S. (2015). Quantifying reactivity for
+electrophilic aromatic substitution reactions
+with Hirshfeld charge. J. Phys. Chem. A 119,
+3107–3111. https://doi.org/10.1021/acs.jpca.
+5b00443.
+47. Liu, S., Rong, C., and Lu, T. (2014). Information
+conservation principle determines
+electrophilicity, nucleophilicity, and
+regioselectivity. J. Phys. Chem. A 118, 3698–
+3704. https://doi.org/10.1021/jp5032702
+.
+48. Wang, B., Rong, C., Chattaraj, P.K., and Liu, S.
+(2019). A comparative study to predict
+regioselectivity, electrophilicity and
+nucleophilicity with Fukui function and
+Hirshfeld charge. Theor. Chem. Acc. 138, 124.
+https://doi.org/10.1007/s00214-019-2515-1.
+49. Curro, J.G., and Pincus, P. (1983). A theoretical
+basis for viscoelastic relaxation of elastomers in
+the long-time limit. Macromolecules 16,
+559–562. https://doi.org/10.1021/
+ma00238a014.
+50. Curro, J.G., Pearson, D.S., and Helfand, E.
+(1985). Viscoelasticity of randomly
+crosslinked polymer networks. Relaxation
+of dangling chains. Macromolecules 18,
+1157–1162. https://doi.org/10.1021/
+ma00148a020 .
+51. Williams, W.L., Zeng, L., Gensch, T., Sigman,
+M.S., Doyle, A.G., and Anslyn, E.V. (2021). The
+evolution of data-driven modeling in organic
+chemistry. ACS Cent. Sci. 7, 1622–1637. https://
+doi.org/10.1021/acscentsci.1c00535.
+52. Cromwell, O.R., Chung, J., and Guan, Z.
+(2015). Malleable and self-healing covalent
+polymer networks through tunable dynamic
+boronic ester bonds. J. Am. Chem. Soc. 137,
+6492–6495. https://doi.org/10.1021/jacs.
+5b03551.
+53. Nishimura, Y., Chung, J., Muradyan, H., and
+Guan, Z. (2017). Silyl ether as a robust and
+thermally stable dynamic covalent motif for
+malleable polymer design. J. Am. Chem. Soc.
+139, 14881–14884. https://doi.org/10.1021/
+jacs.7b08826.
+54. Denissen, W., Droesbeke, M., Nicolay ¨ , R.,
+Leibler, L., Winne, J.M., and Du Prez, F.E.
+(2017). Chemical control of the viscoelastic
+properties of vinylogous urethane vitrimers.
+Nat. Commun. 8, 14857. https://doi.org/10.
+1038/ncomms14857.
+55. Schoustra, S.K., Dijksman, J.A., Zuilhof, H., and
+Smulders, M.M.J. (2020). Molecular control
+over vitrimer-like mechanics – tuneable
+dynamic motifs based on the Hammett
+equation in polyimine materials. Chem. Sci. 12,
+293–302. https://doi.org/10.1039/
+D0SC05458E.
+56. Porath, L., Huang, J., Ramlawi, N.,
+Derkaloustian, M., Ewoldt, R.H., and Evans,
+C.M. (2022). Relaxation of vitrimers with
+kinetically distinct mixed dynamic bonds.
+Macromolecules 55, 4450–4458. https://doi.
+org/10.1021/acs.macromol.1c02613.
+57. Porath, L., Soman, B., Jing, B.B., and Evans,
+C.M. (2022). Vitrimers: using dynamic
+associative bonds to control
+viscoelasticity, assembly, and functionality in
+polymer networks. ACS Macro Lett. 11,
+475–483. https://doi.org/10.1021/
+acsmacrolett.2c00038.
+58. Yount, W.C., Loveless, D.M., and Craig, S.L.
+(2005). Small-molecule dynamics and
+mechanisms underlying the macroscopic
+mechanical properties of coordinatively cross-
+linked polymer networks. J. Am. Chem. Soc.
+127, 14488–14496. https://doi.org/10.1021/
+ja054298a.
+59. Appel, E.A., Forster, R.A., Koutsioubas, A.,
+Toprakcioglu, C., and Scherman, O.A. (2014).
+Activation energies control the macroscopic
+properties of physically cross-linked
+materials. Angew. Chem. Int. Ed. Engl. 53,
+10038–10043. https://doi.org/10.1002/anie.
+201403192 .
+60. Ricarte, R.G., and Shanbhag, S. (2021).
+Unentangled vitrimer melts: interplay between
+chain relaxation and cross-link exchange
+controls linear rheology. Macromolecules 54,
+3304–3320. https://doi.org/10.1021/acs.
+macromol.0c02530.
+ll
+2316 Chem 9, 2298–2317, August 10, 2023
+Article
+
+===== PDF PAGE 21 =====
+61. Ishibashi, J.S.A., Pierce, I.C., Chang, A.B.,
+Zografos, A., El-Zaatari, B.M., Fang, Y.,
+Weigand, S.J., Bates, F.S., and Kalow, J.A.
+(2021). Mechanical and structural
+consequences of associative dynamic cross-
+linking in acrylic diblock copolymers.
+Macromolecules 54, 3972–3986.
+62. Breuillac, A., Kassalias, A., and Nicolay ¨ ,R .
+(2019). Polybutadiene vitrimers based on
+dioxaborolane chemistry and dual
+networks with static and dynamic cross-
+links. Macromolecules 52, 7102–7113.
+https://doi.org/10.1021/acs.macromol.
+9b01288.
+63. Hajj, R., Duval, A., Dhers, S., and Ave ´ rous, L.
+(2020). Network design to control polyimine
+vitrimer properties: physical versus chemical
+approach. Macromolecules 53, 3796–3805.
+https://doi.org/10.1021/acs.macromol.
+0c00453.
+6 4 .V a nH e r c k ,N . ,M a e s ,D . ,U n a l ,K . ,G u e r r e ,
+M., Winne, J.M., and Du Prez, F.E. (2020).
+Covalent adaptable networks with tunable
+exchange rates based on reversible thiol–
+yne cross-linking. Angew. Chem. 132, 3637–
+3646. https://doi.org/10.1002/ange.
+201912902 .
+ll
+Chem 9, 2298–2317, August 10, 2023 2317
+Article

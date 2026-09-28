@@ -1,0 +1,1370 @@
+
+
+===== PDF PAGE 1 =====
+Article https://doi.org/10.1038/s41467-024-54880-0
+Visible light-responsive hydrogels for cellular
+dynamics and spatiotemporal viscoelastic
+regulation
+Yan Lu1, Cheng Chen1,H a n g y uL i2,3, Peng Zhao1, Yuanfeng Zhao1, Bohan Li1,
+Wei Zhou1,G a o f e n gF a n4, Dongshi Guan 2,3 & Yijun Zheng 1
+Viscoelastic heterogeneity of matrices plays a pivotal role in cancer cell
+spreading, migration, and metastasis.However, the creation of viscoelastic
+platforms with spatial-temporal regulation is hindered by cytotoxicity and
+short regulation durations. Our research presents a dual mechanism for stress
+relaxation regulation- both intrinsic and responsive- by incorporating Schiff
+base bonds and a visible light-responsive thiuram disulﬁde (TDS) moiety into
+the hydrogel. Modifying base bonds facilitates a broad spectrum of intrinsic
+stress relaxation times. At the same time, incorporating the visible light-
+responsive TDS moiety endows the hydrogel with responsive viscoelastic
+properties. These properties are characterized by minimal cytotoxicity,
+spatial-temporal controllability, dose dependency, and reversibility. Utilizing
+this platform, we demonstrate that ovarian cancer cells exhibit contrasting
+behaviors in contraction and spreading when subjected to dynamic stress
+relaxation changes over various time periods. Additionally, we observed a
+“memory effect” in the cell’s response to alterations in stress relaxation time.
+We can spatially direct cell migration through viscoelastic heterogeneity,
+achieved via photopatterning substrates and laser spots. This innovative
+approach provides a means to regulate the viscoelasticity of hydrogels across a
+wide range of timescales, thereby opening avenues for more advanced studies
+into how cells interpret and respond to spatiotemporal viscoelastic signals.
+Understanding the process of cancer cell spreading, migration, and
+metastasis is of paramount signi ﬁcance in both cancer biology and
+therapy1. One critical factor inﬂuencing these processes is the viscoe-
+lasticity of extracellular matrices2. The viscoelasticity of cancer tissues
+is a multifaceted characteristic marked by spatial and temporal
+heterogeneity
+3. Spatial heterogeneity underscores the variability in
+viscoelastic properties observed across different regions within can-
+cerous tissues
+4. In parallel, temporal heterogeneity 5 highlights the
+dynamic nature of cancer tissue viscoelasticity6, as it evolves over time.
+Taken together, the spatiotemporal variations of viscoelasticity within
+the tissue7 may act as cues guiding cancer development. To under-
+stand how cancer cells sense and interpret such mechanical signals8,i t
+is essential to exert precise control over the temporal and spatial
+aspects of the matrix’s viscoelasticity across different timescales.
+Light-based strategies have emerged as powerful tools to repli-
+cate heterogeneous environments
+9,10, allowing for fast, reversible,
+dose-dependent, and localized control of the matrix ’s mechanical
+properties11. For instance, introducing an allyl sul ﬁde cross-linker12,13
+Received: 15 March 2024
+Accepted: 21 November 2024
+Check for updates
+1School of Physical Science and Technology & State Key Laboratory of Advanced Medical Materials and Devices, ShanghaiTech University, Shanghai, PR
+China. 2State Key Laboratory of Nonlinear Mechanics, Institute of Mechanics, Chinese Academy of Sciences, Beijing, PR China.3School of Engineering
+Science, University of Chinese Academy of Sciences, Beijing, PR China.4School of Life Science and Technology, ShanghaiTech University, Shanghai, PR
+China. e-mail: dsguan@imech.ac.cn; zhengyj@shanghaitech.edu.cn
+Nature Communications|         (2025) 16:1365 1
+1234567890():,;
+1234567890():,;
+
+===== PDF PAGE 2 =====
+facilitated adjustments to hydrogel viscoelasticity during light expo-
+sure through cross-link rearrangement. Incorporating an external
+photoinitiator generated the necessary free radicals for mediation,
+inducing viscoelastic changes within minutes. Light-mediated thiol-
+ene addition was employed to further introduce covalent or supra-
+molecular cross-links, allowing for modulation of viscoelastic
+properties
+14. Dithiolane hydrogels featuring disul ﬁde crosslinks
+demonstrated photoinduced changes in viscoelasticity via disul ﬁde
+metathesis and thiol-disul ﬁde exchange 15. This behavior could be
+manipulated by introducing tetraPEG-thiol (excess free thiols) to
+accelerate the rate of bond exchange
+16. It is important to highlight that
+current methodologies predominantly utilize UV light, which is known
+for its potential toxicity and limited capacity to regulate stress
+relaxation over short durations (seconds)
+17. Notably, the rate of stress
+relaxation varies signi ﬁcantly across different tissues, ranging from
+hours to seconds. The mechanisms by which cells sense and respond
+to spatiotemporal variations of viscoelasticity over prolonged time-
+scales remain largely unexplored. Additionally, these UV-based tech-
+niques often necessitate the incorporation of external substances like
+photoinitiators to alter the hydrogel ’s viscoelasticity, which conse-
+quently modiﬁes its chemical composition
+8 This modiﬁcation can lead
+to interference from chemical factors on cell behavior. Therefore,
+there is an urgent need for innovative strategies that enable fully
+spatiotemporal modulation of viscoelastic properties across various
+timescales, employing cell-friendly light sources and eliminating the
+requirement for external compounds.
+Herein, we propose a dual mechanism for stress relaxation reg-
+ulation- both intrinsic and responsive- to construct dynamic hydrogel
+platforms. These platforms were constructed using dynamic cross-
+linkers with two aldehyde ends that form Schiff base bonds with
+carboxymethyl-chitosan. By altering the structure of the aldehyde
+component, we can precisely adjust the hydrogel ’s intrinsic stress
+relaxation time from 3400 s to 500 s via a reversible imine metathesis
+reaction (Fig. 1). The visible light-responsive stress relaxation is
+achieved through the incorporation of a thiuram disul ﬁde (TDS)
+moiety in hydrogel. The TDS, characterized by S-S bonds with lower
+bond energy than standard disul ﬁde bonds, exhibits slow disul ﬁde
+metathesis under standard conditions yet allows for accelerated
+metathesis when exposed to visible light
+18. Such exposure signiﬁcantly
+accelerates the stress relaxation time of the hydrogel, reducing it to
+half of its initial value. Our design has several advantages: (1) it enables
+precise, on-demand control of stress relaxation rates across various
+time scales; (2) the photoresponsive exchange reaction process is
+efﬁcient and free from the additional compounds, eliminating the
+interference from chemical factors change on cell behavior. (3) The
+activation wavelength falls within the non-cytotoxic visible light range,
+allowing for extended periods of light exposure. Leveraging this
+hydrogel platform, we explore the alterations in cell spreading under
+in situ variations of stress relaxation. Subsequently, we developed
+photopatterned substrates that allowed for spatiotemporal control of
+viscoelastic properties, and we examined how spatial heterogeneity
+inﬂuences cancer cell migration.
+Results and discussion
+Hydrogels with both intrinsic and visible light-responsive
+viscoelasticity
+We designed three crosslinkers containing the TDS moiety, each with a
+distinct aldehyde chemical structure (Fig. 1), for this study: 4,4 ’-(dis-
+ulfanne-1,2-dicarbonothioyl)bis(1-(3-formyl-4-hydroxybenzyl)−1-
+methylpiperazin-1-ium) (ALYDS), 4,4’-(disulfanne-1,2-dicarbonothioyl)
+bis(1-(2-formyl-3-oxopropyl)−1-methylpiperazin-1-ium) (MDADS) and
+4,4’-(disulfanne-1,2-dicarbonothioyl)bis(1-(4-formylbenzyl)−1-methyl-
+piperazin-1-ium) (PBEDS) as detailed in supporting information. The
+selection of these aldehydes was based on their documented kinetic
+rates for imine formation and hydrolysis, which are known to inﬂuence
+the hydrogel’ss t r e s sr e l a x a t i o n
+19,20. Hydrogels were synthesized by
+mixing a crosslinker with CMCS under ambient conditions (room
+temperature, pH 7.4), forming dynamic imine/Schiff-base bonds
+(Supplementary Fig. 1 and Table 1).
+Rheological measurements were employed to determine the
+hydrogels’ ultimate shear storage modulus (G ’). For the ALYDS
+hydrogel, G’ in the range of 500 Pa to 10 kPa were achieved (Supple-
+mentary Fig. 1a, b, and Table 1) by varying the concentration of
+crosslinker (1 wt% to 4 wt%) and CMCS (3 wt% to 7 wt%). Hydrogels with
+aG ’ of 2 kPa were selected for stress relaxation, while the stress
+relaxation rate was quantiﬁed using the time taken for the initial stress
+to relax to half its original value (τ
+1/2)21. This intrinsic stress relaxation in
+hydrogels is attributed to Schiff base linkages. In contrast, a control
+hydrogel containing TDS, yet without Schiff base crosslinking, exhib-
+ited intrinsic stress relaxation at a rate nearly 8-fold slower than that of
+the ALYDS hydrogel (Supplementary Fig. 2, and Tables 2 and 3). The
+intrinsic stress relaxation times of hydrogels crosslinked with ALYDS,
+MDADS, and PBEDS varied widely, ranging from 3400 s to 500 s, as
+shown in Fig.2b. Firstly, we analyzed the imine reaction rate constants
+(k
+1)a n d( k−1) for different aldehydes using UV spectroscopy. The
+reverse reaction rate (k−1) is crucial as it inﬂuences the material’sa b i l i t y
+to dissipate applied stress, thereby affecting the stress-relaxation
+velocity
+22. Notably, the ALYDS hydrogel, crosslinked using salicy-
+laldehyde, exhibited a slower reaction rate constant ( k−1)o f
+0.00109·s−1,l e a d i n gt oal o n g e rτ1/2 of 3400 s. In contrast, PBEDS
+demonstrated a faster rate constant ( k−1) of 0.0017·s −1,r e s u l t i n gi na
+reduced τ1/2 of 500 s (Supplementary Table 4 and Figs.3, 4 and details
+in supporting information). Moreover, hydrogels ’ intrinsic stress
+relaxation properties can be altered by changing the crosslinking
+density or polymer concentration (Supplementary Fig. 5a, b). Under
+light exposure at 20 mW/cm
+2 (445 nm laser), allτ1/2 values decreased to
+half of their original values (Fig. 2b and Supplementary Fig. 5), indi-
+cating a visible-light-induced responsive behavior. The normalized
+stress (σ/σ
+max)23 decreased more rapidly in response to higher light
+intensity (Fig.2c). Take ALYDS hydrogel as an example,τ1/2 decreased
+f r o m3 4 0 0±4 1 0st o1 5 0 0±2 3 0sa st h el i g h ti n t e n s i t yi n c r e a s e df r o m
+0t o4 0m W / c m
+2 (Fig. 2d). In contrast, a control hydrogel,N1, N3-bis(3-
+formyl-4-hydroxybenzyl)-N1, N1, N3, N3-tetramethylpropane-1,3-diami-
+nium (C3-ALY), which lacked the TDS moiety, did not exhibit the
+accelerated stress relaxation under identical light exposure condi-
+tions, maintaining an intrinsic stress relaxation rate at 2700 s (Sup-
+plementary Fig. 6).
+Hydrogel creep testing
+24 was conducted to further assess the
+viscoelasticity properties. We measured shear strain under a 300 Pa
+stress while the light source was turned on for 1000 s at an intensity
+ranging from 0 to 40 mW/cm
+2. Similar to the ﬁndings in stress
+relaxation, we noted an increase in photo-induced creep with higher
+light intensity. To quantify this effect, we tracked creep compliance (J)
+over time (Fig.2e) and calculated the average creep compliance rate (1/
+<η > ) for the ALYDS hydrogel
+25. Under light exposure, the ALYDS
+hydrogel exhibited signi ﬁcantly enhanced creep compliance com-
+pared to its performance under dark conditions. With increasing light
+intensity, the average creep rate increased from 0.037 MPa
+−1.s−1 to
+0.11 MPa−1.s−1 (Fig. 2f).
+The responsive stress relaxation and creep induced by visible light
+were attributed to an increased rate of disul ﬁde metathesis reaction.
+To quantify the metathesis rate, a small molecule model reaction
+including tetramethylthiuram disulﬁde (TETD) and PBEDS, was used
+26
+(Fig. 2g, see detailed in supporting information). The metathesis
+reaction between TETD and PBEDS was expected to generate 4-((die-
+thylcarbamothioyl)disulfannecarbonothioyl)-1-(4-formylbenzyl)-1-
+methylpiperazin-1-ium (DDMI). HPLC analysis revealed that a molar
+ratio of [TETD]:[PBEDS]:[DDMI] = 3:3:8 was reached after 30 min
+(Fig. 2h), indicating that the complete scrambling of all three thiuram
+disulﬁdes reached equilibrium. In contrast, the metathesis reaction
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 2
+
+===== PDF PAGE 3 =====
+proceeded slowly in a dark place, reaching equilibrium after 200 min
+(Supplementary Fig. 7). The metathesis rate constant (k2)27 was calcu-
+lated to be 0.021 L·mol −1·s−1 at 0 mW/cm 2 and increased to
+0.35 L·mol−1·s−1 at 40 mW/cm2, as shown in (Fig. 2i). This signi ﬁcant
+enhancement of k2 under light illumination con ﬁrmed that the TDS
+moiety plays a pivotal role in visible light- accelerated stress
+relaxation28,29. Therefore, by manipulating various factors, such as the
+type of aldehyde groups, crosslinking density, polymer concentration,
+and light intensity, one can ﬁnely tune the physiological modulus and
+stress relaxation properties of the hydrogel. This method allows for the
+customization of hydrogel properties to meet the speciﬁcn e e d so ft h e
+target tissue being examined
+30.
+CMCS
++ +
+ pH  7.4
+k1
+k-1
++ 2H2O
+(3400 s) (2500 s) (500 s)
+ALYDS MDADS PBEDS
+Responsive Regulation
+Intrinsic        
+k2
+k-2
+445 nm
+S S
+S
+S
+S S
+S
+S
+S S
+S
+S
+S S
+S
+S
++
+Fast Stress-RelaxationSlow Stress-relaxation
+Disulfide Metathesis Reaction (Light)
+τ1/2 (s)
+Intrinsic
+Responsive
++
+2
+k2
+k-2
+2
+(3400 s) (1500 s) (500 s) (100 s)
+NH2 CHOOHC R1 R1 H2N NR1R1N
+HO
+H
+O H
+OH
+O
+H
+O
+S S
+S
+S
+τ1/2 (s)
+N S S
+S
+S
+NN N
+N
+R1R1
+N
+Dual Dynamic Crosslinker
+:
+:
+Thiuram Disulfide (TDS)
+445 nm
+OHC R1
+Regulation Imine Metathesis Reaction (Dark)
+Fig. 1 | The design and operational mechanism of the hydrogel platform. This
+diagram depicts the dual regulation capabilities of the hydrogel: intrinsic stress
+relaxation and responsive stress relaxation triggered by light exposure. The
+hydrogel is prepared through a Schiff base reaction, involving the dual dynamic
+crosslinkers and carboxymethyl-chitosan (CMCS, 30 kDa). The hydrogel’sa b i l i t yt o
+undergo intrinsic stress relaxation, with time reduction from 3400 s to 500 s, is
+facilitated by varying the aldehyde components which allow for imine metathesis.
+The TDS component within the hydrogel initiates a radical-induced disulﬁde
+metathesis upon light exposure, leading to a dose-dependent re-organization of
+the polymer network, thereby enabling controlled stress relaxation.
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 3
+
+===== PDF PAGE 4 =====
+Fig. 2 | The regulation of the stress-relaxation of the dual dynamic hydrogel by
+visible light. a The stress-relaxation of the hydrogels with different dynamic cross-
+linkers under the dark condition, as measured by rheology, with constant stiffness at
+2k P a .b Analysis of changes in stress-relaxationbehavior using different crosslinkers,
+with the light intensityﬁx e da t2 0m W / c m ²a sd e p i c t e di na. n =8 ,9( A L Y D S ) ,6a n d7
+(MDADS), 4,4 (PBEDDS) independent samples (0, 20 mW/cm²).c Stress relaxation
+tests on a dynamically crosslinked ALYDS hydrogel subjected to 15% strain, with stress
+values normalized to the initial stress.d τ1/2 of the ALYDS hydrogel under various
+light exposure conditions, as measured by rheology.n = 7 ,9 ,8 ,9 ,9( 0 ,5 ,1 0 ,2 0 ,
+40 mW/cm²) independent samples.e Time-dependent changes in viscoelastic creep
+compliance (J) of the ALYDS hydrogel.f Variation in linear average creep rates (<1/η>)
+of ALYDS hydrogel under different light intensities as depicted in.n =3 p e rg r o u p
+from 3 independent hydrogels.g Exchange reactions involving TETD and PBEDS.
+h HPLC analysis of the mixed PBEDS (0.01 M) and TETD (0.01 M) in CH3CN/H2O over
+time. i Reactant concentration change in the dark and under visible light (445 nm) in
+CH3CN/H2O at room temperature.j Rate constant (k) in TDS-exchange reaction under
+various light intensiti e s .T h eR a t es t u d yo fi, j included three replicates for each group
+(n =3 ) . T h ed a t a i nb, d, f,a n dj are presented as mean values ± S.D.
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 4
+
+===== PDF PAGE 5 =====
+Spatial-temporal control of hydrogel stress relaxation via visible
+light activation
+The spatial heterogeneity of hydrogel stress relaxation was accurately
+reproduced by controlling the TDS shuf ﬂing reactions with
+photopatterning31. To visualize the spatial resolution, ALYDS hydro-
+gels were immersed in an alkene-containingﬂuorescent dye 2-Allyl-6-2-
+dimethylamino-ethyl-amino-1H-benzo[de]isoquinoline-1,3(2H)-dione
+(ADBD) solution (see supporting information for details) and then
+exposed to 445 nm light. The produced sulfur radicals on illuminated
+rectangular region B could react with ADBD through a thiol-ene click
+reaction, resulting in green ﬂuorescence emission
+32 (Fig. 3a). Fluores-
+cence microscopy revealed the distinct ﬂuorescent (area B) and non-
+ﬂuorescent regions (area A) within the hydrogel, disclosing a high
+pattern ﬁdelity (Fig. 3b). This experiment provides evidence for
+achieving high spatial sub-cellular resolution in the light-accelerated
+TDS metathesis, with patterning precision reaching as ﬁne as
+approximately 10 μm (Supplementary Fig. 8).
+Next, atomic force microscopy (AFM) with a colloidal probe [66]
+was further employed to measure the in-situ stress relaxation and
+viscoelastic characteristics (see supporting information for details). To
+illuminate the hydrogel within the AFM setup, we employed a light
+source (5 mW/cm²) with a bandpass ﬁlter (488 nm) attached to the
+system. In this microscale measurement, a distinct difference in the
+stress relaxation (Fig. 3c) was observed between illuminated region B
+and non-illuminated region A, while their elastic modulus were almost
+the same (Supplementary Fig. 9). The light induces an increase of
+relaxation amplitude (1-F
+p/Fmax)33,34 and a decrease of the half-life time
+(τ’1/2) to reach the relaxation plateau ( Fp), demonstrating the visible
+light-activated viscoelastic heterogeneity.
+Using light, we can also achieve precise and reversible temporal
+regulation of stress relaxation in hydrogels. This is possible due to the
+reversible changes in the metathesis reaction rate of TDS moieties in
+response to light exposure
+35. For example, upon 20 mW/cm 2 lumina-
+tion, the ALYDS-hydrogel exhibited fast stress relaxation with τ1/
+2 =1 5 0 0±2 3 0s , a n dτ1/2 = 3400 ± 410 s with the light switched off
+(Fig. 3d). This switching could be repeated up to 5 times (Fig. 3e).
+Notably, the ability for light-induced stress relaxation switching fully
+illustrates the temporal regulation.
+Opposite cell spreading responses to light-induced stress
+relaxation across diverse time ranges
+Research has shown inconsistent results on how cells spread in reaction
+to modiﬁed stress relaxation, possibly due to differences in the time-
+scales of stress relaxation examined36.I t’s important to note that tissue
+stress relaxation can differ among individuals and change with age37.I n
+our study investigating cellular responses to light-induced stress
+relaxation across various timescales, we employed ALYDS and PBEDS
+hydrogel. These hydrogels exhibit distinct stress relaxation times, with
+ALYDS’s τ
+1/2 ranging from 3500 s to 1500 s, and PBEDS from 500 s to
+100 s. We functionalized both hydrogels by incorporating the c(RGDfK)
+(Arg-Gly-Asp-D-Phe-Lys) cell adhesion peptide to facilitate cell experi-
+ments (Supplementary Fig. 10). Human ovarian cancer cells (Hey)
+38 were
+c
+a b
+ed
+Unpatterned gel Photopatterned gel
+445 nm
+S S
+S
+S
+S
+SSSSS
+S
+S
+S S
+NO O HNHN
+N
+S
+S S
+S
++ Thiol-ene 
+     click 
+ADBD
+Area 
+B
+Area A
+0
+1000
+3000
+5000
+Dark
+Light
+cycle 1cycle 2cycle 3cycle 4cycle 5
+τ1/2 (s)
+S
+S
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+Dark
+Light
+10
+-2
+10
+-1
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+5
+10
+6
+Time (ms)
+F(t)/Fmax
+0.0
+0.3
+0.6
+0.9
+1.2
+Time (s)
+Light
+Dark
+3000 30000 0
+Stress (σ/σmax)
+0
+10
+20
+30
+Dark Light
+0.0
+0.5
+1.0
+1-FP /Fmax
+τ' 1/2
+τ' 1/2 (ms) 1-FP /Fmax
+Fig. 3 | High-resolution photo-patterned formation within the hydrogel, induced
+by exposure to 445 nm light, showcasing the precise control over spatiotemporal
+scales at the micron level. aSpatial heterogeneity of ALYDS-hydrogel patterned by
+photomasks. b Fluorescence microscope images showcasing a pattern formed on
+the hydrogel surface through the thiol-ene reaction, utilizing a photomask and
+30 min of light exposure. Scale bars represent 100μm. c Stress-relaxation mea-
+surements of the ALYDS hydrogel were performed using atomic force microscopy
+(AFM). The hydrogel in illuminated region B relaxed faster than in non-illuminated
+region A. The inset (image) shows the τ’
+1/2 and 1-Fp/Fmax of the hydrogel. n =7p e r
+group from 3 independent hydrogels (dark, light).d Illustration of the ALYDS
+hydrogel’s stress relaxation rates under alternating light (5 mW/cm²) and dark
+conditions by rheology. The gray area indicates a resting period of 6000 s.e Graph
+depicting the cyclic stress relaxation behavior (τ1/2) of the ALYDS hydrogels under
+various conditions, as measured by rheology. Each cycle involved applying a
+15% strain to the hydrogel for 3000 s at an intensity of 20 mW/cm², followed by a
+6000-s recovery period in darkness. This process was repeated over ﬁve cycles.
+n = 3 per group from 3 independent hydrogels. The data (c, e) are present as mean
+values ± S.D.
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 5
+
+===== PDF PAGE 6 =====
+cultured on both c(RGDfK) functionalized hydrogels. We observed an
+increase in cell density as the RGD incubation concentration rose from 0
+to 0.25 mg/mL (Supplementary Fig. 11). Consistent with previously
+publishedﬁndings39, further augmentation of adhesion ligand quantities
+(up to 0.5 mg/ml) did not result in greater cell adhesion.
+We further investigated the spreading behavior of HEY cells in
+response to the temporal control of stress relaxation in situ. On the
+ALYDS hydrogel, which exhibits a slower stress relaxation time of
+approximately 3400 s, cells showed extensive spreading
+(1300 ± 570µm²). This degree of spreading was similar to that
+observed on glass substrates (Fig. 4a). Notably, this spreading sig-
+niﬁcantly surpassed that on elastic substrates with an identical mod-
+ulus (990 ± 250µm²) (Fig.4b, Supplementary Table 2). When exposed
+to light intensities of 20 and 40 mW/cm², the τ1/2 of the ALYDS
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 6
+
+===== PDF PAGE 7 =====
+hydrogel reduced to about 1800 and 1500 s, respectively. We selected
+a time scale of 30 min to align with both the cellular mechanosensitive
+response time and the rapid stress-relaxation time (1500 s)
+40.A f t e r
+30 min of accelerated substrate stress relaxation, the cells quickly
+transitioned to smaller, more rounded shapes. The average cell area
+(Ã) decreased markedly from around 1300µm² to 830 µm², as shown
+in Fig.4c. In addition to changes in spreading area, the cells also rapidly
+evolved towards a more circular morphology in response to the faster
+relaxation of the substrates (Supplementary Fig. 12a). To rule out the
+interference from cellular response to visible light, similar experiments
+were performed with Hey cells on control hydrogels without light
+responsiveness (see supporting information for C3-ALY hydrogel
+preparation). In these cases, no differences were observed in cell
+morphology and spreading area under the aforementioned illumina-
+tion conditions (Supplementary Fig. 13).
+Furthermore, the nuclear localization of the YAP (yes-associated
+protein) transcriptional
+41 regulators was signiﬁcantly inﬂuenced by the
+in situ modulation of stress relaxation. This is illustrated in Fig. 4a, b,
+where the YAP nuclear-to-cytosolic ratio diminished from 2.3 ± 0.53 to
+1.4 ± 0.21 upon irradiation, indicating cellular remodeling in response
+to changes in the local micro-environment.
+Subsequently, we explored the effect of in situ temporal control
+of stress relaxation on the PBEDS hydrogel. In contrast to the ALYDS
+hydrogel, the PBEDS hydrogel, characterized by a shorter τ
+1/2 of
+approximately 500 s, exhibited smaller cell morphologies
+(450 ± 170µm², Fig. 4b, c), aligning with the ﬁndings previously
+reported42. These substrates undergo faster stress relaxation (200 s,
+100 s) when exposed to visible light at 20 and 40 mW/cm². Contrary to
+expectations, we noted an enhancement in cell spreading, with mea-
+surements increasing to 520 ± 270µm² and 640 ± 280µm² under these
+conditions, accompanied by prolonged cell circularity (Supplementary
+Fig. 12b). Additionally, the YAP nuclear-to-cytosolic ratio exhibited an
+increase from 1.4 ± 0.62 to 2.2 ± 0.49 (Fig.4d).
+A comprehensive viability study evaluated the potential impact of
+TDS radicals, visible light exposure, and their combination. The study
+encompassed an assessment of the toxicity of cell proliferation (Sup-
+plementary Fig. 14a) and cell viability (Supplementary Fig. 14b, c).
+Subsequently, we employed immunostaining for Gamma-H2AX to
+assess DNA damage (refer to Supplementary Fig. 14d). Our experi-
+mental parameters did not reveal any adverse effects on cell behavior,
+indicating minimal cell damage during light exposure. Therefore, we
+conclude that observed alterations in cell areas result from temporal
+regulation in the viscoelastic properties of the hydrogel, rather than
+any toxic effects induced by light exposure
+43.
+Our study demonstrates the complexity of cell interactions with
+temporal changes in situ substrate viscoelasticity (Fig.1). It shows that
+substrates with slower stress relaxation times (e.g., 3400 s) promote
+cell adhesion and spreading. Longer relaxation periods can lead to
+higher integrin-ligand bond formation and increased cytoskeletal
+contraction
+44. Therefore, the shift to 1500 s stress relaxation times
+result in reduced spreading areas and decreased focal adhesion
+(Supplementary Fig. 15). In contrast, when stress relaxation occurs
+over markedly shorter timescales (from 500 to 100 s), cells were not
+spread out but were instead rounded. Despite this, cells slightly
+expand their spreading areas, indicating an adaption to the rapid
+environmental changes (Fig. 4d). We suggest that at notably short
+timescales, enhanced stress relaxation might result an increase in
+ﬁlopodia length, which may facilitate their migration and result in
+minor increases in spreading area
+42 (see Supplementary Fig. 16). These
+could include adjustments in cytoskeletal dynamics or the activation
+of mechanotransduction processes that differ from those triggered by
+slower stress relaxation
+44. Further investigation into cell behaviors on
+MDADS hydrogel revealed that the shift in relaxation time from 1500 s
+to 500 s in the intermediate timescale is insuf ﬁcient to elicit a pro-
+nounced response (Supplementary Fig. 17). Speci ﬁcally, changes in
+basal stress relaxation at this timescale neither facilitate suf ﬁcient
+energy dissipation to induce cell shrinkage nor prompt extracellular
+viscosity to elicit cell expansion. Our results highlight the intricate link
+between cell behavior and substrate mechanics, emphasizing the
+importance of further research in this area.
+Cellular adaptation and mechanical memory in response to
+dynamic viscoelastic changes in the ECM
+We further explored how cellular responses can be reversed in reac-
+tion to the dynamic viscoelastic alterations in the ALYDS hydrogel,
+given its signiﬁcant impact on cell behavior (Fig. 5a). After exposing
+cells to light for 30 min; they were subsequently incubated in darkness
+for different durations: 1 h, 2 h, or 4 h. Notably, our observations
+revealed that cells slowly regained their spreading area and circularity
+on substrates after a 4-h incubation period. The time to attain a ﬂat-
+tened morphology was longer than the duration needed for cells to
+r o u n du p( F i g .5b, c). During this time, the YAP nuclear-to-cytosolic
+ratio also exhibited a recovery, shifting from 1.6 ± 0.40 to
+1.90 ± 0.32 (Fig. 5d).
+To enhance our understanding of how cyclic viscoelastic
+mechanics inﬂuence cell spreading, which has relevance in vivo
+45,46,w e
+subjected the cells to alternating periods of darkness and light expo-
+sure over four cycles (Fig. 6a). During dark periods, cells consistently
+regained their spreading area after each cycle. Notably, starting from
+the third light exposure cycle, the cells’ spreading area reduction was
+less pronounced than in the ﬁrst cycle. This indicates that cells can
+“remember” mechanical events experienced during viscoelastic
+changes by YAP/TAZ shutting at the cell-substrate interface. In align-
+ment with this, an increase in YAP/TAZ localization was noted follow-
+ing the third cycle of light exposure, correlating with the observed
+changes in cellular spreading
+47 (Fig. 6b–d).
+To further demonstrate our ﬁndings, we subjected Hey cells to
+mechanical dosing on a slow relaxing hydrogel ( τ1/2 =3 4 0 0s ) f o r
+varying durations before inducing in situ mechanical changes with
+light, transitioning the hydrogel to a fast-relaxing state (τ
+1/2 =1 8 0 0s )i n
+the presence of cells. Initially, Hey cells were cultured on slow-relaxing
+hydrogels for one day before switching to the fast-relaxing state
+(Fig. 6e). After 30 min in the fast-relaxing state (SR1-FR30 min), the cell
+spreading area decreased from 1440 µm² to 637 µm². However, after
+3 days on the slow-relaxing hydrogel, Hey cells began to show some
+memory behavior; the cell area was reduced to around 1040µm² after
+Fig. 4 | Opposite cell spreading responses to light-accelerated stress relaxation
+across diverse time ranges. a Representative images illustrating the spreading
+response of Hey cells on ALYDS hydrogel and glass substrates to variations in stress
+relaxation timescale. Scale bar: 20μm. b Representative images illustrating Hey
+cells’ spreading response to variations in short timescale stress relaxation following
+light exposure on PBEDS hydrogel and CMCS-MA substrates. Scale bar: 20μm. The
+immunostaining images of actin are highlighted in red and the nuclei (DAPI, 4,6-
+diamidino-2-phenylindole) in blue. The YAP/TAZ is green and the nuclei outline is
+sketched in the images.c Statistical analysis of Hey cells’ spreading area as depicted
+in a and b. Data analysis was performed using Kruskal–Wallis with Dunn’s multiple
+comparisons tests, comparing with the long-timescale stress relaxation of ALYDS
+hydrogel: *P = 0.01452, ****P < 0.0001;n = 124, 175, 180, 350 (0 mW /cm
+2,2 0m W
+/cm2 and 40 mW /cm2 and glass). Hey cells’s statistical analysis in the short-
+timescale PBEDS hydrogel was depicted in b: *P = 0.03753, ****P < 0.0001;n = 150,
+300, 150, and 230 cells (0 mW /cm2,2 0m W/ c m2 and 40 mW /cm2 and elastic).
+d Quantiﬁcation of YAP nucleo-cytoplasmic (N/C) ratio of Hey cells as depicted in
+a and b. Data analysis was performed using Kruskal–Wallis with Dunn’sm u l t i p l e
+comparisons test (**P = 0.00169, ****P < 0.0001;n = 350, 230 for glass, elastic; 140,
+120, and 70 cells for 0 mW/cm², 20 mW/cm², and 40 mW/cm² for ALYDS hydrogel;
+n = 93, 172, 135 cells for 0 mW/cm², 20 mW/cm², and 40 mW/cm² for PBEDS
+hydrogel). The solid lines (black) in the scatter plots indicate median values. All
+studies included three independent hydrogels for each group.
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 7
+
+===== PDF PAGE 8 =====
+illuminating (Fig.6f). To increase the mechanical dose, Hey cells were
+cultured on slow-relaxation hydrogels for 5–7 days before the transi-
+tion. In this case, a more persistent cell spreading was observed (SR5-
+FR30 min and SR7-FR30 min). The localization of YAP remained above
+basal levels up to 60 min (2.5 to 2.3) after light exposure (SR-7-FR
+60 min and Supplementary Fig. 18). With 7 days of mechanical dosing,
+Hey cells demonstrated irreversible activation of YAP after 60 min of
+light exposure (Fig.6g and Supplementary Fig. 19). This is reminiscent
+of the recently proposed concept of “mechanical memory”,w h i c h
+allows cells to remember the stiffness of hydrogel on which they had
+been previously seeded. Our ﬁndings raise the fascinating possibility
+that “mechanical memory” could also be stimulated by viscoelastic
+cues
+48. We propose that cells could responsively alter the localization
+of YAP/TAZ to adapt to dynamic viscoelastic changes in the extra-
+cellular matrix (ECM), suggesting a mechanism for cellular mechanical
+memory
+41,49.
+Light-induced heterogeneous viscoelastic cues for guiding cell
+migration
+Considering that substrate stress relaxation plays a crucial role in
+regulating cell spreading, we investigated the potential of light mod-
+ulation to guide cellular movement
+50,51. Visible light was employed to
+permeate a photomask featuring a gradient in translucency, resulting
+in the creation of a linear gradient on the substrate above (Fig.7a). To
+validate the feasibility of generating continuous gradients through our
+proposed methodology, the ﬂuorophore ADBD solution was incu-
+bated with hydrogels exposed to light for 10 min using the gradient
+photomask. The outcome revealed a consistent gradient of ﬂuores-
+cence intensity along the X-axis (Fig. 7b, c), with minimal variation
+observed along the Y-axis after light exposure. AFM experiments fur-
+ther directly measure the spatially heterogeneous stress relaxation and
+viscoelastic characteristics at four different regions along the gradient
+(Supplementary Fig. 20a). As suggested by the ﬂuorescent gradient,
+the relaxation amplitude and characteristic time change gradually
+(Supplementary Fig. 20b, c). The results illustrate that a continuous
+and precisely gradual gradient can be established along the X-axis of
+the hydrogel.
+To investigate whether the gradient of stress relaxation induced
+the directed migration of cancer cells, we monitored the movement of
+Hey cells on the substrates. The cell movements were captured
+through time-lapse microscopy over 150 min at 5-min intervals. The
+recorded videos were analyzed using the “manual tracking” plugin in
+the Image J software
+52. Three distinct gradient strengths were achieved
+by utilizing light with intensities of 5 mW/cm2,a n d2m W / c m2, 0.8 mW/
+cm2. Figure 7d depicts representative cell trajectories. Moreover, at
+median viscoelastic gradients (3400 s-2400 s, 3400 s-2600 s), a nota-
+ble inclination of cell migration was observed towards the left, corre-
+sponding to the direction of slower relaxation (Fig.7e). As the gradient
+decreases (3400 s-2900 s), the tendency for cell migration towards the
+left diminishes. We use SW values to determine the proportion of cells
+that migrate in both directions (Fig. 7f). At the largest migration gra-
+dient (5 mW/cm
+2), an impressive 70% of the cells exhibit migration
+towards areas of slower stress relaxation. This gradient corresponds to
+15 Pa loss-modulus/mm, as measured by rheology (Supplementary
+Fig. 21). We also tested a viscoelastic gradient at higher light intensities
+(10 mW/cm
+2), however, the rapid cell shrinkage observed at this
+intensity prevented the cells from exhibiting a stronger migratory
+tendency (Supplementary Fig. 22). To eliminate the possibility of
+Fig. 5 | Regulation of cellular behavior through reverse viscoelastic changes.
+a Representative images of Hey cells cultured on ALYDS gels, subjected to 20 mW/
+cm² light exposure for 0.5 h and rested for 0 h, 1 h, 2 h, and 4 h. Actin and nuclei are
+visualized as red and blue, respectively. Scale bar: 25μm. Analysis of the spreading
+area b and circularity c of Hey cells on 2 kPa-viscoelastic substrates from a.
+****P < 0.0001; **P = 0.0082, ***P = 0.00058.n = 124, 69, 145, 135, 150 cells from left
+to ﬁght respectively. d Analysis of Hey cells’ YAP nuc/cyt ratio on 2 kPa-ALYDS
+hydrogels subjected to 20 mW/cm² light exposure for 0.5 h and rested for varying
+durations (0 h, 2 h, and 4 h). ns P > 0.05, ****P < 0.0001, *P = 0.03099;n =7 1 ,6 3 ,7 0 ,
+89 cells respectively. The solid lines (black) in the scatter plots indicate median
+values. All studies included three independent hydrogels for each group. All sta-
+tistical analysis was conducted using Kruskal–Wallis with Dunn’sm u l t i p l e
+comparisons test.
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 8
+
+===== PDF PAGE 9 =====
+interference from adaptive cellular protrusions due to light irradiation,
+comparative experiments were conducted. These experiments
+involved Hey cells placed on ALYDS hydrogels under a uniform light
+intensity of 5 mW/cm
+2 without a gradient, and C3-ALY hydrogels under
+the condition of highest gradient strength (Supplementary Fig. 23). In
+these experiments, no instances of directional migration were
+observed. These ﬁndings conﬁrmed that the observed cell migration
+behavior was primarily attributed to differences in the viscoelastic
+properties of the substrate.
+Using a confocal laser spot, we achieved in situ control of single-
+cell migration with high spatial precision. Hey cells were stained with
+SPY555-Actin for visualization
+53,a ss h o w ni nF i g . 7g. Initially, after
+5 min, a decrease in cell spreading within the illuminated area was
+observed. The Hey cells tended to migrate away from the light spot,
+moving towards areas with slower stress relaxation (Supplementary
+Movie 1). As the experiment progressed, the cells migrated, seemingly
+to minimize their overlap with the mechanically actuated region. We
+then strategically repositioned the illumination area to ensure that at
+least part of the cell remained exposed to the mechanical stimulus.
+This approach allowed us to guide the cell mechanically across
+the ﬁeld of view. The average speed of cell migration was recorded at
+0.43 μm/min, detailed in Fig. 6h. Notably, when photo-illumination
+was conﬁned to a single cellular protrusion, we observed a retraction
+of cellular protrusions in response to the photo-induced changes
+in viscoelasticity, captured with high spatial resolution (Supplemen-
+tary Fig. 24).
+cycle 1 cycle 2 cycle 3 cycle 4
+a
+collect cell
+Slow-Relaxing SR
+Fast-Relaxing FR
+e
+SR-1 
+SR-3 
+SR-5 
+SR-7 
+Mechanical Dosing(day)
+FR-30min
+YAP / Actin
+FR-60min
+Fig. 6 | Regulation of cellular behavior through cyclic viscoelastic changes.
+a Immunolocalization of YAP (green) and Actin (red) collected following each cycle
+of regulation under 20 mW/cm2 irradiation for 0.5 h, the nuclei outline (blue) is
+marked in the image. Scale bar: 100μm. Quantiﬁcation of cell spreading areasb and
+circularity c subjected to cyclic viscoelastic regulation alternating for 4 cycles
+between 0 mW/cm² for 4 hours and 20 mW/cm² light exposure for 0.5 h.n =3 6 ,6 8 ,
+135, 102, 117, 157, 134, 144 cells from left to right. **P = 0.0019; *P = 0.013.
+d Quantiﬁcation of the YAP nuclear/cytoplasmic ratio. Data were collected from
+over 60 cells from e in each group, ****P < 0.0001, *P = 0.043.n = 156, 178, 99, 210
+cells from three independent hydrogels.e Hey cells were cultured on the slow-
+relaxing substrate (azure) for 1 to 7 days before being exposed to 20 mW/cm2 light,
+transitioning to fast-relaxing hydrogels (pink). Subsequently, Hey cells were cul-
+tured on fast-relaxing hydrogels for 0.5 h or 1 h before collection and analysis
+(gray).f Cell area response to in situ increasing viscoelastic relaxation (30 min) after
+different durations of mechanical dosing (1, 3, 5, and 7 days).n = 124, 173, 197, 202,
+150 cells (no light, SR1, SR3, SR5, SR7) from three independent hydrogels. g YAP
+response to in situ viscoelastic changes after 7 days of mechanical dosing on SR-
+hydrogels. n = 87, 148, 103 (SR7-0 min, 30 min, 60 min) from three independent
+hydrogels. The solid lines (black) in the scatter plots indicate median values. All
+statistical analysis was conducted using Kruskal–Wallis with Dunn’sm u l t i p l e
+comparisons test.
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 9
+
+===== PDF PAGE 10 =====
+Directed Migration
+445 nm LED
+Slow Fast
+0
+2
+4
+6Distance (µm)
+481 2 1 6
+Time (min) 
+2 min 8 min 0 min
+Slow (3400 s) Fast (2400 s)
+ Slow (3400 s) Fast (2600 s)
+-75 -50 -25 0 25 50 75
+X Coodinate (µm)
+Y Coodinate (µm)
+0.8 mW/cm2
+Fast (2900 s)Slow (3400 s)
+ (3400 s)  (2600 s)  (3400 s)  (2900 s) (3400 s)  (2400 s)
+-75 -50 -25 0 25 50 75
+X Coodinate (µm)
+Y Coodinate (µm)
+5m W / c m2
+-75 -50 -25 0 25 50 75
+X Coodinate (µm)
+Y Coodinate (µm)
+2m W / c m2
+15 min
+ab
+d
+ef
+gh
+-1
+0
+1
+2
+3
+The SW Index
+ns
+
+0.8 mW/cm
+2
+2mW/cm
+2
+5m W / c m
+2
+location (x) After 150 min
+-100 -50 0 50 100
+location (x) After 150 min
+-100 -50 0 50 100-100 -50 0 50 100
+location (x) After 150 min
+c
+ABCD
+01234
+0
+20
+40
+60
+80
+100Intensity(a.u)
+0.0 0.5 1.0 1.5
+-20
+0
+20
+40
+Intensity(a.u)
+Y-axis (mm)
+X-axis (mm)
+Fig. 7 | Light-induced heterogeneous viscoelastic cues to regulate cell migra-
+tion behavior. a Schematic depicting the procedure for creating a stress-relaxation
+gradient within the hydrogel. Measurement ofﬂuorescent green intensityb along the
+gradient hydrogel, as achieved through the method ina. The resultingﬂuorescence
+intensity is graphically represented against the length of the gelc. Scale bar = 1 mm.
+d Tracking of trajectories for approximately 120 randomly chosen migrating cells
+u n d e re a c he x p e r i m e n t a lc o n d i t i o n .e Analysis of x-displacement over a period of
+150 min at 5-min intervals, observed in cells on various gradient hydrogels.
+f Calculation of the Steady-Wandering (SW) index for cells on gradient substrates after
+150 min. Data representsn = 325 cells for 5 mW/cm²,n = 342 cells for 2 mW/cm², and
+n = 352 cells for 0.8 mW/cm², collected from three independent experiments. The SW
+index is deﬁned as (slow-fast)/(slow + fast), where it indicates the proportion of cells
+migrating towards either the slow or fast relaxation region of the gradient.
+Kruskal–Wallis with Dunn’s multiple comparisons test was used for analysis,
+*P = 0.037. The black line in the box plot represents the median.g Time-lapse images
+of Hey cells migration in response to 488-nm-light stimulation. The yellow dashed
+circles represent the region of light illumination. Scale bar: 10μm. h Cell migration
+distance as a function of time (15 min) after light stimulation forn = 9 cells.
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 10
+
+===== PDF PAGE 11 =====
+This observed behavior is qualitatively similar to durotaxis 54,
+w h e r ec e l l sm i g r a t ei nr e s p o n s et od eﬁned stiffness gradients55.I ns u c h
+scenarios, cells react to the tension created by actinﬁbers, leading to a
+traction gradient that guides their migration direction56. This similarity
+highlights the signiﬁcance of viscoelastic changes in in ﬂuencing cel-
+lular migration. Our ﬁndings speciﬁcally suggest that Hey cells, char-
+acterized by their rapid metastatic nature and relatively low adhesion
+strength, tend to migrate towards areas where they can exert greater
+myosin expression. (as shown in Supplementary Fig. 25)
+57,58.T h i st e n -
+dency could potentially enhance their metastatic capabilities. Fur-
+thermore, these results, combined with the methodologies used, pave
+the way for a more detailed investigation into how tissues ’ hetero-
+geneous viscoelastic cues impact cancer cell migration.
+Discussion
+We have successfully demonstrated a strategy for achieving visible-
+light-activated spatial-temporal control of hydrogel stress relaxation
+and viscoelastic properties. This approach incorporates the TDS moi-
+ety with visible light-responsive metathesis reaction into the hydrogel,
+enabling network rearrangement in response to light exposure. The
+light-regulated viscoelastic properties of our hydrogel are character-
+ized by their low toxicity, spatial controllability, dose-dependency,
+reversibility, and adaptability at various stages of cell culture. This
+hydrogel platform is exceptionally versatile, enabling exploration of
+both short- and long-term viscoelastic heterogeneities and their
+effects on cell behavior, including the observation of opposing
+spreading responses. Ourﬁndings indicate that cells can “remember”
+mechanical events experienced during changes in viscoelasticity, as
+evidenced by the regulation of YAP localization. Our research pro-
+poses that such “mechanical memory” might be activated by viscoe-
+lastic stimuli in an environment maintaining a constant stiffness.
+Furthermore, we employed light regulation by photopatterning gra-
+dient substrates to guide cell migration direction. Insights gained from
+light-regulated cell migration studies could contribute to developing
+targeted therapies to inhibit or redirect cancer cell migration. In
+summary, our hydrogel platform stands out as a powerful tool for
+probing the intricacies of mechanotransduction in cellular processes
+across various timescales, all in ﬂuenced by viscoelastic hetero-
+geneities. This platform not only enhances our understanding of
+dynamic biomechanical processes but also opens avenues for research
+and therapeutic interventions in the realm of cancer biology and
+beyond.
+Methods
+Fabrication of the hydrogel platform
+Round glass coverslips (No.1, Ø14 mm, CITOGLAS) underwent a
+cleaning process that involved sequential sonication in methylene
+chloride, ethanol, Milli-Q water, and ethanol again, each for 5 min.
+After drying under a stream of nitrogen, the coverslips were treated in
+an air plasma chamber at 0.3 bar for 15 min. The activated glass sub-
+strates were then immersed overnight in a 5 wt% solution of APTES in
+ethanol at room temperature. Subsequently, the glass was washed with
+dichloromethane (DCM) and dried with ethanol three times. Finally,
+the NH
+2-functionalized glasses were baked in an oven at 80 °C for 1 h.
+A 7 wt% carboxymethyl chitosan solution was heated to 50 °C.
+Subsequently, a solution of dual dynamic crosslinker (ALYDS/MDADS/
+PBEDS/C3-ALY) in DMSO (50 wt%) was mixed into PBS (pH 7.4) to
+create solutions of 1.5, 2, and 3 wt%. This solution was then combined
+with the 7 wt% carboxymethyl chitosan solution to form a hydrogel
+precursor solution. This precursor solution was applied to NH
+2-func-
+tionalized coverslips and covered with a superhydrophobic micro-
+scope slide. To sterilize, the gels were exposed to 70% ethanol for
+10 min and then rinsed twice.
+The (disulfanne−1,2-dicarbonothioyl) diproline (PRODS) hydrogel
+served as a control to evaluate the impact of the TDS moiety on the
+stress-relaxation times in the absence of Schiff base bonds under dark
+conditions. To prepare the PRODS precursor solution, PRODS (3 wt%)
+was combined with EDCI/NHS (6 mg/ml, 19 mg/ml) in DMSO. Follow-
+ing the activation of this mixture, it was incorporated into the CMCS
+solution (7 wt%) to create the PRODS hydrogel.
+The elastic hydrogel platform was fabricated by pouring 2.5 wt%
+CMCS-MA solutions and 0.05 wt% I2959 solution into NH
+2-functiona-
+lized coverslips. It was then irradiated from one side for 300 s using a
+UV lamp curing light with an intensity of 20 mW/cm² at 365 nm,
+resulting in the production of a 2 kPa elastic hydrogel as the control
+group (refer to Supplementary Table 3).
+Mechanical characterization for hydrogel
+Oscillatory experiments were conducted using a rheometer (DHR, TA
+instruments) equipped with a 5 mm steel plate geometry and a Peltier
+heated plate in a frequency-controlled, amplitude-controlled, or time-
+controlled mode. TA strain sweeps with the oscillation frequency of
+1 rad/s were conducted at a strain range of 0.01–100% to determine the
+linear region. After determining the linear viscoelastic region, the
+tested samples were subjected to a frequency sweep from 0.01 to
+10 Hz. Mineral oil was applied to the hydrogel-air-instrument interface
+to prevent evaporative artifacts. Gelation was monitored by time
+sweep at 1 rad s
+–1, 1% strain, and 25 °C. In the stress relaxation experi-
+ments, a shear strain ( γ) of 15% was applied, and the corresponding
+shear stress (σ) was monitored over time. Concurrently, visible light
+was provided using an OmniCure model equipped with a 400–500 nm
+ﬁlter during the stress relaxation test. Prior to initiating the test, the
+gels were given a 10-min equilibration period. In the creep experi-
+ments, a constant stress of 300 Pa was applied, and the creep com-
+pliance (J) was recorded over time. The rate of creep was determined
+using Eq. (1)
+25.
+J /C0 J0 = t=<η> ð1Þ
+Stress relaxation cycles involved exposing the gels to visible light
+with intensities of 20 mW/cm², emitted by an OmniCure light source.
+The gels were subjected to alternating light and dark conditions,
+consistently maintained at a frequency of 1 rad/s and a strain of 15%.
+Each cycle lasted for 3000 s and was followed by a 6000-s relaxation
+phase, during which the hydrogel was allowed to relax without being
+subjected to any shear force. All of the rheology data were analyzed
+using ORIGIN software.
+Cell culture and reagents
+Human ovarian cancer cells (Heys, Gaofeng Fan’sg r o u p ,S L S TS h a n g -
+haiTech) were cultured in high-glucose Dulbecco ’sm o d iﬁed Eagle
+medium (DMEM; Gibco) supplemented with 10% fetal bovine serum
+and 1% penicillin/streptomycin. Heys cells were cultured in a standard
+humidiﬁed incubator at 37 °C in a 5% CO
+2 atmosphere. T. The cells
+were seeded on the hydrogels at a density of 10,000 cells/cm2.
+In-situ viscoelastic manipulation with visible light
+After a 24-hour culture period in the viscoelastic hydrogel, the cells
+with different hydrogel samples were transferred to the live-cell ima-
+ging chamber, maintained at 5% CO
+2, and equilibrated for 5 min.
+Subsequently, the cells were irradiated with 445 nm blue light for a
+speciﬁed duration in a controlled manner.
+Immunoﬂuorescence staining forﬁxed cells
+All immuno ﬂuorescence staining associated with light experiments
+was performed immediately after illumination. For circulatory cell
+experiments, cellﬁxation occurs after the cells have been subjected to
+corresponding dark (4 h) or light (0.5 h) alternations.
+For the immunostaining, 4 wt% paraformaldehyde was used toﬁx
+cells at room temperature for 30 min. The gel was washed three times
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 11
+
+===== PDF PAGE 12 =====
+by PBS. Permeabilization was then added to the platform (0.5 wt%
+Triton X−100) at room temperature for 10 min. The hydrogel was then
+incubated with 5 wt% BSA as a blocking solution for 1 h at room tem-
+perature to minimize non-speci ﬁc staining. The primary antibody
+(diluted in 1 wt% BSA) was added and incubated at 4 °C overnight.
+Following the primary antibody incubation, a secondary antibody was
+applied for 60 min. Subsequently, samples were washed twice with
+PBST (Phosphate-buffered saline with Tween-20) and three times with
+PBS. Subsequently, Alexa Fluor 633 phalloidin (Zenbio) was used to
+label actin (1:200), and DAPI (BBI, E607303-0002) was used to label the
+nuclei (1:500).
+For immunoﬂuorescence imaging, the gels were turned upside
+down to optimize the staining visibility. Images were then captured
+using a confocal microscope (Olympus Corporation) equipped with a
+20 X objective.
+Primary antibodies used were as follows: anti-paxillin antibody
+Y113 (1:500, Abcam ab32084), anti-non-muscle Myosin IIB (1:200,
+Abcam ab230823), anti-YAP/TAZ (1:250, Zenbio), anti-gamma H2Ax
+(1:200, MedChemExpress HY-P80161). Matching secondary antibodies
+(1:500, 550037) were purchased from Zenbio.
+YAP /TAZ localization analysis
+The YAP Nuclear/Cytoplasmic ratio was determined through ImageJ
+analysis. To brieﬂy explain the process, a nuclear mask was generated
+to quantify YAP nuclear intensity. The cytoplasmic region was deﬁned
+using the red actin channel (633 nm), and the DAPI channel area was
+subtracted from the green YAP channel (488 nm) image to calculate
+the average grayscale signal of the cytoplasm. Subsequently, the
+ﬂuorescence intensity ratio was computed by dividing the average
+grayscale values of the nucleus and cytoplasm (Eq. (2)).
+N=C =
+Inuc=Anuc
+ðIcell /C0 InucÞ=ðAcell /C0 AnucÞ ð2Þ
+Inuc and Icell are the total intensities of the YAP signal inside the
+nucleus and cell, respectively, Anuc is the area of the nucleus as mea-
+sured by DAPI staining,Acell is the overall area of the cell as delineated
+by F-actin staining, respectively. Intensities and areas were measured
+using Image J from the ﬁxed immunostaining pictures.
+Live cell imaging and analysis
+For photo-induced viscoelasticity, Heys were grown on ALYDS
+hydrogel for 24 h, gently washed with PBS, and transferred to a glass
+bottom 24-well plate, upright, with fresh imaging medium.
+Live cells were imaged on a confocal microscope (Olympus Cor-
+poration) equipped with a 20 X objective and an environmental
+chamber maintained at 37 °C and 5% CO
+2. For local photo-induced
+viscoelasticity, Water-soluble F-actin dyes were added to gels for 24 h
+with a fresh imaging medium. Viscoelasticity was induced during
+imaging with the 445 nm laser in software. In a user-deﬁned region, the
+gels were exposed to 445 nm light exposure, and then an image of the
+actin cytoskeleton was acquired by a 560 nm channel. Image analysis
+was performed in FIJI. Imaging was started 24 h after seeding, Migra-
+tion tracks from individual cells were analyzed with Trackmate of FIJI.
+Atomic force microscopy (AFM) measurements
+Force-indentation and stress relaxation measurements for hydrogels
+are performed by using an AFM (MFP-3D, Asylum Research) with a
+colloidal probe
+59,60. The AFM is set up on an inverted microscope (IX71,
+Olympus) equipped with an EMCCD camera (Ixon3, Andor) and a light
+source (X-cite, 120Q). The colloidal probe consists of a glass sphere of
+radius R (~15 µm), which is glued on the front end of a rectangular
+cantilever beam (NSC36/Pt, MikroMasch) featuring a spring constant
+of 0.6 N/m. The colloidal probe is coated with a thin layer of poly(L-
+lysine)-graft-poly (ethylene glycol) (PLL-gPEG), which effectively
+reduces the adhesion of the hydrogel surface to the probe. The AFM
+measurements were carried out in contact mode. The measured
+force–distance curves were recorded with a constant speed
+v =1 0 0μm/s and ﬁtted with the Hertz model to calculate the reduced
+Young’s modulus. The stress relaxation curves were measured by
+quickly applying a constant indentation to the hydrogel using a colloid
+probe at a loading speed ofv =1 0 0μm / s .T h eA F Mr e c o r d e dt h ef o r c e
+relaxation F
+(t) while maintaining the constant indentation. All experi-
+ments were carried out at room temperature (∼25 °C).
+Anisotropy analysis
+To quantify the anisotropy of Myosin, small regions of interest con-
+taining ∼6 cells were chosen from the immunostaining pictures. Ani-
+sotropy was then calculated at the level of the adhesive. For this, we
+used FibrilTool
+61, an ImageJ plugin developed to quantify the polar-
+ization of the Myosin-IIB structures in microscopy images.
+Statistical analysis
+Statistical analysis was conducted using Origin software. The data is
+expressed as mean ± standard deviation unless otherwise speci ﬁed.
+Sample sizes are provided in ﬁgure captions, but typically, experi-
+ments were conducted with a minimum of n = 3 for each condition.
+Error bars represent the standard deviation. Data was analyzed using a
+one-way Kruskal–Wallis test followed by Dunn’s multiple comparisons
+tests for all the cell experiments. Statistically signi ﬁcant differences
+were deﬁned as at p < 0.05, 0.01, and 0.001, 0.0001 by *, **, and ***, ****
+respectively. In a box plot, the gray lines represent the distribution of
+the data, with the maximum, 75%, 25%, and minimum values from the
+top. The black line is the median. Precise P values for all cell experi-
+ments are summarized in Supplementary Tables 5 and 6. Precise P
+values for supplementary experiments are summarized in Supple-
+mentary Table 7. All experiments were repeated at least three times.
+Reporting summary
+Further information on research design is available in the Nature
+Portfolio Reporting Summary linked to this article.
+Data availability
+The data supporting the ﬁndings of this study are available within the
+Article and its Supplementary Information. All raw data relevant to this
+manuscript are available upon request. Source data are provided with
+this paper.
+References
+1. Gupta, G. P. & Massagué, J. Cancer Metastasis: Building a Frame-
+work. Cell 127,6 7 9–695 (2006).
+2. Chaudhuri, O., Cooper-White, J., Janmey, P. A., Mooney, D. J. &
+S h e n o y ,V .B .E f f e c t so fe x t r a c e l l u lar matrix viscoelasticity on cel-
+lular behaviour.Nature 584,5 3 5–546 (2020).
+3. Sinkus, R. et al. MR elastography of breast lesions: Understanding
+the solid/liquid duality can improve the speciﬁcity of contrast-
+enhanced MR mammography.Magn. Reson. Med. 58, 1135–1144
+(2007).
+4. Tsai, JeffH., Donaher, JoanaL., Murphy, DanielleA., Chau, S. & Yang,
+J. Spatiotemporal Regulation of Epithelial-Mesenchymal Transition
+Is Essential for Squamous Cell Carcinoma Metastasis.Cancer Cell
+22,7 2 5–736 (2012).
+5. Seferbekova, Z., Lomakin, A., Yates, L. R. & Gerstung, M. Spatial
+biology of cancer evolution.Nat. Rev. Genet. 24,2 9 5–313 (2023).
+6. Huang, D. et al. Viscoelasticity in natural tissues and engineered
+scaffolds for tissue reconstruction.Acta Biomater.97,7 4–92 (2019).
+7. Elosegui-Artola, A. et al. Matrix viscoelasticity controls spatio-
+temporal tissue organization.Nat. Mater. 22,1 1 7–127 (2023).
+8. Mckinnon, D. D., Domaille, D. W., Cha, J. N. & Anseth, K. S. Bio-
+physically Deﬁned and Cytocompatible Covalently Adaptable
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 12
+
+===== PDF PAGE 13 =====
+Networks as Viscoelastic 3D Cell Culture Systems.Adv. Mater. 26,
+865–872 (2014).
+9 . K l o x i n ,A .M . ,K a s k o ,A .M . ,S a l i n a s ,C .N .&A n s e t h ,K .S .P h o t o -
+degradable Hydrogels for Dynamic Tuning of Physical and Chemi-
+cal Properties. Science 324,5 9–63 (2009).
+10. Lutolf, M. P. et al. Synthetic matr ix metalloproteinase-sensitive
+hydrogels for the conduction of tissue regeneration: Engineering
+cell-invasion characteristics.P r o c .N a t lA c a d .S c i .100,5 4 1 3–5418
+(2003).
+1 1 . R o s a l e s ,A .M . ,V e g a ,S .L . ,D e l R i o ,F .W . ,B u r d i c k ,J .A .&A n s e t h ,K .S .
+Hydrogels with Reversible Mechanics to Probe Dynamic Cell
+Microenvironments.Angew. Chem. Int. Ed. 56,1 2 1 3 2–12136 (2017).
+1 2 . M a r o z a s ,I .A . ,C o o p e r - W h i t e ,J .J .&A n s e t h ,K .S .P h o t o - i n d u c e d
+viscoelasticity in cytocompatible hydrogel substrates.New. J. Phys.
+21,0 4 5 0 0 4( 2 0 1 9 ) .
+13. Zhu, H. et al. The relationship between thiol-acrylate photo-
+polymerization kinetics and hydrogel mechanics: An improved
+model incorporating photobleaching and thiol-Michael addition.J.
+Mech. Behav. Biomed. Mater.88,1 6 0–169 (2018).
+1 4 . C a r b e r r y ,B .J . ,R a o ,V .V .&A n s e t h ,K .S .P h o t o t u n a b l eV i s c o e l a s t i -
+city in Hydrogels Through Thioester Exchange.Ann. Biomed. Eng.
+48,2 0 5 3–2063 (2020).
+1 5 . H u s h k a ,E .A . ,Y a v i t t ,F .M . ,B r o w n ,T .E . ,D e m p s e y ,P .J .&A n s e t h ,K .
+S. Relaxation of Extracellular Matrix Forces Directs Crypt Formation
+and Architecture in Intestinal Organoids.Adv. Healthc. Mater. 9,
+1901214 (2020).
+1 6 . Y a v i t t ,F .M .e ta l .T h eE f f e c to fT h i o lS t r u c t u r eo nA l l y lS u lﬁde
+Photodegradable Hydrogels and their Application as a Degradable
+Scaffold for Organoid Passaging.Adv. Mater. 32,1 9 0 5 3 6 6( 2 0 2 0 ) .
+17. Yavitt, F. M. et al. In situ modulation of intestinal organoid epithelial
+curvature through photoinduced viscoelasticity directs crypt mor-
+phogenesis.Sci. Adv. 9,e a d d 5 6 6 8( 2 0 2 3 ) .
+18. Hegmann, L., Sturm, S., Niegisch, G., Windolf, J. & Suschek, C. V.
+Enhancement of human bladder carcinoma cell chemosensitivity to
+Mitomycin C through quasi-monochromatic blue light (λ =4 5 3±
+10 nm). J. Photoch. Photobio. B. 236, 112582 (2022).
+19. Toullec, J. & Milin, D. Separation of Ring Polar and Resonance Effects
+on the Rate Constants for Uncatalyzed N-Arylidenepropylamine For-
+mation in Methanol.J. Org. Chem. 59,2 8 4 0–2847 (1994).
+20. Kova říček, P. & Lehn, J.-M. Merging Constitutional and Motional
+Covalent Dynamics in Reversible Imine Formation and Exchange
+Processes.J. Am. Chem. Soc. 134
+, 9446–9455 (2012).
+2 1 . N a m ,S . ,H u ,K .H . ,B u t t e ,M .J .&C h a u d h u r i ,O .S t r a i n - e n h a n c e d
+stress relaxation impacts nonlinear elasticity in collagen gels.Proc.
+Natl Acad. Sci. 113,5 4 9 2–5497 (2016).
+2 2 . M c K i n n o n ,D .D . ,D o m a i l l e ,D .W . ,C h a ,J .N .&A n s e t h ,K .S .B i s -
+Aliphatic Hydrazone-Linked Hydrogels Form Most Rapidly at Phy-
+siological pH: Identifying the Origin of Hydrogel Properties with
+Small Molecule Kinetic Studies.Chem. Mater.26,2 3 8 2–2387 (2014).
+23. Lou, J., Friedowitz, S., Will, K., Qin, J. & Xia, Y. Predictably Engi-
+neering the Viscoelastic Behavior of Dynamic Hydrogels via Cor-
+relation with Molecular Parameters.Adv. Mater. 33, e2104460
+(2021).
+2 4 . M o w ,V .C . ,K u e i ,S .C . ,L a i ,W .M .&A r m s t r o n g ,C .G .B i p h a s i cC r e e p
+and Stress Relaxation of ArticularCartilage in Compression: Theory
+and Experiments.J. Biomech. Eng. 102,7 3–84 (1980).
+25. Richardson, B. M. et al. Mechanob iological Interactions between
+Dynamic Compressive Loading and Viscoelasticity on Chon-
+drocytes in Hydrazone Covalent Adaptable Networks for Cartilage
+Tissue Engineering.Adv. Healthc. Mater. 10, 2002030 (2021).
+2 6 . A m a m o t o ,Y . ,O t s u k a ,H . ,T a k a h a r a ,A .&M a t y j a s z e w s k i ,K .S e l f -
+healing of covalently cross-linked polymers by reshufﬂing thiuram
+disulﬁde moieties in air under visible light. Adv. Mater. 24,
+3975–3980 (2012).
+27. Orrillo, A. G. & Furlan, R. L. E. Sulfur in Dynamic Covalent Chemistry.
+Angew. Chem. Int. Ed. 61, e202201168 (2022).
+28. Long, K. N., Scott, T. F., Jerry Qi, H., Bowman, C. N. & Dunn, M. L.
+Photomechanics of light-activated polymers.J. Mech. Phys. Solids
+57, 1103–1121 (2009).
+29. Xu, X. et al. Synergistic catalytic effect of triple dynamic bonds for
+fast-reprocessing and high-performance cross-linked polymers.
+Polym. Chem. 14,5 2 3–532 (2023).
+30. Brown, T. E. et al. Photopolymerized dynamic hydrogels with tun-
+able viscoelastic properties through thioester exchange.Bioma-
+terials 178, 496–503 (2018).
+31. Du, X. et al. Reversible and Rewritable Surface Functionalization
+and Patterning via Photodynamic Disulﬁde Exchange. Adv. Mater.
+27, 4997–5001 (2015).
+32. Lechner, V. M. et al. Visible-Light-Mediated Modi ﬁcation and
+Manipulation of Biomacromolecules.Chem. Rev. 122,1 7 5 2–1829
+(2022).
+33. Hazur, J., Endrizzi, N., Schubert, D. W., Boccaccini, A. R. & Fabry, B.
+Stress relaxation amplitude of hydrogels determines migration,
+proliferation, and morphology of cells in 3-D culture.Biomater. Sci.
+10,2 7 0–280 (2022).
+34. Yu, W. et al. Gradual Stress-Relaxation of Hydrogel Regulates Cell
+Spreading.Int. J. Mol. Sci. 23, 5170 (2022).
+35. Jansons, J., Aniskevich, A. & Pa zhe, L. Analysis of reversible and
+irreversible strains in the creep of a nonlinear viscoelastic polymer.
+Mech. Compos. Mater. 48,2 0 9–216 (2012).
+36. Tang, S., Richardson, B. M. & Anseth, K. S. Dynamic covalent
+h y d r o g e l sa sb i o m a t e r i a l st om i m i ct h ev i s c o e l a s t i c i t yo fs o f tt i s -
+sues. P r o g .M a t e r .S c i .120, 100738 (2021).
+37. Minns, R. J., Soden, P. D. & Jackson, D. S. The role of the ﬁbrous
+components and ground substance in the mechanical properties of
+biological tissues: A preliminary investigation.J. Biomech. 6,
+153–165 (1973).
+38. Lengyel, E. Ovarian Cancer Development and Metastasis. Am. J.
+Pathol. 177,1 0 5 3–1064 (2010).
+39. Wu, S. et al. Regulating the migration of smooth muscle cells by a
+vertically distributed poly(2-hydroxyethyl methacrylate) gradient
+on polymer brushes covalently immobilized with RGD peptides.
+Acta Biomater. 75,7 5–92 (2018).
+4 0 . M a d l ,C .M . ,F l a i g ,I .A . ,H o l b r o o k ,C .A . ,W a n g ,Y .X .&B l a u ,H .M .
+Biophysical matrix cues from the regenerating niche direct muscle
+stem cell fate in engineered microenvironments.Biomaterials275,
+120973 (2021).
+41. Halder, G., Dupont, S. & Piccolo, S. Transduction of mechanical and
+cytoskeletal cues by YAP and TAZ. Nat. Rev. Mol. Cell Biol. 13,
+591–600 (2012).
+42. Adebowale, K. et al. Enhanced substrate stress relaxation
+promotes ﬁlopodia-mediated cell migration. Nat. Mater. 20,
+1290–1299 (2021).
+43. Wäldchen, S., Lehmann, J., Klein, T., van de Linde, S. & Sauer, M.
+Light-induced cell damage in live-cell super-resolution micro-
+scopy. Sci. Rep. 5, 15348 (2015).
+4 4 . C h a r r i e r ,E .E . ,P o g o d a ,K . ,W e l l s ,R .G .&J a n m e y ,P .A .C o n t r o lo fc e l l
+morphology and differentiation by substrates with independently
+tunable elasticity and viscous dissipation.Nat. Commun. 9,
+449 (2018).
+45. McDonald, S. J. et al. Early fracture callus displays smooth muscle-
+like viscoelastic properties ex vivo: Implications for fracture healing.
+J. Orthop. Res. 27,1 5 0 8–1513 (2009).
+4 6 . G u i m a r ã e s ,C .F . ,G a s p e r i n i ,L . ,M a r q u e s ,A .P .&R e i s ,R .L .T h e
+stiffness of living tissues and its implications for tissue engineering.
+Nat. Rev. Mater. 5,3 5 1–370 (2020).
+47. Cui, Y. et al. Cyclic stretching of soft substrates induces spreading
+and growth. Nat. Commun. 6, 6333 (2015).
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 13
+
+===== PDF PAGE 14 =====
+4 8 . Y a n g ,C . ,T i b b i t t ,M .W . ,B a s t a ,L .&A n s e t h ,K .S .M e c h a n i c a lm e m o r y
+a n dd o s i n gi nﬂuence stem cell fate.Nat. Mater.13, 645–652 (2014).
+49. Bril, M. et al. Shape-Morphing Photoresponsive Hydrogels Reveal
+Dynamic Topographical Conditioning of Fibroblasts.Adv. Sci. 10,
+2303136 (2023).
+50. Wu, X. et al. Reversible hydrogels with tunable mechanical prop-
+erties for optically controlling cell migration.Nano. Res. 11,
+5556–5565 (2018).
+51. Shirke, P. U. et al. Viscotaxis ”- directed migration of mesenchymal
+stem cells in response to loss modulus gradient.Acta Biomater.135,
+356–367 (2021).
+52. Cheng, N. et al. Hydrogel platform capable of molecularly resolved
+pulling on cells for mechanotransduction.Mater. Today Bio 17,
+100476 (2022).
+53. Wang, L. et al. A general strategy to develop cell permeable and
+ﬂuorogenic probes for multicolour nanoscopy.Nat. Chem. 12,
+165–172 (2020).
+54. Sáez, P. & Venturini, C. Positive, negative and controlled durotaxis.
+Soft Matter 19,2 9 9 3–3001 (2023).
+55. Sunyer, R. et al. Collective cell d urotaxis emerges from long-range
+intercellular force transmission.Science 353, 1157–1161 (2016).
+56. Breckenridge, M. T., Desai, R. A., Yang, M. T., Fu, J. & Chen, C. S.
+Substrates with Engineered Step Changes in Rigidity Induce Trac-
+tion Force Polarity and Durotaxis.Cell. Mol. Bioeng.7,2 6–34 (2014).
+57. Isomursu, A. et al. Directed cell m igration towards softer environ-
+ments. Nat. Mater. 21,1 0 8 1–1090 (2022).
+58. McGrail, D. J., Kieu, Q. M. N. & Dawson, M. R. The malignancy of
+metastatic ovarian cancer cellsi si n c r e a s e do ns o f tm a t r i c e s
+through a mechanosensitive Rho–ROCK pathway. J. Cell Sci. 127,
+2621–2626 (2014).
+59. Li, H., Lian, X. & Guan, D. Crossover behavior in stress relaxations of
+poroelastic and viscoelastic dominant hydrogels.Soft Matter 19,
+5443–5451 (2023).
+60. Guan, D. et al. Uni ﬁed description of compressive modulus
+revealing multiscale mechanics of living cells.
+P h y s .R e v .R e s .3,
+043166 (2021).
+61. Zheng, C.-g et al. Polarized Distribution of Active Myosin II Reg-
+ulates Directional Migration ofCultured Olfactory Ensheathing
+Cells. Sci. Rep. 7,4 7 0 1( 2 0 1 7 ) .
+Acknowledgements
+This work was supported by the National Natural Science Foundation of
+China (Grant No. 52073175, 52473115), the National Natural Science
+Foundation of Shanghai (23ZR1442700), ShanghaiTech University, the
+Strategic Priority Research Program of Chinese Academy of Sciences,
+Grant No. XDB0620102, NSFC under Grant No.12372267 and National
+Key R&D Program of China No. 2021YFA0719302. The authors thank the
+support from the Analytical Instrumentation Center (contract no. SPST-
+AIC10112914), SPST.
+Author contributions
+Y.Z. conceived and designed the overall study. H.L. and D.G. built the
+light-controlled AFM instrument. AFM Characterization of hydrogel was
+performed in Guan’s lab. Y.L. performed molecular synthesis, hydrogel
+preparation, and cell experiments. C.C. quantiﬁed the cell results. Y.Z. and
+P.Z. synthesized the crosslinker precursors. B.L. performed the immu-
+nostaining test. W.Z. conducted the glass functionalization. Y.L. and Y.Z.
+drafted the manuscript. Y.L., C.C., P.Z., and Y.Z. designed and prepared
+the ﬁgures. G.F. helped design the cell experiment. All the authors con-
+tributed to the discussion and data analysis and revised the manuscript.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary informationThe online version contains
+supplementary material available at
+https://doi.org/10.1038/s41467-024-54880-0.
+Correspondenceand requests for materials should be addressed to
+Dongshi Guan or Yijun Zheng.
+Peer review informationNature Communicationsthanks Nicholas Kur-
+niawan and the other, anonymous, reviewers for their contribution to the
+peer review of this work. A peer review ﬁle is available.
+Reprints and permissions informationis available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jur-
+isdictional claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License,
+which permits any non-commercial use, sharing, distribution and
+reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the
+Creative Commons licence, and indicate if you modiﬁed the licensed
+material. You do not have permission under this licence to share adapted
+material derived from this article or parts of it. The images or other third
+party material in this article are included in the article’s Creative
+Commons licence, unless indicatedotherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons
+licence and your intended use is not permitted by statutory regulation or
+exceeds the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of this licence, visit http://
+creativecommons.org/licenses/by-nc-nd/4.0/.
+© The Author(s) 2025
+Article https://doi.org/10.1038/s41467-024-54880-0
+Nature Communications|         (2025) 16:1365 14

@@ -1,0 +1,1047 @@
+
+
+===== PDF PAGE 1 =====
+Light-Controlled Chemical Reaction
+Pathways in Disul ﬁde-Based
+Nonequilibrium Systems
+Yingshuai Zhao†, Peng Zhao †, Jingyi Zhang †, Yuanfeng Zhao, Bohan Li, Guoxiu Hao, Yuanyuan An, Wei Zhou, Yan Lu,
+Lien-Yang Chou & Yijun Zheng*
+School of Physical Science and Technology, ShanghaiTech University, Shanghai 201210
+*Corresponding author: zhengyj@shanghaitech.edu.cn; †Y. Zhao, P. Zhao, and J. Zhang contributed equally to this
+work.
+Cite this: CCS Chem . 2024, 6, 1571 –1580
+DOI: 10.31635/ccschem.023.202303331
+Pathway selection in a complex chemical reaction
+network (CRN) enables organisms to adapt, evolve,
+and even learn in response to changing environ-
+ments. Inspired by this, herein we report an arti ﬁcial
+system, where light signal was used to manipulate
+the reaction pathways in a disul ﬁde-based nonequi-
+librium CRN. By changing the photon energy and
+irradiation window, the anion or new radical-mediat-
+ed pathways were selectively triggered, resulting in a
+user-deﬁned evolution pathway. Additional photo-
+dissipative cycles were achieved by UV (365 nm)
+irradiation, increasing the total number of reactions
+from 3 to 7. The emerging pathway selection of the
+CRN is accurately predictable and controllable even
+in complex organo-hydrogel materials. We demon-
+strate up to ﬁve-state autonomous sol –gel transi-
+tions and the formation of fuel-driven dissipative
+organo-hydrogel through both chemical and light
+input. This work represents a new approach to allow-
+ing CRNs to communicate with the environment that
+can be used in the development of materials with
+lifelike behaviors.
+R1hv/R1
+R
+1h
+v
+/
+R
+1
+Anions-mediated reaction pathways (dark)
+Radical-mediated reaction pathways (365 nm)
+R
+SH S–S S–
+Waste 1 
+(S)2–3
+R4
+R3hv
+O2
+S- SH
+R3
+R2
+Waste 2 
+R2hv
+R
+R
+R4hv
+R
+R2
+R3hv
+R
+S–S
+R4hv
+R
+Time
+c (S2– 3)
+Sol
+Gel
+Time
+Sol
+Gel
+c (S–S)
+Fuel
+Keywords: chemical reaction networks, light regula-
+tion, kinetic control, pathway selection, disul ﬁde
+Introduction
+Chemical reaction networks (CRNs) within living organ-
+isms act as the “machinery” of life. 1–5 These CRNs are
+normally preprogrammed precisely in these systems for
+inducing various predictable emerging behaviors. 6–11
+When the environment varies, living organisms create
+new reaction pathways within CRNs that allow them to
+adapt to the variation in the environment and better
+compete for resources as a result of mutation or other
+genetic changes. 12,13 Examples of this include the emer-
+gence of photosynthesis in early bacteria and the
+evolution of methanotrophic bacteria, which give these
+organisms a competitive advantage to thrive in a speci ﬁc
+environment.14,15 This capability of generating new reac-
+tion pathways plays a signi ﬁcant role in the evolution of
+life.16 Recently, different arti ﬁcial CRNs have been
+designed as a means of endowing materials with lifelike
+properties, such as out-of-equilibrium behaviors, 17–21
+oscillations,22–24 and dissipative self-assembly. 6,17,25–30 To
+enable their ability to communicate with the environ-
+ment, several recent systems have been created to be
+responsive to external signals such as catalysis, 16,31,32 pH
+signals,33–38 and light. 39–44 However, these CRNs can only
+RESEARCH ARTICLE
+Received: July 13, 2023 | Accepted: Aug. 31, 2023 | Published: Oct. 26, 2023
+DOI: 10.31635/ccschem.023.202303331
+Citation: CCS Chem. 2024, 6, 1571 –1580
+Link to VoR:https://doi.org/10.31635/ccschem.023.202303331
+1571
+
+===== PDF PAGE 2 =====
+vary resident reaction rates rather than reaction path-
+ways, which limits their ability to sense, respond, and
+even evolve in response to changing conditions. 1,45,46 The
+development of CRNs with the ability to select their
+reaction pathways has the potential to enable these
+systems to exhibit even more complex and dynamic
+behaviors, but this remains a challenge.
+Herein, we present a strategy for reaction pathway
+selection in a CRN enabled by light signals (Figure 1). A
+small-molecule model beginning with thiol and thiuram
+disulﬁdes (TDS) was initially used, where 365 nm UV
+light (10 mW/cm 2) as an environmental signal facilitated
+the new radical-mediated reaction pathways. Substance
+identiﬁcation, product distribution, and the kinetics pro-
+ﬁle in a model reaction were comprehensively compared
+with the same characteristics in dark conditions. We
+found that the photogenerated intermediates disturbed
+the equilibration of disul ﬁde metathesis (R 2), and the
+photolysis and radical recombination contributed to an
+additional nonequilibrium pathway (R 2hv). Light can also
+introduce a fast photolytic reaction (R 3hv) that replaces
+the slow thionate decomposition-coupling step (R 3)
+and allows the active intermediate (diethylammonium
+diethyldithiocarbamate, DDDC) to persist and react
+with the photolytic product [2-hydroxyethyl disul ﬁde
+(HEDS), R 4]. The user-de ﬁned pathway selection of the
+CRN was accurately achieved, even in complex organo-
+hydrogel, by varying the photon intenisty and irradiation
+window. Notably, up to ﬁve-state autonomous sol –gel
+transitions and the fuel-driven dissipative organo-
+hydrogel were achieved through both chemical and light
+input.
+Experimental Methods
+Experimental materials
+N,N,N′,N′-tetraethylthiuram disulﬁde (TDS, 97%; Shanghai
+Macklin Biochemical Co., Ltd., Shanghai, China), 4-arm-
+PEG-SH (95%, Mn = 20,000; Hunan Huateng Pharmaceu-
+tical Co., Ltd., Hunan, China), 2-hydroxyethyl disul ﬁde
+(HEDS, 90%; Shanghai Macklin Biochemical Co., Ltd.),
+diethylammonium diethyldithiocarbamate (DDDC, 97%;
+Bide Pharmatech Ltd., Shanghai, China), 2-mercaptoetha-
+nol (MCE, 98%; Alfa Aesear China Chemical Co. Ltd.,
+Shanghai, China), carbon disul ﬁde (CS 2, 99%; Shanghai
+Macklin Biochemical Co., Ltd.) were used without further
+puriﬁcation unless speci ﬁed. 2-Hydroxyethyl diethylcar-
+bamo(dithioperoxo)thioate (HEDT) was synthesized
+according to literature procedures. 47 After mixing MCE
+(18.0 mg, 0.23 mM) and TDS (0.24 mM) in acetonitrile,
+the system was stirred at room temperature for 1 h.
+Then the mixture was concentrated and puri ﬁed by col-
+umn chromatography (Hexane/EtOAc, 3/2) to provide
+light yellow powders (yield: 60%). High-performance
+liquid chromatography (HPLC)-grade CH 3CN was pur-
+chased from BOJN Scienti ﬁc (GD) Co. Ltd. (Guangdong,
+China) and used without further puri ﬁcation. All solvents
+:Photolysis
+by-products
+S
+R2
+Metathesis
+R2hv
+Radical-mediated 
+reaction pathways
+Cascade and fuel-driven CRN in dark (anion-mediated reaction pathways)
+R1
+CS2
++
+Oxidation
+Starting 
+components
+:TDS
+: MCE
+Intermediates
+: HEDS
+: HEDT
+: DDDC
+R3hv R4hv
+Light-driven 
+dissipative cycles
+R3hv
+O2
+R4hv
+R3hv
+DEA
+R4
+O2
+Decomposition/metathesis
+TDSR2
+R3
+SO2 CO2 CS2
+:Decomposition 
+by-products
+: HETS
+Figure 1 | Schematic representation of thiol-based CRN with pathway selectivity. The starting compounds of the
+system are MCE and TDS. The size of each pie chart slice represents the relative proportion of the intermediates along
+the reaction pathways (the blue bulb indicates the presence of 365 nm UV illumination).
+RESEARCH ARTICLE
+DOI: 10.31635/ccschem.023.202303331
+Citation: CCS Chem. 2024, 6, 1571 –1580
+Link to VoR:https://doi.org/10.31635/ccschem.023.202303331
+1572
+
+===== PDF PAGE 3 =====
+used for proton nuclear magnetic resonance ( 1H NMR)
+were purchased from Sinopharm Chemical Reagent Co.,
+Ltd. (Shanghai, China) and used without puri ﬁcation.
+Small-molecule model reactions
+All small-molecule model reactions were performed in
+Milli-Q water and CH 3CN (500 μL, 50/50, v/v). The reac-
+tion mechanism and reaction kinetic constants of the
+small-molecule model reaction (R 1–R3,48 R4,R 1hv–R4hv)
+were characterized and calculated by 1H NMR. R 1hv and
+R4 complemented the HPLC characterization results.
+The reactant concentration of all model reactions was
+0.02 mol/L, R
+1–R4 was performed without UV light
+mediation, and R 1hv–R4hv was performed under ultravio-
+let light irradiation with different illumination time
+(R1hv–R4hv; 10, 30, 70, and 180 min). The reactions involv-
+ing UV illumination were performed using UV lamps
+(15 W, 100 V, 0.37 A, PHILIPS) irradiated with a light
+intensity of 10 mW/cm 2. For more information, please
+see Supporting Information Figures S1 –S10.
+Preparation of PEG organo-hydrogel
+All organo-hydrogels were prepared in Milli-Q water and
+CH3CN (50/50, v/v). 4-arm-PEG-SH (10 wt %) and TDS
+(0.02 mol/L) were respectively dissolved in water and
+CH3CN, and the two solutions were mixed well in the
+volume ratio of 1:1 to obtain the organo-hydrogels. The
+demonstration of the organo-hydrogel mediated by light
+was performed in a quartz cuvette with a light range of
+1 mm. The reaction pathway for the required light was
+performed under UV irradiation with an intensity of
+10 mW/cm 2.
+HPLC characterization
+The concentration of reactive substances was calculated
+according to the standard concentration curve of each
+reactant determined by HPLC. The rate constant k was
+obtained according to the second-order opposite reac-
+tion kinetic equation. The HPLC data were recorded
+at 254 nm using the mobile phase of CH
+3CN-water
+(65:35, v/v) at a ﬂow rate of 1 mL/min, and the concen-
+tration of reactive substance was 0.02 mol/L. If not
+otherwise speci ﬁed, all experiments were performed at
+ambient temperature for a run time of 15 min.
+NMR spectroscopy
+NMR were recorded at 25 °C on a Bruker Avance III
+HD500 spectrometer (Bruker). All NMR characterization
+was performed in CD
+3CN and D 2O (600 μL, 50/50, v/v),
+and the concentration of reactants was 0.02 mol/L. All
+the chemical shifts were reported in ppm relative to the
+signals corresponding to the residual nondeuterated sol-
+vent. δ: 2.04 for CD 3CN and δ: 4.79 for D 2Oi n 1H NMR.
+Multiplets were reported as s (singlet), d (doublet), dd
+(double doublet), t (triplet), and m (multiplet).
+Simulation modeling to predict the substance
+concentration ﬂuctuations
+The programmable gel was prepared according to the
+established kinetics of the cascade reactions, and all the
+components were simulated quantitatively using numer-
+ical integration methods. 49 The kinetic equations of the
+system were constructed using ordinary differential
+equations (ODEs) based on the proposed elementary
+steps and rate constants with or without UV light, re-
+spectively. The variation of component concentrations
+with time was calculated by numerically solving the
+ODEs through a backward differential formulation meth-
+od implemented in the python2/scipy library. ODEs for
+the substances were constructed based on the elemen-
+tary steps and rate constants as given in Supporting
+Information Figure S3 .
+Rheological characterization of organo-
+hydrogels
+Oscillatory experiments were carried out using a rheom-
+eter (Discovery Hybrid Rheometer (DHR); TA Instru-
+ments; Waters Technologies (Shanghai) Ltd., Shanghai,
+China) equipped with the OmniCure S2000 Spot UV
+Curing System in a frequency-controlled, amplitude-con-
+trolled, or time-controlled mode. UV light exposure was
+applied through an OmniCure® S2000 UV curing lamp
+system with a 365 nm ﬁlter (5 –100 mW/cm 2). Measure-
+ments were performed at room temperature with
+the Peltier solvent trap and evaporation blocker to pre-
+vent solvent evaporation. The temperature of the
+Peltier-heated plate was always controlled at ∼25 °C.
+A strain scan with an oscillation frequency of 1 rad/s in
+the range of 0.01 –100% was performed to determine the
+linear region. After determining the linear viscoelastic
+region, a frequency scan of 0.01 –10 Hz was performed
+on the test sample. A time scan was performed at a strain
+amplitude of γ0 = 1% and a frequency of 1 Hz.
+Results and Discussion
+Characterization of small-molecule model
+reactions
+As revealed in our recent work, 48 when MCE (0.02 mol/L)
+and TDS (0.02 mol/L) were mixed, MCE was oxidized by
+TDS under mild conditions to form HEDS and DDDC
+(Figure 2, R1). This reaction can be understood as a fast
+interchange between the thiolate anion and the
+alkylthiuram disul ﬁde. In the presence of the residual
+TDS, the obtained HEDS was subsequently converted
+into HEDT via disul ﬁde–disulﬁde metathesis reaction R 2
+(k2 = 0.014 L mol−1s−1). HEDT was unstable and slowly
+RESEARCH ARTICLE
+DOI: 10.31635/ccschem.023.202303331
+Citation: CCS Chem. 2024, 6, 1571 –1580
+Link to VoR:https://doi.org/10.31635/ccschem.023.202303331
+1573
+
+===== PDF PAGE 4 =====
+underwent decomposition R3 (k3 = 0.0014 Lmol−1s−1)t o
+produce HEDS and volatile by-products (CS 2,S O 2, and
+CO2).48 The presence of additional TDS caused the HEDS
+to undergo metathesis ( k2) and decomposition-coupling
+(k3) reactions again, creating a fuel-driven reaction cycle.
+These reactions (R 1,R 2, and R 3) involved an intermediate
+thiolate anion and were accelerated under basic condi-
+tions. The MCE/TDS systems provided us with an ideal
+CRN model with lifelike autoevolved and dissipative
+behaviors. Considering that disul ﬁde bonds can be bro-
+ken and reformed through radical-mediated pathways
+under UV irradiation, the distinct bond dissociation en-
+ergies of –S–S– (BDE: 204 –272 kJ/mol) led us to expect
+that UV light can selectively regulate its photodissocia-
+tion and alter the kinetics and pathways of the CRN
+(Supporting Information Table S1 ).50,51 To test this idea,
+we used 365 nm UV light (327 kJ/mol) as the environ-
+mental input, and a Peltier device was used to maintain a
+constant temperature of 25 °C ( Supporting Information
+Figure S1 ). The generated reactive thiyl radicals in these
+disulﬁdes were expected to participate in thiyl-centered
+processes to create new pathways.
+Compared to the dark conditions (k1 = 10.08 Lmol−1s−1),
+the oxidation reaction in the small-molecule model
+was slightly accelerated under UV exposure, with a rate
+constant of ¯k1hv = 10.26 L M−1s−1 (Figure 3a, see also
+Supporting Information Figure S2 ), suggesting that the
+oxidation reaction was still predominantly governed by
+the thiolate-centered process. Due to the BDE difference
+(Supporting Information Table S1), 365 nm UV irradiation
+caused the preferential homolytic –S–S– photocleavage
+of TDS,52 and the negligible acceleration was likely due to
+the slow dissociation kinetics ( Supporting Information
+Figure S3, kdecomTDS = 0.02 L M−1s−1), in which the com-
+bination of thiol proton and the thiyl radicals provided
+the same products with R 1 (Supporting Information
+Figure S4 ). In contrast, UV light altered the pathway of
+the disul ﬁde metathesis reaction (R 2). Without light ex-
+posure, R 2 was reversible, with a typical nonequilibrium
+steady-state of [TDS]:[HEDS]:[HEDT] = 0.25:0.23:0.5 af-
+ter 16 h (Figure 3b, lower panel). However, under UV light,
+the disulﬁde metathesis by photogenerated thiyl recom-
+bination in both HEDS and HEDT was signi ﬁcantly accel-
+erated. A rate constant k2hv of 0.074 L M−1s−1 was
+determined by 1H NMR measurements ( Supporting
+Information Figure S5 ), a ﬁvefold increase compared to
+that for R2 in the absence of light ( k2 = 0.014 LM−1s−1). In
+addition, the TDS is consumed faster than HEDS due to
+light-induced self-dissociation, with a [TDS]:[HEDS]:
+[HEDT] = 0.10:0.21:0.40 after just 10 min of UV irradiation
+(Figure 3b, upper panel).
+Prolonged UV irradiation ( Supporting Information
+Figure S6a ) can cause the formation of HEDS through
+a process, involving the S –S cleavage in HEDT (BDE:
+179 kJ/mol) and the radicals recombination (R 3hv). In
+addition, long-term UV irradiation (1 –2 h) can also disso-
+ciate the C –S (=S) bond (BDE: 193 kJ/mol), producing
+diethoxy trisul ﬁdetrisulﬁde (HETS), sulfur, and N,N-
+diethylmethanethioamide (DDC) with the release of
+oxygen (Supporting Information Figure S6). The rate con-
+stant for R 3hv, which forms HEDS/HETS is much larger
+than the thionate disproportionation reaction (R 3)t h a t
+Figure 2 | Kinetics of subreactions in CRN. Comparison of the reaction equations with (R 1hv–R4hv) or without UV
+illumination (R 1–R4).
+RESEARCH ARTICLE
+DOI: 10.31635/ccschem.023.202303331
+Citation: CCS Chem. 2024, 6, 1571 –1580
+Link to VoR:https://doi.org/10.31635/ccschem.023.202303331
+1574
+
+===== PDF PAGE 5 =====
+reforms HEDS without light ( k3hv =0 . 0 4 3 8LM−1s−1 vs
+k3 =0 . 0 0 1 4LM−1s−1). When UV irradiation was applied
+for 40 min, the content of HEDS/HETS increased to 50%
+while the HEDT decreases to 5%.
+The HEDS/HETS produced through the R 3hv process
+was active and stayed out of equilibrium due to the
+existence of DDDC (HEDS/HETS activation). In the ab-
+sence of UV light, the sul ﬁde can react with DDDC to
+reform HEDT through a thiolate anion intermediate in a
+slow oxidation reaction (R 4) that consumes atmospheric
+oxygen (HEDS/HETS deactivation). The rate constant
+for this reaction, called R 4, has been determined to be
+5 × 10−3 M−2s−2 using 1H NMR and HPLC ( Supporting
+Information Figure S7a and Figure 3c). To con ﬁrm the
+oxidation mechanism, the same reaction was conducted
+under a nitrogen atmosphere, and no change was
+observed. HEDS/HETS was reformed through the
+R3hv process with the application of UV light. And the
+input energy was dissipated at a lower rate through
+the deactivation reaction R4 (k4 =5 × 10−3 M−2s−2 < k3hv =
+0.0438 LM−1s−1). The R 3hv (activation) and R 4 reactions
+(deactivation) formed a light-dissipating cycle, with DDC
+and sulfur as waste. When UV light was applied for 40 min,
+the concentration of DDDC remains constant during the
+R2hv and R3hv processes (Figure3b). However, when the R3
+reaction was conducted without light, the ﬁnal products
+reached an equilibrium state with only HEDS remaining.
+SO2 and CO2 were produced slowly through the R3 process,
+and the formed acid decomposed the basic DDDC. 48 The
+presence of SO2/CO2 with a molar ratio of 2:1 was demon-
+strated by precipitation assay ( Supporting Information
+Figure S8 ). As a result, the concentration of DDDC de-
+creased slowly to 55% after 27 days.
+We also studied how continuous light exposure in ad-
+dition to the irradiation-free condition (R 4) affects the
+reaction pathway of the mixture obtained from R 3hv.W e
+found that prolonged UV irradiation slowly decomposed
+HEDS/HETS through a process called R 4hv, producing
+0.001
+0.01
+0.1
+1
+10
+100k (M–1·s–1)
+ Dark
+ UV
+10.0810.26
+0.074 0.0438
+0.014
+0.0014
+k1 k1hv k2 k3 k3hvk2hv
+(a)
+2468
+Retention time (min)
+0 h
+4 h
+3 D
+7 D
+DDDC HEDTHEDS
+K4 =0.005 M-2·s–2
+(c)
+0.0
+0.2
+0.4
+0.6
+0.8
+0 1 02 03 04 0 102 103 1043.6×104
+0.0
+0.2
+0.4
+0.6
+0.8
+0.00
+0.02
+0.04
+c (mol/L)
+R2hv R3hv
+R2 R3
+TDS
+HEDS+HETS
+HEDT
+DDDC
+)%( noitcarf raloM
+Time (min)
+0.00
+0.02
+c (mol/L)
+(b)
+6
+8
+ R
+3.0 2.9 2.8 2.7 2.6
+Chemical shift (ppm)
+0 h
+3 h
+1.5 h
+HEDS MCE
+(d)
+k4hv =1.57 10–4 s–1
+Figure 3 | (a) Comparison of the rate constants of oxidation (k 1,k 1hv), exchange (k2,k 2hv), and decomposition reactions
+(k3,k 3hv) with or without UV illumination. (b) Comparison of the molar fractions of HEDS, TDS, HEDT, and concentra-
+tion of DDDC as a function of the reaction time with or without UV illumination determined using HPLC. (c) HPLC of the
+mixed solution ([DDDC]0 = 0.04 mM; [HEDS]0 = 0.02 mM, the mobile phase ratio was CH 3CN-water (50:50, v/v)) over
+time. The retention time of DDDC, HEDS, and HEDT were 1.9, 4.3, and 8.9 min, respectively. The inset shows the reaction
+rates (k 4) collected from the changes. (d) Stack of 1H NMR spectra obtained at different times during HEDS (at
+2.91 ppm) decomposition under UV illumination. The new peak at 2.69 ppm was assigned to MCE, and k 4hv was
+obtained by the changes. UV light intensity is 10 mW/cm 2 unless otherwise stated.
+RESEARCH ARTICLE
+DOI: 10.31635/ccschem.023.202303331
+Citation: CCS Chem. 2024, 6, 1571 –1580
+Link to VoR:https://doi.org/10.31635/ccschem.023.202303331
+1575
+
+===== PDF PAGE 6 =====
+photoproducts including MCE and sulfur as a result of
+S–S/S–C bond cleavage ( k4hv = 1.57 × 10−4 s−1, Figure 3d
+and Supporting Information Figure S9). DDDC also slowly
+decomposed under UV light exposure ( kdecomDDDC =
+2.24 × 10−4 s−1, Supporting Information Figure S10 ). It is
+worth noting that similar photocleavage reactions also
+occur in mixtures obtained from the R 3 process, although
+the compositions may be different. Overall, the complexi-
+ty of the disul ﬁde CRN is increased through the induction
+of new reaction pathways and light-driven reaction cycles
+with nonlinear kinetics.
+Simulation of the concentration of CRN
+components over time
+Using the identi ﬁed reaction kinetics ( Supporting
+Information Table S2 ), we developed simple models in
+Pathon to quantitatively describe the behavior of the
+CRN based on the reaction equations (see Supporting
+Information Figures S3 and S11 ). The concentration of
+each component as a function of time was calculated.
+Figure 4a shows the concentration ﬂuctuations of the
+components without light. The concentration of HEDS
+initially increased to 3.9 mM at 16 min, then decreased to
+2.7 mM at 4 h, before increasing again to 5 mM at 278 h.
+The concentration of HEDS eventually reached a steady
+state after a single oscillation. With continuous light
+input, it is clear that a higher degree of control can be
+achieved over the evolution of the system. Full-time light
+irradiation signi ﬁcantly accelerated the process, com-
+pleting it within 66 h, and changed the pro ﬁle
+(Figure 4b). After two cycles of oscillation, the concen-
+tration of HEDS/HETS decreased. Light can also be selec-
+tively applied at user-de ﬁned intervals to regulate
+individual rates of the network without disrupting others.
+For example, when light irradiation was applied to the
+system for 4 h (after the disul ﬁde metathesis reaction),
+the HEDS/HETS quickly increased to 4.5 mM in 8 h and
+then slowly decreased over 83 h (Figure 4c). More com-
+plex behaviors can also be created by applying light at
+speciﬁc intervals. Notably, when irradiation is applied in
+the range of 5 –7.5 h, 28 –36 h, and 139 –145 h (R
+3hv)t o
+drive the reformation of HEDS/HETS to high levels (4.5,
+4.2, and 4.0 mM), the system underwent dissipative
+oscillation (Figure 4d). This signi ﬁcant difference of k
+3hv
+and k4 with a ratio of deactivation/activation time of
+0.12 (2.5 h/20.5 h) is key to the dynamically controlled
+dissipating cycle. The system can be recycled at least
+three times before it decays because of photodegrada-
+tion. Along with the ﬂuctuation of HEDS/HETS, HEDT
+underwent the opposite ﬂuctuation while the concentra-
+tion of DDDC increased and decreased at varied rates.
+These pro ﬁles indicate that the emerging behaviors of
+our CRN in response to light are predictable and
+reprogrammable.
+User-deﬁned pathway selection in organo-
+hydrogels enabled by light regulation
+To visualize the user-de ﬁned pathway selection in CRN
+and demonstrate the generality, the organo-hydrogels
+starting with 4-arm-PEG-SH precursor (20 kDa, [ –SH]:
+0.02 mol/L) and TDS (0.02 mol/L) were prepared. Mixing
+these materials should result in the consecutive forma-
+tion, dissociation, and rebonding of S –S/S–S–S cross-
+links along the reaction pathways, leading to multistate
+macroscopic autoevolution as predicted by our model-
+ing. As shown in the inseted images in Figure 5,w e
+indeed observed the complex autonomous evolution.
+(b)
+)Mm( noitartnecnoC0
+2
+4
+6
+100 101 102 103 104 105 106 107
+Time (s)
+HEDS/HETS
+HEDT
+DDDC
+R1hv–R2hv–R3hv–R4hv
+100 101 102 103 104 105 106 107
+Time (s)
+(c)
+)Mm( noitartnecnoC0
+2
+4
+6
+HEDS/HETS
+HEDT
+DDDC
+R1–R2–R3hv–R4hv
+)Mm( noitartnecnoC0
+2
+4
+6
+100 101 102 103 104 105 106 107
+Time (s)
+(d)
+HEDS/HETS
+HEDT
+DDDC
+R1–R2–(R3hv–R4)2–R3hv–R4hv
+100 101 102 103 104 105 106 107
+Time (s)
+(a)
+)Mm( noitartnecnoC0
+2
+4
+6
+R1–R2–R3
+HEDS
+HEDT
+DDDC
+Figure 4 | Simulations of the time-dependent concentra-
+tion pro ﬁles of key intermediates (HEDS/HETS, blue;
+HEDT, orange; DDDC, green) in a mixture of TDS and
+MCE (10 mM/10 mM). (a) The intermediates concentra-
+tion ﬂuctuation in the dark. (b –d) User-de ﬁned reaction
+pathway selection enabled by light. The blue background
+represents UV light irradiation windows. HEDS/HETS pro-
+duced through the R 3hv and HEDT from R 4 respectively
+represent the dissipating and equilibrium state.
+RESEARCH ARTICLE
+DOI: 10.31635/ccschem.023.202303331
+Citation: CCS Chem. 2024, 6, 1571 –1580
+Link to VoR:https://doi.org/10.31635/ccschem.023.202303331
+1576
+
+===== PDF PAGE 7 =====
+Without UV exposure, the system underwent a four-
+state independent transition from sol (I) to a soft gel (I),
+back to sol (II), and then to a stiff gel over 90 h through
+the R 1–R2–R3 pathway (Figures 5 and 6a). When UV
+irradiation was applied afterward, the system converted
+from a stiff gel to sol (V) in 70 h. In contrast, under
+continuous light irradiation, the system underwent
+autonomous ﬁve-state evolution: sol (I) → soft gel (I)
+→ sol (II) → soft gel (II) → sol (V) over 75 h through the
+R1hv–R2hv–R3hv–R4hv pathways ( k1hv > k2hv > k3hv > k4hv).
+The stiff gel formed through the R 3 process reached an
+equilibrium state, while the sol (II) and soft gel (II) created
+through the R 2 and R 3hv processes remained out of
+equilibrium with lower moduli (Figure 6b). The autoevo-
+lution pathways were also in ﬂuenced by the light inten-
+sity (Figure 6c). At 20 mW/cm 2, ﬁve-state transitions
+were still observed, but with a shorter lifetime for the
+sol (II) state. Increasing the light intensity to 100 mW/cm 2
+results in transitions from soft gel (I) to soft gel (II)
+without an intermediate sol (II) state because the rate
+of reformation of S –S/S–S–S cross-links was greatly en-
+hanced and ultimately outpaced the dissociation rate
+(Supporting Information Figure S12 ).
+By selectively applying UV light, it was possible to
+achieve a ﬁve-state transition of sol (I) → soft gel (I) →
+sol (II) → soft gel (II) → sol (V) through the R
+1–R2–R3hv–
+R4hv pathways (Figures 5 and 6d). Light input offered the
+possibility of independently tuning the stiffness ( G′max),
+gelation rate, and the lifetime of the soft gel (II). A higher
+dose of UV exposure (from 5 to 20 mW/cm2) resulted in a
+higher G′max, faster gelation rates, and shorter lifetime for
+the soft gel (II) (Figure 6e). The G′max of the soft gel (II)
+can be tuned in the range of 300 –1500 Pa. The gelation
+rate was 0.011 Pa/s at 5 mW/cm 2 but increased to
+0.12 Pa/s at 20 mW/cm 2. The lifetime decreases from
+70 to 42 h with increasing light intensity. These results
+indicate that the evolution rate and mechanical proper-
+ties of the gel can be selectively adjusted by the user-
+deﬁned timing and duration of light exposure. To dem-
+onstrate the light-powered dissipative cycles, we con-
+ducted a ﬁnal rheology experiment using light-induced
+cross-linking. By applying UV irradiation to the interme-
+diate sol (II) state, a transient soft gel (II) was formed, as
+shown in Figure 6f. When the light was removed, the
+system returned to equilibrium through the R 4 process
+(Figure 5). The cross-links were gradually dissociated as
+monitored with rheology. The reversible formation and
+dissociation of the S –S/S–S–S cross-linking sites are evi-
+dent through at least three sol (IV)-soft gel (II) transitions
+during consecutive cycles of 2 –3 h of UV light followed
+by 20 h in the dark. The decrease in the moduli ( G′max)o f
+the soft gel (II) in the ﬁnal cycle was due to irreversible
+photodecomposition. However, transient materials can
+still be obtained that only function with an energy supply
+and break down spontaneously without energy input.
+Based on these results, we conclude that UV light
+Figure 5 | Programmable organo-hydrogel evolution following distinct pathways under light regulation. The starting
+materials are a thiol end group functionalized 4-arm-PEG polymer (4-arm-PEG-SH) precursor and TDS. Insets show
+images of a typical sample in an inverted quartz cuvette.
+RESEARCH ARTICLE
+DOI: 10.31635/ccschem.023.202303331
+Citation: CCS Chem. 2024, 6, 1571 –1580
+Link to VoR:https://doi.org/10.31635/ccschem.023.202303331
+1577
+
+===== PDF PAGE 8 =====
+exposure controls both autoevolution pathways and
+light-driven cycles, providing external perspectives to
+understand the adaption and evolution of organism sys-
+tems in response to changing environments, which also
+inspire the design of dynamic materials with emergent
+behaviors that can be preprogrammed by the user-de-
+ﬁned presence of light such as recyclable polymers and
+controlled drug delivery.
+Conclusion
+In summary, we have shown how light can control the
+reaction pathways in complex CRNs. Different from the
+anion-mediated CRN based on the disul ﬁde bond, light
+can selectively trigger disul ﬁde and C –N bond dissocia-
+tion to varying degrees. New reactions with accelerated
+reaction rates were generated through radical-mediated
+mechanisms, resulting in speci ﬁc reaction pathways and
+product compositions. The process is predictable, allow-
+ing for the creation of autonomous and adaptive materi-
+als with user-de ﬁned evolution pathways in CRN.
+Our work provides a simple method for regulating the
+reaction pathways in out-of-equilibrium CRN, which
+advances our understanding of how organism systems
+adapt and evolve in response to changing environments
+and the thiol-thiuram chemistry also provided a useful
+toolbox to design complex “living”/interactive materials
+for some interesting applications such as recyclable poly-
+mers and controlled drug delivery.
+Supporting Information
+Supporting Information is available and includes model
+reactions, kinetic studies, simulation, and rheology mea-
+surements (Figures S1 –S12 and Tables S1 and S2).
+Conﬂict of Interest
+There is no con ﬂict of interest.
+Acknowledgments
+This work was supported by the National Natural Science
+Foundation of China (grant no. 52073175), National Nat-
+ural Science Foundation of Shanghai (grant no.
+23ZR1442700), and ShanghaiTech University. The
+authors gratefully acknowledge the support from the
+Analytical Instrumentation Center (contract no. SPST-
+AIC10112914), SPST, ShanghaiTech University.
+References
+1. van Roekel, H. W. H.; Rosier, B. J. H. M.; Meijer, L. H. H.;
+Hilbers, P. A. J.; Markvoort, A. J.; Huck, W. T. S.; de Greef, T. F.
+A. Programmable Chemical Reaction Networks: Emulating
+Regulatory Functions in Living Cells Using a Bottom-Up
+Approach. Chem. Soc. Rev. 2015, 44, 7465 –7483.
+2. Ashkenasy, G.; Hermans, T. M.; Otto, S.; Taylor, A. F.
+Systems Chemistry. Chem. Soc. Rev. 2017, 46, 2543 –2554.
+V
+101 102 103 104 105 4×105
+0
+500
+1000
+1500
+2000
+ G'
+ G''
+)aP( ''G ,'G
+Time (s)
+(a) R1–R2–R3–R4hv
+101 102 103 104 105
+0
+200
+400
+600
+800
+ G'
+ G''
+)aP( ''G ,'G
+Time (s)
+(b) R1hv–R2hv–R3hv–R4hv
+51 0 1 0 0101
+102
+103
+104
+105
+106
+107
+)s( emiT
+Luminous intensity (mW/cm2)
+ sol (V)
+ soft gel (II)
+ sol (III)
+ soft gel (I)
+ sol (I)
+(c)
+101 102 103 104 105
+0
+400
+800
+1200
+1600
+ G' (20 mW/cm2)
+ G' (15 mW/cm2)
+ G' (10 mW/cm2)
+ G' (5 mW/cm2)
+)aP( 'G
+Time (s)
+(d) R1–R2–R3hv–R4hv
+0
+100
+200
+300
+400
+ G'
+ G''
+)aP( ''G ,'G
+(f)
+101 102 103 104 8×104 105 106
+Time (s)
+R1–R2–(R3hv–R4)2–R3hv–R4hv
+51 0 1 5 2 0
+0
+300
+600
+900
+1200
+1500
+Luminous intensity (mW/cm
+2)
+G'max )aP( 
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+ )s/aP( )s/aP( etar noitaleg Second
+40
+50
+60
+70
+80
+Gel lifetime (h)
+(e)
+Figure 6 | (a and b) Time-dependent storage modulus (G ′) and loss modulus (G ″) of the system under varied
+irradiation conditions. (c) Transition of states in the system as a function of light intensity. (d) Time-dependent G ′
+of the system with different irradiation intensity. (e) Light intensity-dependent G ′max of soft gel (II), second gelation
+rate and gel lifetime from (d). (f) Time-dependent G ′ and G″ of the system undergoing light-driven dissipation cycles.
+The blue area indicates the presence of UV light. UV light intensity is 10 mW/cm 2 unless otherwise stated.
+RESEARCH ARTICLE
+DOI: 10.31635/ccschem.023.202303331
+Citation: CCS Chem. 2024, 6, 1571 –1580
+Link to VoR:https://doi.org/10.31635/ccschem.023.202303331
+1578
+
+===== PDF PAGE 9 =====
+3. Wong, A. S. Y.; Huck, W. T. S. Grip on Complexity in
+Chemical Reaction Networks. Beilstein J. Org. Chem. 2017,
+13, 1486 –1497.
+4. Shinar, G.; Feinberg, M. Structural Sources of Robust-
+ness in Biochemical Reaction Networks. Science 2010, 327,
+1389–1391.
+5. Semenov, S. N.; Wong, A. S. Y.; van der Made, R. M.;
+Postma, S. G. J.; Groen, J.; van Roekel, H. W. H.; de Greef, T.
+F. A.; Huck, W. T. S. Rational Design of Functional and Tunable
+Oscillating Enzymatic Networks. Nat. Chem. 2015, 7,1 6 0–165.
+6. van Rossum, S. A. P.; Tena-Solsona, M.; van Esch, J. H.;
+Eelkema, R.; Boekhoven, J. Dissipative Out-of-Equilibrium
+Assembly of Man-Made Supramolecular Materials. Chem.
+Soc. Rev. 2017, 46, 5519 –5535.
+7. Paikar, A.; Novichkov, A. I.; Hanopolskyi, A. I.; Smaliak, V.
+A.; Sui, X.; Kampf, N.; Skorb, E. V.; Semenov, S. N. Spatiotem-
+poral Regulation of Hydrogel Actuators by Autocatalytic
+Reaction Networks. Adv. Mater. 2022, 34, e2106816.
+8. Mahato, R. R.; Shandilya, E.; Dasgupta, B.; Maiti, S. Dic-
+tating Catalytic Preference and Activity of a Nanoparticle by
+Modulating Its Multivalent Engagement. ACS Catal. 2021, 11,
+8504–8509.
+9. Robinson, W. E.; Daines, E.; van Duppen, P.; de Jong, T.;
+Huck, W. T. S. Environmental Conditions Drive Self-Organi-
+zation of Reaction Pathways in a Prebiotic Reaction Net-
+work. Nat. Chem. 2022, 14, 623 –631.
+10. Shi, C. Y.; He, D. D.; Zhang, Q.; Tong, F.; Shi, Z. T.; Tian, H.;
+Qu, D. H. Robust and Dynamic Underwater Adhesives En-
+abled by Catechol-Functionalized Poly(Disul ﬁdes) Network.
+Natl. Sci. Rev. 2023, 10, nwac139.
+11. Zhang, Q.; Qu, D. H.; Feringa, B.; Tian, H. Disul ﬁde-Mediat-
+ed Reversible Polymerization Toward Intrinsically Dynamic
+Smart Materials. J. Am. Chem. Soc. 2022, 144, 2022–2033.
+12. Kloxin, C. J.; Bowman, C. N. Covalent Adaptable Net-
+works: Smart, Recon ﬁgurable and Responsive Network Sys-
+tems. Chem. Soc. Rev. 2013, 42, 7161 –7173.
+13. Barabasi, A. L.; Oltvai, Z. N. Network Biology: Under-
+standing the Cell ’s Functional Organization. Nat. Rev. Genet.
+2004, 5, 101 –115.
+14. Blankenship, R.; Swingley, W.; Hohmann-Marriott, M.;
+Raymond, J. The Evolutionary Transition from Anoxygenic to
+Oxygenic Photosynthesis.Photosynth. Res. 2007, 91,1 3 5–135.
+15. Adam, P. S.; Borrel, G.; Gribaldo, S. An Archaeal Origin of
+the Wood-Ljungdahl H
+4MPT Branch and the Emergence of
+Bacterial Methylotrophy. Nat. Microbiol. 2019, 4, 2155 –2163.
+16. van der Helm, M. P.; de Beun, T.; Eelkema, R. On the Use
+of Catalysis to Bias Reaction Pathways in Out-of-Equilibrium
+Systems. Chem. Sci. 2021, 12, 4484 –4493.
+17. Singh, N.; Formon, G. J. M.; De Piccoli, S.; Hermans, T. M.
+Devising Synthetic Reaction Cycles for Dissipative Nonequi-
+librium Self-Assembly. Adv. Mater. 2020, 32, e1906834.
+18. Amano, S.; Borsley, S.; Leigh, D. A.; Sun, Z. H. Chemical
+Engines: Driving Systems Away from Equilibrium Through
+Catalyst Reaction Cycles. Nat. Nanotechnol. 2021, 16,1 0 5 7–
+1067.
+19. Merindol, R.; Walther, A. Materials Learning from Life:
+Concepts for Active, Adaptive and Autonomous Molecular
+Systems. Chem. Soc. Rev. 2017, 46, 5588 –5619.
+20. Mattia, E.; Otto, S. Supramolecular Systems Chemistry.
+Nat. Nanotechnol. 2015, 10, 111 –119.
+21. Nijemeisland, M.; Abdelmohsen, L. K.; Huck, W. T.; Wilson,
+D. A.; van Hest, J. C. A Compartmentalized Out-of-Equilibrium
+Enzymatic Reaction Network for Sustained Autonomous
+Movement. ACS Cent. Sci. 2016, 2,8 4 3–849.
+22. Howlett, M. G.; Engwerda, A. H. J.; Scanes, R. J. H.;
+Fletcher, S. P. An Autonomously Oscillating Supramolecular
+Self-Replicator. Nat. Chem. 2022, 14, 805 –810.
+23. Semenov, S. N.; Kraft, L. J.; Ainla, A.; Zhao, M.;
+Baghbanzadeh, M.; Campbell, V. E.; Kang, K.; Fox, J. M.;
+Whitesides, G. M. Autocatalytic, Bistable, Oscillatory Net-
+works of Biologically Relevant Organic Reactions. Nature
+2016, 537, 656 –660.
+24. Novichkov, A. I.; Hanopolskyi, A. I.; Miao, X.; Shimon, L. J.
+W.; Diskin-Posner, Y.; Semenov, S. N. Autocatalytic and
+Oscillatory Reaction Networks That Form Guanidines and
+Products of Their Cyclization. Nat. Commun. 2021, 12, 2994.
+25. Chandrabhas, S.; Maiti, S.; Fortunati, I.; Ferrante, C.;
+Gabrielli, L.; Prins, L. J. Nucleotide-Selective Templated
+Self-Assembly of Nanoreactors Under Dissipative Condi-
+tions. Angew. Chem. Int. Ed. 2020, 59, 22223 –22229.
+26. Sorrenti, A.; Leira-Iglesias, J.; Markvoort, A. J.; de Greef,
+T. F. A.; Hermans, T. M. Non-Equilibrium Supramolecular
+Polymerization. Chem. Soc. Rev.
+2017, 46, 5476 –5490.
+27. Boekhoven, J.; Hendriksen, W. E.; Koper, G. J. M.;
+Eelkema, R.; van Esch, J. H. Transient Assembly of Active
+Materials Fueled by a Chemical Reaction. Science 2015, 349,
+1075–1079.
+28. Boekhoven, J.; Brizard, A. M.; Kowlgi, K. N.; Koper, G. J.;
+Eelkema, R.; van Esch, J. H. Dissipative Self-Assembly of a
+Molecular Gelator by Using a Chemical Fuel. Angew. Chem.
+Int. Ed. 2010, 49, 4825 –4828.
+29. Wang, Y.; Piskorz, T. K.; Lovrak, M.; Mendes, E.; Guo, X.;
+Eelkema, R.; van Esch, J. H. Transient Supramolecular Hydro-
+gels Formed by Aging-Induced Seeded Self-Assembly of
+Molecular Hydrogelators. Adv. Sci. 2021, 8, e2003537.
+30. Shi, C. Y.; Zhang, Q.; Wang, B. S.; He, D. D.; Tian, H.; Qu, D. H.
+Highly Ordered Supramolecular Assembled Networks Tai-
+lored by Bioinspired H-Bonding Con ﬁnement for Recyclable
+Ion-Transport Materials. CCS Chem. 2023, 5, 1422–1432.
+31. Wang, H. C.; Liu, L. Q.; Bai, S. Y.; Guo, X. H.; Eelkema, R.;
+van Esch, J. H.; Wang, Y. M. Transient Supramolecular Hydro-
+gels Formed by Catalytic Control over Molecular Self-
+Assembly. Soft Matter 2020, 16, 9406 –9409.
+32. Boekhoven, J.; Poolman, J. M.; Maity, C.; Li, F.; van der
+Mee, L.; Minkenberg, C. B.; Mendes, E.; van Esch, J. H.;
+Eelkema, R. Catalytic Control over Supramolecular Gel For-
+mation. Nat. Chem. 2013, 5, 433 –437.
+33. Frisch, H.; Nie, Y.; Raunser, S.; Besenius, P. pH-Regulated
+Selectivity in Supramolecular Polymerizations: Switching
+Between Co- and Homopolymers. Chem. Eur. J. 2015, 21,
+3304–3309.
+34. Fan, X.; Walther, A. pH Feedback Lifecycles Pro-
+grammed by Enzymatic Logic Gates Using Common Foods
+as Fuels. Angew. Chem. Int. Ed. 2021, 60, 11398 –11405.
+35. Maity, I.; Sharma, C.; Lossada, F.; Walther, A. Feedback
+and Communication in Active Hydrogel Spheres with pH
+RESEARCH ARTICLE
+DOI: 10.31635/ccschem.023.202303331
+Citation: CCS Chem. 2024, 6, 1571 –1580
+Link to VoR:https://doi.org/10.31635/ccschem.023.202303331
+1579
+
+===== PDF PAGE 10 =====
+Fronts: Facile Approaches to Grow Soft Hydrogel Struc-
+tures. Angew. Chem. Int. Ed. 2021, 60, 22537 –22546.
+36. Heuser, T.; Weyandt, E.; Walther, A. Biocatalytic Feed-
+back-Driven Temporal Programming of Self-Regulating
+Peptide Hydrogels. Angew. Chem. Int. Ed. 2015, 54, 13258 –
+13262.
+37. Heinen, L.; Heuser, T.; Steinschulte, A.; Walther, A. An-
+tagonistic Enzymes in a Biocatalytic pH Feedback System
+Program Autonomous DNA Hydrogel Life Cycles. Nano Lett.
+2017, 17, 4989 –4995.
+38. Fusi, G.; Del Giudice, D.; Skarsetz, O.; Di Stefano, S.;
+Walther, A. Autonomous Soft Robots Empowered by
+Chemical Reaction Networks.Adv . Mater.2023, 35,e 2 2 0 9 8 7 0 .
+39. Monreal Santiago, G.; Liu, K.; Browne, W. R.; Otto, S.
+Emergence of Light-Driven Protometabolism on Recruit-
+ment of a Photocatalytic Cofactor by a Self-Replicator. Nat.
+Chem. 2020, 12, 603 –607.
+40. Teders, M.; Pogodaev, A. A.; Bojanov, G.; Huck, W. T. S.
+Reversible Photoswitchable Inhibitors Generate Ultrasensi-
+tivity in Out-of-Equilibrium Enzymatic Reactions. J. Am.
+Chem. Soc. 2021, 143, 5709 –5716.
+41. Azagarsamy, M. A.; Marozas, I. A.; Spans, S.; Anseth, K. S.
+Photoregulated Hydrazone-Based Hydrogel Formation for
+Biochemically Patterning 3D Cellular Microenvironments.
+ACS Macro Lett. 2016, 5,2 4 –28.
+42. Fan, F. Q.; Ji, S. B.; Sun, C. X.; Liu, C.; Yu, Y.; Fu, Y.; Xu, H.
+P. Wavelength-Controlled Dynamic Metathesis: A Light-
+Driven Exchange Reaction Between Disulﬁde and Diselenide
+Bonds. Angew. Chem. Int. Ed. 2018, 57, 16426 –16430.
+43. Zhao, P.; Xia, J. H.; Cao, M. Q.; Xu, H. P. Wavelength-
+Controlled Light-Responsive Polymer Vesicle Based on Se-S
+Dynamic Chemistry. ACS Macro Lett. 2020, 9, 163 –168.
+44. Han, Y. Y.; Liu, C.; Xu, H. P.; Cao, Y. Engineering Revers-
+ible Hydrogels for 3D Cell Culture and Release Using
+Diselenide Catalyzed Fast Disul ﬁde Formation. Chin. J.
+Chem. 2022, 40, 1578 –1584.
+45. Maity, I.; Dev, D.; Basu, K.; Wagner, N.; Ashkenasy, G.
+Signaling in Systems Chemistry: Programing Gold Nanopar-
+ticles Formation and Assembly Using a Dynamic Bistable
+Network. Angew. Chem. Int. Ed. 2021, 60, 4512 –4517.
+46. Riess, B.; Grotsch, R. K.; Boekhoven, J. The Design of
+Dissipative Molecular Assemblies Driven by Chemical Reac-
+tion Cycles. Chem 2020, 6, 552 –578.
+47. Brahemi, G.; Kona, F. R.; Fiasella, A.; Buac, D.;
+Soukupova, J.; Brancale, A.; Burger, A. M.; Westwell, A. D.
+Exploring the Structural Requirements for Inhibition of the
+Ubiquitin E3 Ligase Breast Cancer Associated Protein 2
+(BCA2) as a Treatment for Breast Cancer. J. Med. Chem.
+2010, 53, 2757 –2765.
+48. Zhang, J. Y.; Liu, J.; Li, H. Z.; Li, X. H.; Zhao, Y. F.; Zhao, P.;
+Cui, J. X.; Yang, B.; Song, Y. L.; Zheng, Y. J. Programming
+Hydrogels with Complex Transient Behaviors via Autocata-
+lytic Cascade Reactions. ACS Appl. Mater. Interfaces 2022,
+14, 20073 –20082.
+49. Cojocaru, C.; Duca, G.; Gonta, M. Chemical Kinetic Model
+for Methylurea Nitrosation Reaction: Computer-Aided Solu-
+tions to Inverse and Direct Problems. Chem. Eng. J. 2013, 217,
+385–397.
+50. Steudel, R. Properties of Sulfur-Sulfur Bonds. Angew.
+Chem. Int. Ed. 1975, 14, 655 –664.
+51. Yang, Y. M.; Yu, H. Z.; Sun, X. H.; Dang, Z. M.
+Density Functional Theory Calculations on S-S Bond Disso-
+ciation Energies of Disul ﬁdes. J. Phys. Org. Chem. 2016, 29,
+6–13.
+52. Mays, D. C.; Nelson, A. N.; Benson, L. M.; Johnson, K. L.;
+Naylor, S.; Lipsky, J. J. Photolysis of Sul ﬁram: A Mechanism
+for Its Disul ﬁram-like Reaction. Biochem. Pharmacol. 1994,
+48, 1917 –1925.
+RESEARCH ARTICLE
+DOI: 10.31635/ccschem.023.202303331
+Citation: CCS Chem. 2024, 6, 1571 –1580
+Link to VoR:https://doi.org/10.31635/ccschem.023.202303331
+1580

@@ -1,0 +1,663 @@
+
+
+===== PDF PAGE 1 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheimwileyonlinelibrary.com1605001 (1 of 6)
+Amplified Photodegradation of Cell-Laden Hydrogels via an 
+Addition–Fragmentation Chain Transfer Reaction
+Tobin E. Brown, Ian A. Marozas, and Kristi S. Anseth*
+T. E. Brown, I. A. Marozas, Prof. K. S. Anseth
+Department of Chemical and Biological Engineering 
+and the BioFrontiers Institute
+University of Colorado Boulder
+Jennie Smoly Caruthers Biotechnology Building
+3415 Colorado Ave, Boulder, CO 80303, USA
+E-mail: kristi.anseth@colorado.edu
+Prof. K. S. Anseth
+Howard Hughes Medical Institute
+University of Colorado Boulder
+Jennie Smoly Caruthers Biotechnology Building
+3415 Colorado Ave, Boulder, CO 80303, USA
+DOI: 10.1002/adma.201605001
+limitation to many of the photodegradable groups used in bio-
+material applications to date, however, is that the degradation 
+relies on “one-photon one-event” reactions. A photolabile mol-
+ecule, such as a nitrobenzyl or coumarin group, incorporated 
+directly into the polymer backbone absorbs a photon and under-
+goes a cleavage reaction. This subsequently requires either long 
+exposure times or high quantum yields.
+With this in mind, we synthesized hydrogels that can be 
+degraded via a radical addition–fragmentation chain transfer 
+(AFCT) process, where a single photon initiates multiple events 
+and amplifies the degradation process. Allyl sulfides have been 
+used as efficient AFCT functionalities to introduce plasticity into 
+crosslinked networks
+[24–26] and recently to reversibly photopattern 
+biomolecules within a hydrogel.[10] To incorporate this moiety into 
+biomaterial systems, we synthesized a symmetric allyl sulfide 
+crosslinker flanked with azide functionalities for formation of 
+a hydrogel network through a strain-promoted azide-alkyne 
+cycloaddition (SPAAC). Subsequent exposure to light in the 
+presence of a photoinitiator and a monofunctional thiol causes 
+the crosslinked system to revert to soluble branched macro-
+molecules. Upon exposure, photogenerated thiyl radicals rapidly 
+propagate through thiol-ene addition reactions and chain transfer 
+events (Scheme 1).
+[24,25,27] Allyl sulfide moieties in a crosslinking 
+state participate in a reversible thiol-ene addition with non-
+crosslinking thiyl radicals, converting the allyl sulfides into a 
+non-crosslinked state and generating a thiyl radical bound to the 
+network (“network thiyl”). Alternating cycles of thiol-ene addition 
+and chain transfer from a liberated network thiyl to a free thiol 
+replace crosslinking allyl sulfides with non-crosslinking counter-
+parts. Thiyl–thiol chain transfer events allow one absorbed 
+photon to cleave multiple crosslinks, whereas current biocom-
+patible photodegradation strategies typically rely on mechanisms 
+where there is a maximum of one crosslink cleavage by one 
+photon, with typical quantum yields being much lower.
+[28] More-
+over, a lower concentration of photoinitator is required for radical 
+mediated photodegradation of allyl sulfide-containing hydrogels, 
+compared to traditional photodegradable hydrogels that have one 
+or more photoactive constituents per crosslink.
+Crosslinked hydrogel networks were formed through a 
+SPAAC reaction between a tetrafunctional poly(ethylene 
+glycol) dibenzocyclooctyne (PEG-DBCO) and an allyl sulfide 
+bis-(PEG
+3-azide) (Figure 1a). This bio-orthogonal “click” reac-
+tion proceeds rapidly at physiological conditions, and has been 
+used in numerous studies as a cytocompatible crosslinking 
+strategy.
+[16,20,29,30] Specifically, a 7.5 wt% solution of PEG-DBCO 
+(15 × 10 −3 m DBCO) and allyl sulfide crosslinker (16.5 × 10 −3 m 
+azide) was polymerized in situ on a rheometer. Excess azide 
+was chosen to ensure complete conversion of the DBCO func-
+tionalities and to avoid side reactions during the subsequent 
+thiol-ene reactions, as strained alkynes are known to react with 
+Hydrogels synthesized from crosslinking reactions between 
+water soluble macromolecular precursors are widely used in 
+a number of biomaterials applications, for example, as drug 
+or cell delivery vehicles and as cell culture scaffolds.
+[1,2] Many 
+of the bioclick reactions used to form hydrogels allow direct 
+encapsulation of biologics and cells, while maintaining their 
+activity and viability, respectively. [3–7] Furthermore, many tech-
+niques exploit the ability to create multifunctional hydrogel sys-
+tems with spatiotemporally controlled material properties, [8,9] 
+biological functionalities,[7,10,11] and printed cell structures. [12,13] 
+Along with this complexity, researchers have been further inter-
+ested in methods to better characterize these complex systems, 
+control their properties on demand, and temporally tune prop-
+erties such as degradation or viscoelasticity.
+With respect to temporally controlling hydrogel properties, 
+many regenerative medicine applications that embed cells in 
+hydrogels require degradation of the network structure to allow 
+formation of focal adhesions, proliferation, migration, deposition 
+of matrix components, and even to avoid fibrotic encapsula-
+tion of the implanted biomaterials. Hydrogels are routinely 
+degraded by hydrolytic,
+[14] enzymatic, [15] or photolytic mecha-
+nisms,[8,16] and each mechanism provides specific advantages. 
+With their high water content, hydrogels with hydrolytically 
+cleavable crosslinks typically degrade through a uniform, bulk 
+process; whereas hydrogels that are proteolytically cleavable 
+often degrade through a local mechanism that depends on cell-
+secreted enzymes. More recently, hydrogels with photocleav-
+able crosslinks have been developed that allow spatiotemporal 
+control of the degradation process. In one example, Kloxin et al. 
+demonstrated on demand control of network crosslinking den-
+sity and elastic modulus, and used materials with photocleavable 
+crosslinks to study the effects of mechanical properties on the 
+reversibility of the fibroblast-to-myofibroblast transition in heart 
+valve cells.
+[17] Since these early studies, spatiotemporal control 
+of degradation has found numerous applications in guiding cel-
+lular proliferation, migration, and differentiation. [16,18–23] One 
+Adv. Mater. 2017, 29, 1605001
+www.advancedsciencenews.comwww.advmat.de
+
+===== PDF PAGE 2 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim wileyonlinelibrary.com (2 of 6) 1605001
+thiols in a Michael-type addition and also participate in thiol-
+yne radical additions. [31–37] The gel point was estimated by the 
+crossover of G′ and G″, which occurred in <30 s, while a final 
+modulus of 3500 ± 660 Pa was achieved in ≈10 min for this 
+formulation (Figure 1b).
+For subsequent photodegradation, the hydrogel was equilib-
+rium swollen, and then placed in a solution containing varying 
+concentrations of the photoinitiator lithium phenyl-2,4,6-tri-
+methylbenzoylphosphinate (LAP)[38,39] (1 ×  10 −3 to 8 ×  10 −3 m) 
+and a methoxy-PEG-thiol (mPEG-SH, M n ≈ 500 Da, from 0 to 
+50 × 10 −3 m). Exposure to light generates photoinitiator radical 
+species, which can add directly to the olefin of the allyl sulfide 
+or undergo chain transfer to a free thiol, which in turn reacts 
+with the allyl sulfide (Figure 2a). After 20 min of swelling, the 
+gels were irradiated with 365 nm light (2–40 mW cm −2), and 
+the degradation was tracked via changes in the shear storage 
+and loss moduli with exposure time.
+When the exchange solution contained only 4 ×  10−3 m LAP 
+and no free thiol, significant photodegradation occurs, but 
+not to an extent that results in reverse gelation (Figure 2b). In 
+this condition, there are initially no free thiols present in the 
+hydrogel system; the only sulfur atoms are in the thioethers 
+of the crosslinker. Thus, photodegradation is likely due to the 
+direct addition of the photoinitiator radical 
+fragments to the olefin of the allyl sulfide 
+crosslinker. According to Scheme S1 of the 
+Supporting Information, this reaction gen-
+erates a new olefin and also a pendant thiyl 
+radical. In the presence of thiyl radicals, the 
+network is expected to reorganize rapidly as 
+the system propagates through a number 
+of thiol-ene additions, each consuming one 
+thiyl radical and generating another.
+[24,27,40] 
+Evidence for this network reorganization is 
+shown in Figure 2b. The large increase in the 
+loss modulus upon exposure to light indicates 
+a significant shift in the viscoelastic properties 
+of the network from an almost purely elastic 
+material to one that is more fluid in nature. 
+This behavior is typical of networks that are 
+crosslinked by dynamic linkages, such as hydrazone bonds,
+[41,42] 
+host–guest interactions, [12,43] electrostatics, [44–46] and others 
+(see reviews by Kloxin and Bowman, [47] Rosales and Anseth, [48] 
+and Wang and Heilshorn [49]), which display frequency-
+dependent mechanical properties. This is further emphasized 
+by a near crossover of G′ and G″, indicating that the material 
+is approaching the reverse gel point (i.e., behaving as soluble, 
+highly branched polymer) at the given strain rate (1 rad s
+−1).
+An apparent anomaly is also seen in the 1 rad s −1 rheological 
+trace, wherein G ′ reaches a minimum after ≈ 20 s of exposure 
+and then increases before reaching a plateau (Figure 2b – black). 
+This observation is likely due to a combination of photoiniti-
+ator consumption during light exposure and the generation of 
+pendant network thiyls after allyl sulfide cleavage (Scheme S1, 
+Supporting Information). Initially, LAP is at its highest con-
+centration (4 × 10
+−3 m), leading to the highest rate of radical 
+generation and allyl sulfide crosslink cleavage. The product of 
+the allyl sulfide cleavage by LAP is a pendant thiyl radical. The 
+pendant thiyl radicals have limited mobility, but are reactive 
+toward other allyl sulfide species and can reform a crosslink 
+upon addition to a network allyl sulfide molecule, which results 
+in network reorganization, but not photo degradation.
+[24] Con-
+sequently, the measured G′ during the radical mediated network  
+Adv. Mater. 2017, 29, 1605001
+www.advancedsciencenews.com www.advmat.de
+Scheme 1. Amplification of photodegradation by chain transfer. Addition–fragmentation chain 
+transfer (AFCT) crosslinks exposed to a photogenerated monothiyl radical (red) transition from 
+a crosslinked state to a non-crosslinked state and also regenerate a monothiyl radical capable 
+of additional crosslink fragmentation reactions.
+Figure 1. Network structure of AFCT-based photodegradable hydrogels. a) Chemical structures of cyclooctyne-terminated PEG macromer and azide 
+crosslinker containing the allyl sulfide functionality. b) Upon mixing the two species, a hydrogel network is rapidly formed incorporating the allyl sulfide 
+reactive groups. Gelation is monitored by shear rheology in situ, and the storage modulus (solid line) and loss modulus (dotted line) are tracked. The 
+final elastic modulus is reached within 10 min.
+ 15214095, 2017, 11, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201605001 by Yale University, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 3 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheimwileyonlinelibrary.com1605001 (3 of 6)
+reorganization is lower than the value that would be obtained 
+without radical generation, because crosslinked strands dis-
+sipate their potential energy upon crosslink reorganization. 
+Here, we observe that the generation of network thiyls leads to 
+a shift from a purely elastic network to a viscoelastic network 
+with a frequency dependent storage and loss modulus. For 
+comparison, the same experiment was performed at 10 rad s
+−1 
+and the results superimposed (Figure 2b – gray). At the higher 
+sampling frequency, the hydrogel is less capable of dissipating 
+the imposed force, and the storage modulus is a closer repre-
+sentation of what would be measured in the absence of radi-
+cals. To demonstrate the effect of network rearrangement on 
+the storage modulus, the light was briefly shuttered at 120 s. 
+The hydrogel subsequently reverted back to more purely elastic 
+behavior, which led to an increase in G′ and a decrease in G″. 
+At this point, the traces from the 1 and 10 rad s
+−1 experiments 
+converge. Re-exposure of the sample at 180 s returns the gel 
+to its previous viscoelastic storage modulus as it continues 
+Adv. Mater. 2017, 29, 1605001
+www.advancedsciencenews.comwww.advmat.de
+N
+H
+SS
+N
+H
+OO
+R
+N
+H
+SS
+N
+H
+OO
+R
+N
+H
+SS
+N
+H
+OO
+R
++
+N
+H
+S S
+N
+H
+O O
+R
++
+P
+O
+O
+-O
+Li
+HS
+O
+n
+=
+a)
+hν + In 
+b) c)
+G’/G’0
+0.001
+0.01
+0.1
+1
+Exposure Time (s)
+05 10 15 20 25 300 100 200 300
+Time (s)
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+G*/G’0
+or
+Increasing [mPEG-SH]
+hν + In 
+hν hν
+Figure 2. Light-triggered radical network degradation. a) Photodegradation mechanism: in the presence of LAP and mPEG-SH, crosslinking molecules 
+are fragmented by photoinitiator radicals or non-crosslinking monothiyl species when exposed to light. b) In the absence of free mPEG-SH, incomplete 
+photodegradation is observed. The material is exposed to 365 nm light at 10 mW cm −2 at 30 s, and the light is shuttered for 1 min at 120 s (light 
+exposure is indicated by purple shading). Rheological traces were performed at a frequency of 1 (black) and 10 rad s −1 (gray), monitoring the storage 
+(solid line) and loss (dotted line) moduli, with both normalized to the initial storage modulus. Evidence for rapid network reorganization is seen in 
+the frequency dependence of the measurements during light exposure, while the curves converge when the light is shuttered (120–180 s) and as the 
+photo initiator is depleted (less than 1% LAP remains after 300 s). c) Incorporation of mPEG-SH allows controlled photodegradation of the gel and 
+tuning of the storage modulus. mPEG-SH was swollen into the network at 0 
+m (♦), 5 × 10 −3 m (), 15 × 10−3 m (), 25 × 10−3 m (×), and 50 × 10−3 m (). 
+Reverse gelation occurs when mPEG-SH concentrations of 25 × 10 −3 and 50 × 10 −3 m are used.
+ 15214095, 2017, 11, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201605001 by Yale University, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 4 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim wileyonlinelibrary.com (4 of 6) 1605001
+toward the final elastic modulus and the photoinitiator is com-
+pletely consumed (photoinitiator half-life = 45 s, Equation (S1), 
+Supporting Information). Clearly, these reaction conditions 
+result in rapid but incomplete photodegradation. Examination 
+of the relevant functional groups—LAP (4 × 10
+−3 m) and ini-
+tial network thioethers (16.5 × 10 −3 m)—can help explain this. 
+According to the Flory–Stockmayer equation, [50] the gel point 
+for this hydrogel is estimated as ≈61% (Equation (S2), Sup-
+porting Information), meaning that 39%, or 6.5 × 10
+−3 m, of 
+crosslinks would need to be cleaved to achieve reverse gela-
+tion. Theoretically, if every initiator fragment added directly to 
+a crosslinking olefin, it would be possible to cause reverse gela-
+tion. However, proton abstraction from the increasing number 
+of liberated pendant thiols may bias the system toward reac-
+tions that do not result in a net change in the crosslink density.
+To increase the efficiency of the photodegradation reaction 
+and allow complete network degradation, we studied the AFCT 
+reaction in the presence of a free monothiol (mPEG-SH). In 
+contrast to network-bound thiols, addition by a monofunctional 
+thiol changes the overall network connectivity and effectively 
+cleaves crosslinks. These replacement reactions can be favored 
+by increasing the concentration of free monothiol relative to 
+the concentration of thioethers initially present in the network. 
+mPEG-SH was introduced at concentrations ranging from 
+5 × 10
+−3 to 50 × 10 −3 m, along with 4 × 10 −3 m LAP and irradi-
+ated with 365 nm light at 10 mW cm −2. As seen in Figure 2c, 
+25 × 10−3 and 50 × 10 −3 m of mPEG-SH resulted in reverse gela-
+tion, while concentrations of 0 × 10 −, 5 × 10 −3, or 15 × 10 −3 m 
+did not. If we assume similar reactivity of the alkyl thiols from 
+mPEG-SH and the liberated network thiols, it is expected that 
+the various thiolated molecules in Scheme 1 would be expected 
+to approach an equilibrium defined by Equation (1):
+free mPEG SH networkt hioether
+liberatedn etwork thiolt etheredm PEGS H
+mPEG SH 16.5 10 M =1
+eq
+0
+3
+2
+K
+xx
+x
+()()
+[] []
+[] []
+[]
+= −
+−
+= −− ×− −  (1)
+Figure S4 of the Supporting Information shows the expected 
+equilibrium as a function of initial monothiol concentration. 
+The predicted amount of initial free monothiol needed to cleave 
+6.5 × 10 −3 m crosslinks is 11 × 10 −3 m, and thus, we would 
+expect complete degradation at 15 × 10 −3 m. Instead, we find 
+a very weak gel with G′ ≈1% of its initial value. It is possible 
+that increasing the photoinitiator concentration would allow 
+this equilibrium to be reached, but the competing reaction of 
+initiator with olefin makes this analysis complex.
+We also investigated the effect of varying photoinitiator con -
+centration while keeping free thiol concentration constant at 
+25 × 10−3 m and light intensity constant at 10 mW cm−2 (Figure 3a). 
+As expected, the photoinitiator concentration had a strong effect 
+on both the rate and extent of photodegradation. By increasing 
+the photoinitiator concentration to 8 ×  10−3 m, complete reverse 
+gelation was achieved after <13 s of irradiation, corresponding 
+to a rate constant of k app/I0 × 10−4 of 580 cm 2 mW−1 s−1 and a  
+photodegradation half-life of under 2 s. This result was com-
+pared to the rate of photodegradation of the widely used orthoni-
+trobenzyl group and coumarin groups, and the AFCT mode of 
+degradation was 70–2000 times faster than photodegradation 
+methods based on alpha cleavage.
+[8,16,19,21,51–53] We then studied 
+the effect of light intensity on the degradation rate (Figure 3b). 
+The rate of photodegradation was easily tuned by setting the 
+intensity of the illuminating light to 2, 10, or 40 mW cm
+−2. For 
+4 × 10−3 m LAP and 25 × 10 −3 m mPEG-SH, a plot of k app versus 
+I0 yields a straight line with a slope of 235 × 10 −4 cm2 mW−1 s−1 
+(Figure 3c).
+AFCT-based photodegradable hydrogels also benefit from 
+decreased light attenuation. There are two underlying causes 
+to this effect. First, the molar absorptivity of our chosen photo-
+initiator, LAP, at 365 nm is 218 
+m−1 cm −1.[39] This is in con-
+trast to the ortho-nitrobenzyl ester and coumarin photolabile 
+groups which have molar absorptivities on the order of 3000 to 
+7000 
+m−1 cm −1 at 365 nm, [16,21,52] and while more transparent 
+at longer wavelengths, the quantum yield and efficiency also 
+decrease. The other contributing factor is that the concentration 
+of photoactive species in this case can be lower because the rad-
+icals generated can propagate through numerous photocleavage 
+events. In practice, 4 × 10
+−3 m LAP was found to be sufficient 
+for complete photodegradation, in comparison to 10 × 10 −3 and 
+40 × 10 −3 m nitrobenzyl photodegradable groups commonly 
+employed in photodegradable polymer strands. The combina-
+tion of these factors allowed for photodegradation of much 
+thicker hydrogel samples. To demonstrate the power of this 
+effect, we created a 1 cm thick hydrogel with 4 × 10
+−3 m LAP 
+Adv. Mater. 2017, 29, 1605001
+www.advancedsciencenews.com www.advmat.de
+0.0001
+0.001
+0.01
+0.1
+1
+01 02 03 0
+G'/G'0
+Exposure Time [s]
+0.0001
+0.001
+0.01
+0.1
+1
+01 02 03 0
+G'/G'0
+Exposure time [s]
+a) b) c)
+0
+0.2
+0.4
+0.6
+0.8
+1
+01 02 03 04 0
+kapp [s-1]
+I0 [mW cm-2]
+Figure 3. Photodegradation kinetics can be adjusted by changes in either the photoinitiator concentration or light intensity. a) Effect of photoinitiator 
+concentration. Hydrogels were swollen with 25 × 10−3 m mPEG-SH and 1 × 10−3 m (♦ ), 2 × 10−3 m (), 4 × 10−3 m () or 8 × 10−3 m () LAP. b) Effect of light 
+intensity. Hydrogels swollen with 4 × 10−3 m LAP and 25 × 10−3 m mPEG-SH and exposed to 2 (), 10 () or 40 () mW cm−2 365 nm light. c) Apparent 
+rate constants for photodegradation are plotted as a function of light intensity, yielding a straight line with slope kapp/I0 × 104 of 235 cm2 mW−1 s−1.
+ 15214095, 2017, 11, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201605001 by Yale University, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 5 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheimwileyonlinelibrary.com1605001 (5 of 6)
+and subsequently swelled in mPEG-SH to a final concentra-
+tion of 25 × 10 −3 m. The swollen hydrogen was then exposed to 
+365 nm light at 10 mW cm −2 along the 1 cm axis. For the LAP 
+concentration employed, this 1 cm sample still allows ≈13% 
+transmission of the incident light at the bottom of the sample 
+(Equation (S3), Supporting Information). As observed macro-
+scopically in Figure 4a, this hydrogel rapidly erodes in ≈1 min, 
+which renders this hydrogel chemistry particularly useful for 
+certain biomaterials applications. For example, in applications 
+where one may wish to harvest selected cells or the entire cell 
+population (e.g., for fluorescence-activated cell sorting or other 
+analyses), light exposure in defined regions can allow cell cap-
+ture in a manner akin to laser capture microdissection. In addi-
+tion, as the field of mechanotransduction transitions from 2D 
+to 3D culture systems, there is an ever increasing need for ways 
+to expand and passage cells in 3D environments. One major 
+roadblock in this approach is how to harvest cells from these 
+3D materials for further expansion or characterization. Photo-
+degradation is one attractive option, due to the spatial and tem-
+poral control that can be leveraged to release defined regions 
+of cells at user-specified time points. However, rapid and spa-
+tially defined erosion is required, and current systems can be 
+limited by relatively slow degradation kinetics and significant 
+light attenuation. The aforementioned qualities of allyl sulfide 
+crosslinked hydrogels give potential utility in this regard.
+To demonstrate some of these advantages, we encapsulated 
+primary human mesenchymal stem cells (hMSCs) in 3 mm 
+thick hydrogels at a density of 5 × 10
+6 cells mL −1. For all of the 
+cell culture experiments, an azide-functionalized RGD peptide 
+was added to the gel formulation at 1 × 10
+−3 m to provide cell–
+matrix interactions. Encapsulation using the SPAAC reaction is 
+known to proceed with high cell viability;
+[16] indeed, hMSC via-
+bility was quantified as 90% and 74% after 1 and 4 d of encap-
+sulation, respectively (Figure S2, Supporting Information). This 
+reduction in cell viability over time may be attributed, in part, 
+to the inability of these encapsulated cells to remodel the PEG 
+networks,
+[54] but the chemistry is readily modified to include 
+protease degradable peptide linkers.
+After 1 d of encapsulation, the cell laden hydrogels were 
+swollen with mPEG-SH (50 × 10 −3 m) and LAP (4 × 10 −3 m) for 
+1 h, followed by exposure to 10 mW cm −2 of 365 nm light for 
+1 min on a gelatin coated glass coverslip (Figure 4b). Under 
+these exposure conditions, 2.4 ×  10
+−3 m photoinitiator is con-
+sumed, which is similar to photoinitiator concentrations that 
+have been widely found to be cytocompatible for photoencap-
+sulation and photopatterning.
+[3,39,55–57] The encapsulated cells 
+were released from the photodegradable hydrogel and allowed 
+to adhere to the underlying glass coverslip under standard cul-
+ture conditions. hMSCs were viable upon release, and spread 
+on the coverslip over 24 h, which demonstrates that these reac-
+tion conditions are mild enough to be useful for 3D cell culture 
+and capture. Spatial control over cell release was also achieved 
+under the same conditions by selective exposure of a 150 µ m 
+thick hydrogel through a chrome photomask (Figure 4c). In 
+addition, we took advantage of the absorption spectrum of LAP, 
+which extends up to 450 nm, to demonstrate that these hydro-
+gels are capable of photodegradation under 405 nm light for cell 
+release using a conventional microscope setup. hMSCs were 
+seeded onto hydrogels at 1 × 10
+4 cells cm−2 and using a confocal 
+laser scanning microscope with a 405 nm laser (DAPI channel) 
+at 60% power, a user defined area of the gel was degraded to 
+release an adhered cell (Figure S3, Supporting Information).
+In conclusion, a photodegradable hydrogel system was syn-
+thesized incorporating an allyl sulfide functionality that allowed 
+for a radical-initiated thiol-ene exchange reaction. By the intro-
+duction of monothiols, the network connectivity and mechan-
+ical properties could be controlled on-demand by exposure to 
+light. Under conditions that proved cytocompatible (4 × 10
+−3 m 
+LAP, 25 × 10−3 m mPEG-SH, 10 mW cm−2 365 nm light), reverse  
+gelation occurred in under 30 s and samples up to 1 cm thick 
+could be eroded in ≈1 min, representing a significant benefit 
+over conventional photodegradable hydrogels in both respects. 
+Adv. Mater. 2017, 29, 1605001
+www.advancedsciencenews.comwww.advmat.de
+Figure 4. Allyl sulfide-based photodegradable hydrogels can be used for large scale erosion and cytocompatible cell release. a) A 1 cm thick hydrogel 
+containing 4 × 10−3 m LAP and 25 × 10−3 m mPEG-SH was irradiated with 10 mW cm−2 365 nm light, and completed eroded over the course of ≈1 min. 
+In this optically thick gel, 87% of the incident light is attenuated through the sample (i.e., only 13% of the light reaches the bottom of the sample). 
+Macroscopic images of the gel are shown at 0, 20, 44, and 74 s (left to right, top to bottom). Scale bar: 5 mm. b) Cells that were both encapsulated 
+for 24 h and subsequently released remained highly viable. Top panel: hMSCs 24 h after encapsulation are 90% viable. Bottom panel: released cells 
+remain viable and spread on glass coverslips over 24 h. Cells were stained with calcein AM (green, live) and ethidium homodimer (red, dead). Scale 
+bar: 100 µm (top panel) and 300 µm (bottom panel). c) A 150 µm thick cell-laden hydrogel was selectively exposed to light (365 nm at 10 mW cm
+−2) 
+for 1 min through a photomask to induce spatially controlled photodegradation and release of a subset of the encapsulated cells. Cells remaining in 
+hydrogel monoliths stained with calcein AM (green) and ethidium homodimer (red). Scale bar: 100 µm.
+ 15214095, 2017, 11, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201605001 by Yale University, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 6 =====
+CommuniCation
+© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim wileyonlinelibrary.com (6 of 6) 1605001
+Adv. Mater. 2017, 29, 1605001
+www.advancedsciencenews.com www.advmat.de
+Importantly, both the SPAAC gel formation and photodegrada-
+tion processes were designed to be compatible with biological 
+systems, allowing new-found experiments to study cells in 
+dynamic environments, and to readily capture cells from 3D 
+laden systems. This new class of photodegradable hydrogels 
+is unique in its mechanism, speed of degradation, and depths 
+attainable, and provides access to experiments previously 
+limited by light dose and attenuation.
+Supporting Information
+Supporting Information is available from the Wiley Online Library or 
+from the author.
+Acknowledgements
+T.E.B. and I.A.M. contributed equally to this work. This work was supported 
+by the NSF DMR (1408955), the Howard Hughes Medical Institute, NSF 
+GRFP (T.E.B. and I.A.M.), and the NIH T32 GM-065103 (T.E.B.).
+Received: September 16, 2016
+Revised: November 14, 2016
+Published online: January 23, 2017
+[1] A. S. Hoffman, Adv. Drug Delivery Rev. 2012, 64, 18.
+[2] N. Annabi, A. Tamayol, J. A. Uquillas, M. Akbari, L. E. Bertassoni, 
+C. Cha, G. Camci-Unal, M. R. Dokmeci, N. A. Peppas, 
+A. Khademhosseini, Adv. Mater. Res. 2014, 26, 85.
+[3] L. H. Han, X. Tong, F. Yang, Adv. Mater. 2014, 26, 1757.
+[4] J. D. McCall, K. S. Anseth, Biomacromolecules 2012, 13, 2410.
+[5] J. A. Burdick, K. S. Anseth, Biomaterials 2002, 23, 4315.
+[6] S. Khetan, J. A. Burdick, Biomaterials 2010, 31, 8228.
+[7] C. A. DeForest, D. A. Tirrell, Nat. Mater. 2015, 14, 523.
+[8] A. M. Kloxin, A. M. Kasko, C. N. Salinas, K. S. Anseth, Science 2009, 
+324, 59.
+[9] S. Khetan, M. Guvendiren, W. R. Legant, D. M. Cohen, C. S. Chen,  
+J. A. Burdick, Nat. Mater. 2013, 12, 458.
+[10] N. R. Gandavarapu, M. A. Azagarsamy, K. S. Anseth, Adv. Mater. 
+2014, 26, 2521.
+[11] K. A. Mosiewicz, L. Kolb, A. J. van der Vlies, M. M. Martino,  
+P. S. Lienemann, J. A. Hubbell, M. Ehrbar, M. P. Lutolf, Nat. Mater. 
+2013, 12, 1072.
+[12] C. B. Highley, C. B. Rodell, J. A. Burdick, Adv. Mater. 2015, 27, 5075.
+[13] T. J. Hinton, Q. Jallerat, R. N. Palchesko, J. H. Park, M. S. Grodzicki, 
+H.-J. Shue, M. H. Ramadan, A. R. Hudson, A. W. Feinberg, Sci. Adv. 
+2015, 1, e1500758.
+[14] A. T. Metters, K. S. Anseth, C. N. Bowman, J. Phys. Chem. B 2001, 
+105, 8069.
+[15] M. P. Lutolf, J. L. Lauer-Fields, H. G. Schmoekel, A. T. Metters, 
+F. E. Weber, G. B. Fields, J. A. Hubbell, Proc. Natl. Acad. Sci. USA 
+2003, 100, 5413.
+[16] C. A. DeForest, K. S. Anseth, Nat. Chem. 2011, 3, 925.
+[17] A. M. Kloxin, J. A. Benton, K. S. Anseth, Biomaterials 2010, 31, 1.
+[18] C. Yang, M. W. Tibbitt, L. Basta, K. S. Anseth, Nat. Mater. 2014, 13, 645.
+[19] M. A. Azagarsamy, D. D. McKinnon, D. L. Alge, K. S. Anseth, ACS 
+Macro Lett. 2014, 3, 515.
+[20] D. D. McKinnon, T. E. Brown, K. A. Kyburz, E. Kiyotake, K. S. Anseth, 
+Biomacromolecules 2014, 15, 2808.
+[21] D. R. Griffin, A. M. Kasko, J. Am. Chem. Soc. 2012, 134, 13103.
+[22] S. C. P. Norris, P. Tseng, A. M. Kasko, 2015, ACS Biomater. Sci. 
+Eng., 2, 1309.
+[23] K. M. C. Tsang, N. Annabi, F. Ercole, K. Zhou, D. J. Karst, F. Li, 
+J. M. Haynes, R. A. Evans, H. Thissen, A. Khademhosseini,  
+J. S. Forsythe, Adv. Funct. Mater. 2015, 25, 977.
+[24] T. F. Scott, A. D. Schneider, W. D. Cook, C. N. Bowman, Science 
+2005, 308, 1615.
+[25] T. F. Scott, R. B. Draughon, C. N. Bowman, Adv. Mater. 2006, 18, 2128.
+[26] C. J. Kloxin, T. F. Scott, C. N. Bowman, Macromolecules 2009, 42, 2551.
+[27] R. A. Evans, E. Rizzardo, Macromolecules 2000, 33, 6722.
+[28] M. W. Tibbitt, A. M. Kloxin, K. S. Anseth, J. Polym. Sci., Part A: 
+Polym. Chem. 2013, 51, 1899.
+[29] J. C. Jewett, E. M. Sletten, C. R. Bertozzi, J. Am. Chem. Soc. 2010, 
+132, 3688.
+[30] C. A. DeForest, B. D. Polizzotti, K. S. Anseth, Nat. Mater. 2009, 8, 659.
+[31] R. Ekkebus, S. I. Van Kasteren, Y . Kulathu, A. Scholten, I. Berlin, 
+P. P. Geurink, A. De Jong, S. Goerdayal, J. Neefjes, A. J. R. Heck, 
+D. Komander, H. Ovaa, J. Am. Chem. Soc. 2013, 135, 2867.
+[32] H.-Y . Shiu, T.-C. Chan, C.-M. Ho, Y . Liu, M.-K. Wong, C.-M. Che, 
+Chem. - Eur. J. 2009, 15, 3839.
+[33] H.-Y . Shiu, H.-C. Chong, Y .-C. Leung, M.-K. Wong, C.-M. Che,  
+Chem. - Eur. J. 2010, 16, 3308.
+[34] R. van Geel, G. J. M. Pruijn, F. L. van Delft, W. C. Boelens, 
+Bioconjugate Chem. 2012, 23, 392.
+[35] P. V Chang, J. A. Prescher, E. M. Sletten, J. M. Baskin, I. A. Miller, 
+N. J. Agard, A. Lo, C. R. Bertozzi, Proc. Natl. Acad. Sci. USA 2010, 
+107, 1821.
+[36] B. D. Fairbanks, E. A. Sims, K. S. Anseth, C. N. Bowman, 
+Macromolecules 2010, 43, 4113.
+[37] B. D. Fairbanks, T. F. Scott, C. J. Kloxin, K. S. Anseth, C. N. Bowman, 
+Macromolecules 2009, 42, 211.
+[38] T. Majima, W. Schnabel, W. Weber, Die Makromol. Chem. 1991, 192, 
+2307.
+[39] B. D. Fairbanks, M. P. Schwartz, C. N. Bowman, K. S. Anseth, 
+Biomaterials 2009, 30, 6702.
+[40] G. Moad, E. Rizzardo, S. H. Thang, Polymer 2008, 49, 1079.
+[41] D. D. McKinnon, D. W. Domaille, J. N. Cha, K. S. Anseth,  
+Adv. Mater. 2013, 26, 1.
+[42] D. D. McKinnon, D. W. Domaille, J. N. Cha, K. S. Anseth, Chem. 
+Mater. 2014, 26, 2382.
+[43] C. B. Rodell, A. L. Kaminski, J. A. Burdick, Biomacromolecules 2013, 
+14, 4125.
+[44] K. Y . Lee, D. J. Mooney, Prog. Polym. Sci. 2012, 37, 106.
+[45] R. S. Stowers, S. C. Allen, L. J. Suggs, Proc. Natl. Acad. Sci. USA 
+2015
+, 112, 1953.
+[46] O. Chaudhuri, L. Gu, M. Darnell, D. Klumpers, S. A. Bencherif,  
+J. C. Weaver, N. Huebsch, D. J. Mooney, Nat. Commun. 2015, 6, 1.
+[47] C. J. Kloxin, C. N. Bowman, Chem. Soc. Rev. 2013, 42, 7161.
+[48] A. M. Rosales, K. S. Anseth, Nat. Rev. Mater. 2016, 1, 15012.
+[49] H. Wang, S. C. Heilshorn, Adv. Mater. 2015, 27, 3717.
+[50] W. H. Stockmayer, J. Chem. Phys. 1943, 11, 45.
+[51] A. M. Kloxin, C. J. Kloxin, C. N. Bowman, K. S. Anseth, Adv. Mater. 
+2010, 22, 3484.
+[52] D. R. Griffin, A. M. Kasko, ACS Macro Lett. 2012, 1, 1330.
+[53] C. A. DeForest, K. S. Anseth, Angew. Chem. Int. Ed. 2012, 51, 1816.
+[54] G. A. Hudalla, T. S. Eng, W. L. Murphy, Biomacromolecules 2008, 9, 
+842.
+[55] J. W. Nichol, S. T. Koshy, H. Bae, C. M. Hwang, S. Yamanlara, 
+A. Khademhosseini, Biomaterials 2010, 31, 5536.
+[56] S. R. Caliari, M. Perepelyuk, B. D. Cosgrove, S. J. Tsai, G. Y . Lee,  
+R. L. Mauck, R. G. Wells, J. A. Burdick, Sci. Rep. 2016, 6, 21387.
+[57] D. Y . Wong, T. Ranganath, A. M. Kasko, PLoS One 2015, 10, 1.
+ 15214095, 2017, 11, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201605001 by Yale University, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

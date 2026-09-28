@@ -1,0 +1,51 @@
+{
+  "article_id": "nature-materials-chen-2022-stretchable-oect",
+  "doi": "10.1038/s41563-022-01239-9",
+  "source_type": "user-provided Markdown and figures",
+  "category": "OECT",
+  "source_markdown": "C:/Users/Prettibruce/Downloads/Gemini-高可拉伸有机电化学晶体管文献解析-20260829-1256.md",
+  "editorial_scope": "保留 Markdown 中的中文文献讲解，排除聊天时间戳、角色标签、Thinking steps、远程图片引用和导出器署名；只调整小节编号、段落结构以及物理量、数字和单位的 MathJax 排版。五张用户图片按原始字节复制，不重绘、不裁切、不声称为 PDF 高分辨率导出。",
+  "metadata_sources": [
+    "https://www.nature.com/articles/s41563-022-01239-9",
+    "https://doi.org/10.1038/s41563-022-01239-9"
+  ],
+  "source_screenshots": [],
+  "figures": [
+    {
+      "label": "Figure 1",
+      "source": "C:/Users/PRETTI~1/AppData/Local/Temp/codex-clipboard-e024b068-172b-40e1-bc87-1c6fabb184f6.png",
+      "output": "assets/oect-chen-2022-figure1.png",
+      "sha256": "9cb7c89352ab376bc8b5624070471957f9d0041d903fbedba00d42bbb570fdf5",
+      "pixels": [973, 799]
+    },
+    {
+      "label": "Table 1 and Figure 2",
+      "source": "C:/Users/PRETTI~1/AppData/Local/Temp/codex-clipboard-8b216611-902a-43bd-9c8a-ad313a4dd812.png",
+      "output": "assets/oect-chen-2022-table1-figure2.png",
+      "sha256": "110a20f0fb4387ec4a9445fb4c64a003f1b9aa0674c9eb042e47d0d31c203007",
+      "pixels": [945, 881]
+    },
+    {
+      "label": "Figure 3",
+      "source": "C:/Users/PRETTI~1/AppData/Local/Temp/codex-clipboard-2775e81f-24c4-4fdf-83c5-f6d745cd62da.png",
+      "output": "assets/oect-chen-2022-figure3.png",
+      "sha256": "48fd16de7fa545d0ef8818135d0dc0dfebc32281c70a864d844cf8b2771bbc0a",
+      "pixels": [930, 600]
+    },
+    {
+      "label": "Figure 4",
+      "source": "C:/Users/PRETTI~1/AppData/Local/Temp/codex-clipboard-5accdb72-e118-47af-8496-ef4229a9b3d2.png",
+      "output": "assets/oect-chen-2022-figure4.png",
+      "sha256": "c9a056c7310f6699c7d7b1f9ddf680dcc471400c7a644dbb6d133bd4355c4af1",
+      "pixels": [914, 780]
+    },
+    {
+      "label": "Figure 5",
+      "source": "C:/Users/PRETTI~1/AppData/Local/Temp/codex-clipboard-35d9c433-b023-46ef-b616-6431e7f2a4d1.png",
+      "output": "assets/oect-chen-2022-figure5.png",
+      "sha256": "715af7575e36eb1b8db8b49d0f63fcbc139b08d1dfcd32d8bdba40d9f6dff6c5",
+      "pixels": [926, 685]
+    }
+  ],
+  "original_segments": []
+}

@@ -1,0 +1,369 @@
+=== PAGE 1 ===
+German Edition:D OI:1 0.1002/ange.201705684Photochemistry
+International Edition:D OI:1 0.1002/anie.201705684
+Hydrogels with Reversible Mechanics to Probe Dynamic Cell
+Microenvironments
+Adrianne M. Rosales,* Sebasti#nL .V ega, Frank W. DelRio,J ason A. Burdick,* and
+Kristi S. Anseth*
+Abstract: The relationship between ECM mechanics and cell
+behavior is dynamic,a sc ells remodel and respond to changes
+in their local environment. Most in vitro substrates are static
+and supraphysiologically stiff;t hus,p latforms with dynamic
+and reversible mechanical changes are needed. Herein, we
+developed hyaluronic acid-based substrates capable of sequen-
+tial photodegradation and photoinitiated crosslinking reactions
+to soften and then stiffen the hydrogels over ap hysiologically
+relevant range of moduli. Reversible mechanical signaling to
+adhered cells was demonstrated with human mesenchymal
+stem cells.I ns itu hydrogel softening (from ca. 14 to 3.5 kPa)
+led to ad ecrease in the cell area and nuclear localization of
+YAP/TAZ, and subsequent stiffening (from ca. 3.5 to 28 kPa)
+increased the cell area and nuclear localization of YAP/TAZ.
+Each photoreaction was cytocompatible and tunable,r ender-
+ing this platform amenable to studies of dynamic mechanics on
+cell behavior across many cell types and contexts.
+The native extracellular matrix (ECM) is dynamic,e specially
+during instances of remodeling during development, disease,
+or acute injury.D uring these processes,m any changing factors
+impact cell behavior,i ncluding bulk matrix mechanics.F or
+example,t he cardiac ECM stiffens as soon as one week after
+myocardial infarction owing to fibrotic scar formation,
+thereby impacting the cellular differentiation potential.[1] As
+another example,m esenchymal stem cells (MSCs) retain
+information about past substrate mechanics;[2] prolonged
+culture on pathologically stiff substrates predisposes cells to
+ap ro-fibrotic phenotype even after the mechanical stimulus is
+removed.[2, 3] Thus,u nderstanding the cellular response to
+changing mechanical environments is important;h owever,
+in vitro cell culture substrates with in situ, bidirectional
+changes in mechanics remain elusive.
+Although several strategies to reversibly control bulk
+matrix mechanics in the presence of adhered cells have been
+developed, there remain shortcomings.E xternal triggers such
+as pH[4] and temperature[5] may not be biocompatible for
+certain cell types,w hereas stimuli such as calcium ion
+concentration,[6] competitive binding partners,[7] or magnetic
+particle incorporation[8] contain components that may alter
+cell signaling or require as ustained stimulus.A nother
+challenge is capturing at unable and relevant range of elastic
+moduli over which to study cell behavior. As ac omplementary
+method to the aforementioned strategies and to address these
+issues,t his work establishes ar oute to reversibly alter
+hydrogel mechanics with on-demand photochemical reactions
+(Figure 1).
+Light is ad esirable trigger owing to exquisite spatiotem-
+poral control, noninvasiveness to cells,a nd photokinetic
+tunability.S everal recent studies have expanded photochem-
+ical tools to control properties of dynamic cellular micro-
+environments,i ncluding mechanics.[9] Although many of the
+previously reported photoresponsive substrates are unidirec-
+tional,[10] in the present study,o rthogonal wavelengths of light
+trigger substrate softening and subsequent stiffening.I mpor-
+tantly,t he dynamic elastic modulus range of the presented
+hydrogels spans approximately 3–30 kPa, allowing for bio-
+mimetic conditions of multiple tissues and ECM processes.
+This range was accomplished through the modular modifica-
+tion of hyaluronic acid (HA) polymers with crosslinking
+functionalities.
+HA was modified with three moieties (Figure 1A and the
+Supporting Information, Figures S1–S3), o-nitrobenzyl acryl-
+ates (x = 13 mol %), methacrylates (y = 40 mol %), and ac ell-
+adhesive peptide containing the fibronectin-derived RGD
+domain (z = 1m ol %). Acrylates are more susceptible to
+nucleophilic attack than methacrylates under base-catalyzed
+Michael addition conditions because of the increased electro-
+philicity of the b-carbon;[11] thus,t he addition of ad i-thiol
+(dithiothreitol, DTT) led to an initial hydrogel that prefer-
+entially contained crosslinks with the photodegradable o-
+nitrobenzyl group (Figure 1B ). These initial crosslinks can be
+degraded at au ser-defined timepoint through the controlled
+exposure to 365 nm light (Figure 1C ). Compared to other
+softening methods such as hydrolytic degradation,[12] the rate
+[*] Dr.A .M .R osales, Dr.K .S .A nseth
+Department of Chemical and Biological Engineering
+BioFrontiers Institute, University of Colorado, Boulder
+Boulder,C O8 0309 (USA)
+E-mail:a rosales@che.utexas.edu
+kristi.anseth@colorado.edu
+Dr.S .L .V ega, Dr.J .A .B urdick
+Department of Bioengineering, University of Pennsylvania
+Philadelphia, PA 19104 (USA)
+E-mail:b urdick2@seas.upenn.edu
+Dr.F .W .D elRio
+Material Measurement Laboratory
+National Institute of Standards and Technology
+Boulder,C O8 0305 (USA)
+Dr.K .S .A nseth
+Howard Hughes Medical Institute, University of Colorado, Boulder
+Boulder,C O8 0309 (USA)
+Dr.A .M .R osales
+Present address:M cKetta Department of Chemical Engineering
+The University of Texas at Austin
+Austin, TX 78712 (USA)
+Supportingi nformation and the ORCID identification number(s) for
+the author(s) of this article can be found under:
+https://doi.org/10.1002/anie.201705684.
+Angewandte
+ChemieCommunications
+12132
+ T 2017 Wiley-VCH Verlag GmbH &C o. KGaA, Weinheim Angew.C hem.I nt. Ed. 2017, 56,1 2132 –12136
+
+=== PAGE 2 ===
+of degradation and thus the timescale of softening can be
+decoupled from the chemistry of the crosslinker;l ight dose,
+intensity,o rw avelength can be used to tune the o-nitrobenzyl
+photocleavage.[10a, 13] Substrate softening does not disturb the
+methacrylates,w hich can be subsequently polymerized at
+au ser-defined timepoint upon introduction of ap hotoinitiator
+and 400–500 nm light to stiffen the substrate (Figure 1D ).
+Importantly,t his step does not require any additional cross-
+linkers because the methacrylates are already present on the
+polymeric backbones,w hich avoids inhomogeneous cross-
+linking that may occur with the diffusion of added linkers.
+Furthermore,t his step is amenable to many photoinitiators
+but is particularly well-suited to those that absorb visible light,
+as the macromers exhibit significant absorption below 400 nm
+before and after photodegradation (Figure 1E ).
+Both shear rheology studies and atomic force microscopy
+(AFM) were performed to characterize the mechanical
+properties of the hydrogels.S hear rheology studies demon-
+strated ac rossover of the storage modulus (G’)a nd loss
+modulus (G’’)w ithin 3m in (Figure 2A ,t op);b y5 0m in, G’
+was approximately two orders of magnitude larger than G’’.
+At approximately 3h ,9 0% of the final storage modulus was
+Figure 1. Dynamic hydrogel crosslinking with photochemical reactions.
+A) HA polymers were modified with o-nitrobenzyl-acrylates (13 mol %,
+blue) and methacrylates( 40 mol %, red). B) Initial hydrogel formation
+proceeds through aM ichael-type addition reaction at pH 7.5 using
+dithiothreitol (DTT,g reen) in a1 :1 ratio to the acrylates.C )S ubse-
+quent light exposure (365 nm) leads to o-nitrobenzyl photocleavage to
+soften the hydrogel. D) Hydrogel re-stiffening occurs through radical
+polymerization of the methacrylatesu sing 400–500 nm light and
+ap hotoinitiator (LAP, 3.3 mm). E) Absorbances pectra of o-NB13-
+Me40HA indicates am aximum at 350 nm, which decreases with
+photodegradation.
+Figure 2. Characterization of reversible changes in mechanics.
+A) Shear rheology studies show hydrogel formation proceedso ver 3h ,
+with the crossover of G’ and G’’ occurring in 3m in (top). Exposure to
+365 nm light leads to ad ecrease in G’ (middle);n ew crosslinks form
+for aL AP-laden hydrogel upon exposure to 400–500 nm light (bottom).
+B) RepresentativeA FM images of o-NB13-Me40HA before exposure to
+light (top, ca. 14.8 kPa), after 365 nm exposure (middle, ca. 3.5 kPa),
+and after additional crosslinking (bottom, ca. 27.7 kPa). C) Bulk hydro-
+gel swelling ratio increasesu pon hydrogel softening from 32 to 60 and
+decreases after hydrogel stiffening to 40 (mean : s.d.) D) AFM meas-
+urements of elastic modulus (mean : s.d.) show switching from
+14.8 kPa (Initial Stiff)t o3 .5 kPa (Stiff!Soft) to 27.7 kPa (Soft!Stiff).
+**: P < 0.01, *: P < 0.05.
+Angewandte
+ChemieCommunications
+12133Angew.C hem. Int.E d. 2017, 56,1 2132 –12136 T 2017 Wiley-VCH Verlag GmbH &C o. KGaA, Weinheim www.angewandte.org
+ 15213773, 2017, 40, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/anie.201705684 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+=== PAGE 3 ===
+achieved, which for this formulation was 4k Pa, or aY oungQs
+modulus, E,o f1 2k Pa assuming aP oissonQsr atio of 0.5.[14]
+Surface force measurements corroborated this value,y ielding
+an E of 14.8 : 0.8 kPa (Figure 2B,t op). By design, the cross-
+links are stable covalent thiol-ene linkages,s ot he hydrogels
+exhibit elastic, time-independent properties.
+In situ, on-demand hydrogel softening was confirmed by
+shear rheology studies on thick hydrogel samples exposed to
+365 nm light at an intensity of 10 mW cm@2 (Figure 2A ,
+middle), ap reviously identified cytocompatible dose.[10a, 15]
+Prolonged light exposure led to ap lateau in the photo-
+degradation at 40 %o ft he initial modulus,w hich may
+indicate that as mall portion of the methacrylates reacted
+during the initial hydrogel formation. It is important to note
+that the degradation kinetics in Figure 2A are slow compared
+to previously published systems[13] owing to the necessity of
+thick samples for handling and coincident light attenuation
+(ca. 50 %a ttenuation at 60 mmd epth for this formulation). At
+the surface,w here there is minimal light attenuation, AFM
+measurements showed as oftened E of 3.5 : 0.3 kPa after
+600 se xposure (Figure 2B,m iddle). These data indicate
+ap hotodegradation rate constant similar to previously
+published o-nitrobenzyl hydrogel systems (Supporting Infor-
+mation, Figure S4).
+Subsequent hydrogel stiffening was conducted using
+photoinitiated chain polymerization of the remaining meth-
+acrylates,t hereby imparting reversible mechanics to this
+system. Hydrogels were first incubated with 3.3 mm LAP
+photoinitiator,t hen exposed to visible light in the 400–500 nm
+range (Figure 2A ,b ottom). At 405 nm, the molar absorptivity
+of the hydrogel (1050 m@1 cm@1)a nd photoinitiator
+(25 m@1 cm@1)[16] are much less than that of the hydrogel at
+365 nm (4200 m@1 cm@1); the hydrogel had minimal light
+attenuation and exhibited ap lateau in the increased G’
+after 420 s. Fort his formulation, the complete chain poly-
+merization corresponded to an E of 27.7 : 0.8 kPa, as
+measured by AFM (Figure 2B,b ottom). Thes oftened and
+re-stiffened moduli reported represent the limits for an HA
+modification of x = 13 %a nd y = 40 %, but as maller range
+can easily be achieved by changing the time of light exposure
+to yield partial degradation or polymerization.
+Each crosslinking state of the hydrogel corresponded to
+ad istinct volumetric swelling ratio (Figure 2C ), circa 30
+(Initial Stiff), 60 (Stiff!Soft), and 40 (Soft!Stiff). These
+swelling ratios reflected the changes in hydrogel crosslinking
+density and hydrophilicity resulting from the photodegraded
+o-nitrobenzyl groups.
+Figure 3. Cell response on o-NB13-Me40HA gels exposed in situ. A) Cells were seeded on Initial Stiff (14.8 kPa) gels on day 0, and exposed to
+365 nm light on day 1( 3.5 kPa), followed by 400–500 nm light with LAP on day 3( 27.7 kPa). Samples were analyzed on day 1( Initial Stiff), day 3
+(Stiff!Soft), and day 5( Soft!Stiff). B) Representativem aximum projections of single cells stained for f-actin (red) and nuclei (blue) and
+quantification of C) cell area and D) roundnesso ng els exposedi ns itu. E) Representativem aximum projections of the same single cells stained
+for YAP/TAZ (green), F) quantification of YAP/TAZ nuc/cyt ratio, and G) as catter plot of the YAP/TAZ nuc/cyt ratio versus cell area on gels
+exposed in situ. Scale bars = 50 mm; **: P < 0.01, *: P < 0.05, n > 70 cells.
+Angewandte
+ChemieCommunications
+12134 www.angewandte.org T 2017 Wiley-VCH VerlagG mbH &C o. KGaA,W einheim Angew.C hem.I nt. Ed. 2017, 56,1 2132 –12136
+ 15213773, 2017, 40, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/anie.201705684 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+=== PAGE 4 ===
+Fort hese types of elastic 2D substrates,p revious studies
+have shown that an increased modulus promotes cell spread-
+ing and elongation by providing resistance to cellular traction
+forces.[17] Thus,t op robe whether this system could be used to
+deliver dynamic mechanical cues to adhered cells in situ,
+human mesenchymal stem cells (hMSCs) were first seeded on
+non-exposed hydrogels (Initial Stiff,1 4.8 kPa), then softened
+(Stiff!Soft, 3.5 kPa) on day 1a nd subsequently stiffened
+(Soft!Stiff,2 7.7 kPa) on day 3( Figure 3A ). Cell spread area
+and roundness were assessed for each stiffness condition.
+Representative f-actin images (Figure 3B )s how spread cells
+for all conditions.A s hydrogel stiffness was decreased, cell
+area decreased as well (Figure 3C ). Upon hydrogel stiffening,
+cell area increased again, though the cells remained slightly
+smaller than the initial condition. Cell roundness followed
+ar everse trend and increased upon hydrogel softening, then
+decreased upon hydrogel stiffening (Figure 3D ); roundness
+was recovered for the Soft!Stiff condition. These data
+indicate the substrate mechanics significantly change between
+the three conditions,a nd hMSCs sense these changes in situ.
+As another marker of mechanosensing,t he nuclear local-
+ization of Yes-associated protein/transcriptional coactivator
+with PDZ binding motif (YAP/TAZ) was assessed (Fig-
+ure 3E ). Then uclear localization of YAP/TAZ has widely
+been shown to increase for cells on stiff 2D substrates,f urther
+regulating behaviors such as stem cell differentiation.[18] In the
+present study,t he YAP/TAZ nuc/cyt ratio decreased on the
+Stiff!Soft hydrogels,a lthough all ratios remained above
+1( Figure 3F ). This result indicates that some YAPr emained
+in the nucleus,w hich agrees with the observation that cells
+exhibited some spreading on the softened substrates.T he
+YAP/TAZ nuc/cyt ratio subsequently increased on the Soft!
+Stiff hydrogels (Figure 3F )t ol evels similar to the Initial Stiff
+condition. Finally,t he nuclear YAP/TAZ ratio positively
+correlated with cell area, with more spread cells exhibiting
+higher YAP/TAZ ratios (Figure 3G ).
+Together,t hese data indicate that dynamic mechanical
+cues can be delivered to adhered cells in situ with the
+developed substrates.A sac ontrol, hydrogels were exposed
+to the aforementioned light conditions before cell seeding to
+assess cell behavior on the substrates without exposure to
+light (Supporting Information, Figure S5) or photodegrada-
+tion products (Supporting Information, Figure S9). Cell area,
+roundness,a nd YAP/TAZ nuc/cyt ratios exhibited similar
+trends on the static hydrogels.T oe nsure that light exposure
+does not interfere with cell attachment, cell density was
+measured across the different conditions and no differences
+were observed (Supporting Information, Figures S6 and S7).
+Furthermore,t he cell area and nuclear YAP/TAZ ratio were
+measured on non-photoresponsive hydrogels to ensure that
+light alone does not affect cell behavior (Supporting Infor-
+mation, Figure S8). Finally,n oc hanges in the nuclear YAP/
+TAZr atio were observed over the length of the culture period
+on static hydrogels (Supporting Information, Figure S10).
+These data indicate that the change in substrate mechanics
+dictates the change in cell phenotype observed.
+In conclusion, this work has demonstrated au nique
+strategy for on-demand, dynamic control of hydrogel
+mechanics with light. Thet heoretical moduli limits are
+tunable with acrylate and methacrylate modifications of the
+HA polymers,a nd further tunability could be achieved by
+partial degradation or photopolymerization. To demonstrate
+reversible cellular mechanosensing,h MSCs were shown to
+respond to dynamic substrate mechanics through changes in
+the cell area and nuclear YAP/TAZ ratio.I ti sa nticipated that
+the developed hydrogels will have wide applicability in
+mechanobiology and “mechanical memory”[2b,3] studies rele-
+vant to disease and regenerative medicine.
+Acknowledgements
+This work was supported by HHMI, the NIH (DE016523),
+and the Center for Engineering MechanoBiology (NSF STC
+program, CMMI:1 5-48571). A.M.R. acknowledges aC areer
+Award at the Scientific Interface (#1015895) from BWF.
+Certain commercial equipment, instruments,o rm aterials are
+identified in this report to specify the experimental procedure
+adequately.S uch identification is not intended to imply
+recommendation or endorsement by NIST.
+Conflict of interest
+Thea uthors declare no conflict of interest.
+Keywords: gels ·hyaluronic acid ·matrix mechanics ·
+photochemistry ·stem cells
+Howt oc ite: Angew.C hem. Int. Ed. 2017, 56,1 2132 –12136
+Angew.C hem. 2017, 129,1 2300 –12304
+[1] K. E. Sullivan, K. P. Quinn, K. M. Tang,I .G eorgakoudi, L. D.
+Black, Stem Cell Res.T her. 2014, 5,1 4– 14.
+[2] a) C. X. Li, N. P. Talele,S .B oo,A .K oehler,E .K nee-Walden,
+J. L. Balestrini,P .S peight, A. Kapus,B .H inz, Nat. Mater. 2017,
+16,3 79 –3 89;b )C .Y ang,M .W .T ibbitt, L. Basta, K. S. Anseth,
+Nat. Mater. 2014, 13,6 45 –6 52.
+[3] J. L. Balestrini, S. Chaudhry,V .S arrazy,A .K oehler,B .H inz,
+Integr.B iol. 2012, 4,4 10 –4 21.
+[4] H. Y. Yoshikawa, F. F. Rossetti, S. Kaufmann, T. Kaindl, J.
+Madsen,U .E ngel, A. L. Lewis,S .P.A rmes,M .T anaka, J. Am.
+Chem. Soc. 2011, 133,1 367 –1 374.
+[5] K. A. Davis,K .A .B urke,P .T .M ather,J .H .H enderson,
+Biomaterials 2011, 32,2 285 –2 293.
+[6] a) B. M. Gillette,J .A .J ensen, M. Wang,J .T chao,S .K . Sia, Adv.
+Mater. 2010, 22,6 86 –6 91;b )R .S .S towers,S .C .A llen, L. J.
+Suggs, Proc.N atl. Acad. Sci. USA 2015, 112,1 953 –1 958.
+[7] a) F. X. Jiang,B .Y urke,R .S .S chloss,B .L .F irestein, N. A.
+Langrana, Biomaterials 2010, 31,1 199 –1 212;b )H .S hih, C.-C.
+Lin, J. Mater.C hem. B 2016, 4,4 969 –4 974;c )G .K .S amoei, W.
+Wang,J .O .E scobedo,X .X u, H.-J.S chneider,R .L .C ook, R. M.
+Strongin, Angew.C hem. Int. Ed. 2006, 45,5 319 –5 322; Angew.
+Chem. 2006, 118,5 445 –5 448.
+[8] A. A. Abdeen, J. Lee,N .A .B haradwaj, R. H. Ewoldt, K. A.
+Kilian, Adv.H ealthcare Mater. 2016, 5,2 536 –2 544.
+[9] a) C. A. DeForest, K. S. Anseth, Angew.C hem. Int. Ed. 2012, 51,
+1816 –1 819; Angew.C hem. 2012, 124,1 852 –1 855;b )R . Y. Tam,
+L. J. Smith, M. S. Shoichet, Acc.C hem. Res. 2017, 50,7 03 –7 13.
+[10] a) A. M. Kloxin, A. M. Kasko,C .N .S alinas,K .S .A nseth,
+Science 2009, 324,5 9– 63;b )M .G uvendiren, J. A. Burdick,
+Nat. Commun. 2012, 3,7 92.
+Angewandte
+ChemieCommunications
+12135Angew.C hem. Int.E d. 2017, 56,1 2132 –12136 T 2017 Wiley-VCH Verlag GmbH &C o. KGaA, Weinheim www.angewandte.org
+ 15213773, 2017, 40, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/anie.201705684 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+=== PAGE 5 ===
+[11] a) A. B. Lowe, Polym. Chem. 2010, 1,1 7– 36;b )D .P.N air, M.
+Podglrski, S. Chatani, T. Gong, W. Xi, C. R. Fenoli, C. N.
+Bowman, Chem. Mater. 2014, 26,7 24 –7 44.
+[12] S. R. Caliari, M. Perepelyuk, E. M. Soulas,G .Y .L ee,R .G .
+Wells,J .A .B urdick, Integr.B iol. 2016, 8,7 20 –7 28.
+[13] D. R. Griffin, A. M. Kasko, J. Am. Chem. Soc. 2012, 134,1 3103 –
+13107.
+[14] J. M. Cloyd, N. R. Malhotra, L. Weng,W .C hen, R. L. Mauck,
+D. M. Elliott, Eur.S pine J. 2007, 16,1 892 –1 898.
+[15] D. Y. Wong,T .R anganath, A. M. Kasko, PLOS ONE 2015, 10,
+e0139307.
+[16] B. D. Fairbanks,M .P .S chwartz, C. N. Bowman, K. S. Anseth,
+Biomaterials 2009, 30,6 702 –6 707.
+[17] D. E. Discher,P .J anmey,Y .-l. Wang, Science 2005, 310,1 139 –
+1143.
+[18] S. Dupont, L. Morsut, M. Aragona,E .E nzo,S .G iulitti, M.
+Cordenonsi, F. Zanconato, J. Le Digabel, M. Forcato,S .B icciato,
+N. Elvassore,S .P iccolo, Nature 2011, 474,1 79 –1 83.
+Manuscript received:J une 4, 2017
+Acceptedm anuscript online: August 10, 2017
+Version of record online: September1 ,2 017
+Angewandte
+ChemieCommunications
+12136 www.angewandte.org T 2017 Wiley-VCH VerlagG mbH &C o. KGaA,W einheim Angew.C hem.I nt. Ed. 2017, 56,1 2132 –12136
+ 15213773, 2017, 40, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/anie.201705684 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

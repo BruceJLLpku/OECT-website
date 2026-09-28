@@ -1,0 +1,86 @@
+{
+  "source_sha256": "64cdb742edc789c45cae515a36eeeaab4090d4942fed5d2a84d115efffcd9af4",
+  "dpi": 400,
+  "figures": [
+    {
+      "label": "Figure 1",
+      "page": 5,
+      "bbox_pt": [
+        50,
+        51,
+        547,
+        412
+      ],
+      "output": "assets/cans-carberry-2020-figure1.png",
+      "pixels": [
+        2762,
+        2006
+      ],
+      "sha256": "8ed677be94cbaa3b66a557087fc0cb7803c5f833288a1c6e2814cb443f02b2b0"
+    },
+    {
+      "label": "Figure 2",
+      "page": 6,
+      "bbox_pt": [
+        49,
+        49,
+        547,
+        442
+      ],
+      "output": "assets/cans-carberry-2020-figure2.png",
+      "pixels": [
+        2767,
+        2184
+      ],
+      "sha256": "1ca0f69ba938447a6a34ff243965df3a78a792775bf6774e8010ca12fb83e58a"
+    },
+    {
+      "label": "Figure 3",
+      "page": 7,
+      "bbox_pt": [
+        50,
+        52,
+        547,
+        468
+      ],
+      "output": "assets/cans-carberry-2020-figure3.png",
+      "pixels": [
+        2762,
+        2312
+      ],
+      "sha256": "9869ed7bc7d2360b0694c3954017e0f048317e450f9b8b0ffaa264717657ba82"
+    },
+    {
+      "label": "Figure 4",
+      "page": 8,
+      "bbox_pt": [
+        50,
+        337,
+        547,
+        708
+      ],
+      "output": "assets/cans-carberry-2020-figure4.png",
+      "pixels": [
+        2762,
+        2062
+      ],
+      "sha256": "5dca5528bdd9c7d3a8b0fd9bf511dd1aefb6c7378854968f21fe3dba1cdf3231"
+    },
+    {
+      "label": "Figure 5",
+      "page": 9,
+      "bbox_pt": [
+        50,
+        51,
+        547,
+        465
+      ],
+      "output": "assets/cans-carberry-2020-figure5.png",
+      "pixels": [
+        2762,
+        2301
+      ],
+      "sha256": "3ce123f70d4e705bdd710766be359258d44021f73443a6b42c02ae04253c4908"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "doi": "10.1126/science.adp9314",
+  "source_note": "User-supplied Markdown export and five figure screenshots; no PDF was supplied.",
+  "source_markdown": "notes/science-wang-2024-hydrogel-semiconductors/source-note.md",
+  "figures": [
+    {
+      "figure": "Fig. 1",
+      "file": "assets/hydrogel-semiconductor-wang-2024-figure1.png",
+      "source_file": "codex-clipboard-56a5f7f5-9a16-455f-973a-cefaa2e46ce7.png",
+      "sha256": "29321547F357BE66EE66B96F3980010D3AC1D58B1A01311301912D150A7E575E"
+    },
+    {
+      "figure": "Fig. 2",
+      "file": "assets/hydrogel-semiconductor-wang-2024-figure2.png",
+      "source_file": "codex-clipboard-39ef3fa6-a6dc-46e4-8670-94742e8a43ca.png",
+      "sha256": "421A5D7DBD4007DDB13329D62FC8FEA025DA7D4D16F3AD21E7F206396AC323F1"
+    },
+    {
+      "figure": "Fig. 3",
+      "file": "assets/hydrogel-semiconductor-wang-2024-figure3.png",
+      "source_file": "codex-clipboard-91faea3e-1aa7-4b9f-bbc8-2483d306a1df.png",
+      "sha256": "5BFD68875FB751D8F6AFD4BFD797A8A665445452445303E1559EC8B69C0411B5"
+    },
+    {
+      "figure": "Fig. 4",
+      "file": "assets/hydrogel-semiconductor-wang-2024-figure4.png",
+      "source_file": "codex-clipboard-1836d5e3-9550-4374-951f-09f224bf8e34.png",
+      "sha256": "A6C32A67609E3DC3DAE45E24A0337960C7C2F07A7E6D32D4F23C8278B6DF7C7C"
+    },
+    {
+      "figure": "Fig. 5",
+      "file": "assets/hydrogel-semiconductor-wang-2024-figure5.png",
+      "source_file": "codex-clipboard-cb237f62-392f-45ed-aa28-e4bdc094d6ad.png",
+      "sha256": "0826E4614DAE30BBF8FE5093D0536B69E18AA75510AC17EC1C1E15C477D970DB"
+    }
+  ]
+}

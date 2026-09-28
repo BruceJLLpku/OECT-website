@@ -1,0 +1,86 @@
+{
+  "source_sha256": "1f325c810cd937c01304e50fb5f509fed8a35bcc4ae733cb8577488f673f78cc",
+  "dpi": 400,
+  "figures": [
+    {
+      "label": "Figure 1",
+      "page": 7,
+      "bbox_pt": [
+        117,
+        60,
+        555,
+        287
+      ],
+      "output": "assets/cans-marozas-2019-figure1.png",
+      "pixels": [
+        2434,
+        1262
+      ],
+      "sha256": "91bb04f65bb8e6c37de8952a58d329d8f53e2c917e942928f2e8e185eeb68cff"
+    },
+    {
+      "label": "Figure 2",
+      "page": 7,
+      "bbox_pt": [
+        117,
+        306,
+        555,
+        781
+      ],
+      "output": "assets/cans-marozas-2019-figure2.png",
+      "pixels": [
+        2434,
+        2639
+      ],
+      "sha256": "0fd77f1c089a3ca07fb3da439959300821eb925c7567cf5e39e2fe87e97daee1"
+    },
+    {
+      "label": "Figure 3",
+      "page": 9,
+      "bbox_pt": [
+        117,
+        60,
+        555,
+        650
+      ],
+      "output": "assets/cans-marozas-2019-figure3.png",
+      "pixels": [
+        2434,
+        3279
+      ],
+      "sha256": "51e642e795f24516843fe329a9a76f7e743978c4c626759e873d966a47421fc6"
+    },
+    {
+      "label": "Figure 4",
+      "page": 10,
+      "bbox_pt": [
+        117,
+        60,
+        555,
+        260
+      ],
+      "output": "assets/cans-marozas-2019-figure4.png",
+      "pixels": [
+        2434,
+        1112
+      ],
+      "sha256": "5fc629bd8466dd1f9e234a21b54c2d06aad5422787cdb13b97b44a4e9ac5e05d"
+    },
+    {
+      "label": "Figure 5",
+      "page": 11,
+      "bbox_pt": [
+        117,
+        60,
+        555,
+        392
+      ],
+      "output": "assets/cans-marozas-2019-figure5.png",
+      "pixels": [
+        2434,
+        1845
+      ],
+      "sha256": "6d391f33761c919da49bed1f8b5db11b0afec18e3a6874fa0340b57b8c260300"
+    }
+  ]
+}

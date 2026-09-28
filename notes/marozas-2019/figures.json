@@ -1,0 +1,14 @@
+{
+  "article_id": "cans-2019-njp-anseth-tethered-photoinitiator",
+  "doi": "10.1088/1367-2630/ab1309",
+  "source_pdf": "D:/Work in Zheng Group/Dynamic Network-光/Marozas_2019_New_J._Phys._21_045004.pdf",
+  "dpi": 400,
+  "coordinate_system": "PDF points from top-left; includes complete original figure and caption",
+  "figures": [
+    {"label": "Figure 1", "page": 7, "bbox_pt": [117, 60, 555, 287], "output": "assets/cans-marozas-2019-figure1.png"},
+    {"label": "Figure 2", "page": 7, "bbox_pt": [117, 306, 555, 781], "output": "assets/cans-marozas-2019-figure2.png"},
+    {"label": "Figure 3", "page": 9, "bbox_pt": [117, 60, 555, 650], "output": "assets/cans-marozas-2019-figure3.png"},
+    {"label": "Figure 4", "page": 10, "bbox_pt": [117, 60, 555, 260], "output": "assets/cans-marozas-2019-figure4.png"},
+    {"label": "Figure 5", "page": 11, "bbox_pt": [117, 60, 555, 392], "output": "assets/cans-marozas-2019-figure5.png"}
+  ]
+}

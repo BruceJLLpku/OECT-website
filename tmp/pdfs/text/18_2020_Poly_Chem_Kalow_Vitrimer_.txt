@@ -1,0 +1,563 @@
+
+
+===== PDF PAGE 1 =====
+rsc.li/polymers
+As featured in:
+ Showcasing research from Professor Julia Kalow's 
+laboratory, Department of Chemistry, Northwestern 
+University, Evanston, Illinois, USA. 
+  Cross-linker control of vitrimer ﬂ ow  
+ El-Zaatari, Ishibashi, and Kalow show that small structural 
+modiﬁ cations to cross-linkers in associative covalent 
+adaptable networks (vitrimers) enable control over the 
+rate of stress relaxation, a property related to self-healing. 
+This rate can be tuned over four orders of magnitude while 
+maintaining constant stiff ness and, surprisingly, 
+activation energy. 
+Registered charity number: 207890
+See Julia A. Kalow  et al. ,  
+Polym. Chem. , 2020,  11 , 5339.
+Themed collection: Covalent Adaptable Networks
+Polymer
+Chemistry
+rsc.li/polymers
+Volume 11
+Number 33
+7 September 2020
+Pages 5289-5398
+ISSN 1759-9962
+ EDITORIAL 
+ Christopher Bowman  et al.  
+ Introduction to chemistry for covalent adaptable networks 
+
+===== PDF PAGE 2 =====
+Polymer
+Chemistry
+PAPER
+Cite this: Polym. Chem., 2020, 11,
+5339
+Received 12th February 2020,
+Accepted 2nd April 2020
+DOI: 10.1039/d0py00233j
+rsc.li/polymers
+Cross-linker control of vitrimer ﬂow†
+Bassil M. El-Zaatari,
+ Jacob S. A. Ishibashi
+ and Julia A. Kalow
+ *
+Vitrimers are a class of covalent adaptable networks (CANs) that undergo topology recon ﬁguration via
+associative exchange reactions, enabling reprocessing at elevated temperatures. Here, we show that
+cross-linker reactivity represents an additional design parameter to tune stress relaxation rates in vitrimers.
+Guided by calculated activation barriers, we prepared a series of cross-linkers with varying reactivity for
+the conjugate addition —elimination of thiols in a PDMS vitrimer. Surprisingly, despite a wide range of
+stress relaxation rates, we observe that the ﬂow activation energy of the bulk material is independent of
+the cross-linker structure. Superposition of storage and loss moduli from frequency sweeps can be per-
+formed for di ﬀerent cross-linkers, indicating the same exchange mechanism. We show that we can mix
+diﬀerent cross-linkers in a single material in order to further modulate the stress relaxation behavior.
+Introduction
+The incorporation of reversible linkages within polymer chains
+or junctions creates dynamic networks that can achieve desir-
+able characteristics such as self-healing, recyclability, and
+stimuli-responsivity.1–8 Specifically, covalent adaptable net-
+works (CANs) possess covalent bonds that can exchange under
+a stimulus, most often heat, allowing the network architecture
+to rearrange. When the covalent bond exchange is activated,
+the network can dissipate applied stress ( i.e., stress relaxation).
+In the most well studied class of CANs, bond exchange occurs
+through dissociative mechanisms,
+9–13 meaning that the cross-
+link must be broken before a new cross-link can form.
+Detailed structure –property studies of the sterics and elec-
+tronics of the exchanging cross-links in dissociative CANs have
+enabled precise tuning of network mechanics as a function of
+temperature.
+11,14
+A more recently reported class of CANs that exchange by
+associative mechanisms, known as vitrimers, 15–18 retain a
+cross-linked structure during swelling and heating, but can
+still be remolded and repaired. 5 Overall cross-link density is
+conserved since bond breakage only occurs after another
+covalent bond has been formed; these materials are expected
+to maintain a constant rubbery plateau modulus during topo-
+logical rearrangement.
+2 A wide array of associative dynamic
+covalent chemistries have been employed in vitrimers, includ-
+ing transesterification, 19–21 olefin metathesis, 22,23 dioxaboro-
+lane exchange, 24–26 silyl ether exchange, 27 and several
+others.28–37 Surprisingly, despite the number of reactions
+studied, there are no systematic studies that examine the e ﬀect
+of the cross-linker structure on vitrimer properties. In this
+paper, we show that small structural modifications to cross-
+links in a vitrimer can o ﬀer control over stress relaxation over a
+wide range, without a ﬀecting the sti ﬀness or flow activation
+energy of the materials.
+Strategies to control the rate of vitrimer flow primarily rely
+on the e ﬀect of catalysts
+38,39 and cross-link density, 31,40–42 with
+isolated examples examining macromolecular architecture 43
+and strand flexibility. 44 In a pioneering study, Leibler and co-
+workers demonstrated that changing the catalyst type and con-
+centration aﬀects flow activation energies for ester-based vitri-
+mers.
+45 Bates and co-workers later identified a surprising
+inverse relationship between the pKa of Brønsted acid catalysts
+and flow activation energy.
+46
+Catalysts can su ﬀer from leaching and deactivation, motiv-
+ating our interest in catalyst-free exchange reactions for vitri-
+mers. We previously demonstrated that the conjugate
+addition–elimination of thiols to a Meldrum ’s acid-derived
+acceptor
+47 in a PDMS vitrimer enables at least ten reprocessing
+cycles without loss of properties (Scheme 1). 48 Here, we syn-
+thesize a series of conjugate acceptor cross-linkers and
+compare their reactivity in vitrimers. Key di ﬀerences in reactiv-
+ity can be rationalized based on calculated transition states.
+We obtain vitrimers exhibiting a wide range of stress relaxation
+times, spanning over 4 orders of magnitude, with nearly iden-
+tical sti ﬀnesses. We can superimpose frequency sweeps for
+three distinct cross-linkers with a horizontal shift factor,
+suggesting that relaxation occurs through a common mecha-
+nism. Finally, we can further tune the stress relaxation profiles
+by mixing cross-linkers with di ﬀerent reactivities into single
+networks. This study revealed two new cross-linkers that
+† Electronic supplementary information (ESI) available. See DOI: 10.1039/
+d0py00233j
+Department of Chemistry, Northwestern University, Evanston, IL 60208, USA.
+E-mail: jkalow@northwestern.edu
+This journal is © The Royal Society of Chemistry 2020 Polym. Chem.,2 0 2 0 ,11,5 3 3 9–5345 | 5339
+Published on 08 April 2020. Downloaded on 2/4/2026 2:32:31 AM. 
+View Article Online
+View Journal
+ | View Issue
+
+===== PDF PAGE 3 =====
+enable significantly faster stress relaxation compared to the
+original Meldrum’s acid-derived acceptor.
+Experimental
+Gel formation
+Polydimethylsiloxane (PDMS) grafted with 13 –17% propylthiol
+groups was obtained from Gelest (SMS-142, Molecular weight
+3000–4000). Crosslinkers were added to the mixture in either
+1.25 or 2 mol% relative to the siloxane repeat units. The
+mixture was heated to either 100 °C (CY crosslinker), 120 °C
+(MA, BA, IND, CN), or 150 °C ( DP) for 12 –16 hours. For the CN
+samples, xylenes ( ∼50 wt%) were used to solubilize the cross-
+linker in the PDMS and was later removed by evaporation in a
+vacuum oven at 150 °C for 24 hours. All samples were repro-
+cessed once prior to testing using a hot press at 140 –150 °C at
+a pressure of 10 tonnes for 15 –30 minutes to ensure homo-
+geneous samples. The sample thickness was kept constant at
+1 mm by using 1 mm spacers during the reprocessing. For the
+mixed gel samples, 1 mol% of each crosslinker was mixed in
+the PDMS solution. The samples were heated at 120 °C over-
+night and reprocessed similarly.
+Rheology
+The viscoelastic properties of the networks were studied using
+a strain-controlled Anton Paar rheometer (MCR302).
+Measurements ranged between 100 and 150 °C for all studies.
+Parallel plate geometry with a diameter of 8 mm was used. The
+gap size was kept around 1 mm for all the samples. Frequency
+sweep measurements were performed using dynamic oscil-
+latory measurements at a constant strain of 3%. It is important
+to note that all measurements took place in the linear visco-
+elastic regime as determined by amplitude sweeps. Stress
+relaxation measurements were performed at temperatures
+between 100 and 150 °C at 3% or 7% strain unless otherwise
+noted (all within the linear viscoelastic regime).
+Cross-linker synthesis
+All reactions were performed under nitrogen or argon with dry
+DMF which was obtained via passing degassed solvents
+through activated alumina columns. Chemicals were obtained
+from MilliporeSigma, TCI Chemicals, Alfa Aesar, and
+Oakwood. In addition to the original Meldrum ’s acid-based
+cross-linker ( MA) and a commercial malonitrile derivative
+(CN), four cross-linkers were synthesized by base-assisted
+nucleophilic addition of the 1,3-dicarbonyl compound to CS
+2,
+followed by methylation (Fig. 1a). These cross-linkers are
+named based on the dicarbonyl structures: cyclohexanedione
+(CY), barbituric acid ( BA), indanedione ( IND), and diphenyl-
+propanedione ( DP) (Fig. 1b). For additional synthesis details,
+see ESI.†
+Results and discussion
+To predict di ﬀerences in exchange rates between the di ﬀerent
+cross-linkers, we performed DFT calculations (B3LYP/def-TZVP
+gas phase). The initial conjugate addition step is rate limiting,
+so transition states for this step were calculated and mini-
+mized. The temperature used for the calculations was 135 °C.
+For the cyclic cross-linkers ( MA, IND, BA, CY), closed, six-mem-
+bered transition states were located (Fig. 2 and S16 †). In
+normal reaction media, mobile solvent molecules or additives
+can aid the addition of thiols to Michael acceptors by acting as
+proton transfer agents.
+47 However, in the nonpolar environ-
+ment of the PDMS matrix, in which our polymer network is
+formed, it is reasonable to invoke the participation of an
+internal base ( i.e., the carbonyl of the cross-linker) to mediate
+proton transfer from the thiol in a closed transition state. The
+lowest activation barrier belongs to CY (+112 kJ mol
+−1), fol-
+lowed by BA, IND and MA, which have similar calculated ΔG‡
+values to each other (Fig. 2).
+Scheme 1 Mechanism of the conjugate addition –elimination exchange
+reactions in the elastomeric PDMS vitrimer studied here.
+Fig. 1 (a) General synthesis for cross-linkers used in the study. (b)
+Structures of di ﬀerent cross-linkers used in the study.
+Paper Polymer Chemistry
+5340 | Polym. Chem.,2 0 2 0 ,11, 5339–5345 This journal is © The Royal Society of Chemistry 2020
+Published on 08 April 2020. Downloaded on 2/4/2026 2:32:31 AM. 
+View Article Online
+
+===== PDF PAGE 4 =====
+Tetrahedral intermediates for the acyclic cross-linkers DP
+and CN orient the proton away from the thiols, and corre-
+spondingly, no closed transition states were located. The N sp
+lone pairs on each nitrile of CN point away from the site of
+nucleophilic attack. The bond rotations required in DP to
+accommodate a cyclic transition state would likely result in
+unfavourable steric interactions (Fig. S15 –S17†). Thus, the
+acyclic cross-linkers lack an internal base to accelerate the
+exchange process.
+To compare the e ﬀect of cross-linker structure in vitrimers,
+stress relaxation experiments were performed using shear
+rheology (Fig. 3a; for additional details, see ESI †). The vitrimer
+networks are named based on the cross-linker used ( e.g.,
+CY-Net). The rate of the relaxation process can be character-
+ized with respect to a characteristic relaxation time constant,
+τ*. Assuming Maxwell behaviour, τ* is defined as the time
+needed for the relaxation modulus to decrease to 1/ e of its
+initial value. The τ* values for this series of cross-linkers span
+4 orders of magnitude, following the trend CY < BA < IND ∼
+MA ≪ CN ∼ DP (Fig. 3b). This trend is consistent with the cal-
+culated ΔG
+‡ values, suggesting that the stress relaxation in
+these materials is directly correlated to the exchange kinetics.
+The wide range in stress relaxation rates was accompanied by
+modest diﬀerences in sti ﬀness. The rubbery plateau moduli of
+these networks at 150 °C were determined by frequency
+sweeps between 100 and 1 rad s −1 and were found to be
+similar for all cross-linkers, ranging between 100 and 130 kPa
+(Fig. 3b). The similarity of the plateau moduli and gel fraction
+studies (Table S10 †) suggest that cross-link density is not
+aﬀected by the structure of the cross-linker, consistent with an
+associative mechanism.
+The flow activation energy ( E
+a) is determined by measuring
+τ* as a function of temperature based on the Arrhenius
+relationship (eqn (1)):
+τ* ¼ τ0e
+/C0 Ea
+RT ð1Þ
+where R is the ideal gas constant, T is the temperature, and τ0
+is a pre-exponential factor.
+Surprisingly, the flow activation energies calculated for the
+diﬀerent cyclic cross-linkers were within experimental error,
+with their averages ranging between 60 and 68 kJ mol −1
+(Fig. 3c and 3d). While this result di ﬀers from the calculated
+ΔG‡ values, for multistep reactions, Eyring ΔG‡ values are not
+Fig. 2 Calculated transition states and intermediate energies (in kJ mol −1) for the cross-linkers (energies are not drawn to scale). Representative
+optimized cyclic transition state and intermediates for the conjugate addition of methanethiol to MA and CY, and intermediates for CN and DP,a r e
+shown. H atoms on CH 3 groups are omitted for clarity. *No cyclic transition states were located for DP and CN.
+Polymer Chemistry Paper
+This journal is © The Royal Society of Chemistry 2020 Polym. Chem.,2 0 2 0 ,11, 5339–5345 | 5341
+Published on 08 April 2020. Downloaded on 2/4/2026 2:32:31 AM. 
+View Article Online
+
+===== PDF PAGE 5 =====
+equivalent to Arrhenius activation energies ( Ea). Instead, the
+diﬀerence in relaxation times is driven by the pre-exponential
+factor, τ0, represented by the change in y-intercept
+(Table S11†). τ0 has been defined as the relaxation time at infi-
+nite temperature, but the physical underpinnings of this value
+in vitrimers are not well understood. 5 For the acyclic cross-
+linkers, the experimentally accessible temperature range was
+too narrow for an accurate Arrhenius analysis.
+Activation energy values represent the temperature sensi-
+tivity of a process, and not the absolute kinetics. Rational strat-
+egies to tune the flow activation energy, Ea, and the pre-expo-
+nential factor, τ0, are necessary to guide optimization of vitri-
+mer properties. For example, to minimize creep at service
+temperatures but enable flow at elevated temperatures without
+decomposition, high Ea is desirable. 28 In ester and vinylogous
+urethane vitrimers, catalysts modulate relaxation times by
+changing both Ea and τ0.27,28,43 Our results show that the
+absolute rate of stress relaxation can be modulated without
+aﬀecting the temperature dependence by changing the struc-
+ture of the cross-linker. It should be noted, however, that the
+flow activation of the polymer can di ﬀer from the small mole-
+cule activation energies.
+5,49
+Some vitrimer systems exhibit a change in exchange mecha-
+nism as a function of temperature or additives. 50,51 We sought
+to confirm that changing the structure of the cross-linker in
+the vitrimer did not influence the mechanism of exchange.
+Typically, time –temperature superpositions (TTS) of frequency
+sweeps are used in polymer rheology to determine if the relax-
+ation processes scale as a function of temperature. In order to
+determine if the relaxation processes in our vitrimers scale as
+a function of cross-linker reactivity, a time –cross-linker super-
+position (TCLS) was constructed at 150 °C (3% strain, 0.01 –100
+rad s
+−1) for representative cross-linkers (Fig. 4). This type of
+analysis has been performed by researchers in dissociative
+Fig. 3 Mechanical properties of the networks. (a) Representative normalized stress relaxation pro ﬁles at 150 °C. (b) Calculated τ* values for the
+diﬀerent cross-linked vitrimers (bar graph, left axis) and their rubbery plateau moduli at the same temperature (circle symbols, right axis). Error bar s
+are based on student ’s t distribution. The τ* values were calculated using 1/ e of the relaxation modulus for the cyclic cross-linkers and by extra-
+polating a stretched exponential function for the acyclic cross-linkers (see ESI for more detail †). (c) Arrhenius plots for stress relaxation of networks
+derived from the cyclic cross-linkers. (d) Calculated ﬂow activation energies for the networks. Error bars are based on the error analysis of the ﬁtted
+slopes.
+Paper Polymer Chemistry
+5342 | Polym. Chem.,2 0 2 0 ,11,5 3 3 9–5345 This journal is © The Royal Society of Chemistry 2020
+Published on 08 April 2020. Downloaded on 2/4/2026 2:32:31 AM. 
+View Article Online
+
+===== PDF PAGE 6 =====
+systems where the shift factor of the superposition can relate
+to the kinetics or activation energy of cross-linker
+dissociation.6,7 The networks in this study contained
+1.25 mol% of the cross-linker, which allowed access to the
+terminal regime. We were able to superimpose the CY-Net and
+BA-Net storage (G′) and loss ( G″) moduli curves onto the refer-
+ence IND-Net data using only horizontal shift factors. This
+superposition suggests that the mechanism of stress relaxation
+is indeed identical for the cyclic cross-linkers; the only di ﬀer-
+ence between samples is how fast or slow the collective relax-
+ation process is.
+The horizontal shift factors ( αT) were calculated from the
+crossover frequencies ( ω c), which are inversely related to the
+characteristic stress relaxation times τ* for an ideal Maxwell
+material (eqn (2)).
+αT ¼ ω c;IND
+ω c;crosslinker
+¼ τ*
+crosslinker
+τ*
+IND
+ð2Þ
+Furthermore, a vertical shift factor was not required, and
+the rubbery plateau moduli of the samples with 1.25 mol%
+cross-linker ranged between 8 and 11 kPa, again demonstrat-
+ing that an associative exchange mechanism can decouple
+stiﬀness and stress relaxation.
+For dissociative reversible networks, mixing cross-linkers
+with the same exchange mechanism but di ﬀerent relaxation
+rates modulates stress relaxation profiles.
+15,52,53 While
+Dichtel,54 Chen,55 and Guo56 have mixed associative and disso-
+ciative cross-links in a single network, we are interested in the
+eﬀect of mixing mechanistically similar, kinetically distinct
+associative cross-links. We formulated three separate samples
+based on binary mixtures of cross-linkers (1 mol% each):
+CY/MA-Net, BA/MA-Net, and BA/DP-Net. Stress relaxation
+measurements were carried at 140 °C (Fig. 5). As expected
+based on the stress relaxation of the single cross-linker net-
+works, the stress relaxation times follow the trend CY/MA-Net
+< BA/MA-Net < BA/DP-Net. Each stress relaxation profile is
+intermediate to those of its individual cross-linker counter-
+parts (Fig. 5a through c).
+The shape of the normalized stress relaxation curves for the
+mixed systems indicate additional complexity. Surprisingly, the
+BA/MA-Net relaxation data could be fitted to an ideal Maxwell
+model with an activation energy similar to that of the individual
+cross-linkers (Fig. S13 and S14 †), whereas CY/MA-Net and BA/
+Fig. 4 Time—cross-linker superposition for both the storage ( G’) and
+loss ( G’’) moduli of networks with three di ﬀerent cross-linkers ( IND, BA ,
+and CY). IND was used as the reference.
+Fig. 5 Normalized stress relaxation data for (a) CY-Net, CY/MA-Net,
+and MA-Net; (b) BA-Net, BA/MA-Net, and MA-Net; (c) BA-Net, BA/
+DP-Net, and DP-Net at 140 °C.
+Polymer Chemistry Paper
+This journal is © The Royal Society of Chemistry 2020 Polym. Chem.,2 0 2 0 ,11, 5339–5345 | 5343
+Published on 08 April 2020. Downloaded on 2/4/2026 2:32:31 AM. 
+View Article Online
+
+===== PDF PAGE 7 =====
+DP-Net relaxation deviated from ideal Maxwell behaviour,
+suggesting that multiple relaxation modes are operative
+(Fig. S11 and S12 †). We conclude that the presence of either a
+singular or multiple relaxation modes depends on the relative
+relaxation times for each individual cross-linker. If the relax-
+ation times for the individual cross-linkers are within an order
+of magnitude, the mixed cross-linker system exhibits a single
+intermediate relaxation mode. When the individual relaxation
+rates diﬀer by several orders of magnitude, we observe several
+distinct relaxation modes. This relaxation behaviour is more
+varied than what has been observed in dissociative systems:
+mixed boronic ester cross-links resulted in single unimodal
+Maxwell distributions,
+52 and mixed metal–ligand15 and protein–
+protein cross-links53 showed a distinct relaxation mode for each
+component. The relevance of the Maxwell model to vitrimers is
+under investigation in our lab.
+Conclusions
+Decoupling spatial and temporal structure is a fundamental
+challenge in soft materials. Here, we show that the associative
+exchange reactions used in vitrimers enable synthetic control
+over stress relaxation independent of sti ﬀness. The rate of
+stress relaxation in PDMS vitrimers was shown to be depen-
+dent on the structure and reactivity of the electrophilic cross-
+linker, while maintaining the same exchange mechanism and
+cross-link density. Thus, we can tune the stress relaxation
+profile of the network by several orders of magnitude with only
+small perturbations to the sti ﬀness. The flow behavior may be
+further modulated by mixing cross-linkers with distinct rates.
+Our results suggest that in vitrimers with a common exchange
+mechanism, changing the structure of the exchange partner
+can dramatically alter the stress relaxation rate without altering
+the flow activation energy. This result is contrasted to the
+eﬀect of catalysts, which generally accelerate flow in vitrimers
+by lowering the flow activation energy. These insights will
+enable rational optimization of vitrimers to strike the balance
+between limiting creep and accelerating repair.
+Conﬂicts of interest
+There are no conflicts to declare.
+Acknowledgements
+The authors gratefully acknowledge the NSF Center for the
+Chemistry of Molecularly Optimized Networks (NSF
+CHE-1832256) and a 3M Non-Tenured Faculty Award for
+funding. This work made use of the Integrated Molecular
+Structure Education and Research Center at Northwestern,
+which has received support from the NIH (S10-OD021786-01).
+Rheological measurements were performed at the Materials
+Characterization and Imaging Facility which receives support
+from the MRSEC Program (NSF DMR-1720139) of the
+Materials Research Center at Northwestern University. The
+authors additionally thank Dr Scott Danielson, Prof. Michael
+Rubinstein, and Prof. Stephen Craig (Duke University) for
+helpful discussion as well as Mukund Kabra for help executing
+Python code, and Dr John Nardini for help with error analysis.
+References
+1 J. M. Lehn, Chem. Soc. Rev. , 2007, 36, 151–160.
+2 C. J. Kloxin and C. N. Bowman, Chem. Soc. Rev. , 2013, 42,
+7161–7173.
+3 Y. Jin, C. Yu, R. J. Denman and W. Zhang, Chem. Soc. Rev. ,
+2013, 42, 6634–6654.
+4 W. Zou, J. Dong, Y. Luo, Q. Zhao and T. Xie, Adv. Mater. ,
+2017, 29, 1606100.
+5 G. M. Scheutz, J. J. Lessard, M. B. Sims and B. S. Sumerlin,
+J. Am. Chem. Soc. , 2019, 141, 16181–16196.
+6 W. C. Yount, D. M. Loveless and S. L. Craig, J. Am. Chem.
+Soc., 2005, 127, 14488–14496.
+7 E. A. Appel, R. A. Förster, A. Koutsioubas, C. Toprakcioglu
+and O. A. Scherman, Angew. Chem., Int. Ed. , 2014, 53,
+10038–10043.
+8 Y.-C. Yu, P. Berndt, M. Tirrell and G. B. Fields, J. Am. Chem.
+Soc., 1996, 118, 12515–12520.
+9 D. D. McKinnon, D. W. Domaille, J. N. Cha and
+K. S. Anseth, Adv. Mater., 2014, 26, 865–872.
+10 V. Yesilyurt, M. J. Webber, E. A. Appel, C. Godwin,
+R. Langer and D. G. Anderson, Adv. Mater., 2016, 28,8 6–91.
+11 N. van Herck, D. Maes, K. Unal, M. Guerre, J. M. Winne
+and F. E. du Prez, Angew. Chem., 2020, 59, 3609–3617.
+12 P. Chakma, Z. A. Digby, M. P. Shulman, L. R. Kuhn,
+C. N. Morley, J. L. Sparks and D. Konkolewicz, ACS Macro
+Lett., 2019, 8,9 5–100.
+13 P. Chakma, C. N. Morley, J. L. Sparks and D. Konkolewicz,
+Macromolecules, 2020, 53, 1233–1244.
+14 L. Zhang and S. J. Rowan, Macromolecules, 2017, 50, 5051 –
+5060.
+15 S. C. Grindy, R. Learsch, D. Mozhdehi, J. Cheng,
+D. G. Barrett, Z. Guan, P. B. Messersmith and N. Holten-
+Andersen, Nat. Mater., 2015, 14, 1210–1216.
+16 T. F. Scott, A. D. Schneider, W. D. Cook and C. N. Bowman,
+Science, 2005, 308, 1615–1617.
+17 D. Montarnal, M. Capelot, F. Tournilhac and L. Leibler,
+Science, 2011, 334, 965–968.
+18 W. Denissen, J. M. Winne and F. E. du Prez, Chem. Sci. ,
+2016, 7,3 0–38.
+19 J. P. Brutman, P. A. Delgado and M. A. Hillmyer, ACS Macro
+Lett., 2014, 3, 607–610.
+20 Y. Zhou, J. G. P. Goossens, S. van den Bergen,
+R. P. Sijbesma and J. P. A. Heuts, Macromol. Rapid
+Commun., 2018, 39, 1800356.
+21 X. Niu, F. Wang, X. Li, R. Zhang, Q. Wu and P. Sun, Ind.
+Eng. Chem. Res. , 2019, 58, 5698–5706.
+22 Y.-X. Lu, F. Tournilhac, L. Leibler and Z. Guan, J. Am. Chem.
+Soc., 2012, 134, 8424–8427.
+Paper Polymer Chemistry
+5344 | Polym. Chem.,2 0 2 0 ,11, 5339–5345 This journal is © The Royal Society of Chemistry 2020
+Published on 08 April 2020. Downloaded on 2/4/2026 2:32:31 AM. 
+View Article Online
+
+===== PDF PAGE 8 =====
+23 H. Liu, A. Z. Nelson, Y. Ren, K. Yang, R. H. Ewoldt and
+J. S. Moore, ACS Macro Lett., 2018, 7, 933–937.
+24 M. Röttger, T. Domenech, R. van der Weegen, A. Breuillac,
+R. Nicolaÿ and L. Leibler, Science, 2017, 356,6 2–65.
+25 A. Breuillac, A. Kassalias and R. Nicolaÿ, Macromolecules,
+2019, 52, 7102–7113.
+26 F. Ca ﬀy and R. Nicolaÿ, Polym. Chem., 2019, 10, 3107–3115.
+27 Y. Nishimura, J. Chung, H. Muradyan and Z. Guan, J. Am.
+Chem. Soc., 2017, 139, 14881–14884.
+28 W. Denissen, M. Droesbeke, R. Nicola, L. Leibler,
+J. M. Winne and F. E. du Prez, Nat. Commun., 2017, 8, 4857.
+29 W. Denissen, G. Rivero, R. Nicolaÿ, L. Leibler, J. M. Winne
+and F. E. du Prez, Adv. Funct. Mater. , 2015, 25, 2451–2457.
+30 D. J. Fortman, J. P. Brutman, C. J. Cramer, M. A. Hillmyer
+and W. R. Dichtel, J. Am. Chem. Soc. , 2015, 137, 14019 –
+14022.
+31 R. L. Snyder, D. J. Fortman, G. X. de Hoe, M. A. Hillmyer
+and W. R. Dichtel, Macromolecules, 2018, 51, 389–397.
+32 C. He, S. Shi, D. Wang, B. A. Helms and T. P. Russell, J. Am.
+Chem. Soc., 2019, 141, 13753–13757.
+33 H. Geng, Y. Wang, Q. Yu, S. Gu, Y. Zhou, W. Xu, X. Zhang
+and D. Ye, ACS Sustainable Chem. Eng. , 2018, 6, 15463 –
+15470.
+34 T. Stukenbroeker, W. Wang, J. M. Winne, F. E. du Prez,
+R. Nicolaÿ and L. Leibler, Polym. Chem. , 2017, 8, 6590 –
+6593.
+35 Z. Ma, Y. Wang, J. Zhu, J. Yu and Z. Hu, J. Polym. Sci., Part
+A: Polym. Chem. , 2017, 55, 1790–1799.
+36 J. Tellers, R. Pinalli, M. Soliman, J. Vachon and
+E. Dalcanale, Polym. Chem., 2019, 10, 5534–5542.
+37 D. J. Fortman, J. P. Brutman, M. A. Hillmyer and
+W. R. Dichtel, J. Appl. Polym. Sci. , 2017, 134, 44984.
+38 T. E. Brown, B. J. Carberry, B. T. Worrell, O. Y. Dudaryeva,
+M. K. McBride, C. N. Bowman and K. S. Anseth,
+Biomaterials, 2018, 178, 496–503.
+39 B. T. Worrell, S. Mavila, C. Wang, T. M. Kontour, C. H. Lim,
+M. K. McBride, C. B. Musgrave, R. Shoemaker and
+C. N. Bowman, Polym. Chem., 2018, 9, 4523–4534.
+40 S. Zhao and M. M. Abu-Omar, Macromolecules, 2019, 52,
+3646–3654.
+41 J. P. Brutman, D. J. Fortman, G. X. de Hoe, W. R. Dichtel
+and M. A. Hillmyer, J. Phys. Chem. B , 2019, 123, 1432–1441.
+42 M. Hayashi and R. Yano, Macromolecules, 2020, 53, 182 –
+189.
+43 C. Taplan, M. Guerre, J. M. Winne and F. E. du Prez, Mater.
+Horiz., 2020, 7, 104–110.
+44 C. He, P. R. Christensen, T. J. Seguin, E. A. Dailing,
+B. M. Wood, R. K. Walde, K. A. Persson, T. P. Russell and
+B. A. Helms, Angew. Chem., 2020, 59, 735–739.
+45 M. Capelot, M. M. Unterlass, F. Tournilhac and L. Leibler,
+ACS Macro Lett., 2012, 1, 789–792.
+46 J. L. Self, N. D. Dolinski, M. S. Zayas, J. Read de Alaniz and
+C. M. Bates, ACS Macro Lett., 2018, 7, 817–821.
+47 K. L. Diehl, I. v. Kolesnichenko, S. A. Robotham,
+J. L. Bachman, Y. Zhong, J. S. Brodbelt and E. v. Anslyn,
+Nat. Chem., 2016, 8, 968–973.
+48 J. S. A. Ishibashi and J. A. Kalow, ACS Macro Lett. , 2018, 7,
+482–486.
+49 A. Jourdain, R. Asbai, O. Anaya, M. M. Chehimi,
+E. Drockenmuller and D. Montarnal, Macromolecules, 2020,
+53, 1884–1900.
+50 M. Guerre, C. Taplan, R. Nicolaÿ, J. M. Winne and F. E. du
+Prez, J. Am. Chem. Soc. , 2018, 140, 13272–13284.
+51 B. B. Jing and C. M. Evans, J. Am. Chem. Soc. , 2019, 141,
+18932–18937.
+52 V. Yesilyurt, A. M. Ayoob, E. A. Appel, J. T. Borenstein,
+R. Langer and D. G. Anderson, Adv. Mater. , 2017, 29,
+1605947.
+53 L. J. Dooling and D. A. Tirrell, ACS Cent. Sci. , 2016, 2, 812 –
+819.
+54 D. J. Fortman, R. L. Snyder, D. T. Sheppard and
+W. R. Dichtel, ACS Macro Lett., 2018, 7, 1226–1231.
+55 M. Chen, L. Zhou, Y. Wu, X. Zhao and Y. Zhang, ACS Macro
+Lett., 2019, 8, 255–260.
+56 Y. Chen, Z. Tang, Y. Liu, S. Wu and B. Guo, Macromolecules,
+2019, 52, 3805–3812.
+Polymer Chemistry Paper
+This journal is © The Royal Society of Chemistry 2020 Polym. Chem.,2 0 2 0 ,11, 5339–5345 | 5345
+Published on 08 April 2020. Downloaded on 2/4/2026 2:32:31 AM. 
+View Article Online

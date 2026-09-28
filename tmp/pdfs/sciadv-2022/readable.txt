@@ -1,0 +1,883 @@
+=== PAGE 1 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+APPLIED SCIENCES AND ENGINEERING Copyright©2023The
+Authors, some
+In situ modulation of intestinal organoid epithelial
+rights reserved;
+exclusivelicensee
+curvature through photoinduced viscoelasticity directs
+AmericanAssociation
+fortheAdvancement
+crypt morphogenesis
+ofScience.Noclaimto
+originalU.S.Government
+F. Max Yavitt1,2, Bruce E. Kirkpatrick1,2,3, Michael R. Blatchley1,2, Kelly F. Speckl1,2, Works.Distributed
+underaCreative
+Erfan Mohagheghian4, Radu Moldovan5, Ning Wang4, Peter J. Dempsey6, Kristi S. Anseth1,2*
+CommonsAttribution
+License 4.0(CCBY).
+Spatiotemporally coordinated transformations in epithelial curvature are necessary to generate crypt-villus
+structuresduringintestinaldevelopment.However,thetemporalregulationofmechanotransductionpathways
+that drive crypt morphogenesis remains understudied. Intestinal organoids have proven useful to study crypt
+morphogenesisinvitro,yettherelianceonstaticculturescaffoldslimitstheabilitytoassessthetemporaleffects
+ofchangingcurvature.Here, a photoinducedhydrogel cross-linkexchangereactionisused to spatiotemporally
+alter epithelial curvature and study how dynamic changes in curvature influence mechanotransduction path-
+waysto instruct crypt morphogenesis. Photopatterned curvature increased membrane tension and depolariza-
+tion, which was required for subsequent nuclear localization of yes-associated protein 1 (YAP) observed 24
+hours following curvature change. Curvature-directed crypt morphogenesis only occurred following a delay
+intheinductionofdifferentiationthatcoincidedwiththedelayinspatiallyrestrictedYAPlocalization,indicating
+thatdynamicchangesincurvatureinitiateepithelialcurvature–dependentmechanotransductionpathwaysthat
+temporally regulate crypt morphogenesis.
+INTRODUCTION undergoes a symmetry breaking event that results in differentiation
+The mammalian intestine is a highly complex and dynamic organ toPanethcellsandproducescryptstructuresthatprotrudefromthe
+that serves a variety of essential functions, including the absorption central body, forming a similar crypt-villus architecture as seen in
+of nutrients from digested foods. To aid in this function, the intes- vivo (5, 6). Hartl et al. (7) tracked changes in cell morphology
+tinal epithelium forms distinctive finger-like protrusions into the during intestinal organoid crypt development and found that spa-
+lumen, called villi, that maximize the surface area of the intestine tiallyrestrictedchangesincellshape,specificallycellularelongation
+and enhance its absorptive capacity (1). Intestinal crypts are invag- and apical narrowing in the region preceding crypt formation, were
+inations located between villi that house the secretory Paneth cells necessary to initiate crypt morphogenesis. Gjorevski et al. (8) ex-
+and leucine-rich repeat containing G protein–coupled receptor 5 ploited this geometric requirement by using micropatterned wells
+(Lgr5)–positive intestinal stem cells (ISCs). ISCs are responsible in soft hydrogels to force intestinal organoids into anisotropic ge-
+for replenishing the various absorptive and secretory cell types ometries,wherelocaldifferencesinepithelialcurvaturedirectedthe
+that maintain intestinal function, while Paneth cells help to deterministic formation of crypts. It was shown that changes in
+support ISC maintenance through cell-cell interactions and secret- tissue curvature, and the associated cellular shape and packing,
+ed signals (2). While the crypt niche is essential for maintaining the induced spatial differences in yes-associated protein 1 (YAP) local-
+ISC population and thus intestinal function, the mechanisms that ization. Cell shape generates mechanical tension that is transmitted
+direct and initiate crypt morphogenesis remain incompletely un- through cytoskeletal components to open nuclear pore complexes,
+derstood [as reviewed by Kwon et al. (3)]. enabling rapid translocation of YAP into the nucleus (9). In micro-
+Intestinal organoids are powerful in vitro models that recapitu- patternedepithelialmonolayers,YAPnucleartranslocationhasalso
+latethestructureandfunctionoftheintestinalepithelium,enabling been shown to be spatially regulated by tension-dependent varia-
+investigations into the mechanismsthat regulate crypt morphogen- tionsinrestingmembranepotential(10),aswellasintranucleardis-
+esis (4). When encapsulated in a cell culture scaffold, a single ISC tance and nuclear shape (11), mirroring findings relating to cell
+first proliferates to form a hollow spheroid, composed of a single- shape and nuclear packing within the crypt. Nuclear YAP binds
+cell layer of ISCs. Upon the induction of differentiation conditions to transcription factors to regulate gene expression (12), including
+(i.e., removal of CHIR99021 and valproic acid), this spheroid the expression of delta-like canonical Notch ligand 1, a Notch
+ligandandknownYAPtarget gene(13–15).Inintestinal organoids,
+the symmetry breaking expression of Notch ligands confers secre-
+1Department of Chemical and Biological Engineering, University of Colorado toryspecification in YAP-activated cellsthat leadsto the generation
+Boulder, Boulder, CO 80309, USA. 2BioFrontiers Institute, University of Colorado of the first Paneth cell and subsequent crypt formation (16).
+Boulder, Boulder, CO 80309, USA. 3Medical Scientist Training Program, University Whileintestinalorganoidshavebeenusedtoinvestigatehowep-
+of Colorado Anschutz Medical Campus, Aurora, CO 80045, USA. 4Department of
+ithelial curvature-induced YAP localization guides symmetry
+MechanicalScienceandEngineering,TheGraingerCollegeofEngineering,Univer-
+sityof Illinois at Urbana-Champaign, Urbana, IL 61801, USA. 5Advanced Light Mi- breaking events and crypt formation, greater knowledge of when
+croscopy Core Facility, University of Colorado Anschutz Medical Campus, Aurora, and how cells commit to differentiation following changes in
+CO80045,USA.6SectionofDevelopmentalBiology,DepartmentofPediatrics,Uni-
+tissue curvature is needed to robustly characterize and engineer
+versityof Colorado, Denver, CO 80204, USA.
+*Corresponding authoremail: Kristi.anseth@colorado.edu these living systems. Specifically, few studies have examined the
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 1 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 2 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+spatiotemporal regulation of YAP localization following changes in stem-inducing conditions (G′ = ~1.3 kPa) in synthetic hydrogels
+tissue curvature. This lack in understanding is due, in part, to the (20, 23). Equilibrated hydrogels display no frequency dependence
+reliance on static, user-defined surfaces that force epithelial cells in the absence of light (fig. S1A).
+into specific tissue geometries, which limits the study of dynamic Incorporation of the ally sulfide moiety within the network
+processes that influence tissue morphogenesis. In particular, crypt enables photoinduced, on-demand changes in hydrogel viscoelas-
+morphogenesis in vivo is influenced by time-dependent changes in ticity. In this approach, ultraviolet (UV) light irradiation generates
+tissue geometry that occur during development and regeneration. radicals from soluble photoinitiatorsthat react with pendant alkene
+Forexample,theformationofintestinalvilliduringintestinaldevel- groups of the allyl sulfide cross-links, resulting in cleavage of the
+opment wrinkles the intestinal epithelium, altering the local curva- allyl sulfide to generate network-tethered thiyl radicals (Fig. 1D).
+ture within specific intervillus domains that precede the location of These radical species then react with other allyl sulfide cross-links
+intestinalcrypts(17–19).However,thesedynamicbehaviorscannot througha reversibleaddition fragmentationchain transferreaction,
+be replicated in vitro using materials with static properties. Hence, generating new tethered thiyl radicals that can propagate and cause
+little is known about how dynamic changes in curvature influence subsequent exchange reactions (Fig. 1E). Exchange reactions
+cell signaling and crypt formation. between network tethered reactive groups lead to bond rearrange-
+In this work, we sought to develop a material platform that mentbutdonotsignificantlyaltercross-linkdensity,thereforetem-
+enables spatiotemporal control over tissue curvature to assess the porarily increasing the hydrogel loss modulus (G″) while causing a
+role of dynamic cell shape changes on crypt formation. Previous minimal decrease to the storage modulus during irradiation (G′).
+work using photodegraded channels to locally guide crypt forma- This mechanism of bond rearrangement is different than what
+tion in intestinal organoids suggested that temporally dependent has been reported in other work using allyl sulfide hydrogels (21,
+changes in cellular shape and nuclear spacing initiate crypt forma- 23, 25), which rely on cleavage of the allyl sulfide cross-link using
+tion (8). However, this work relied on local degradation of the hy- a soluble monofunctional thiol species to strictly soften hydrogels
+drogel, which is known to affect crypt development (20, 21). (i.e., reduction in G′). To assess photoinduced viscoelasticity, hy-
+Meanwhile, photomediated reactions that spatiotemporally drogels were equilibrated with 1 mM of the photoinitiator lithium
+control hydrogel viscoelasticity have been used to locally alter the phenyl-2,4,6-trimethylbenzoylphosphinate(LAP),andarheometer
+shape of mesenchymal stem cells without changing hydrogel stiff- with a light curing accessory was used to track in situ changes in G′,
+ness to decouple the two phenomena (22). Here, we use a photoin- G″, and stress (σ) during irradiation (10 mW cm−2 of a 405-nm
+duced allyl sulfide exchange reaction to generate changes in light). Because this reaction is driven by photoinduced radical gen-
+hydrogel viscoelasticity, thereby locally and controllably deforming eration, bond rearrangement only occurs for the duration of light
+intestinal organoid epithelial shape to reveal a time-delayed change exposure, providing temporal control over photoinduced bond re-
+in YAP localization in response to cell shape modulation and the arrangement. G″ monotonically increases during irradiation, indi-
+associated increase in mechanical tension and depolarization of cating increased viscoelasticity, and immediately decreases
+the epithelial resting membrane potential. By varying the timing following shuttering of the light (fig. S1B). In addition, the normal-
+of the introduction of differentiation cues, we show that this ized stress decreases throughout the duration of irradiation (fig.
+delayed localization of YAP is necessary to instruct the cell S1C).Figure1FshowsthenormalizedG′andσfollowingincreasing
+shape–dependent patterning of crypt morphogenesis. exposure times. At short exposure times of 30 and 60 s, the normal-
+ized σ significantly decreases, while there is no change in the nor-
+malized G′. However, at longer exposure times of 120 and 180 s,
+RESULTS there is a significant decrease in both the normalized G′ and σ.
+Allyl sulfide–mediated bond rearrangement facilitates Longerexposure times generate a higherconcentration of LAP rad-
+photoinduced viscoelasticity icals, which subsequently consume more allyl sulfide cross-links
+With the intention of using light to modify epithelial shape in situ, through irreversible cleavage events to significantly degrade the
+we sought to design a hydrogel platform containing photosensitive network (fig. S2A). Despite the dependency of the rate of photoini-
+allyl sulfide groups that also permitted three-dimensional (3D) en- tiation on the incident light intensity, it was found that the change
+capsulation of intestinal organoids. Cross-linked hydrogels were inmatrixpropertieswasdependentonthetotallightdose(intensity
+formed through a strain-promoted azide-alkyne cycloaddition ×time),ratherthanthelightintensity,indicatingthatconcentration
+(SPAAC) reaction between 8-arm poly(ethylene glycol) dibenzylcy- of radicals was still relatively low compared to the concentration of
+clooctyne (PEG-8DBCO) and allyl sulfide bis(PEG3-azide) allyl sulfide cross-links (fig. S2B). These results indicate that bond
+(Fig. 1A). The gelation of this SPAAC hydrogel chemistry occurs rearrangement occurs in the absence of degradation at lower light
+rapidly in solution at physiological conditions and has been doses, providing a mechanism for photoinduced bond rearrange-
+shown previously to be cytocompatible for 3D encapsulation of in- ment with minimal changes to the local hydrogel storage modulus.
+testinal organoids (21, 23, 24). Rheological characterization of gela-
+tion indicated that the gel point, estimated by the crossover of the Magnetic rotational spectroscopy reveals minimal change
+storage (G′) and loss (G″) moduli, occurred within 30 s, while 90% in G′ following spatial photopatterning
+of the final G′ was achieved in 236 ± 12 s (Fig. 1B). Following gela- While rheology was used to characterize the bulk changes in visco-
+tion, G′ reached a plateau modulus of 1170 ± 150 Pa, which did not elastic behavior in response to flood exposure to low doses of UV
+significantlychangeaftergelswereswollentoequilibriuminneutral light, we next sought to assess local changes in rheological proper-
+phosphate-buffered saline (PBS; Fig. 1C). The final equilibrated G′ ties in response to spatially patterned light. Here, a laser scanning
+was chosen on the basis of previous work that defined the optimal confocal microscope was used to photopattern regions of induced
+range of modulus values for intestinal organoid formation under viscoelasticity. A laser delivers a much higher light dose over a
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 2 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 3 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Fig.1.Hydrogelformationandphotoinducedviscoelasticresponse.(A)Chemicalstructuresof8-armpoly(ethyleneglycol)dibenzylcyclooctyne(PEG-8DBCO)and
+allyl sulfide diazide, which react through strain-promoted azide-alkyne cycloaddition (SPAAC) to form a hydrogel. (B) The shear storage modulus (G′; black) increased
+duringgelation,reaching90%oftheplateauvaluesat236±12s,whiletheshearlossmodulus(G″;gray)remainsconstant.Rheologicalplotshowsrepresentativetrace.
+(C)Hydrogelsachievedafinalstoragemodulusof1170±150Paupongelation,withnosignificantdifferenceuponequilibration.Significancewasdeterminedbyttest,
+N = 4 gels, means ± SD. (D) Incident ultraviolet (UV) light generates radicals from soluble lithium phenyl-2,4,6-trimethylbenzoylphosphinate (LAP) thatreact with allyl
+sulfidecross-linkstogeneratenetworktetheredthiylradicalspeciesthroughirreversiblefragmentation.(E)Network-tetheredthiylradicalspeciesthenreactwithother
+allylsulfidesinanexchangereaction,regeneratinganallylsulfidecross-linkandanetwork-tetheredthiylradicalspecies,whichcanthenparticipateinotherexchange
+reactions.(F)Thenormalizedmodulus(black)andstress(white)ofallylsulfidecross-linkedhydrogelsdecreasedfollowingincreasingexposuretimes405nmlightat10
+mW cm−2. Each samplewas normalized to the modulus or stress value before irradiation. Significancewas determined by two-way analysis of variance (ANOVA) with
+Tukey’s multiple comparison test; number sign (#) denotes significance compared to a 30-s normalized modulus condition, and asterisk (*) denotes significance com-
+pared to a 30-s normalized stress condition; ###P < 0.001; #### and ****P < 0.0001; N = 3 gels percondition, means ± SD. N.S., not significant.
+shortertime,comparedtoaUVlamp,whichinfluencestheconcen- corresponding to a light dose of 4 J cm−2 (Fig. 2D). At this point,
+tration of photoinitiated radicals and thus the kinetics of the allyl irreversible fragmentation from photocleaved LAP molecules led to
+sulfide bond rearrangement reaction (21). To characterize local degradation of the network that significantly decreased G′, as ob-
+changes in the hydrogel properties and identify photopatterning served byan increase in the microbar rotation. This result is consis-
+conditions that do not affect G′, we used magnetic rotational spec- tent with bulk rheological measurements, which showed increased
+troscopy (26, 27), a microrheological technique, to monitor G′ in degradation at higher light doses. In addition, these data motivate
+photopatterned regions (Fig. 2A). Magnetic microbars measuring the selection of 30% laser power, corresponding to a light dose of
+31.6 ± 1.6 μm in length and 12.6 ± 1.4 μm in width were first en- 1.80 J cm−2, as appropriate photopatterning conditions to induce
+capsulated within allyl sulfide hydrogels (Fig. 2B). Hydrogels were viscoelastic changes in cell laden hydrogels with minimal reduction
+then equilibrated with 1 mM LAP, and a laser scanning confocal in G′. This light dose is an order of magnitude lower than doses re-
+microscope was used to apply light (405 nm, 10 to 90% laser ported to cause damage to cells in literature (29).
+power) to square patterned regions in a single plane surrounding
+encapsulated microbars to initiate bond rearrangement. Because Photopatterning of viscoelasticity enables control over
+of laser light traveling through the material, irradiation of a single epithelial curvature
+plane generates a roughly uniform pattern throughout the depth of After quantifying the changes to the hydrogel mechanical proper-
+the hydrogel (fig. S3, A and B). An oscillating magnetic field was ties as a function of light dose, selected conditions for the photoin-
+applied, causing the microbars to rotate (Fig. 2C), from which the duced viscoelasticity mechanism were used to introduce spatially
+amplitude of rotation was used to calculate the shear storage defined deformations in intestinal organoid epithelia. Because the
+modulus within the photopatterned regions (28). Results show applicationoflightaffordsspatialcontroloverthematerialproperty
+that G′ remains constant until a laser power of 70% is used, changes, intestinal organoids were encapsulated within allyl sulfide
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 3 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 4 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Fig.2.Microrheologywithinphotopatternedregions.(A)Magneticmicrobarswereencapsulatedwithinanallylsulfidehydrogelnetwork,andanoscillatingmagnetic
+fieldwasapplied,causingthemicrobarstorotate.Imagesofmicrobaroscillationswereobtainedandusedtodeterminethelocalrheologicalproperties,astheamplitude
+of rotation is ameasure of the local hydrogel modulus. A laser scanning confocal microscopewasthen used to photopattern regions for photoinduced viscoelasticity
+aroundtheencapsulatedmicrobars.Inthiscase,degradationfromtheallylsulfidebondexchangereactioncausesanincreaseintheamplitude.(B)Encapsulatedmicro-
+bars were 31.6 ± 1.6 μm in length and 12.6± 1.4 μm in width. Scale bar, 30 μm. (C) Microbars within regions photopatterned with 0 (left) and 90% (right) laser power
+oscillatedbetweenaminimum(blue)andmaximum(red)amplitude.Theangleofrotationisshownformicrobarsoscillatingfollowing0%(gray)and 90%(black)laser
+power to visualize the amplitude of rotation. (D) The amplitude of microbar rotation was used to calculate G′ (see the Supplementary Materials), which decreased at
+higherlightdoses,indicatinglocalhydrogeldegradationduetoirreversiblefragmentationevents.Significancewasdeterminedbyone-wayANOVAwithTukey’smultiple
+comparisontest;**P<0.01;****P<0.0001;N=5,5,10,5,and4microbarsfor0,30,50,70,and 90%laserpower,respectively.Blackbardenotesaverage±SD,whilegray
+points denote measurements from individual microbars.
+hydrogelsandequilibratedwithphotoinitiator,andalaserscanning organoids. Presumably, the 10-μm pattern is too small to allow
+confocalmicroscopewassubsequentlyusedtorasterlocalregionsof for deformation. Meanwhile, 30-, 50-, and 70-μm wide patterns
+network bond rearrangements adjacent to encapsulated organoids generated deformations with radii of curvature of 32 ± 6.7,
+(Fig. 3A). Intestinal organoids were uniformly distributed through- 40.8±7.6,and54.6±11.2μm,respectively,basedonmeasuredcur-
+out the depth of hydrogel, such that light attenuation has an insig- vature values (Fig. 3D). In addition, the epithelial curvature was in-
+nificant effect on the hydrogel properties (fig. S3C). Specifically, sensitive to the length of the photopatterned region (fig. S5).
+irradiation initiates the photoinduced bond rearrangement mecha- Collectively, these results demonstrated that the photopatterned
+nism to relax a portion of the stress within the photopatterned region size can be used to tune the specific epithelial curvature.
+regions, resulting in localized deformation of the epithelium.
+Under growth conditions, the physical expansion of encapsulated Regions of photopatterned curvature template and direct
+organoids is restricted by elastic confinement of the hydrogel the formation of crypts
+network that generates local stresses. Relaxation of these stresses To determine whether photopatterned curvature changes could
+viathe photoinduced bond rearrangement reaction leadsto a phys- direct crypt formation, four evenly spaced photopatterned regions
+ical deformation of the organoid epithelia that can be seen imme- (50 μm in width) were first applied to regions adjacent to encapsu-
+diately after photopatterning (fig. S4). Once the light is shuttered, lated organoids, deforming initially spherical organoids into cross-
+the bond rearrangement reaction is stopped, and the hydrogel shape organoids. Twenty-four hours after patterning of the epithe-
+returns to an elastic state to preserve the state of deformation. By lial curvature, organoids were then exposed to differentiation con-
+controlling the spatial distribution of the photopatterned regions, ditions (bulk hydrogel degradation and removal of CHIR99021 and
+the shape of the organoid epithelium can be controlled. Figure 3B valproic acid) to initiate crypt formation (Fig. 4A) (21). Before dif-
+shows the patterning of eight distinct bud-like regions within a ferentiation, the application of photopatterned viscoelasticity did
+single organoid. In addition, the width of the photopatterned not impede isometric expansion in stem growth conditions (fig.
+regions ultimately determines the curvature of the deformation, S6). The angle of the resulting crypt formation was measured rela-
+with smaller patterned regions resulting in decreases in the radius tive to the initial patterned regions and used to calculate the orien-
+of curvature (Fig. 3C). A 10-μm wide pattern did not generate a tation order parameter, which is a measure of the spatial entropyof
+change in the epithelial curvature compared to unpatterned the system (see fig. S7 and Materials and Methods for further
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 4 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 5 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Fig. 3. Photopatterned viscoelasticity locallyalters epithelial curvature. (A) Application of photopatterned light initiates local hydrogel bond rearrangement, de-
+forming the epithelium within the patterned region. (B) Selection of pattern spacing can be used to generate up to eight independent deformations within a single
+organoid.Scalebars,100μm.(C)Thewidthofthephotopatterndeterminesthewidthofepithelialcurvature.(D)Epithelialcurvatureisunchangedbya10-μmpatternbut
+is decreased according to pattern width with 30-, 50-, and 70-μm patterns. Significance was determined by one-way ANOVAwith Tukey’s multiple comparison test;
+**P < 0.01; ****P < 0.0001; N = 29, 29, 103, 121, and 121 organoids for no pattern and 10-, 30-, 50-, and 70-μm conditions, respectively. Bars denote average ± SD.
+explanation) (30). Results in Fig. 4B reveal that crypts originating to 4 hours of photopatterning, organoids were stained with the
+from shape patterned organoids display a higher orientation membrane tension reporter dye Flipper-TR (31) for fluorescence
+order parameter, compared to unpatterned spherical organoids, lifetime imaging microscopy (FLIM) analysis. FlipperTR localizes
+meaning that crypts form more often from regions of photopat- to the cell membrane and has a fluorescence lifetime on the order
+terned shape change and that the directionality of crypt formation of nanoseconds, which increases or decreases when the membrane
+is more aligned. In addition, immunostaining confirmed the pres- is in tension or compression, respectively. Using a phasorapproach
+ence of lysozyme, a marker for Paneth cells, residing within the tofrequencydomain FLIManalysis(fig.S8A) (32), wemeasured an
+crypt regions (Fig. 4C). An equal number of crypts contained lyso- increase in average fluorescence lifetime of 182 ± 52 ps in patterned
+zyme positive cells in patterned (54 ± 13%) and unpatterned regions compared to unpatterned regions (Fig. 5B). Having estab-
+(49 ± 2%) organoids, while more lysozyme positive crypts existed lished that photopatterning induced curvature results in greater
+specifically within patterned regions of patterned organoids membrane tension, we next investigated the effect of curvature on
+(72 ± 9%), compared to unpatterned organoids binned in a the resting membrane potential, which is dependent on the mem-
+similar manner (50 ± 12%) (Fig. 4D). From these results, we posit brane tension (10) and has been highlighted as a possible symmetry
+that thephotoinduced changesto the local stress distribution prime breaking cue in homogenous tissues (33) and as an understudied
+patterned regions within the organoid for crypt formation through element of intestinal biomechanics (34). Using the anionic dye
+cell shape–induced mechanotransduction. bis-(1,3-diethylthiobarbituric acid) trimethine oxonol (DiSBAC )
+2
+(3), which is concentrated in regions of the lipid bilayer with in-
+Photopatterned curvature results in increased tension and creasing membrane depolarization, we quantified fluorescence in-
+membrane depolarization tensity in patterned versus unpatterned regions of the membrane
+To understand how photoinduced curvature locally activates me- and found significant depolarization in regions of high curvature
+chanotransduction pathways, we first sought to elucidate the and tension (Fig. 5C and fig. S7B). Treating organoids with TAT-
+change in mechanical tension and resting membrane potential. gap19 for 5 hours after photopatterning resulted in elimination of
+Recentworkusingmicropatternedmammaryepithelialmonolayers this clear patterning of the resting membrane potential (Fig. 5D),
+demonstrated that regions of increased tension also showed greater implicating connexin hemichannels in the maintenance of resting
+resting membrane potential (depolarization) and subsequent membrane potential patterns in intestinal organoids. Together,
+nuclear localization of YAP that drove corresponding patterns of these results show that photoinduced shape change results in
+proliferation. Treatment with the connexin hemichannel inhibitor, spatial distributions of increased tension and membrane
+TAT-gap19,blockedionchannelstodiminishthespatiallylocalized depolarization.
+patterning in membrane potential and YAP localization (10). Ap-
+preciating the potential relationship between epithelial curvature, YAP localization is delayed following curvature patterning
+membrane tension, and localized activation of stretch-sensitive With the understanding that dynamic changes in organoid curva-
+ion channels (Fig. 5A), we first aimed to determine whether mem- ture (i.e., from spherical to the induction of buds) influence the
+branetensionwasaffectedbyphotoinducedshapechange.Within2 resting membrane potential and the subsequent evolution of
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 5 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 6 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Fig. 4. Photopatterned changes in epithelial curvature template crypt formation. (A) Organoids were encapsulated into hydrogels and allowed to expand for 24
+hoursbeforeapplyingphotopatterns.The“unpatterned”conditiondidnotreceiveanylightdose.After24hours,patternedandunpatternedorganoidswereexposedto
+differentiationconditions,andcryptgrowthwasassessed48hourslater.Scalebar,50μm.(B)Theanglesofcryptformationwereusedtogenerateanorientationorder
+parameter, which is higher for patterned organoids (black) compared to unpatterned (white) organoids, indicating that crypt formation is directed and templated by
+patterned epithelial shape. Significancewas determined by t test; *P < 0.05; N = 4 and 3 gels for the patterned and unpatterned conditions, respectively. Bars denote
+average ± SD. (C) Immunostaining of differentiated organoids for nuclei (blue), F-actin (green), and lysozyme (red), a marker for Paneth cells, revealed Paneth cells
+confined to crypt ends. Scale bar, 50 μm. (D) Analysis of lysozyme distribution in patterned (black) and unpatterned (white) organoids revealed that 54 ± 13% and
+49 ± 2% of all crypts contained lysozyme-positive cells in patterned and unpatterned organoids, respectively, while 72 ± 9% and 50 ± 12% of crypts in patterned
+regionscontainedlysozyme-positivecellsinpatternedandunpatternedorganoids,respectively.Significancewasdeterminedbyone-wayANOVAwithTukey’smultiple
+comparison test; *P < 0.05; N = 4 gels. Bars denote average ± SD.
+differentiation and crypt formation, we next sought to monitor the test this hypothesis and correlate differences in YAP expression
+spatial and temporaldistribution ofYAPexpressionafterphotopat- with crypt formation events, organoids were either differentiated
+terning and the effect of YAP localization on crypt formation. immediately (0 hours) or 24 hours after patterning (Fig. 6, D and
+Recent literature has suggested tissue curvature–induced changes E).Theorientationorder parametercalculatedfororganoids differ-
+in YAP expression are a driving force in directing crypt formation entiated 0 hours after patterning (0.12 ± 0.06) was not significantly
+from ISCs (8); however, these experiments were conducted using different from that of unpatterned organoids (0.10 ± 0.02), indicat-
+geometrically defined templates that generated static organoid ing that patterning of epithelial shape does not influence crypt for-
+structures before differentiation. Hence, we applied photopatterns mation at early time points. Differentiating organoids at 24 hours
+to encapsulated organoids to induce changes in shape and then after patterning of the tissue curvature resulted in a greater orienta-
+monitoredthelocalizationofYAPovertime(Fig.6A).Immediately tion order parameter (0.37 ± 0.14) compared to the unpatterned
+after photopatterning (0 hours), YAP was evenly distributed control.BecausedifferencesinYAPlocalizationarenotrealizedim-
+between the nucleus and cytoplasm for cells located within both mediately after patterning of epithelial shape, these results support
+patterned and unpatterned regions. However, 24 hours after photo- the notion that photoinduced change in tissue curvature leads to
+patterning, a higher nuclear to cytoplasmic ratio was observed in spatially altered YAP expression, which is a driving force for sym-
+cells within patterned regions compared to cells residing in unpat- metrybreakingandcryptformation(14).Moreover,treatmentwith
+terned regions of the organoids (Fig. 6, B and C). While the data TAT-gap19 resulted in a significant decrease in YAP nuclear to cy-
+show a relatively small increase in YAP nuclear-cytoplasmic locali- toplasmic ratio in patterned versus unpatterned regions (fig. S9),
+zation,valuesofthismagnitudehavebeenreportedelsewhereinlit- suggesting that supracellular patterns in tension and resting mem-
+erature for inducing patterned changes in YAP localization that branepotentialmaybenecessaryforprogrammedYAPlocalization
+result in localized proliferation and differentiation (8, 10). This and symmetry breaking in our 3D hydrogel system.
+result suggests a temporal dependence on YAP localization,
+namely, that active changes in tissue curvature and cell shape
+precede changes in YAP localization before crypt formation. To
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 6 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 7 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Fig. 5. Induced curvature alters membrane tension and resting membrane potential. (A) Cells within regions of photoinduced shape change (black outline) are
+deformed, increasingmembrane tension and stretch-sensitive ion channelactivation compared to unpatterned regions (grayoutline). (B) Fluorescence lifetime of the
+membranetensionprobeFlipperTRincreasesinpatternedregions,indicatinghighermembranetension.N=9patterned(36regions)versus6unpatterned(22regions)
+organoids.(C)Restingmembranepotential,asmeasuredbyfluorescenceintensityofthevoltagesensitivedyeDiSBAC (3),isincreasedinpatternedregionscomparedto
+2
+unpatterned regions, suggesting thatmembrane depolarization colocalizes with increased tension. N =35 pairedpatterned versus unpatterned regions from nine or-
+ganoids.(D) Inhibition ofconnexin hemichannels withTAT-gap19 diminishes bioelectricpatterningobservedatbaseline. N= 46pairedpatternedversus unpatterned
+regions from 12 organoids. Scale bars, 50 μm. Significancewas determined by unpaired t tests with Welch’s correction; means ± SD are shown.
+DISCUSSION modulus, as elastic properties are known to be strong regulators of
+During intestinal organoid development, local changes in epithelial mechanotransduction and crypt formation in intestinal organoids
+cellshape are necessary to drivesymmetrybreakingeventsthatlead (20, 21). Figure 6C shows that photopatterned viscoelasticity alone
+to crypt formation, but there is little understanding of the role of is not enough to influence crypt formation, as only organoids dif-
+epithelial curvature induced mechanotransduction in directing ferentiated 24 hours after patterning show crypt alignment with the
+crypt development (35). Specifically, we were interested in under- photopatterned regions. If the photoinduced viscoelastic reaction
+standing how mechanotransduction pathways are temporally regu- was sufficient to degrade the network, then these patterned
+lated to influence symmetry breaking events. To answer this regions would influence crypt alignment. Instead, differentiating
+question,wesoughttodesignmaterialsthatenabledspatiotemporal immediately following patterning results in no difference in the
+control overepithelial cell shape to study the progression of mecha- alignment of crypt emergence compared to unpatterned organoids
+notransduction pathways following active changes in tissue curva- (Fig. 6D). Hence, this platform enables minimization of the effects
+ture. The photoinduced allyl sulfide bond rearrangement of hydrogel mechanics on crypt formation to isolate the role of
+mechanism was originally used to mitigate polymerization- tissue curvature on organoid development.
+induced shrinkage stresses in polymer networks (36). This Following photopatterned changes in epithelial shape, differen-
+process was later exploited in allyl sulfide cross-linked hydrogels tiation was induced by photosoftening and altering medium com-
+to spatiotemporally alter viscoelastic properties to probe the time- position to initiate crypt formation. It was found that crypts
+dependentcellularresponsesofhMSCsandtodirecttheircellshape originated from regions of photopatterned shape change with
+(22). In this work, we highlight the ability of this photoinduced higher frequency than unpatterned regions, indicating that epithe-
+bond rearrangement mechanism to temporarily alter viscoelastic lial shape can direct the location of crypt formation. Unperturbed
+properties to direct epithelial shape. In addition, while recent liter- organoid crypt morphogenesis generates a random distribution of
+ature has begun to investigate the role of matrix viscoelasticity on cryptarchitectures,includingthespacinganddistributionofcrypts,
+intestinal organoid development (37–39), the effects of temporary which contributes to culture heterogeneity and hinders the transla-
+changes in viscoelasticity have yet to be explored. Here, the pat- tionalpotentialoforganoidtechnologies(40).Instead,weshowthat
+terned application of the allyl sulfide bond rearrangement reaction control over tissue curvature can be used to template the locationof
+to discrete regions of the hydrogel relaxes stresses built up by the crypt formation, providing an opportunity to increase the homoge-
+expanding organoid, causing epithelial deformation into the pat- neityof organoid culture.Other work has used variouslithographic
+terned region to impart distinct and controllable curvature into patterningmethodstogeneratebiomaterialscaffoldsthatmimicthe
+the epithelium that persists to influence organoid crypt formation. crypt-villus architecture, forcing the development of more uniform
+This reaction occurs with minimal change to the hydrogel storage structures in an organoid monolayer culture (41–44). However, few
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 7 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 8 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Fig.6.Photopatternedshapechangeprecedes
+downstreamYAPexpressiontodirectcellfate.
+(A)Organoidswereencapsulated24hoursbefore
+photopatterningtoinduceepithelialcurvatureat
+t = 0 hours. Photopatterned organoids were
+exposed to differentiation conditions immedi-
+atelyafter photopatterning for the “0-hour” con-
+ditionand24hoursafterphotopatterningforthe
+“24-hour” condition. Organoids were fixed 48
+hoursafterdifferentiating.(B)YAP(magenta)and
+nuclei (green) in organoids, either 0 (left) or 24
+(right)hoursfollowingphotopatterningofacross
+shape. The photopatterned region is pseudo-
+colored in yellow. Scale bars, 30 μm. Insets show
+more detail of the unpatterned (top) and pat-
+terned regions (bottom) shown in the merged
+images. (C) YAP/TAZ nuclear to cytoplasmic ratio
+increased in patterned regions of organoids after
+24hoursafterpatterningbutremainsunchanged
+0 hours after patterning. Significancewas deter-
+mined by two-way ANOVAwith Tukey’s multiple
+comparisontest;*P<0.05.N=11organoidsfrom
+twogelsforthe0-hourcondition,N=8organoids
+from two gels for the 24-hourcondition. (D) Or-
+ganoids differentiated following patterning
+produce cryptsthat align with patterned shape
+changes after 24 hours. Scale bar, 50 μm. (E) Or-
+ganoids differentiated 0 hours (gray) after pat-
+terning produce cryptsthat align similar to
+unpatterned organoids (white), while organoids
+differentiated 24 hours (black) after patterning
+producecryptsthatalignwithpatterned regions.
+Significancewas determined byone-way ANOVA
+with Tukey’s multiple comparison test; *P < 0.05;
+**P<0.01;N=3,5,and4gelsforunpatterned,0
+hours, and 24 hours, respectively. Bars denote
+average ± SD.
+methods have been developed to direct organoid morphology packing on crypt morphogenesis. Regions of high curvature have
+within 3D encapsulated organoids. higher nuclear packing that results in decreased nuclear YAP acti-
+With respect to epithelial tissue, the localization of YAP is vation compared to regions with no curvature. This spatial differ-
+strongly influenced by cell shape and tissue curvature (9, 11). Pre- ence in YAP activation initiates Notch ligand expression to confer
+vious studies have identified tissue curvature–induced YAP locali- Paneth cell fate specification and crypt formation. However, this
+zation as a driving force for crypt morphogenesis. Gjorevski et al. strategy used static, nonadaptable materials that do not capture
+(8) used lithographic microwells to confine intestinal organoids in the dynamic changes in tissue curvature experienced in vivo
+elongated shapes to assess the effect of tissue curvature and cell during intestinal development nor enable investigations into the
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 8 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 9 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+temporal regulation of these mechanotransduction programs. Re- Synthesis of allyl sulfide diazide
+cently, a self-rolling elastomer thin film was used to investigate The allyl sulfide diazide cross-linker was synthesized as previously
+how epithelial sheets dynamically respond to changes in tissue cur- described (18).
+vature (45), yet this curvaturewas not spatially restricted to recapit-
+ulate the local change in curvature seen in the formation of Characterization of hydrogel formation
+intervillus domains during intestinal development. Hence, there is Hydrogels containing allyl sulfide cross-links were formed with a
+little understanding of how cells respond to active changes in tissue SPAAC reaction by mixing stock solutions of 20 weight % (wt %)
+curvature that occur during development. PEG-8DBCO in ice-cold PBS with allyl sulfide diazide in dimethyl
+Here, we show that photopatterned curvature in intestinal orga- sulfoxide (DMSO) to a final concentration of 4 wt % PEG and 2.4
+noids elicits an increase in the YAP nuclear:cytoplasmic ratio that mM allyl sulfide in PBS. The precursor solution was immediately
+can be observed 24 hours after induced shape change and is regu- vortexed for 5 s and placed as a 13-μl drop onto the bottom plate
+lated by a tension-induced gradient in resting membrane potential. of a shear oscillatory rheometer (DHR-3, TA Instruments) fitted
+This change in YAP localization was essential to template crypt for- with an 8-mm parallel plate geometry. The storage and loss
+mation, as photopatterned curvature had no effect on symmetry moduli during gelation were recorded using a strain of 5% and a
+breaking before spatially restricted YAP localization. The presented frequency of 1 Hz. Once gelled, the hydrogel was equilibrated
+photopatterning method enables spatiotemporal control over tissue with PBS on the rheometer for 30 min, and the storage and loss
+geometrytomorecloselyreplicateactivechangesintissuegeometry moduli were again recorded at the same strain and frequency.
+seen during development that could provide insight into the role of
+mechanotransduction in the regulation of intestinal development. Characterization of hydrogel degradation and stress
+Laser nanosurgeryexperiments performed by Liberali and cowork- relaxation
+ers identified increased tension (as measured by recoil velocity of Hydrogels containing allyl sulfide cross-links were formed with
+severed actin) in bulged and budded crypts (4). Because the allyl SPAAC by mixing stock solutions of 20 wt % PEG-8DBCO in ice-
+sulfide hydrogel system directly induces this increase in tension coldPBSwithallylsulfidediazideinDMSOtoafinalconcentration
+beforeanystochasticbuddingoccurs,ourresultsimplythatinternal of 4 wt % PEG and 2.4 mM allyl sulfide in PBS. The precursor so-
+feedback mechanisms likely regulate symmetry breaking events, al- lutions were immediately vortexed for 5 s and placed as 23-μl drops
+lowingforcellstointegrateinformationabouttheirphysicalstateto between two, Sigmacote-treated glass slides separated by 0.5-mm
+coordinate collective fate decisions (46). spacers. The glass slides were clamped together and set aside to
+In summary, we have used the allyl sulfide photoinduced bond gel for 10 min. The fully formed gels were then placed in 500 μl
+rearrangement reaction to spatiotemporally modulate hydrogel vis- of baths containing 1 mM LAP and 0.92 mM PEG3-azide in 100
+coelasticity to control intestinal organoid epithelial shape with mMMopsbuffer(pH7.4)toequilibratefor20min.Oscillatoryrhe-
+minimalchangetothelocalstoragemodulus.Spatiallylocalizedde- ology was performed on the gels using a TA Instruments DHR-3
+formations in epithelial shape induce membrane potential–depen- rheometer with an 8-mm parallel plate geometry. The rheometer
+dent YAP nuclear translocation that template the formation of was fitted with an adaptor to allow for light exposure from a
+intestinalcrypts.Thisplatformenablescontrolovercryptmorphol- mercury arc lamp (OmniCure) fitted with a 400- to 500-nm
+ogy to generate more homogenous multicellular architectures and band-pass filter. The storage and loss moduli were recorded at a
+enables investigations into the temporal regulation of mechano- strain of 5% and a frequency of 1 Hz before and after running a
+transduction pathways following changes in cell shape, which stress relaxation protocol. For the stress relaxation protocol, hydro-
+could provide insight into the biomechanical processes that direct gelswerebroughttoa10%strainandirradiatedwithlightat10mW
+crypt morphogenesis during intestinal development and cm−2for30,60,120,or180s.Thechangeinstressaswellasthefinal
+regeneration. and initial storage and loss moduli values were recorded.
+Calculation of LAP concentration
+MATERIALS AND METHODS Thetheoreticalphotoinitiatorconsumptioncanbecalculatedbyas-
+Synthesis of PEG-8DBCO (40 kDa) suming first-order kinetics of the photolysis reaction (47)
+Eight-arm, 40-kDa PEG-8DBCO macromers were synthesized by
+d½LAP�
+coupling DBCO C6 acid (100 mg, 0.3 mmol; Click Chemistry ¼ (cid:0) k ½LAP� ð1Þ
+Tools) to PEG-8 amine [0.5 g, 0.025 mmol, weight-average molec- dt
+ular weight (M ) = 20,000; JenKem USA] using (1-[bis(dimethyla- where the rate constant, k, is defined by
+w
+mino)methylene]-1H-1,2,3-triazolo[4,5-b]pyridinium 3-oxid
+ϕ I ε λ lnð10Þ
+hexafluorophosphate (121 mg, 0.32 mmol; ChemPep) as an activa- k ¼ o ð2Þ
+tor and N,N-diisopropylethylamine as a base (0.175 ml, 1 mmol; N A h c
+Sigma-Aldrich). The reaction was purged with argon and allowed where ϕ is the quantum yield of the initiator (assumed unity), I is
+o
+to proceed overnight. The reaction mixture was precipitated in the incident light intensity (10 mW cm−2), ε isthe molarextinction
+colddiethylether(×3)toyieldanoff-whitesolid,whichwascollect- coefficient (32 M−1 cm−1) (48) at the given wavelength λ (405 nm),
+edbycentrifugation,dissolvedinwater,dialyzed(8-kDaM W cutoff; N A is Avogadro’s number, h is Planck’s constant, and c is the speed
+Spectrum Chemical) for 48 hours against deionized water, frozen, of light. Solving this gives k = 0.0025 s−1, and then, the LAP
+and lyophilized to yield the final product (93% yield, 80% function-
+alization by 1H nuclear magnetic resonance).
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 9 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 10 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+concentration can be calculated from the integrated rate equation Here, M is the saturation magnetization for CoPt (6.5 × 105 A/
+s
+m) (52), ω is the rotation angle determined by imaging, C(n) is a
+½LAP� ¼ ½LAP� e(cid:0) 0:0025t ð3Þ
+0 shape correction factor [9.09; calculated from (28)], and μ 0 H A is
+the magnetic field strength (2.5 × 10−3 kg A−1 s−2).
+Fabrication of magnetic microbars
+An array of ferromagnetic cobalt-platinum microbars was electro- Crypt isolation and organoid culture
+plated onto a silicon substrate using previously reported methods Murine small intestinal crypts were extracted from Lgr5-eGFP-
+with some modifications (49). First, a 4-inch single side polished IRES-CreERT2 mice as previously described (20). Isolated crypts
+silicon wafer (Pure Wafer, San Jose, CA) was sputtered with a 45- were cultured as organoids by embedding in reduced growth
+nm Ti adhesion layer, followed by a 45-nm TiN diffusion barrier factorMatrigel(Corning).OrganoidsweremaintainedinAdvanced
+layer and a 80-nm Cu seed layer for electroplating (AJA ATC Dulbecco’s Modified Eagle’s Medium (DMEM)/F-12 (Invitrogen)
+Orion 8 UVH, AJA International). Following the seed layer stack containing N2 and B27 supplements (Thermo Fisher Scientific),
+deposition, the microbar pattern was then transferred on the GlutaMAX (Gibco), Hepes, and penicillin-streptomycin supple-
+wafer by first spin coating the 10-μm AZ9260 positive photoresist mented with epidermal growth factor (EGF; 50 ng/ml; R&D
+(MicroChemicals Inc.) and subsequently exposing the photoresist Systems), Noggin (100 ng/ml; PeproTech), R-spondin–conditioned
+with UV light (I line 365; EVG 620 Mask Aligner, EV Group) medium (5% v/v; Organoid & Tissue Modeling Shared Resource,
+through the chromium photomask designed by AutoCAD (Auto- CU Anschutz), CHIR99021 (3 μM; Selleckchem), and valproic
+desk Inc.). To remove any possible resist residues, the resulting acid (1 mM; Sigma-Aldrich). “Basal medium” refers to Advanced
+wafer was treated with 150-W power oxygen plasma for 3 min DMEM/F-12 supplemented with N2 and B27 supplements,
+(March Jupiter III). Electrodeposition was then carried out Hepes, and penicillin-streptomycin; while “complete medium”
+in a custom-made galvanostatic cell with 1 liter of electrolyte refers to basal medium with EGF, noggin, R-spondin,
+containing 0.025 M diamminedinitritoplatinum (II) solution CHIR99021, and valproic acid (ENRCV). The medium was
+[Pt(NH ) (NO ) ] (MilliporeSigma), 0.1 M cobaltous sulfamate changed every 2 days, and organoids were passaged every 4 days. 3 2 2 2
+[Co(NH2)2(SO3)2] (Alfa Aesar), and 0.1 M ammonium citrate The University of Colorado Institutional Animal Care and Use
+[(NH ) C H O ] (MilliporeSigma) with no stirring and using Pt Committee has approved the animal protocol (no. 00084) for this
+4 2 6 6 7
+as the counter electrode. The CoPt was deposited by applying the research.
+currentdensityof50mAcm−2for60mincorrespondingtoathick-
+ness of 7 μm. Following the deposition, the CoPt wasthen annealed Encapsulation of colonies into allyl sulfide hydrogels
+in high vacuum at 675°C in 30 min, resulting in phase transition Organoids were released from Matrigel using mechanical stimula-
+from disordered A1 phase to the ordered L10 phase with high co- tion from a pipette tip with cold basal medium and centrifuged (at
+ercivity.Last,themicrobarswere removed from thewaferwith brief 900 rpm for 4 min) to form a pellet. The pelleted organoids were
+sonication in water bath and collected in 5-ml centrifuge tube. enzymatically dissociated into single cells by incubation at 37°C
+for 8 min in 1 ml of TrypLE (Life Technologies), supplemented
+Determinationofhydrogelmodulusbymagneticrotational withdeoxyribonucleaseI(~10mg;Sigma-Aldrich),1mMN-acetyl-
+spectroscopy cysteine (Sigma-Aldrich), and 10 mM Y27632 (Stemgent). Follow-
+Magnetic microbars were encapsulated into ally sulfide hydrogels ing incubation, the single-cell suspension was diluted with 1 ml of
+and equilibrated with 1 mM LAP in Mops buffer (100 mM, pH fetal bovine serum and 3 ml of basal medium and passed through a
+7.4) for 15 min. The medium was removed, and a laser scanning 40-μm filter to remove multicellularaggregates. The single-cell sus-
+confocal microscope was used to apply a 405-nm light (1 mW) of pensionwasthencentrifuged(at1200rpmfor4min),andthepellet
+varying laser power with a pixel size of 290 nm and a dwell time of was resuspended in Matrigel, which was subsequently plated at 10-
+5.12 μs to square regions of interest (ROIs) (100 μm by 100 μm) μl drops onto awarmed 48-well plate. The cell laden Matrigel drops
+around single encapsulated microbars. Following photopatterning, wereallowedtogelfor10minat37°C,beforetheadditioncomplete
+hydrogels were placed into PBS. The hydrogels were then placed in medium supplemented with thiazovivin (2.5 mM; Stemgent). From
+in 2.9-T magnetization field of a Prisma magnetic resonance the plated single cells, intestinal colonies were allowed to form over
+imaging (Siemens Healthineers) to permanently magnetize the en- the course of 3 days. After 3 days in culture, hydrogel precursor so-
+capsulated microbar along the x axis. Following magnetization, lutions were prepared by diluting PEG-8DBCO (40 kDa) to 4 wt %
+samples were placed in 3D magnetic twisting cytometry (50), and in basal medium. Azide-functionalized Arg-Gly-Asp (RGD) (0.8
+sinusoidal twisting field (25 G at 0.3 Hz) was applied along the y mM) was added to the hydrogel precursor solutions and allowed
+axis, resulting in the plane sinusoidal rotation of the microbar, to react at room temperature for 5 min before being placed on
+andimagesoftherotatingmicrobarswerecaptured.UsingFiji[Na- ice. Once chilled, laminin (0.1 mg/ml, source) was added to the hy-
+tional Institutes of Health (NIH)], images of microbar oscillations drogelprecursorsolutionandmixedvigorously.Three-day-oldcol-
+were thresholded and masked and fit to ellipses to determine the onies were released from Matrigel using mechanical stimulation
+angle of rotation. The shear storage modulus, G′, was determined from a pipette tip with cold basal medium and centrifuged (at
+by the following equation, adapted from (51) 900 rpm for 4 min) to form a pellet. The cellpellet was resuspended
+in basal medium and added to the hydrogel precursor solutions on
+M
+G0 ¼ S μ H ð4Þ ice. Gelation was initiated by the addition of allyl sulfide diazide,
+6 ω CðnÞ 0 A and the solution was immediately vortexed for 5 s and added as
+6-μl drops sandwiched between thiol-functionalized coverslips
+and glass slides treated with Sigmacote (Sigma-Aldrich), separated
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 10 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 11 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+by250-μmspacers.Thegelswereleftfor10mintogelatroomtem- where H represents the maximum entropy, which is the natural
+max
+peratureandremovedfromtheglassslides,andgelsadheredtocov- logarithm of the number of bins (eight), while H represents the
+g
+erslips were placed wells with complete medium. entropy of an idealized grid with all crypts falling within the four
+photopatterned regions and is equal to the natural logarithm of
+Photopatterning of curvature change in encapsulated the number of photopatterned regions (four). Here, a ϕ value of 0
+organoids indicatesloworder(i.e.,uniformdistributionwithinallbins),while
+After1dayafterencapsulation,LAP (1mM) wasaddedto each well aϕvalueof1indicateshighorder(i.e.,allcryptswithinanidealized
+and allowed to equilibrate for 15 min. Individual gels attached to number of bins and minimal possible entropy).
+coverslips were removed from medium and inverted onto acircular
+rubber stand for microscopy. Photopatterning was performed on a FlipperTR tension probe FLIM imaging and analysis
+laser scanning confocal microscope (Zeiss LSM 710). Using a pixel FLIM measurements were taken on a Zeiss LSM780 (Carl Zeiss,
+sizeof290nm,fourROIsoftheappropriatewidtharrangedaround Jena, Germany) confocal microscope with ZEN and ISS FastFLIM
+a colony were scanned in a single plane with the 405-nm laser (1 softwareandatitanium:sapphireMaiTaiHP(Spectra-Physics,Mil-
+mW) at a laser power of 30% and a pixel dwell of 5.12 μs. Approx- pitas, CA) two-photon laser. FlipperTR tension probe experiments
+imately 30 colonies per gel were patterned, and then, the hydrogel were performed at a concentration of 2 μM in FluoroBrite medium
+was placed in fresh complete medium. From images of patterned (incubating for at least 20 min before imaging) using 800-nm two-
+organoids, the Fiji plugin, Kappa, was used to trace by hand the ep- photon excitation, observed through a 40× water-immersion objec-
+ithelium within the patterned region to determine the epithelial tive Zeiss Korr C-Apochromat numerical aperture of 1.2 (Carl
+curvature, κ, which was used to calculate the radius of curvature ac- Zeiss, Jena, Germany), isolated using a 488-nm longpass dichroic
+cording to the following equation mirror (Semrock Di02-R488-25-D), and detected with a Hamama-
+tsu H7422p-40 photon-counting photomultiplier tube (PMT) con-
+1
+radius of curvature ¼ ð5Þ nected to a ISS A320 FastFLIM box (ISS, Champaign, IL); lifetime
+κ
+calibration was performed with an aqueous fluorescein calibration
+solutionof1μMwitha4-nslifetime.ISSVistawasusedforanalysis
+Differentiation of patterned organoids and lifetime fitting of frequency domain FLIM data. To compare
+Gels containing photopatterned organoids were equilibrated for patterned versus unpatterned regions, organoids patterned with
+15 min with FluoroBrite medium (Thermo Fischer Scientific) con- four rectangles arrayed around a circle at 90° intervals were com-
+taining Hepes, penicillin-streptomycin, and N2 and B27 supple- paredtounpatternedorganoids.ROIswereselectedoftheorganoid
+ments, along with glutathione (15 mM; Sigma-Aldrich), LAP (1 epithelium at each quadrant for individual thresholding and life-
+mM), and PEG -azide (0.76 mM). Following equilibration, the time fitting so that each organoid resulted in four lifetime measure-
+3
+medium was removed, and the gels were exposed to 365-nm light ments (one in each patterned region), with matched values from
+at5mWcm−2for40sandimmediatelyplacedincompletemedium unpatterned organoids. Gaussian smoothing was used for phasor
+withoutCHIR99021andvalproicacid(justENR).Themediumwas analysis of FLIM data in ISS Vista.
+replaced every 2 days.
+DiSBAC (3) resting membrane potential imaging and
+2
+Analysis of crypt angle and orientation order parameter analysis
+Organoids were fixed using 4% PFA in PBS (for 30 min at room Shortly after patterning, organoids were incubated in a 2 μM solu-
+temperature) and imaged using a laser scanning confocal micro- tion of DiSBAC (3) (Thermo Fisher Scientific) in FluoroBrite
+2
+scope (Zeiss LSM 710) to collect whole organoid z-stacks with medium for at least 20 min and imaged using confocal microscopy
+transmitted light. Images were registered to align with the original (Zeiss LSM 710). High-resolution z-stacks were acquired of live or-
+photopattern, and the angle of crypt formation was manually mea- ganoids (~1-μm slices), with images centered at the apex of epithe-
+sured using the line tool in Fiji (NIH). Crypt angles were separated lial deformation following photoinduced shape change. In Fiji, a
+into eight bins, corresponding to four photopatterned regions and sum slices projection was generated, and the freeform selection
+four unpatterned regions of equal size. This binning strategy was tool was used to manually segment patterned and unpatterned
+chosen and adapted from Fedele et al. (53), in which four binning regions of epithelium. Fluorescence intensity in these regions was
+regions were each defined for the photopatterned and unpatterned measured, and all values were normalized to the average of the un-
+regions. The calculation for the orientation order parameter was patterned regions for each organoid. Representative images were
+derived from Boeing (30). Briefly, the entropyof crypt orientations, made using the “thermal” lookup table in Fiji.
+H , is given as
+o
+Tat-GAP19 treatment
+Xn
+H ¼ (cid:0) Pðo Þln Pðo Þ ð6Þ Organoids were incubated in medium with tat-GAP19 peptide and
+o i i
+addedatafinalconcentrationof50μMfor4to6hoursafterphoto-
+i¼1
+patterning for analysis of the resting membrane potential or 24
+where n represents the number of bins, i indexes the bins, and P(o
+i- hours following photopatterning for analysis of YAP localization.
+) representsthe proportion of cryptsthat fall within the ith bin. The
+orientation order parameter, ϕ, is calculated as
+YAP staining and analysis
+� �
+H (cid:0) H 2 Organoids were fixed (4% PFA in PBS for 30 min at room temper-
+ϕ ¼ 1 (cid:0) o g ð7Þ ature) immediately or 24 hours after photopatterning. Fixed orga-
+H (cid:0) aH
+max g noids were then solubilized using 0.2% Triton X-100 (Sigma-
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 11 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 12 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Aldrich) in PBS (1 hour at room temperature) and blocked using 10. B.B.Silver,A.E.Wolf,J.Lee,M.F.Pang,C.M.Nelson, Epithelialtissuegeometrydirects
+10% horse serum (Gibco) and 0.01% Triton X-100 in PBS (over- emergenceofbioelectricfieldandpatternofproliferation.Mol.Biol.Cell 31,
+1691–1702(2020).
+night at 4°C). The samples were then incubated overnight at 4°C
+11. M.Luciano,S.-L.Xue,W.H.DeVos,L.Redondo-morata,M.Surin,F.Lafont,E.Hannezo,
+with a mouse primary antibody against YAP (1:100; Santa Cruz Bi-
+S.Gabriele, Cellmonolayerssensecurvaturebyexploitingactivemechanicsandnuclear
+otechnology, sc-101199) diluted in blocking buffer. After washing mechanoadaptation.Nat.Phys. 17, 1382–1390(2021).
+with fresh PBS every hour for 5 hours to remove residual primary 12. G.Halder,S.Dupont,S.Piccolo, TransductionofmechanicalandcytoskeletalcuesbyYAP
+antibody,thesampleswereincubatedwithrhodaminephalloidin(1 andTAZ.Nat.Rev.Mol.CellBiol. 13, 591–600(2012).
+U/ml; Invitrogen), DAPI (4′,6-diamidino-2-phenylindole; 1.5 μM), 13. A.Gregorieff,Y.Liu,M.R.Inanlou,Y.Khomchuk,J.L.Wrana, Yap-dependentreprogram-
+mingofLgr5+stemcellsdrivesintestinalregenerationandcancer.Nature 526,
+and an Alexa Fluor 647 goat anti-mouse (1:1000; Invitrogen,
+715–718(2015).
+A21235) secondary antibody in blocking buffer. After washing
+14. D.Serra,U.Mayr,A.Boni,I.Lukonin,M.Rempfler,L.ChalletMeylan,M.B.Stadler,P.Strnad,
+with PBS to remove any residual antibody, the fluorescently P.Papasaikas,D.Vischi,A.Waldt,G.Roma,P.Liberali, Self-organizationandsymmetry
+labeled organoids were imaged using confocal microscopy (Zeiss breakinginintestinalorganoiddevelopment.Nature 569, 66–72(2019).
+LSM 710) to collect whole organoid z-stacks. To quantify YAP lo- 15. A.Totaro,M.Castellan,D.DiBiagio,S.Piccolo, CrosstalkbetweenYAP/TAZandNotch
+signaling.TrendsCellBiol. 28, 560–573(2018).
+calization, Fiji was used to isolate outlines of nuclei from the DAPI
+16. J.H.VanEs,M.E.VanGijn,O.Riccio,M.VanDenBorn,M.Vooijs,H.Begthel,M.Cozijnsen,
+channel, which were overlaid onto the YAP channel. Straight lines
+S.Robine,D.J.Winton,F.Radtke,H.Clevers, Notch/γ-secretaseinhibitionturnsprolifer-
+were drawn on this merged image to bisect each nucleus, passing ativecellsinintestinalcryptsandadenomasintogobletcells.Nature 435, 959–963(2005).
+through the apical and basal side of each cell. An intensity line 17. K.D.Walton,Å.Kolterud,M.J.Czerwinski,M.J.Bell,A.Prakash,J.Kushwaha,A.S.Grosse,
+scan was used to determine the fluorescent intensity along this S.Schnell,D.L.Gumucio, Hedgehog-responsivemesenchymalclustersdirectpatterning
+path, where the demarcations for the nucleus were used to deter- andemergenceofintestinalvilli.Proc.Natl.Acad.Sci.U.S.A. 109, 15817–15822(2012).
+18. K.D.Sumigray,M.Terwilliger,T.Lechler, Morphogenesisandcompartmentalizationofthe
+mine the nuclear versus cytoplasmic YAP intensity. The intensity
+intestinalcrypt.Dev.Cell 45, 183–197.e5(2018).
+values were used to calculate the nuclear:cytoplasmic ratio for
+19. A.E.Shyer,T.R.Huycke,C.Lee,L.Mahadevan,C.J.Tabin, Bendinggradients:Howthe
+cells within photopatterned and non–photopatterned regions. intestinalstemcellgetsitshome.Cell 161, 569–580(2015).
+20. N.Gjorevski,N.Sachs,A.Manfrin,S.Giger,M.E.Bragina,P.Ordóñez-Morán,H.Clevers,
+Statistical analysis M.P.Lutolf, Designermatricesforintestinalstemcellandorganoidculture.Nature 539,
+All statistical analyses were performed in Prism (GraphPad). To 560–564(2016).
+assess statistical significance, two-tailed, unpaired Student’s t test, 21. E.A.Hushka,F.M.Yavitt,T.E.Brown,P.J.Dempsey,K.S.Anseth, Relaxationofextracellular
+matrixforcesdirectscryptformationandarchitectureinintestinalorganoids.Adv.Healthc.
+one-way analysis of variance (ANOVA), and two-way ANOVAs
+Mater. 9, e1901214(2020).
+were performed, and P < 0.05 was considered significant. 22. I.A.Marozas,J.J.Cooper-White,K.S.Anseth, Photo-inducedviscoelasticityincytocom-
+patiblehydrogelsubstrates.NewJ.Phys. 21, 045004(2019).
+23. F.M.Yavitt,T.E.Brown,E.A.Hushka,M.E.Brown,N.Gjorevski,P.J.Dempsey,M.P.Lutolf,
+Supplementary Materials K.S.Anseth, Theeffectofthiolstructureonallylsulfidephotodegradablehydrogelsand
+theirapplicationasadegradablescaffoldfororganoidpassaging.Adv.Mater. 32,
+ThisPDFfileincludes:
+1905366(2020).
+SupplementaryText
+24. M.R.Blatchley,K.A.Günay,F.M.Yavitt,E.M.Hawat,P.J.Dempsey,K.S.Anseth,Adv.Mater.
+Figs.S1toS9
+34, 2109252(2022).
+25. T.E.Brown,I.A.Marozas,K.S.Anseth, Amplifiedphotodegradationofcell-ladenhydrogels
+viaanaddition-fragmentationchaintransferreaction.Adv.Mater. 29,10.1002/adma.
+REFERENCES AND NOTES
+201605001,(2017).
+1. A.M.Chin,D.R.Hill,M.Aurora,J.R.Spence, Morphogenesisandmaturationoftheem- 26. J.-F.Berret, Localviscoelasticityoflivingcellsmeasuredbyrotationalmagneticspectro-
+bryonicandpostnatalintestine.Semin.CellDev.Biol. 66, 81–93(2017). scopy.Nat.Commun. 7, 10134(2016).
+2. T.Sato,H.Clevers, Growingself-organizingmini-gutsfromasingleintestinalstemcell: 27. L.Chevry,N.K.Sampathkumar,A.Cebers,J.-F.Berret, Magneticwire-basedsensorsforthe
+Mechanismandapplications.Science 340, 241–260(2013). microrheologyofcomplexfluids.Phys.Rev.E-Stat.Nonlinear,SoftMatterPhys. 88,
+3. O.Kwon,T.-S.Han,M.-Y.Son, Intestinalmorphogenesisindevelopment,regeneration,and 062306(2013).
+disease:Thepotentialutilityofintestinalorganoidsforstudyingcompartmentalizationof 28. P.Bender,A.Tschöpe,R.Birringer, Magnetizationmeasurementsrevealthelocalshear
+thecrypt-villusstructure.Front.CellDev.Biol. 8, 593969(2020). stiffnessofhydrogelsprobedbyferromagneticnanorods.J.Magn.Magn.Mater. 372,
+4. Q.Yang,S.-L.Xue,C.J.Chan,M.Rempfler,D.Vischi,F.Maurer-gutierrez,T.Hiiragi, 187–194(2014).
+E.Hannezo,P.Liberali, Cellfatecoordinatesmechano-osmoticforcesinintestinalcrypt 29. S.Wäldchen,J.Lehmann,T.Klein,S.VanDeLinde,M.Sauer, Light-inducedcelldamagein
+formation.Nat.CellBiol. 23, 733–744(2021). live-cellsuper-resolutionmicroscopy.Sci.Rep. 5, 15348(2015).
+5. X.Yin,H.F.Farin,J.H.VanEs,H.Clevers,R.Langer,J.M.Karp, Niche-independenthigh- 30. G.Boeing, Urbanspatialorder:Streetnetworkorientation,configuration,andentropy.
+purityculturesofLgr5+intestinalstemcellsandtheirprogeny.Nat.Methods 11, Appl.Netw.Sci. 4, 67(2019).
+106–112(2014).
+31. A.Colom,E.Derivery,S.Soleimanpour,C.Tomba,M.D.Molin,N.Sakai,M.González-Gaitán,
+6. H.F.Farin,I.Jordens,M.H.Mosa,O.Basak,J.Korving,D.V.F.Tauriello,K.DePunder, S.Matile,A.Roux, Afluorescentmembranetensionprobe.Nat.Chem. 10,
+S.Angers,P.J.Peters,M.M.Maurice,H.Clevers, Visualizationofashort-rangeWntgradient 1118–1125(2018).
+intheintestinalstem-cellniche.Nature 530, 340–343(2016). 32. S.Ranjit,L.Malacrida,D.M.Jameson,E.Gratton, Fit-freeanalysisoffluorescencelifetime
+7. L.Hartl,G.Huelsz-Prince,J.vanZon,S.J.Tans, Apicalconstrictionisnecessaryforcrypt imagingdatausingthephasorapproach.Nat.Protoc. 13, 1979–2004(2018).
+formationinsmallintestinalorganoids.Dev.Biol. 450, 76–81(2019). 33. H.M.McNamara,R.Salegame,Z.AlTanoury,H.Xu,S.Begum,G.Ortiz,O.Pourquie,
+8. N.Gjorevski,M.Nikolaev,T.E.Brown,N.Brandenberg,F.DelRio,F.M.Yavitt,P.Liberali, A.E.Cohen, Bioelectricaldomainwallsinhomogeneoustissues.Nat.Phys. 16,
+K.S.Anseth,M.P.Lutolf, Tissuegeometrydrivesdeterministicorganoidpatterning.Science 357–364(2020).
+375, eaaw9021(2022). 34. N.R.Chevalier, Physicalorganogenesisofthegut.Development 149, dev200765(2022).
+9. M.Luciano,M.Versaevel,E.Vercruysse,A.Procès,Y.Kalukula,A.Remson,A.Deridoux, 35. R.M.Houtekamer,M.C.VanDerNet,M.M.Maurice,M.Gloerich, Mechanicalforcesdi-
+S.Gabriele, Appreciatingtheroleofcellshapechangesinthemechanobiologyofepi- rectingintestinalformandfunction.Curr.Biol. 32, R791–R805(2022).
+thelialtissues.Biophys.Rev. 3, 011305(2022).
+36. T.F.Scott,A.D.Schneider,W.D.Cook,C.N.Bowman, Photoinducedplasticityincross-
+linkedpolymers.Science 308, 1615–1617(2005).
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 12 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 13 ===
+SCIENCE ADVANCES | RESEARCH ARTICLE
+37. A.Elosegui-Artola,A.Gupta,A.J.Najibi,B.R.Seo,R.Garry,C.M.Tringides,I.deLázaro, 50. S.Hu,L.Eberhard,J.Chen,J.C.Love,J.P.Butler,J.J.Fredberg,G.M.Whitesides,N.Wang,
+M.Darnell,W.Gu,Q.Zhou,D.A.Weitz,L.Mahadevan,D.J.Mooney, Matrixviscoelasticity Mechanicalanisotropyofadherentcellsprobedbyathree-dimensionalmagnetictwisting
+controlsspatiotemporaltissueorganization.Nat.Mater.10.1038/s41563-022-01400-4 device.Am.J.Physiol.CellPhysiol. 287, 1184–1191(2004).
+,(2022). 51. P.Bender,A.Günther,A.Tschöpe,R.Birringer, Synthesisandcharacterizationofuniaxial
+38. D.R.Hunt,K.C.Klett,S.Mascharak,H.Wang,D.Gong,J.Lou,X.Li,P.C.Cai,R.A.Suhar, ferrogelswithNinanorodsasmagneticphase.J.Magn.Magn.Mater. 323,
+J.Y.Co,B.L.LeSavage,A.A.Foster,Y.Guan,M.R.Amieva,G.Peltz,Y.Xia,C.J.Kuo, 2055–2063(2011).
+S.C.Heilshorn, Engineeredmatricesenablethecultureofhumanpatient-derivedintes- 52. V.Alexandrakis,D.Niarchos,I.Tsiaoussis,I.Panagiotopoulos, Magnetizationreversalin
+tinalorganoids.Adv.Sci. 8, 2004705(2021). CoPt-basedhard–softhomocomposites.J.Magn.Magn.Mater. 320, 1020–1025(2008).
+39. A.Chrisnandy,D.Blondel,S.Rezakhani,N.Broguiere,M.P.Lutolf, Syntheticdynamichy- 53. C.Fedele,M.DeGregorio,P.A.Netti,S.Cavalli,C.Attanasio, Azopolymerphotopatterning
+drogelspromotedegradation-independentinvitroorganogenesis.Nat.Mater. 21, fordirectionalcontrolofangiogenesis.ActaBiomater. 63, 317–325(2017).
+479–487(2022).
+40. M.Huch,J.A.Knoblich,M.P.Lutolf,A.Martinez-Arias, Thehopeandthehypeoforganoid Acknowledgments:WethankT.Brownforsharingexpertiseinphotopatterningand
+research.Development 144, 938–941(2017). M.OhnsorgandA.Khangforfruitfuldiscussionsregardingthemechanicalcharacterizationof
+41. Y.Wang,D.B.Gunasekara,M.I.Reed,M.DiSalvo,S.J.Bultman,C.E.Sims,S.T.Magness, hydrogels.P.J.D.acknowledgesorganoidcoreservicesprovidedbyOrganoidandTissue
+N.L.Allbritton, Amicroengineeredcollagenscaffoldforgeneratingapolarizedcrypt-villus ModelingSharedResource,whicharesupported,inpart,bytheGatesCenterforRegenerative
+architectureofhumansmallintestinalepithelium.Biomaterials 128, 44–55(2017). Medicine,DiabetesResearchCentergrantP30DK116073,andCancerCenterSupportGrant
+42. R.L.Wilson,G.Swaminathan,K.Ettayebi,C.Bomidi,X.-L.Zeng,S.E.Blutt,M.K.Estes, (P30CA046934).TheFLIMexperimentswereperformedintheAdvancedLightMicroscopyCore,
+K.J.Grande-Allen, Protein-functionalizedpoly(ethyleneglycol)hydrogelsasscaffoldsfor whichispartoftheNeuroTechnologyCenterattheUniversityofColoradoAnschutzMedical
+monolayerorganoidculture.TissueEng.PartCMethods 27, 12–23(2021). Campus,supported,inpart,byRockyMountainNeurologicalDisordersCoregrantnumberP30
+43. M.Nikolaev,O.Mitrofanova,N.Broguiere,S.Geraldo,D.Dutta,Y.Tabata,B.Elci, NS048154andbyDiabetesResearchCentergrantP30DK116073.Funding:Thisworkis
+N.Gjorevski,H.Clevers,M.P.Lutolf, Homeostaticmini-intestinesthroughscaffold-guided supportedbyDARPAgrantW911NF-19-2-0024(B.E.K.);NationalInstitutesofHealthgrantsR01
+organoidmorphogenesis.Nature 585, 574–578(2020). DK120921(K.S.A.),P30-DK116073(P.J.D.),P30-CA046934(P.J.D.),F31DK126427(F.M.Y.),R01
+GM072744(N.W.),P30NS048154(R.M.),andP30DK116073(R.M.);NationalScienceFoundation
+44. J.Creff,R.Courson,T.Mangeat,J.Foncy,S.Souleille,C.Thibault,A.Besson,L.Malaquin,
+grantRECODE2033723(K.S.A.);DepartmentofEducationGraduateAssistanceinAreasof
+Fabricationof3Dscaffoldsreproducingintestinalepitheliumtopographybyhigh-resolu-
+NationalNeed(DoEdGAANN)Fellowship(F.M.Y.);andUniversityofColoradoBoulderBiological
+tion3Dstereolithography.Biomaterials 221, 119404(2019).
+SciencesInitiative(K.F.S.).Authorcontributions:F.M.Y.,M.R.B.,K.F.S.,E.M.,B.E.K.,N.W.,P.J.D.,
+45. C.Tomba,V.Luchnikov,L.Barberi,C.Blanch-Mercader,A.Roux, Epithelialcellsadaptto
+andK.S.A.Conceptualization:F.M.Y.,M.R.B.,K.F.S.,B.E.K.,P.J.D.,andK.S.A.Methodology:F.M.Y.,
+curvatureinductionviatransientactiveosmoticswelling.Dev.Cell 57,
+M.R.B.,K.F.S.,E.M.,B.E.K.,R.M.,N.W.,P.J.D.,andK.S.A.Investigation:F.M.Y.,B.E.K.,K.F.S.,andE.M.
+1257–1270.e5(2022).
+Visualization:F.M.Y.,M.R.B.,K.F.S.,E.M.,B.E.K.,N.W.,P.J.D.,andK.S.A.Supervision:N.W.,P.J.D.,and
+46. M.Zinner,I.Lukonin,P.Liberali, Designprinciplesoftissueorganisation:Howsinglecells
+K.S.A.Writing—originaldraft:F.M.Y.,M.R.B.,andK.S.A.Writing—reviewandediting:F.M.Y.,
+coordinateacrossscales.Curr.Opin.CellBiol. 67, 37–45(2020).
+M.R.B.,K.F.S.,E.M.,B.E.K.,R.M.,N.W.,P.J.D.,andK.S.A.Competinginterests:Theauthorsdeclare
+47. J.C.Grim,T.E.Brown,B.A.Aguado,D.A.Chapnick,A.L.Viert,X.Liu,K.S.Anseth, Are-
+thattheyhavenocompetinginterests.Dataandmaterialsavailability:Alldataneededto
+versibleandrepeatablethiol-enebioconjugationfordynamicpatterningofsignaling
+evaluatetheconclusionsinthepaperarepresentinthepaperand/ortheSupplementary
+proteinsinhydrogels.ACSCent.Sci. 4, 909–916(2018).
+Materials.
+48. K.L.Wiley,E.M.Ovadia,C.J.Calo,R.E.Huber,A.M.Kloxin, Rate-basedapproachfor
+controllingthemechanicalpropertiesof “thiol-ene”hydrogelsformedwithvisiblelight. Submitted21June2022
+Polym.Chem. 10, 4428–4440(2019). Accepted15December2022
+49. O.D.Oniku,B.Qi,D.P.Arnold, Electroplatedthick-filmcobaltplatinumpermanent Published20January2023
+magnets.J.Magn.Magn.Mater. 416, 417–428(2016). 10.1126/sciadv.add5668
+Yavitt et al., Sci. Adv. 9, eadd5668 (2023) 20 January 2023 13 of 13
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026
+
+=== PAGE 14 ===
+In situ modulation of intestinal organoid epithelial curvature through photoinduced
+viscoelasticity directs crypt morphogenesis
+F. Max Yavitt, Bruce E. Kirkpatrick, Michael R. Blatchley, Kelly F. Speckl, Erfan Mohagheghian, Radu Moldovan, Ning
+Wang, Peter J. Dempsey, and Kristi S. Anseth
+Sci. Adv. 9 (3), eadd5668. DOI: 10.1126/sciadv.add5668
+View the article online
+https://www.science.org/doi/10.1126/sciadv.add5668
+Permissions
+https://www.science.org/help/reprints-and-permissions
+Use of this article is subject to the Terms of service
+Science Advances (ISSN 2375-2548) is published by the American Association for the Advancement of Science. 1200 New York Avenue
+NW, Washington, DC 20005. The title Science Advances is a registered trademark of AAAS.
+Copyright © 2023 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim
+to original U.S. Government Works. Distributed under a Creative Commons Attribution License 4.0 (CC BY).
+Downloaded
+from
+https://www.science.org
+at
+Yale
+University
+on
+August
+27,
+2026

@@ -1,0 +1,562 @@
+
+
+===== PDF PAGE 1 =====
+© 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 3975
+www.advmat.de
+www.MaterialsViews.com
+wileyonlinelibrary.com
+COMMUNICATION
+  Yoshifumi   Amamoto  ,     Hideyuki   Otsuka  ,     Atsushi   Takahara  ,   *          and   Krzysztof   Matyjaszewski   *   
+ Self-Healing of Covalently Cross-Linked Polymers 
+by Reshufﬂ ing Thiuram Disulﬁ de Moieties 
+in Air under Visible Light  
+  Dr. Y . Amamoto, Prof. K. Matyjaszewski
+Department of Chemistry
+Carnegie Mellon University
+4400 Fifth Avenue, Pittsburgh, PA 15213, USA
+ E-mail:  km3b@andrew.cmu.edu   
+ Dr. Y . Amamoto, Prof. H. Otsuka, Prof. A. Takahara
+Institute for Materials Chemistry and Engineering
+Kyushu University
+744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan
+E-mail: takahara@cstf.kyushu-u.ac.jp  
+ DOI: 10.1002/adma.201201928 
+ Development of environmentally friendly materials such as 
+biodegradable materials [  1–3  ]  and polymers from renewable 
+resources receives an increasing attention. [  4  ,  5  ]  An interesting 
+approach, inspired by nature, is to prepare materials that can 
+inherently repair internal and external damages. Over the past 
+decade, self-healing polymeric materials were developed that 
+can mend themselves and recover properties after damage. 
+[  6–10  ]  
+The initial example of self-healing polymers employed encap-
+sulation of a monomer that was released after a crack reached 
+the capsule and was subsequently polymerized within the crack 
+after contact with catalyst/initiator embedded in the matrix. 
+[  11  ]  
+ Recently, materials that use reversible dissociation of 
+chemical bonds [  12  ,  13  ]  to repair macroscopic fractures, or reat-
+tachments of amputated fragments, have been reported. The 
+cross-linked copolymers are designed to retain their shape, 
+and to improve the mechanical strength of the material, by 
+incorporation of reversible chemical bonds that are utilized to 
+reattach the fractured materials. Two approaches have been 
+reported for such self-repair systems, one involving use of 
+non-covalent 
+[  14–17  ]  and the other reversible (dynamic) covalent 
+bonds. [  18–27  ]  The advantages of the non-covalent bond approach 
+include high reactivity and repeatability of the repair reaction. 
+Macroscopic self-healing systems using hydrogen bonds, 
+[  14  ]   π − π  
+stacking [  15  ]  and metal-ion binding [  17  ]  have been examined. The 
+second approach, based on reversible (dynamic) covalent bond 
+formation 
+[  12  ,  28–31  ]  could potentially provide higher mechanical 
+strength and higher stability for the self-healing materials. Ini-
+tially, systems based on reversible Diels-Alder reactions were 
+examined, 
+[  18  ,  19  ,  22  ]  followed by reversible reactions of imine 
+moieties. [  20  ]  More recently, degenerative exchanges based upon 
+bioinspired disulﬁ de exchanges [  24  ,  25  ,  32  ,  33  ]  and radical reshuf-
+ﬂ ings of trithiocarbonates. [  21  ,  23  ]  
+ These reversibly covalently cross-linked polymers have 
+inherent low reactivities that require external stimulation; 
+e.g., heat, UV, or the presence of low molecular weight chem-
+ical reactants, often solvents, relatively long reaction times or 
+an inert atmosphere to induce/allow repair. A recent trend in 
+reversible covalent approaches is autonomous self-healing or 
+weak stimulations. One of the key features to reach these goals 
+is an appropriate choice of the covalent bonds, materials prop-
+erties and reaction conditions. 
+[  20  ,  26  ,  27  ]  
+ Recently, we demonstrated the self-healing of covalently 
+cross-linked polymers under light irradiation using reshufﬂ ing 
+of trithiocarbonates. [  23  ]  These reactions required UV irradia-
+tions, and had to be carried out in nitrogen atmosphere due to 
+the carbon radicals as reactive intermediates. In this paper, we 
+report macroscopic self-healing bulk system comprising cova-
+lently cross-linked polymers based on reshufﬂ  ing of thiuram 
+disulﬁ de (TDS) units, solely under the stimulation of visible 
+light from a commercial conventional tabletop lamp in air, at 
+room temperature and without solvent. Since the S-S bonds in 
+the incorporated TDS units homolytically dissociate in visible 
+light, the radical reshufﬂ ing reactions enable the reorganization 
+of the linking units in the covalently cross-linked polymers 
+[  34–37  ]  
+and successful self-healing of signiﬁ cantly damaged polymers. 
+ Various disulﬁ de compounds can degeneratively exchange 
+in the presence of catalysts [  32  ,  38  ,  39  ]  or under UV irradiation [  40  ]  
+but often require the presence of a solvent and an inert gas. 
+This indicates that disulﬁ  de bonds with lower bond disso-
+ciation energy and oxygen tolerance are necessary in order to 
+prepare materials that can self-heal under milder conditions. 
+Therefore, we examined use of a thiuram disulﬁ  de (TDS), a 
+well known iniferter unit, 
+[  41  ]  in order to test the efﬁ  ciency of 
+degenerative exchange between TDS units in the presence of 
+visible light. First, a model reaction using two low molecular 
+weight compounds, TDS diol ( 1 ) 
+[  42  ]  and tetraethyl TDS ( 2 ), was 
+studied, as shown in  Figure    1  a. The reaction was carried out 
+by mixing acetonitrile solutions of  1  and  2  at room tempera-
+ture in the presence of air. Figure  1 b shows the variation in the 
+molar fractions of the added symmetrical TDS molecules and 
+the resulting mixed TDS product ( 3 ) with time, as evaluated by 
+HPLC. With increasing reaction time, the molar fraction of  1  
+and  2  in the reaction mixture gradually decreased from 0.5 to 
+0.25, and that of  3  increased from 0 to 0.5. The molar ratio of 
+reagents [ 1 ]:[ 2 ]:[ 3 ]  =  1:1:2 was reached already after 20 min, 
+indicating that the complete scrambling of all three thiuram 
+disulﬁ des reached the equilibrium state. In a dark place, how-
+ever, the reshufﬂ ing reaction proceeded much slower, reaching 
+the equilibrium state after 210 min (Supporting Information, 
+Figure S1). This indicates that visible light triggered homolytic 
+cleavage of the disulﬁ  de bond, as conﬁ  rmed by electron spin 
+Adv. Mater. 2012, 24, 3975–3980
+
+===== PDF PAGE 2 =====
+3976
+www.advmat.de
+www.MaterialsViews.com
+wileyonlinelibrary.com © 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+COMMUNICATION
+resonance (ESR) measurements in air at room temperature. An 
+ESR signal was detected, indicating presence of S-based radi-
+cals (Figure S2a).
+  
+ Reshufﬂ ing of TDS units could occur by two mechanisms, as 
+shown in Figure  1 c. One is through a radical transfer reaction, 
+upper scheme, in which the generated S-based radical reacts 
+with a TDS unit to form a new TDS unit. Subsequently, the 
+newly generated S-based radical reacts with another TDS unit 
+in a cascade transfer process. The other possibility is a simple 
+radical crossover reaction, Figure  1 c, lower scheme. It was 
+previously reported that the S-based radicals generated from 
+dithiocarbamate units are stable for more than two weeks. 
+[  43  ]  In 
+addition, it should be noted that this reaction proceeded under 
+ambient visible light without any additional irradiation. 
+ Precise polymer design, including structure of exchanging 
+groups, chain mobility and surface-related properties, is impor-
+tant for efﬁ cient self-healing of cross-linked polymers. In order 
+to carry out the reactions at ambient temperature in the absence 
+of a solvent, polymers with subambient  T  
+g  should be selected. 
+Also, chain mobility increases for shorter re-shufﬂ ing segments 
+and for reactive units placed in the main chain separated from 
+cross-linking points. 
+[  23  ]  
+ Therefore, in order to carry out the self-healing reaction in 
+a bulk material at room temperature, the reactive TDS units, 
+capable of re-shufﬂ ing, were incorporated in the main chain 
+of a low  T  
+g  polyurethane. The cross-linked polyurethane incor-
+porating a TDS unit was synthesized by a simple polyaddi-
+tion between a TDS diol ( 1 ), the reactive reshufﬂ ing unit, a 
+tetra(ethylene glycol) (TEG) chain extender, a triethanolamine 
+(TEA) cross-linker, and hexamethylene diisocyanate (HDI) in 
+DMF with dibutyltin dilaurate (DBTDL) as catalyst, as shown in 
+ Scheme    1  . After 10 min of polymerization, the solution stopped 
+ﬂ owing and a solid translucent cross-linked polyurethane was 
+obtained. The selection of proper molar ratios of TEA, TDS diol, 
+    Figure  1 .     Variation of molar fractions of three TDS species with time in reshufﬂ  ing reactions between 1 and 2 under visible light in acetonitrile 
+(0.02 M) at room temperature, and the proposed mechanisms: degenerative radical transfer and radical crossover reactions.  
+    Scheme  1 .     Preparation of TDS cross-linked polyurethane 4 by polyaddition of TDS diol (1), TEG, TEA, and HDI in DMF with DBTDL at room  tem-
+perature for 24 h.  
+NHO S S
+S
+N
+S
+OH OCN+
+DBTDL, DMF, r.t.
+NHO OH
+HO
+NCO+ HO O +H4
+24 h
+NO S S
+S
+N
+S
+ON
+H
+H
+N
+O
+O
+N
+H
+H
+N O
+O
+6
+O
+6ON
+O
+O
+O N
+H
+O
+N
+H
+O6
+O
+N
+O
+OX Y
+1 TEG TEA HDI
+a b c d
+4
+4
+Adv. Mater. 2012, 24, 3975–3980
+ 15214095, 2012, 29, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201201928 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 3 =====
+3977
+www.advmat.de
+www.MaterialsViews.com
+wileyonlinelibrary.com© 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+COMMUNICATION
+(length  =  12 mm, width  =  2 mm). The properties of the con-
+tacted samples after cutting, and before the exposure to light 
+(0 h, blue), show an ultimate elongation value of only 17%. This 
+value increased with the exposure time and as all signs of the 
+rupture disappeared the sample essentially recovered its original 
+mechanical properties. Figure  2 e shows variations of elongation 
+values at break with time as the self-healing progressed. After 
+12 h, the breaking points exhibited almost the same values as 
+those obtained before cutting the original material, 202%, and 
+after 12 h of self-repair, 181%. Self-healing proceeds by reor-
+ganization of the TDS units at the re-contacted surfaces. 
+ Interestingly, after the healing reaction had progressed for 
+only 12 h, some specimens did not fracture at the cut/healed 
+surfaces but in other places, indicating that healing had already 
+progressed to a considerable degree. As indicated in Table  1 , the 
+Young’s moduli of the cross-linked polymer sample  4a  before 
+and after the healing reaction are almost the same. Original 
+value was 544 kPa, and after 24 h healing 612 kPa, indicating 
+that the internal structure of the polymer network was regen-
+erated via the reshufﬂ  ing reactions. The reaction could not 
+occur through attachment of a free isocyanate group to residual 
+alcohol or urethane groups, because no self-healing was 
+observed in copolymers prepared without incorporation of TDS 
+units. This was additionally supported by the fact that no isocy-
+anate peak at 2275–2250 cm 
+ − 1  was detected in the IR spectrum, 
+only a strong urethane group peak at 1700 cm  − 1  (Figure S3). 
+Also, (Figure S2b), a peak was observed in the ESR, at  g   =  2.011, 
+and TEG are important to prepare a sufﬁ  ciently mechanically 
+stable, yet capable of self-healing polyurethane. As summarized 
+in  Table    1  , several cross-linked polymers with different mon-
+omer ratios were prepared. All of the cross-linked polyurethanes 
+have a subambient  T  
+g  ( ≈ –50  ° C to –34  ° C), which should enable 
+self-healing at room temperature. The mechanical properties of 
+all materials before and after irradiation will be discussed later 
+but the principle of self-healing by visible light irradiation is 
+ﬁ rst exempliﬁ ed by discussing the self-repair reactions of cross-
+linked polymer sample  4a  with a composition based on a mole 
+ratio of [ 1 ]/[TEG]/[TEA]/[HDI]  =  18/27/10/60. 
+  
+ The self-healing process was carried out by cutting a cylin-
+drical sample of the cross-linked polymer with a blade, sample 
+ 4a  ( Figure    2  a,b), and subsequently placing by hand the two 
+pieces in close contact for 1 min. The re-contacted samples 
+were left exposed to visible light in air at room temperature. 
+The light source was a commercial tabletop lamp. Figure  2 c 
+shows photographs of the cross-linked polymers  4a  after 24 h 
+after cutting and re-contacting together. The two pieces became 
+a single piece and all signs of the rupture in the surfaces essen-
+tially disappeared. Furthermore, in a bending test, the polymer 
+retained its integrity, just as before cutting (Figure  2 a), and the 
+shape of cross-linked polymer hardly changed.
+  
+ The results of tensile tests conducted during the self-healing 
+process with cross-linked polymer  4a  are shown in Figure  2 d. 
+The tensile tests were carried out using ﬁ lms of the cross-linked 
+polymers (thickness  ≈  1 mm) molded into dumbbell shapes 
+   T a b l e   1 .      Cross-linked polymers  4a - 4d  and their physical properties. Number of comonomer units between adjacent cross-linking points, glass transi-
+tion temperature ( T  g ) of cross-linked polymers 4a-4d, and their mechanical properties before cutting the specimens and after irradiation of the cu t 
+specimens with visible light. 
+ [ 1 ]: [TEG] Before light irradiation After light irradiation for 24 h
+ between adjacent 
+cross-linking points 
+  T   g  
+[ ° C] 
+ Young’s modulus 
+[kPa] 
+ Breaking stress 
+[kPa] 
+ Elongation at 
+break [%] 
+ Young’s modulus 
+[kPa] 
+ Breaking stress 
+[kPa] 
+ Elongation at break 
+[%] 
+ 4a 1.2: 1.8 −34 544  ±  208 392  ±  196 202  ±  46 612  ±  152 382  ±  77 175  ±  15
+ 4b 0.4: 2.6 −42 10900  ±  4700 4230  ±  873 310  ±  58 10800  ±  1360 2080  ±  300 44  ±  10.3
+ 4c 0: 3 −50 12300  ±  1820 4210  ±  992 171  ±  24 −− −
+ 4d 0.4: 0.6 −39 1520  ±  70 832  ±  125 74  ±  16 1582  ±  63 326  ±  46 22  ±  8.5
+    Figure  2 .     Photographs of TDS cross-linked polymer 4a in self-healing reaction. (a) Before self-healing reaction, (b) after cutting cross-linked polymer, 
+and (c) after self-healing reaction for 24 h. (d) Stress-strain curve, and (e) elongation value at break (%) of cross-linked po lymer 4a after irradiation 
+of visible light at room temperature over time. The plots and the error bars show average values and standard deviations for ﬁ  ve measurements, 
+respectively. The reaction was carried out by exposing 4a to visible light in bulk state and in air at room temperature. (Color  version is also shown in 
+Figure S8)  
+0
+100
+200
+08 1 6 2 4
+Elongation at break / %
+Reaction time / h
+Original
+0
+200
+400
+600
+0 50 100 150 200 250
+Original
+24h
+4h
+1h
+0h
+Stress / kPa
+Strain / %
+a)
+b)
+c)
+)e)d
+Adv. Mater. 2012, 24, 3975–3980
+ 15214095, 2012, 29, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201201928 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 4 =====
+3978
+www.advmat.de
+www.MaterialsViews.com
+wileyonlinelibrary.com © 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+COMMUNICATION
+sample  4a,  87%. Thus, the mechanical strength, Young’s mod-
+ulus, elongation at break, and healing efﬁ  ciency depend on 
+the ratio of reactive to permanent units in the polyurethane. 
+Increasing the molar ratio of TDS units in the network lowers 
+the mechanical strength of the resulting polyurethane but accel-
+erates the self-healing reaction (Figure S6). The effect of cross-
+linking density is also important. In the case of sample  4d , 
+with higher cross-linking density but same ratio of  1  and TEG, 
+mechanical strength was higher than for  4a . However, the per-
+centage of elongation was lower, and the degree of recovery was 
+inferior. The original value was 74% and after 24 h exposure 
+to light it was only 22%. This can be attributed to the higher 
+cross-linking density of the matrix which reduces the mobility 
+of the polymer chains, resulting in a more brittle material with 
+reduced reactivity. 
+ A deformation of cross-linked polymer with reversible cov-
+alent bonds can be considerable, as conﬁ  rmed by dynamic 
+mechanical analysis and creep measurements. 
+[  14  ,  26  ]   Figure    3   
+shows of angular frequency (  ω   ) dependence of storage shear 
+modulus ( G ′) and loss shear modulus ( G ″) of the cross-linked 
+polymers  4a  and  4e  at 25  ° C. The cross-linked polymer  4a  has 
+both reactive and permanent units (TDS and TEG, respectively) 
+with a composition (X and Y) of 1.2 and 1.8 between adjacent 
+cross-linking points, and  4e  has only a reactive unit (TDS) 
+with a composition (X) of 3 between adjacent cross-linking 
+points. The values of  G ′ of  4a  were almost constant in whole 
+frequency range, and was much higher than  G ″ values. These 
+plots show the rubbery plateau region of the cross-linked poly-
+mers, indicating that the material does not ﬂ  ow under small 
+stress in linear region. However, in the case of  4e , the values 
+of  G′  increased with angular frequency, and were close to  G ″ 
+values. This result suggests that the polymer  4e  is close to a 
+gel point ( G ′  ∼   G ″). 
+[  45  ]  The ability of the polymers to ﬂ ow under 
+larger stress was evaluated by creep measurements, as shown 
+that could be assigned to a S-based radical, [  44  ]  responsible for 
+the self-healing process by reshufﬂ ing of TDS units. 
+ The self-healing process requires exposure to visible light to 
+generate S-based radicals. The healing process in the dark was 
+less efﬁ cient (Figure S4, dark&dark). However, samples that 
+had been previously exposed to light were successfully cured 
+in the dark, indicating that the S-based radicals remain for a 
+relatively long time and can reshufﬂ e on the macroscopic scale 
+even without the continuous exposure to visible light (Figure S4, 
+light&dark). 
+ Nevertheless, the S-based radicals, although insensitive to 
+oxygen, can participate in some side reactions. Surfaces cut 
+and left separated for a longer time cannot heal as efﬁ  ciently 
+as fragments placed in close contact after a shorter time period. 
+The efﬁ ciency of self repair after extended periods of separation 
+was studied by conducting tensile tests on samples with the two 
+pieces left apart in air for 4 h or 24 h, before the self-healing 
+reactions were carried out under visible light during 24 h. The 
+results are shown in Figure S5. Increasing the time the sam-
+ples were left apart in air from 4 to 24 h, resulted in lower 
+elongation values, indicating a less efﬁ  cient self-healing. This 
+could result from migration of the TDS radicals to the interior 
+of the cross-linked polymer by continuous reorganization of the 
+surfaces or through loss of CS 
+2 , reducing concentration of the 
+dithiocarbamyl radicals at the surface. 
+ The effect of the comonomer ratio between  1 , TEG, and 
+TEA is important. Table  1  summarizes the mechanical prop-
+erties of samples  4a - 4d  before and after exposing freshly cut 
+samples to visible light for 24 h. Young’s modulus increased 
+with an increasing ratio of TEG to  1,  as observed for uncut  4a -
+ 4c  samples. Self-healing did not occur without the presence of 
+TDS units, sample  4c . Self-healing did proceed with sample  4b , 
+but the degree of recovery was only 14% of the original value 
+after 24 h, which is signiﬁ  cantly lower than that observed for 
+    Figure  3 .     G′ and G″ of the cross-linked polymer (a) 4a and (b) 4e against angular frequency at 25  ° C. The plots and the error bars show average values 
+and standard deviations for ﬁ  ve measurements, respectively, and the measurements were carried out under visible light with strain  =  0.01.  
+Adv. Mater. 2012, 24, 3975–3980
+ 15214095, 2012, 29, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201201928 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 5 =====
+3979
+www.advmat.de
+www.MaterialsViews.com
+wileyonlinelibrary.com© 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+COMMUNICATIONin Figure S7. Stresses of 200 kPa and 100 kPa were induced 
+to  4a , and 200 kPa to  4e . In the case of  4a , the equilibrium 
+state was reached after 150 min, and creep recovery was con-
+ﬁ rmed clearly after stress removal. This is a typical behavior 
+of a viscoelastic solid, demonstrating the shape of the material 
+can be recovered after the application of stress. On the other 
+hand, the strain of  4e  increased with the creep time, and the 
+creep recovery was less than  4a , showing higher ﬂ owability of 
+the cross-linked polymer  4e . These results indicated the higher 
+proportion of permanent units prevented the ﬂ ow of the cross-
+linked polymer  4a  under stress. The TEG units could also par-
+ticipate in hydrogen bonding, which could generate some addi-
+tional weak cross-linking points.
+  
+ In summary, we report the self-healing of covalently cross-
+linked polyurethane, using radical reshufﬂ  ing of thiuram 
+disulﬁ de units under ambient conditions; in the presence of 
+visible light, in air, at room temperature and in the absence of 
+a solvent. The visible light is available from natural sources and 
+is less harmful than UV light. These systems could enable self-
+healing of other covalently cross-linked polymers. 
+ 
+ Experimental Section 
+  Preparation of TDS cross-linked polymer (    Scheme 1   ) : In a typical run, 
+sample  4a , TDS  1  (591 mg, 1.80 mmol), TEG (524 mg, 2.70 mmol), 
+TEA (149 mg, 1 mmol), DMF (2.2 mL), and HDI (1.01 g, 6 mmol) were 
+charged to a vial then DBTDL (3 drops, 0.5% for isocyanate or alcohol 
+units) and glass tubes were added. After 24 h, the cross-linked polymer 
+was immersed in an acetonitrile with 5% methanol for 48 h, and dried 
+under vacuum to obtain a transparent straw colored solid. 
+  Self-healing reactions of TDS cross-linked polymer  : In a typical run, the 
+cross-linked polymer  4  was cut by a blade. Then, two pieces of cross-
+linked polymers were held in close contact by hand for 1 min. The 
+sample was exposed to light from a tabletop lamp (14 W, sample-to-
+lamp distance: 20 cm).   
+ Supporting Information 
+ Supporting Information is available from the Wiley Online Library or 
+from the author.  
+   Acknowledgements  
+ The authors thank the NSF (DMR-0969301), DoE (ER45998), and the 
+members of the CRP Consortium at Carnegie Mellon University for their 
+ﬁ  nancial support. We thank Prof. H. Shimakoshi and Y . Oniki for the help 
+with ESR measurements and tensile tests, respectively. Y .A. acknowledges 
+the ﬁ  nancial support for JSPS Research Fellowships for Young Scientists 
+and JSPS Postdoctoral Fellowships for Research Abroad.   
+  Received: May 13, 2012
+Published online: June 22, 2012  
+     [ 4 ]     L.   Yu  ,   K.   Dean  ,   L.   Li  ,  Prog. Polym. Sci.   2006 ,  31 ,  576 .  
+     [ 5 ]     J.   Mosnacek  ,   K.   Matyjaszewski  ,  Macromolecules   2008 ,  41 ,  5509 .  
+     [ 6 ]     M. M.   Caruso  ,   D. A.   Davis  ,   Q.   Shen  ,   S. A.   Odom  ,   N. R.   Sottos  ,  
+ S. R.   White  ,   J. S.   Moore  ,  Chem. Rev.   2009 ,  109 ,  5755 .  
+     [ 7 ]     S.   Burattini  ,   B. W.   Greenland  ,   D.   Chappell  ,   H. M.   Colquhoun  , 
+  W.   Hayes  ,  Chem. Soc. Rev.   2010 ,  39 ,  1973 .  
+     [ 8 ]     E. B.   Murphy  ,   F.   Wudl  ,  Prog. Polym. Sci.   2010 ,  35 ,  223 .  
+     [ 9 ]     D. Y .   Wu  ,   S.   Meure  ,   D.   Solomon  ,  Prog. Polym. Sci.   2008 ,  33 ,  479 .  
+    [ 10 ]     B.   Ghosh  ,   M. W.   Urban  ,  Science   2009 ,  323 ,  1458 .  
+    [ 11 ]     S. R.   White  ,   N. R.   Sottos  ,   P. H.   Geubelle  ,   J. S.   Moore  ,   M. R.   Kessler  , 
+  S. R.   Sriram  ,   E. N.   Brown  ,   S.   Viswanathan  ,  Nature   2001 ,  409 ,  794 .  
+    [ 12 ]     S. J.   Rowan  ,   S. J.   Cantrill  ,   G. R. L.   Cousins  ,   J. K. M.   Sanders  , 
+  J. F.   Stoddart  ,  Angew. Chem. Int. Ed.   2002 ,  41 ,  898 .  
+    [ 13 ]     R. J.   Wojtecki  ,   M. A.   Meador  ,   S. J.   Rowan  ,  Nat. Mater.   2011 ,  10 ,  14 .  
+    [ 14 ]     P.   Cordier  ,   F.   Tournilhac  ,   C.   Soulie-Ziakovic  ,   L.   Leibler  ,  Nature   2008 , 
+ 451 ,  977 .  
+    [ 15 ]     S.   Burattini  ,   H. M.   Colquhoun  ,   J. D.   Fox  ,   D.   Friedmann  , 
+  B. W.   Greenland  ,   P. J. F.   Harris  ,   W.   Hayes  ,   M. E.   Mackay  ,   S. J.   Rowan  , 
+ Chem. Commun.   2009 ,  6717 .  
+    [ 16 ]     Q.   Wang  ,   J. L.   Mynar  ,   M.   Yoshida  ,   E.   Lee  ,   M.   Lee  ,   K.   Okuro  ,  
+ K.   Kinbara  ,   T.   Aida  ,  Nature   2010 ,  463 ,  339 .  
+    [ 17 ]     M.   Burnworth  ,   L. M.   Tang  ,   J. R.   Kumpfer  ,   A. J.   Duncan  ,   F. L.   Beyer  , 
+  G. L.   Fiore  ,   S. J.   Rowan  ,   C.   Weder  ,  
+Nature   2011 ,  472 ,  334 .  
+    [ 18 ]     X. X.   Chen  ,   M. A.   Dam  ,   K.   Ono  ,   A.   Mal  ,   H. B.   Shen  ,   S. R.   Nutt  , 
+  K.   Sheran  ,   F.   Wudl  ,  Science   2002 ,  295 ,  1698 .  
+    [ 19 ]     B. J.   Adzima  ,   C. J.   Kloxin  ,   C. N.   Bowman  ,  Adv. Mater.   2010 ,  22 , 
+ 2784 .  
+    [ 20 ]     G. H.   Deng  ,   C. M.   Tang  ,   F. Y .   Li  ,   H. F.   Jiang  ,   Y . M.   Chen  ,  Macromol-
+ecules   2010 ,  43 ,  1191 .  
+    [ 21 ]     R.   Nicolay  ,   J.   Kamada  ,   A.   Van Wassen  ,   K.   Matyjaszewski  ,  Macromol-
+ecules   2010 ,  43 ,  4355 .  
+    [ 22 ]     N.   Yoshie  ,   M.   Watanabe  ,   H.   Araki  ,   K.   Ishida  ,  Polym. Degrad. Stab.   
+ 2010 ,  95 ,  826 .  
+    [ 23 ]     Y .   Amamoto  ,   J.   Kamada  ,   H.   Otsuka  ,   A.   Takahara  ,   K.   Matyjaszewski  , 
+ Angew. Chem. Int. Ed.   2011 ,  50 ,  1660 .  
+    [ 24 ]     J.   Canadell  ,   H.   Goossens  ,   B.   Klumperman  ,  Macromolecules   2011 , 
+ 44 ,  2536 .  
+    [ 25 ]     B. D.   Fairbanks  ,   S. P.   Singh  ,   C. N.   Bowman  ,   K. S.   Anseth  ,  Macro-
+molecules   2011 ,  44 ,  2444 .  
+    [ 26 ]     K.   Imato  ,   M.   Nishihara  ,   T.   Kanehara  ,   Y .   Amamoto  ,   A.   Takahara  , 
+  H.   Otsuka  ,  Angew. Chem. Int. Ed.   2012 ,  51 ,  1138 .  
+    [ 27 ]     P.   Zheng  ,   T. J.   McCarthy  ,  J. Am. Chem. Soc.   2012 ,  134 ,  2024 .  
+    [ 28 ]     F.   Maes  ,   D.   Montarnal  ,   S.   Cantournet  ,   F.   Tournilhac  ,   L.   Corte  , 
+  L.   Leibler  ,  Soft Matter   2012 ,  8 ,  1681 .  
+    [ 29 ]     D.   Montarnal  ,   M.   Capelot  ,   F.   Tournilhac  ,   L.   Leibler  ,  Science   2011 , 
+ 334 ,  965 .  
+    [ 30 ]     Y .   Chen  ,   A. M.   Kushner  ,   G. A.   Williams  ,   Z.   Guan  ,  Nat. Chem.   2012 , 
+DOI: 10.1038/NCHEM.1314.  
+    [ 31 ]     M. W.   Urban  ,  Nat. Chem.   2012 ,  4 ,  80 .  
+    [ 32 ]     J.   Kamada  ,   K.   Koynov  ,   C.   Corten  ,   A.   Juhari  ,   J. A.   Yoon  ,   M. W.   Urban  , 
+  A. C.   Balazs  ,   K.   Matyjaszewski  ,  Macromolecules   2010 ,  43 ,  4133 .  
+    [ 33 ]     J. A.   Yoon  ,   J.   Kamada  ,   K.   Koynov  ,   J.   Mohin  ,   R.   Nicolay  ,   Y . Z.   Zhang  , 
+  A. C.   Balazs  ,   T.   Kowalewski  ,   K.   Matyjaszewski  ,  Macromolecules   2012 , 
+ 45 ,  142 .  
+    [ 34 ]     T. F.   Scott  ,   A. D.   Schneider  ,   W. D.   Cook  ,   C. N.   Bowman  ,  Science  
+ 2005 ,  308 ,  1615 .  
+    [ 35 ]     Y .   Amamoto  ,   M.   Kikuchi  ,   H.   Masunaga  ,   S.   Sasaki  ,   H.   Otsuka  , 
+  A.   Takahara  ,  Macromolecules   2009 ,  42 ,  8733 .  
+    [ 36 ]     Y .   Amamoto  ,   M.   Kikuchi  ,   H.   Masunaga  ,   H.   Ogawa  ,   S.   Sasaki  , 
+  H.   Otsuka  ,   A.   Takahara  ,  Polym. Chem.   2011 ,  2 ,  957 .  
+    [ 37 ]     Y .   Amamoto  ,   H.   Otsuka  ,   A.   Takahara  ,   K.   Matyjaszewski  ,  ACS Macro 
+Lett   2012 ,  1 ,  478 .  
+    [ 38 ]     N. V.   Tsarevsky  ,   K.   Matyjaszewski  ,  Macromolecules   2002 ,  35 ,  9009 .  
+    [ 39 ]     J. K.   Oh  ,   C. B.   Tang  ,   H. F.   Gao  ,   N. V.   Tsarevsky  ,   K.   Matyjaszewski  ,
+  J. Am. Chem. Soc.   2006 ,  128 ,  5578 .  
+      [ 1 ]     Y .   Poirier  ,   D. E.   Dennis  ,   K.   Klomparens  ,   C.   Somerville  ,  Science   1992 , 
+ 256 ,  520 .  
+     [ 2 ]     T.   Kaneko  ,   T. H.   Thi  ,   D. J.   Shi  ,   M.   Akashi  ,  Nat. Mater.   2006 ,  5 ,  966 .  
+     [ 3 ]     J. K.   Oh  ,   D. J.   Siegwart  ,   H. I.   Lee  ,   G.   Sherwood  ,   L.   Peteanu  , 
+  J. O.   Hollinger  ,   K.   Kataoka  ,   K.   Matyjaszewski  ,  J. Am. Chem. Soc.   
+ 2007 ,  129 ,  5939 .  
+Adv. Mater. 2012, 24, 3975–3980
+ 15214095, 2012, 29, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201201928 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 6 =====
+3980
+www.advmat.de
+www.MaterialsViews.com
+wileyonlinelibrary.com © 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+COMMUNICATION
+    [ 40 ]     H.   Otsuka  ,   S.   Nagano  ,   Y .   Kobashi  ,   T.   Maeda  ,   A.   Takahara  ,  Chem. 
+Commun.   2010 ,  46 ,  1150 .  
+    [ 41 ]     T.   Otsu  ,  J. Polym. Sci. Pol. Chem.   2000 ,  38 ,  2121 .  
+    [ 42 ]     C. P. R.   Nair  ,   G.   Clouet  ,   P.   Chaumont  ,  J. Polym. Sci. Pol. Chem.   1989 , 
+ 27 ,  1795 .  
+    [ 43 ]     L. M.   Garcia-Con  ,   M. J.   Whitcombe  ,   E. V.   Piletska  ,   S. A.   Piletsky  , 
+ Angew. Chem. Int. Ed.   2010 ,  49 ,  4075 .  
+    [ 44 ]     R.   Steudel  ,   Y .   Steudel  ,   A. M.   Mak  ,   M. W.   Wong  ,  J. Org. Chem.   2006 , 
+ 71 ,  9302 .  
+    [ 45 ]     H. H.   Winter  ,   F.   Chambon  ,  J. Rheol.   1986 ,  30 ,  367 .   
+Adv. Mater. 2012, 24, 3975–3980
+ 15214095, 2012, 29, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201201928 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,1139 @@
+=== PAGE 1 ===
+Biomaterials - Engineering Cell Behavior
+Phototunable Viscoelasticity in Hydrogels Through Thioester Exchange
+BENJAMIN J. C ARBERRY,1,2 VARSHA V. R AO,1,2 and K RISTI S. A NSETH1,2
+1Department of Chemical and Biological Engineering, University of Colorado, Boulder, USA; and 2BioFrontiers Institute,
+University of Colorado, Boulder, CO, USA
+(Received 9 August 2019; accepted 14 January 2020; published online 4 February 2020)
+Associate Editor Debra T. Auguste oversaw the review of this article.
+Abstract—Mechanical cues are delivered to resident cells by
+the extracellular matrix and play an important role in
+directing cell processes, ranging from embryonic develop-
+ment and cancer metastasis to stem cell differentiation.
+Recently, cellular responses to viscoelastic and elastic
+mechanical cues have been studied; however, questions
+remain as to how cells identify and transduce these cues
+differently. We present a synthetic cell culture substrate with
+viscoelastic properties based on thioester exchange chemistry
+that can be modulated in situ with the photoinitiated thiol-
+ene ‘click’ reaction. With this method, stress relaxation in
+thioester hydrogels with an average relaxation time of
+740,000 s can be switched off in the presence of cells without
+change to the elastic modulus. NIH 3T3 ﬁbroblasts, cultured
+for 48 h on viscoelastic compared to elastic thioester sub-
+strates, displayed increased cell area (660–560 lm2) and
+increased nuclear to cytoplasmic YAP/TAZ ratios (2.4 to
+2.2) when cultured on elastic compared to viscoelastic
+hydrogels, respectively. Next, when the viscoelasticity was
+switched off after 24 h, the ﬁbroblasts responded to this
+change and exhibited an average cell area of 540 lm2, and
+nuclear to cytoplasmic YAP/TAZ ratio of 2.1, approaching
+that of the control elastic gels. Phototunable viscoelastic
+thioester hydrogels provide a tunable materials system to
+investigate time-dependent cellular responses to viscoelastic-
+ity and should prove useful for understanding the dynamics
+of mechanoresponsive cellular pathways.
+Keywords—NIH 3T3 ﬁbroblasts, Covalent adaptable net-
+work, Mechanotransduction, Tunable viscoelasticity, Pho-
+toresponsive biomaterial.
+ABBREVIATIONS
+ECM Extracellular matrix
+hMSC Human mesenchymal stem cell
+YAP Yes-associated protein
+TAZ Transcriptional co-activator with PDZ
+binding motif
+DMEM Dulbecco’s modiﬁed Eagle’s media
+NB COOH 5-Norbornene-2-carboxylic acid
+(Norbornene COOH)
+PBS Phosphate buffered saline
+FBS Fetal bovine serum
+kDa Kilodalton
+PEG Poly(ethylene glycol)
+TENB Thioester Norbornene
+LAP Phenyl-2,4,6-trimethylbenzoylphosphi-
+nate
+PFA Paraformaldehyde
+BSA Bovine serum albumin
+HATU N-[(Dimethylamino)-1H-1,2,3-triazolo-
+[4,5-b]pyridin-1-ylmethylene]-N-methyl-
+methanaminium hexaﬂuorophosphate
+N-oxide
+INTRODUCTION
+The extracellular matrix (ECM) is more than a ﬁ-
+brous protein-based material in which cells reside; it is
+a conduit for a multitude of signals that cells can rec-
+ognize and to which they can respond. ECM
+mechanics are one such signal. Speciﬁcally, the eﬀect of
+tissue elasticity on cell behavior has been well studied
+in the literature (e.g., Engler et al. 10 and reviewed by
+Guilak et al. 13). When independently manipulated,
+tissue elasticity plays an important role in key events in
+Address correspondence to and Kristi S. Anseth, BioFrontiers
+Institute, University of Colorado, Boulder, CO, USA. Electronic
+mail: Kristi.Anseth@colorado.edu
+Annals of Biomedical Engineering , Vol. 48, No. 7, July 2020 (/C211 2020) pp. 2053–2063
+https://doi.org/10.1007/s10439-020-02460-w
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+0090-6964/20/0700-2053/0 /C211 2020 Biomedical Engineering Society
+2053
+
+=== PAGE 2 ===
+embryonic development, 14 the progression of ﬁbro-
+sis,15 and cancer metastasis. 22 However, the view that
+mechanically active cells only respond to elasticity has
+been complicated by the discovery that cells respond to
+other mechanical properties too.
+For example, the time-dependent, or viscoelastic,
+mechanical properties of the ECM and biomaterial
+mimics have been shown to be an equally important
+driver of cell processes as time-independent properties
+(e.g., elastic modulus). In some cases, evidence suggests
+that viscoelasticity and elastic modulus are indepen-
+dent control knobs that can elicit similar trends,
+including the extent of cell spreading, 3,5 nuclear
+localization of mechanically sensitive transcription
+regulators (e.g., YAP/TAZ), 5,9 and bias of human
+mesenchymal stem cell (hMSC) fate decisions. 6 How-
+ever, when Darnell et al. . examined the transcriptional
+changes that occurred when hMSCs were cultured on
+soft vs. stiff materials, and compared them to the
+transcriptional changes of hMSCs cultured on slow vs.
+fast stress relaxing substrates, many of the changes in
+gene transcription were not the same; there were in fact
+differences in how the cells sensed these cues. 7 In the
+case of secreted immunomodulatory factors by cells,
+matrix elasticity has been shown to change how
+hMSCs respond to viscoelastic mechanical cues. 20
+Understanding and deconvoluting this nuanced rela-
+tionship between elastic and viscoelastic cues is of
+broad interest to the biomaterials ﬁeld. This informa-
+tion will not only provide fundamental insight about
+the time scales of cellular responses during mechan-
+otransduction, but may further inform design princi-
+ples for the development of the next generation of
+biomaterials for cell-based therapies.
+The ability of the ﬁeld to interrogate the interplay
+between viscoelastic and elastic cues is driven by the
+development of new materials. Among the early stud-
+ies, Cameron et al. . tuned the loss modulus of poly-
+acrylamide hydrogels between 1 and 130 Pa by
+changing the length of encapsulated linear polyacry-
+lamide chains, while leaving the storage modulus
+constant; they observed increased spreading, prolifer-
+ation and differentiation potential of hMSCs with
+increasing substrate creep. 3 These ﬁndings were later
+corroborated when Chaudhuri et al. used ionically
+crosslinked alginate hydrogels with stress relaxation
+properties inherently decoupled from elastic modulus
+and found that faster rates of stress relaxation led to
+not only increased cell spreading and proliferation of
+hMSCs,5 but also biased them towards an osteogenic
+phenotype.6
+Motivated by these initial studies that showcased
+the importance of viscoelastic properties, many in the
+ﬁeld became interested in developing covalent adapt-
+able chemistries for use in hydrogels. In these materi-
+als, viscoelastic properties arise from the kinetics of the
+selected covalent adaptable chemistry allowing for
+viscoelastic properties to be built into a wide array of
+materials and architectures. McKinnon et al. devel-
+oped PEG hydrogels with reversible hydrazone bonds
+that could be engineered with aliphatic aldehydes to
+relax rapidly s1
+2
+/C24 10s
+/C16/C17
+or benzaldehydes to relax
+more slowly s1
+2
+/C24 2400s
+/C16/C17
+, and demonstrated that
+encapsulated C2C12s adopted extended morphologies
+in fast relaxing materials. 17 In a similar vein, Tang
+et al. demonstrated how orthogonal boronic ester and
+dibenzocyclooctyne azide crosslinking chemistries
+could be used to investigate the viscoelastic and elastic
+effects of covalent chemistries on hMSC morphology. 19
+These works that showed how dynamic chemistries
+could be used to form materials of varied viscoelastic
+properties, and we became interested in how covalent
+adaptable chemistries could be used to manipulate vis-
+coelastic properties in situ . In one recent example,
+Marozas et al. used an allyl sulﬁde functionalized
+hydrogel and a photoinitiator catalyzed allyl sulﬁde
+exchange to resolve relaxation of cytoskeletal tension in
+individual cell processes by patterning viscoelastic
+regions into the material with light at high resolution.
+Building from this concept, we sought to exploit on the
+versatility of thioester hydrogels 2 and their viscoelastic
+properties to develop a cell culture system where vis-
+coelasticity could be turned off on demand.
+In thioester containing materials, free thiol species
+react with thioester groups to drive the exchange of
+crosslinks that gives rise to viscoelasticity. 2 By con-
+trolling the concentration of pendant thiols in a
+thioester crosslinked hydrogel, viscoelastic properties
+can be tuned over a broad range of timescales. With
+the aid of a ‘click’ reaction, like the photoinitiated
+thiol-ene reaction, thiol groups can be efﬁciently con-
+sumed, and thioester viscoelasticity reduced, through a
+means that is cytocompatible and spatiotemporally
+controlled with light. 16
+In this contribution, experiments demonstrated how
+thioester hydrogels can be formulated to modulate
+viscoelastic material properties in situ . Results show
+that control of the concentration of tethered thiols in
+thioester materials gives rise to lasting temporal con-
+trol over viscoelastic properties. In combination with a
+photoinitiated thiol-ene reaction, the viscoelastic
+properties of cell laden materials were manipulated
+in situ in a cytocompatible way that left the elastic
+modulus unchanged. Selected materials were used to
+measure the response of NIH 3T3 ﬁbroblast cells to a
+switch from a viscoelastic environment to an elastic
+environment. By measuring cell area and the nuclear
+translocation of yes-associated protein (YAP) and
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+CARBERRY et al.2054
+
+=== PAGE 3 ===
+transcriptional co-activator with PDZ binding motif
+(TAZ), we conﬁrmed cells responded to a switch from
+a viscoelastic to an elastic microenviroment. The con-
+trol over viscoelastic properties that switchable thioe-
+ster materials allow researcher to explore new
+fundamental questions related viscoelasticity and the
+cellular processes involved.
+MATERIALS AND METHODS
+Materials
+Unless otherwise noted, all reagents were purchased
+from Sigma Aldrich or Fisher Scientiﬁc and used
+without further puriﬁcation. 5-Norbornene-2-car-
+boxylic acid (97%, predominately endo isomer) was
+purchased from Alfa Aesar and used without further
+puriﬁcation. Dulbecco’s modiﬁed Eagle’s media
+(DMEM), phosphate buﬀered saline (PBS), fetal bo-
+vine serum (FBS), penicillin–streptomycin, Ampho-
+tericin B, and trypsin/EDTA were all purchased from
+ThermoFisher. 8-arm 20 kDa poly(ethylene glycol)
+thiol was purchased from JenKem Technologies and
+used without further puriﬁcation. The norbornene
+functionalized cell adhesion peptide Norborne-
+RGDSG was synthesized according to a previously
+published protocol. 15 NIH/3T3 ﬁbroblasts were
+acquired from the American Type Culture Collection
+(ATCC CRL1658).
+Synthesis of 8-arm 20 kDa Poly(ethylene glycol)
+Thioester Norbornene (TENB)
+An oven dried 100 mL round bottomed ﬂask was
+charged with 0.3 mL of 5-norbornene-2-carboxylic
+acid (338 mg, 2.45 mol), 760 mg of N-[(Dimethy-
+lamino)-1H-1,2,3-triazolo-[4,5-b]pyridin-1-ylmethylene]-
+N-methylmethanaminium hexaﬂuorophosphate N-ox-
+ide (HATU, 2.0 mmol), and 0.5 mL 4-methylmor-
+pholine (460 mg, 4.5 mmol) were combined with
+20 mL of anhydrous dimethylformamide. The reaction
+was purged for 15 min, 1000 mg of 8-arm 20 kDa
+poly(ethylene glycol) (PEG) thiol (0.05 mmol) was
+added and the reaction was purged for an additional
+20 min. The reaction was stirred at room temperature
+for 20 h under an argon environment. The reaction
+was concentrated in vacuo and precipitated in cold
+diethyl ether twice. The resulting white powder puriﬁed
+by dialysis (8 kDa molecular weight cutoff). The
+puriﬁed product was lyophilized to yield 900 mg (84%
+yield with 85% functionalization veriﬁed by NMR
+according to previously published protocols 1,12 (SI
+Figure S1). 1H NMR (400 MHz, CDCl 3) d 6.29–5.82
+(m, 2H), 3.99–3.42 (m, 1818H) Functionalization
+was later conﬁrmed to be 97% by rheology
+(SI Figure S2).
+Synthesis of PEG Thioester Hydrogels
+8-arm PEG thiol ( Mw = 20 kDa) and 8-arm PEG
+thioester norbornene ( Mw = 21 kDa) were combined
+in a pre-gel mixture with a thiol to norbornene func-
+tion group ratio of 2:1 and a total polymer content of
+4 wt% by mass. Lithium phenyl-2,4,6-trimethylben-
+zoylphosphinate (LAP) was used as a photoinitiator
+and was synthesized as previously described. 11 LAP
+and norbornene-RGDSG were incorporated at a ﬁnal
+concentration of 1 mM. Viscoelastic thioester hydro-
+gels formed readily when exposed to 10 mW cm 22 of
+365 nm UV light for 60 s.
+Elastic hydrogels were then formed by swelling
+viscoelastic thioester hydrogels (described above) in a
+solution containing 1 mM LAP, 10 mM 5-nor-
+bornene-2-carboxylic acid, and 200 mM MOPS buﬀer
+titrated to a pH of 7.4, for 30 min. The hydrogels were
+then exposed to 100 s of 10 mW cm 22 of 365 nm UV
+light. Swollen hydrogels were then either swollen in
+PBS for 20 min and characterized or swollen overnight
+and seeded with cells.
+Material Characterization
+Hydrogel formation was characterized using oscil-
+latory shear rheology on a TA Instruments stress-
+controlled rheometer. The pre-hydrogel mixture was
+loaded onto the instrument and subjected to 60 s of
+10 mW cm 22 365 nm UV light followed by the appli-
+cation of a ring of mineral oil to prevent dehydration.
+Evolution of shear elastic and loss moduli was
+recorded using a time sweep at 1% strain and a fre-
+quency of 1 s 21. Stress relaxation was then character-
+ized by a stress relaxation at a ﬁxed gap width; a 10%
+strain was applied to each sample, and the resulting
+stress was monitored for 5400 s.
+Characterization of swollen hydrogels was con-
+ducted using a constant axial force of 0.2 N and a PBS
+bath to prevent dehydration. Shear elastic and loss
+moduli were quantiﬁed with a time sweep at 10%
+strain and 0.05 s 21. Stress relaxation was then char-
+acterized by a stress relaxation at a constant axial force
+of 0.2 N; a 10% strain was applied to each sample over
+a period of 5 s, and the resulting stress was monitored
+for 5400 s. For longer experiments an oil ring was used
+to prevent dehydration.
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+Phototunable Viscoelasticity in Hydrogels Through Thioester Exchange 2055
+
+=== PAGE 4 ===
+NIH-3T3 Culture on Hydrogel and Expansion on Tissue
+Culture Plastic
+NIH-3T3 ﬁbroblasts were cultured in experimental
+media (high glucose Dulbecco’s Modiﬁed Eagle Med-
+ium 4.5 g L 21 glucose) supplemented with 10% FBS,
+50 lgm L 21 penicillin, 50 lgm L 21 streptomycin, and
+0.5 lgm L 21 of Amphotericin B. NIH-3T3s were then
+trypsinized and seeded on the hydrogels at a density of
+16,000 cm 2cells21 for immunostaining analysis.
+Switch oﬀ Viscoelasticity in Culture
+After 24 h of culture on 2D thioester substrates,
+experimental media was replaced with 500 lL ﬂuo-
+robrite media (ThermoFisher) containing
+10 mmol L 21 5-norbornene-2-carboxylic acid, and
+1 mmol L 21 LAP. To ensure non-switch conditions
+would not be biased, non-switch conditions had media
+replaced with 500 lL of ﬂuorobrite media. Following
+30 min of incubation, all wells were irradiated with
+100 s of 10 mW cm 22 of 365 nm UV light followed
+immediate replacement of media with 1 mL of exper-
+imental media.
+Immunostaining
+Hydrogels were ﬁxed by treatment with 2%
+paraformaldehyde (PFA) for 15 min and subsequently
+ﬁxed with 4% PFA for 30 min. Samples were washed
+three times with PBS for 10 min at RT and then per-
+meabilized and blocked with 0.1% Triton X100 in PBS
+and 5% bovine serum albumin (BSA) in PBS for 1 h at
+RT respectively. Samples were incubated with primary
+anti-YAP antibody (1:400, mouse, Santa Cruz Bio-
+tech) overnight at 4 /C176 C and with secondary antibodies
+Goat anti-rabbit Alexaﬂour 488 (1:400, Invitrogen),
+DAPI (1:500, Sigma), and HCS Cell Mask Orange
+(1:5000 Thermo Fisher) for 1 h in the dark at RT.
+After incubation the samples were washed three times
+(10 min each) with PBST (0.5 wt% Tween-20 in PBS)
+at RT. Hydrogels were imaged with a spinning disk
+confocal microscope (Operetta High Content Imaging
+System, Perkin Elmer). Analysis was conducted using
+Harmony software (Perkin Elmer).
+Cell Area and YAP Nuclear Localization Quantiﬁcation
+Harmony software (Perkin Elmer) was used to
+identify the nuclear (DAPI) and cytoplasmic region
+(HCS Cells Mask) of each cell in a single imaging
+plane. These parameters were then used to calculate
+the cell area and the average YAP intensity in the
+nuclear and cytoplasmic. Next, the YAP nuclear to
+cytoplasmic ratio was calculated as the average YAP
+intensity in the nucleus divided by the average YAP
+intensity in the cytoplasm. Representative images were
+taken with a Nikon Laser Scanning Confocal micro-
+scope with a 20 9 water objective.
+Statistics
+Unless stated otherwise, all data were treated with
+Gaussian statistics. For single comparisons an F test
+was ﬁrst used to validate that the standard deviation of
+the two data sets were not different, followed by an
+unpaired t test. In cases of multiple comparisons,
+Brown-Forsythe and Bartlett’s tests were used to
+conﬁrm that the standard deviations of each data set
+were not different and were followed by a one-way
+ANOVA with a Tukey multiple comparison post hoc
+with an alpha of 0.05.
+RESULTS
+Photopolymerization of Thioester Crosslinked
+Hydrogels
+Poly(ethylene glycol) (8-arm 20 kDa) was func-
+tionalized with thioester-norbornene (TENB) end
+groups using a HATU coupling reaction (Fig. 1a).
+Macromer functionalization was measured as ~ 85%
+with nuclear magnetic resonance spectroscopy (SI
+Figure S3), however due to the importance of precise
+stoichiometry in future experiments we elected to cal-
+culate functionalization of the PEG TENB with a
+rheological method which indicated a true functional-
+ization of 97% (SI Figure S1). 8-Arm 20 kDa PEG
+TENB was then combined with 8-arm 20 kDa PEG
+thiol in a 1 to 1 ratio in the presence of lithium phenyl-
+2,4,6-trimethylbenzoylphosphinate (LAP) and 365 nm
+UV light to give rise to fully formed hydrogel networks
+by the thiol-ene click reaction (Fig. 1b). A light
+intensity of 10 mW cm 22 was chosen to initiate pho-
+topolymerization, as it both facilitates a rapid and
+spatiotemporally controlled reaction and is known to
+be cytocompatible. 21 Shear oscillatory rheology was
+used to track gel formation in situ, and at 10 mW cm 22
+a fully formed hydrogel with a shear elastic modulus of
+3500 Pa was generated after 60 s of irradiation
+(Fig. 1c). This time was further used to polymerize all
+materials in this work.
+Tuning Viscoelasticity Through Thioester Exchange
+After characterizing network formation, we assessed
+the range of viscoelastic properties attainable with this
+material. Thioester exchange is known to be catalyzed
+by free thiol species. 2 Knowing this, we explored the
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+CARBERRY et al.2056
+
+=== PAGE 5 ===
+effect of the pendant thiol concentration within the
+thioester hydrogels on the exchange rate of individual
+crosslinks and, in turn, tune the viscoelastic properties
+of the hydrogels (Fig. 2a). By tuning the stoichiometry
+of the gel precursor molecules at a constant initial
+concentration of 3 wt% polymer, the excess of thiol
+groups after gel formation was tuned from 0 to 200%
+excess thiol relative to the initial concentration of
+norbornene groups. After each hydrogel was formed
+in situ -, the ﬁnal, equilibrium swollen modulus of the
+network was measured with a time-sweep at 1% strain
+and 1 s 21 frequency. Results show that the ﬁnal
+modulus of the hydrogel decreased as the thiol excess
+increased, consistent with the expectation that the
+presence of unreacted thiols correlates with fewer
+crosslinks formed (Fig. 2b). Next, stress relaxation was
+measured by applying a 10% strain and recording how
+the resulting stress decreased over time. Overall, higher
+concentrations of thiol exhibited stress proﬁles with
+more relaxation (Fig. 2c), and each proﬁle was ﬁt to a
+stretched exponential (Eq. 1) to obtain the character-
+istic time constant sk and stretching exponent b. These
+ﬁt constants can be found in Supplementary Table S1.
+r
+ro
+¼ e
+/C0 t
+sk
+/C16/C17b
+/C18/C19
+ð1Þ
+From these data, the average relaxation time con-
+stant shi was calculated using
+shi ¼ sk
+b C 1
+b
+/C18/C19
+ð2Þ
+Here, r is the shear stress measured at time t, ro is
+the initial stress, and C is the gamma function. From
+this analysis, we observed a range of shi values
+stretching from 200,000 to 2,000,000 s (Fig. 2d). Over
+the 1.5 h experiment, signiﬁcant increases were
+observed in the total amount of stress relaxed as the
+concentration of thiols in the material increased
+(Fig. 2e). The 100% excess thiol condition, with a
+shear elastic modulus of 1.4 kPa that translates to a
+Young’s modulus of ~ 4.2 kPa assuming linear elas-
+ticity, was selected as for further cell studies related to
+mechanotransduction, and henceforth will be referred
+to as the viscoelastic thioester condition.
+(a)
+(c)
+365nm R1 SH
+PI
+R1HS
+R2
+O O O
+n
+O
+O O
+O
+O
+O
+R
+O
+n
+nnn
+n n n
+RR
+R
+RRR
+R
+O
+SHR=
+SR=
+A.
+B.
+P
+O
+O
+O-
+Li+
+R1 S
+R2
+R1 S
+R2
+R1 S
+UV Light
+1
+10
+100
+1000
+10000
+05 0 100
+Modulus (Pa)
+Time (s)
+G”
+G’
+(b)
+O
+FIGURE 1. Multifunctional PEG thiol and thioester norbornene macromers rapidly form hydrogels via the photoinitiated thiol-ene
+polymerization. (a) Molecular structure of 8 arm 20 kDa PEG Thiol and 8 arm 20 kDa PEG Thioester norbornene. (b) Macromers
+participate in the radical mediated thiol-ene ‘click’ reaction catalyzed by the photoinitiator LAP to give rise to a fully formed
+hydrogel network. (c) A 3 wt% stoichiometric mixture of the two PEG macromers containing 1 mM LAP rapidly polymerizes to a
+ﬁnal modulus of 3500 Pa after 60 s of irradiation with 10 mW cm 22 365 nm UV light.
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+Phototunable Viscoelasticity in Hydrogels Through Thioester Exchange 2057
+
+=== PAGE 6 ===
+Turning Oﬀ Viscoelasticity with the Thiol-ene ‘Click’
+Reaction
+Given the strong connection between thiol concen-
+tration and viscoelastic properties, we next sought to
+exploit the eﬃcient photoinitiated thiol-ene click
+reaction to consume pendent thiols in the network,
+allowing viscoelastic properties of these materials to be
+modiﬁed with light in situ . First, viscoelastic thioester
+materials containing an excess of thiol were fabricated,
+swollen in a solution containing a photoinitiator and
+an alkene, and then ﬁnally irradiated with 365 nm light
+at 10 mW cm 22 (Fig. 3a). For the 100% excess thiol
+condition of interest, the ﬁnal concentration of pen-
+dent thiols after network formation was approximately
+5 mmol L 21 based on stoichiometry calculations. To
+ensure all thiols would be reacted to completion, we
+elected to swell in a water-soluble and commercially
+available alkene 5-norbornene-2-carboxylic acid at a
+concentration of 10 mmol L 21 and the photoinitiator
+LAP at a concentration of 1 mM. The sample was
+subsequently irradiated with 365 nm UV light at an
+intensity of 10 mW cm 22. To ensure cytocompatibil-
+ity, we conﬁrmed that treatment of NIH 3T3 ﬁbrob-
+lasts with 10 mM NB-COOH did not affect their
+viability by testing their metabolic activity using an
+Alamar’s assay (SI Figure S3).
+Next, 100% excess thiol thioester hydrogels were
+swollen for 30 min in PBS, irradiated for 0–100 s, and
+characterized by stress relaxation. Hydrogel conditions
+irradiated for longer times exhibited slower rates of
+stress relaxation. By 10 s of irradiation, the amount of
+network relaxation was comparable to a purely elastic
+non-adaptable PEG hydrogel control (Fig. 3b). The
+result that the 10 s condition exhibited lower stress
+relaxation than the 100 s condition is likely a result of
+errors associated with attempting to measure vis-
+coelastic properties of an elastic material. Given that
+these hydrogels are compressed a small axial force,
+nominal differences in modulus could account for
+these measurable differences in relaxation due to
+0
+1000
+2000
+3000
+4000
+5000
+0% 50% 100% 150% 200% 250%
+G' (Pa)
+Thiol Excess (%)
+1.00E+05
+1.00E+06
+1.00E+07
+01 0 0 2 0 0
+<τ> (s)
+Excess Thiol (%)
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+0 2000 4000 6000
+σ/σo
+Time (s)
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+0% 50% 100% 150% 200%
+σFinal/σo
+Thiol Excess (%)
+(b)(a)
+(c) (e)(d)
+***
+R2
+R1
+R3
+O
+S
+SH
+R1
+S
+R3
+S
+O
+R2
+-
+R2
+R3
+R1
+O
+S
+HS
+0%
+50%
+100%
+150%
+200%
+****
+FIGURE 2. Viscoelastic properties of thioester crosslinked hydrogels depend on the concentration of unreacted thiols in the
+network. (a) Gel stoichiometry was tuned to ensure unreacted thiol species remained after network formation. These thiols then
+facilitated the exchange of crosslinks via the thioester exchange reaction. (b) In situ shear elastic modulus of thioester hydrogels
+with a stoichiometric thiol excess ranging from 0 to 200%. (c) In situ stress relaxation properties of thioester gels with a
+stoichiometric thiol excess ranging from 0 to 200%. Each proﬁle is an average of n = 3 replicates. (d) Average stress relaxation
+proﬁles (2c) were ﬁtted to a stretched exponential Eq. ( 1) shi was calculated using Eq. ( 2) and the ﬁtted parameters sk and b. (e)
+Final fraction of stress remaining after 5400 s of relaxation. Reported error bars are the standard deviation, (***) indicatesp < 0.001,
+(****) indicates p < 0.0001 relative to 0% control, n =3 .
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+CARBERRY et al.2058
+
+=== PAGE 7 ===
+poroelasticity deforming less in response to the same
+axial force (SI Figure S4), however these differences
+are an artifact of the measurement and would have no
+effect on cell behavior. For this reason, the 100 s
+condition was selected as the chosen irradiation time
+necessary to effectively turn off stress relaxation
+properties in a thioester gel. To investigate the prop-
+erties of viscoelastic thioester hydrogels and their
+treated elastic counterparts, a paired test was con-
+ducted in which viscoelastic gels swollen with nor-
+bornene and LAP were mechanically tested, irradiated
+in situ , and tested again. As predicted, we observed a
+signiﬁcant reduction ( p < 0.01) of stress relaxation
+between the viscoelastic and elastic conditions
+(Figs. 3ca n d 3d) and no change in the mechanical
+storage modulus (Fig. 3e). These data show that the
+photoinitiated thiol-ene reaction can be used to
+essentially turn off viscoelastic behavior in thioester
+hydrogels without any observed change to the stiffness
+of the hydrogel.
+Thioester Mechanics Unaﬀected by Swelling Over Time
+To characterize thioester hydrogel properties in a
+state more relevant to cell culture, the equilibrium
+modulus and stress relaxation properties of both elastic
+and viscoelastic thioester hydrogels were quantiﬁed
+over time while swelling in a phosphate buﬀered saline
+solution. First, equilibrium swollen viscoelastic
+hydrogels were prepared and the viscoelasticity was
+turned oﬀ by exposing half of the population to LAP,
+norbornene and 100 s of 10 mW cm 22 365 nm UV
+light. All gels were allowed to swell in phosphate
+buffered saline. Samples were collected at 1, 24 and
+0s
+1s
+2.5s
+10s
+100s
+0.86
+0.88
+0.9
+0.92
+0.94
+0.96
+0.98
+1
+0 2000 4000 6000
+σ/σ o
+Time (s)
+0.84
+0.86
+0.88
+0.9
+0.92
+0.94
+0.96
+0.98
+1
+0 2000 4000 6000
+σ/σ o
+Time (s)
+0
+500
+1000
+1500
+2000
+2500
+3000G' (Pa)
+0.84
+0.88
+0.92
+0.96
+1
+Pre- Post-
+σFinal/σo
+Pre- Post-
+O
+HO
+P
+O
+O
+O-
+Li+
+365nm 
+UV Light
+=
+(a) (b)
+(c) (e)(d)
+* * N.S.
+FIGURE 3. The photoinitiated thiol-ene reaction can be used to consume thiol function groups in the thioester network to tune
+stress relaxation with light. (a) By swelling LAP and norbornene COOH, the photoinitiated thiol-ene reaction can consume all
+network thiol species, interrupting the thioester exchange and bringing viscoelastic behavior to a halt. (b) Swollen stress
+relaxation properties of hydrogels swollen with 1 mM LAP and 10 mM Norbornene but irradiated with 10 mW cm22 365 nm UV light
+for different amounts of time. ( n = 1) (c) Swollen stress relaxation properties of swollen hydrogels before and after 100 s of
+irradiation with 10 mW cm 22 365 nm UV light. ( n = 3) (d) Final fraction of stress remaining after 5400 s of relaxation. ( n = 3) (e)
+Swollen shear elastic modulus of swollen hydrogels before and after 100 s of irradiation with 10 mW cm22 365 nm UV light. (n =3 )
+Reported error bars are the standard deviation, (**) indicates p < 0.01, (N.S.) indicates no signiﬁcance.
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+Phototunable Viscoelasticity in Hydrogels Through Thioester Exchange 2059
+
+=== PAGE 8 ===
+48 h and subjected to elastic modulus and stress
+relaxation measurements. The average swollen modu-
+lus for both the elastic and viscoelastic condition was
+approximately 1800 Pa and showed no signiﬁcant de-
+crease over the course of the 48 h experiment (Fig. 4a).
+As expected, when subjected to stress relaxation, the
+elastic hydrogels (Fig. 4c) showed markedly less
+relaxation compared to the viscoelastic condition
+(Fig. 4d). After closer inspection of the total amount
+of relaxation over the course of the 1.5 h experiment,
+no changes in relaxation were observed for the elastic
+condition over 48 h (Fig. 4e) and a modest increase
+was observed for the viscoelastic condition. In sum-
+mary, once in a swollen environment, both the elastic
+and viscoelastic properties of these thioester hydrogels
+remained constant over a period of 48 h.
+NIH 3T3 Fibroblasts Respond to Changes in Stress
+Relaxation
+When studying mechanosensing of cells using vis-
+coelastic material substrates, cell area and nuclear
+localization of YAP/TAZ are common outputs. In
+prior work 5,6,8 mechanosensing cells have been
+observed to exert stronger traction forces on vis-
+coelastic substrates, translating to increased cell area
+and cytoskeletal tension, leading to the nuclear
+localization of the transcription regulators, YAP/
+TAZ. NIH 3T3 ﬁbroblasts were seeded on thioester
+hydrogels, ﬁxed after 48 h of culture and assessed for
+changes in cell area and the ratio of YAP/TAZ in the
+nucleus compared to the cytoplasm. Cells were seeded
+on a purely viscoelastic thioester condition, a purely
+elastic thioester condition, and on viscoelastic thioe-
+ster gels in which viscoelasticity was switched off after
+24 h (Fig. 5a). Control experiments demonstrated
+that cell viability and YAP localization were not af-
+fected by treatment with LAP, NB and light. Cell
+area increased slightly in response to treatment,
+however since cell area was observed to be smaller on
+the switch condition this effect is clearly not as
+important as changes in substrate mechanics (SI
+Figures 5, SI Figures 6). Cells were stained for YAP/
+TAZ (AF-488), nuclei (DAPI), and cytoplasm (HCS
+cell mask orange) (Fig. 5b). The observed area of
+spread cells was 660 ± 250 lm2 (reported error is the
+1 Hr
+24 Hr
+48 Hr
+1 Hr
+24 Hr
+48 Hr
+0
+500
+1000
+1500
+2000
+2500
+3000
+12 4 4 8
+Time (Hr)
+0
+500
+1000
+1500
+2000
+2500
+3000
+12 4 4 8
+Time (Hr)
+0.85
+0.9
+0.95
+1
+0 2000 4000 6000
+σ/σ o
+Time (s)
+0.85
+0.9
+0.95
+1
+0 2000 4000 6000
+σ/σ o
+Time (s)
+N.S.N.S.
+G' (Pa)
+G' (Pa)
+(b)
+(d)(c)
+(a)
+FIGURE 4. Swollen thioester hydrogels containing a 100% excess of network thiols were either treated with norbornene, LAP and
+light to be made purely elastic (striped/dashed), or left untreated as viscoelastic hydrogels (solid). (a, b) Shear elastic modulus of
+thioester hydrogels swollen in phosphate buffered saline. (c, d) Stress relaxation proﬁle of swollen thioester hydrogels measured
+over 5400 s. Final fraction of stress remaining after 5400 s of relaxation. Each curve represents an n of 3 and the reported shaded
+region is the standard deviation, (N.S.) indicates no signiﬁcance.
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+CARBERRY et al.2060
+
+=== PAGE 9 ===
+standard deviation) on the viscoelastic condition and
+was larger than the average cell area of
+560 ± 170 lm2 observed on the elastic condition
+(Fig. 5c). This trend agrees with literature and indi-
+cates that the cells are responding to the differences in
+the viscoelasticity between the two hydrogels
+microenvironments. Next, the average cell area for
+the switch hydrogel condition was characterized and
+found to be between the viscoelastic and elastic con-
+ditions at a value 540 ± 160 lm2, and was signiﬁ-
+cantly smaller than the elastic condition. Images were
+quantiﬁed by dividing the ratio of the YAP staining
+intensity in the nucleus by the intensity in the cyto-
+plasm. The average nuclear to cytoplasmic YAP/TAZ
+ratio was higher on the viscoelastic condition of
+2.4 ± 0.5 compared to 2.2 ± 0.4 reported on the
+elastic substrate,indicating once more that cells can
+sense the difference between these two substrates
+(Fig. 5d). The YAP/TAZ ratio on the switch condi-
+tion was 2.1 ± 0.3 statistically the same as the elastic
+substrate and decreased compared to its original vis-
+coelastic condition.
+DISCUSSION
+As the biomaterials ﬁeld has advanced the under-
+standing as to how cells transduce time-independent
+mechanical signals (e.g., elastic modulus) and time-
+dependent mechanical signals (e.g., stress relaxation), a
+question of how cells diﬀerentiate between these stim-
+uli has come into focus. 8 Materials where viscoelas-
+ticity can be changed in situ have the potential to
+provide insight into mechanotransduction, because the
+cell response to a creep or stress relaxation on multiple
+time scales can be studied. Though design of modular
+Seed cells
+Analyze 
+Irradiate
+0 days 1 day 2 days
+Merge
+HCS Cell Mask
+Dapi
+YAP/TAZ
+Elas tic Switch Vis coelas tic
+Elastic Viscoelastic
+0
+1000
+1500
+500
+Ce ll  A re a  (µm2) ns
+Elastic Switch Viscoelastic
+0
+1
+2
+3
+4
+5YA P Nu c/ Cy t Ra ti o
+Elastic Switch Viscoelastic
+*
+ns
+*
+(a)
+(b)
+(c) (d)
+FIGURE 5. (a) NIH 3T3 ﬁbroblasts were seeded onto swollen 2D thioester hydrogels and cultured for 48 h. Cells were seeded onto
+an elastic thioester condition, a viscoelastic thioester condition and a switch condition where viscoelastic hydrogels were made
+elastic after 24 h of culture. (b) Cells were ﬁxed at 48 h and stained for HCS Cell Mask (orange), DAPI (blue) and YAP/TAZ (green);
+pictured scalebar is 30 microns. YAP/TAZ staining for select cells is shown; the red circle indicates the outline of the nucleus as
+identiﬁed by DAPI staining. Scale bar for single cell images is 10 microns. (c) Spread cell area is visualized by a Tukey boxplot. (d)
+Nuclear to cytoplasmic ratio of YAP. For cell area and YAP analysis, 40–100 cells were analyzed per hydrogel, then 10 cells were
+chosen at random using a random number generator and combined to form a representative population of 50 or 60 cells on which
+statistical conclusions were made. Cell area and YAP data were characterized with non-parametric statistical tests. For these data,
+the Mann–Whitney test was used for single comparisons, and the Kruskal–Wallis test with a post Hoc of Dunn’s multiple
+comparisons was used for multiple comparisons also with an alpha of 0.05. Finally, it should be noted that outliers were removed
+from cell area and YAP localization data using route’s test with a threshold of Q = 1%. (*p < 0.05, ns nonsigniﬁcant).
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+Phototunable Viscoelasticity in Hydrogels Through Thioester Exchange 2061
+
+=== PAGE 10 ===
+viscoelastic materials remains challenging, some
+examples already exist in the literature. Marozas et al.
+developed the ﬁrst cell culture platform where vis-
+coelastic properties could be altered in the presence of
+cells during a period of light irradiation, and demon-
+strated how changes in viscoelasticity on short time-
+scales can lead to a decrease in cytoskeletal tension. 16
+Inspired by the types of questions this material facili-
+tated, we designed a viscoelastic material based on
+thioester exchange that allows for permanent changes
+in viscoelasticity by reacting away thiol species with
+light. This complementary material system can natu-
+rally facilitate the study of cell processes that happen
+on longer timescales and allow switching from vis-
+coelastic to elastic microenvironments in a spatiotem-
+poral controlled manner. Through the use of a water-
+soluble monofunctional norbornene, viscoelastic
+properties were completely switched off (Fig. 3b)
+without any changes to the elastic modulus (Fig. 3e).
+We then demonstrated that mechanical properties of
+both elastic and viscoelastic thioester hydrogels re-
+mained constant over the course of 48 h (Fig. 4).
+However, that is not to say that mechanics would not
+change after 48 h and at this point there are two
+important issues to note. The ﬁrst is that viscoelastic
+hydrogels based on covalent adaptable chemistries
+fundamentally swell in solution at the same rate at which
+they relax stress. As a result, hydrogels that stress relax
+faster reach reverse gelation quicker. There are some
+strategies that have been used in the literature to address
+this shortcoming, Tang et al. for instance used a perco-
+lating network of non-adaptable crosslinks to extend
+cell culture up to 7 days.19 Though the thioester network
+had only adaptable crosslinks in this work, signiﬁcant
+swelling was not observed over the course of 2 days, as
+shown by the constant equilibrium modulus plotted in
+Fig. 4b. This result is explained by the fact that the
+relaxation proﬁles of this material, when ﬁt to a stret-
+ched exponential, had a b value between 0.4 and 0.5 (SI
+Table S1), which is highly heterogeneous compared to
+an ideal network where b is 1. Functionally, this means
+that although 10% of stress is relaxed in just 1.5 h, 20%
+of the stress is not relaxed until 8 h, and by the end of
+1 week, only 60% of bonds in the material have ex-
+changed. The second issue that was addressed was that
+over time all thiol function groups in a biological system
+can oxidize to form disulﬁde bonds, which no-longer
+participate in the thioester exchange. Though the time-
+scale of this oxidation can be tuned by choosing thiol
+species with a higher pKa value, 18 ultimately this phe-
+nomena limits how long thioester materials can remain
+viscoelastic. In this work however, no signiﬁcant disul-
+ﬁde bond formation was observed over 48 h because no
+reduction of stress relaxation over time occurred
+(Fig. 4f).
+NIH 3T3 ﬁbroblasts were cultured for 48 h on
+thioester hydrogels that were purely elastic, purely
+viscoelastic, or switched from viscoelastic to elastic
+after 24 h. Cells cultured on purely viscoelastic sub-
+strates showed increased cell spreading and increased
+nuclear YAP/TAZ compared to the purely elastic
+thioester substrates, demonstrating that even cells re-
+sponded to changes in material relaxation, even at
+timescales longer than once thought. Recent eﬀorts in
+the literature have focused on viscoelastic substrates
+with fast relaxation timescales on the order of 10–
+1000 s. These fast relaxing substrates have been shown
+to elicit large increases in cell spreading and nuclear
+localized YAP/TAZ across multiple cell types. 5,6,19
+These responses are thought to be driven by ligand
+clustering that leads to stronger focal adhesions and
+occurs on a similar timescale. 4 Of course the effect of
+stress relaxation over longer time scales on cell phe-
+nomena (e.g. the differentiation of hMSCs, cell secre-
+tory properties) has also been studied, but these
+phenomena are also thought to be driven by increased
+ligand clustering that occurs on the 10–1000 s time
+scale.6 With this context, the fact that we observe
+increased cell spreading and nuclear localization of
+YAP/TAZ even at much slower relaxation rates could
+suggest that other cell–matrix interactions (i.e., out-
+side-in signaling) exist that occur over timescales much
+longer than originally thought, perhaps even that li-
+gand clustering events are not necessarily independent
+from one another Further experimentation would be
+needed to conﬁrm whether this is the case.
+Observation of NIH 3T3 ﬁbroblasts cultured on the
+switch thioester condition showed that after 24 h of
+culture on a viscoelastic substrate followed by 24 h of
+culture on an elastic substrate resulted in cells that
+behaved more closely to the elastic control than to the
+viscoelastic control. Though this experiment is rudi-
+mentary in nature, it showcases a new class of ques-
+tions that can now be asked. How would cell spreading
+and YAP/TAZ be impacted if the point in time when
+the switch occurred was changed? As a tool, thioester
+substrates have a limited amount of time over which
+they can remain viscoelastic, but even the time course
+shown here is suﬃcient to investigate changes in other
+downstream phenomena such as epigenetics and RNA
+expression. Such information could prove valuable in
+deconvoluting how cells fundamentally process elastic
+and viscoelastic matrix cues, and how viscoelastic
+properties could be engineered to yield particular cell
+responses.
+In conclusion, we have presented a viscoelastic
+hydrogel material based on thioester exchange cova-
+lent adaptable chemistry that rapidly forms a gel using
+the photoinitiated thiol-ene reaction. It was shown that
+viscoelastic properties like stress relaxation in this
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+CARBERRY et al.2062
+
+=== PAGE 11 ===
+material depend on the concentration of unreacted
+thiol groups in the network. Once a network is formed,
+results demonstrated that LAP and 5-norbornene-2-
+carboxylic acid could be swollen in the material and
+used to initiate a second thiol-ene reaction that con-
+sumes the thiol species in the network, eﬀectively
+turning oﬀ viscoelasticity without any change to the
+swollen modulus. Each of these reactions is cytocom-
+patible and can be conducted in the presence of cells in
+2D or 3D cultures. Lastly, we demonstrated that this
+well-deﬁned tool with switchable viscoelastic proper-
+ties could be used to gain information on the timescales
+in which NIH 3T3 ﬁbroblasts respond to viscoelastic
+cues. Switchable viscoelastic thioester materials add to
+a growing collection of highly tunable viscoelastic cell
+culture platforms already being used to understand
+interactions between cells and the extracellular matrix.
+ELECTRONIC SUPPLEMENTARY MATERIAL
+The online version of this article ( https://doi.org/10.
+1007/s10439-020-02460-w) contains supplementary
+material, which is available to authorized users.
+ACKNOWLEDGMENTS
+This work was supported by a grant from the Na-
+tional Institutes of Health (DE016523), and BJC also
+gratefully acknowledges support via a GAANN fel-
+lowship from the Department of Education. The au-
+thors would also like to gratefully acknowledge Dr.
+Kemal Arda Gu¨nay and Francis Yavitt for thoughtful
+conversation and critical reviews in the preparation of
+this manuscript. The authors do not have any conﬂicts
+of interest to declare.
+REFERENCES
+1Aimetti, A. A., A. J. Machen, and K. S. Anseth. Poly(-
+ethylene glycol) hydrogels formed by thiol-ene pho-
+topolymerization for enzyme-responsive protein delivery.
+Biomaterials 30:6048–6054, 2009.
+2Brown, T. E., et al . Photopolymerized dynamic hydrogels
+with tunable viscoelastic properties through thioester ex-
+change. Biomaterials 178:496–503, 2018.
+3Cameron, A. R., J. E. Frith, and J. J. Cooper-White. The
+inﬂuence of substrate creep on mesenchymal stem cell be-
+haviour and phenotype. Biomaterials 32:5979–5993, 2011.
+4Chaudhuri, O. Viscoelastic hydrogels for 3D cell culture.
+Biomater. Sci. 5(8):1480–1490, 2017.
+5Chaudhuri, O., et al . Substrate stress relaxation regulates
+cell spreading. Nat. Commun. 2015. https://doi.org/10.103
+8/ncomms7365.
+6Chaudhuri, O., et al . Hydrogels with tunable stress relax-
+ation regulate stem cell fate and activity. Nat. Mater.
+15:326–334, 2016.
+7Darnell, M., et al. Material microenvironmental properties
+couple to induce distinct transcriptional programs in
+mammalian stem cells. Proc. Natl. Acad. Sci. 2018. http
+s://doi.org/10.1073/pnas.1802568115.
+8Dey, K., S. Agnelli, and L. Sartore. Dynamic freedom:
+Substrate stress relaxation stimulates cell responses. Bio-
+mater. Sci. 7:836–842, 2019.
+9Dupont, S., et al . Role of YAP/TAZ in mechanotrans-
+duction. Nature 474:179–183, 2011.
+10Engler, A. J., S. Sen, H. L. Sweeney, and D. E. Discher.
+Matrix elasticity directs stem cell lineage speciﬁcation. Cell
+126:677–689, 2006.
+11Fairbanks, B. D., M. P. Schwartz, C. N. Bowman, and K.
+S. Anseth. Photoinitiated polymerization of PEG-diacry-
+late with lithium phenyl-2,4,6-trimethylbenzoylphosphi-
+nate: Polymerization rate and cytocompatibility.
+Biomaterials 30:6702–6707, 2009.
+12Fairbanks, B. D., et al . A versatile synthetic extracellular
+matrix mimic via thiol-norbornene photopolymerization.
+Adv. Mater. 21:5005–5010, 2009.
+13Guilak, F., et al . Control of stem cell fate by physical
+interactions with the extracellular matrix. Cell Stem Cell
+5:17–26, 2009.
+14Ingber, D. E. Mechanical control of tissue morphogenesis
+during embryological development. Int. J. Dev. Biol.
+50:255–266, 2006.
+15Liu, F., et al . Mechanosignaling through YAP and TAZ
+drives ﬁbroblast activation and ﬁbrosis. Am. J. Physiol.
+Cell. Mol. Physiol. 308:L344–L357, 2015.
+16Marozas, I. A., J. J. Cooper-White, and K. S. Anseth.
+Photo-induced viscoelasticity in cytocompatible hydrogel
+substrates. New J. Phys. 21:045004, 2019.
+17McKinnon, D. D., D. W. Domaille, J. N. Cha, and K. S.
+Anseth. Biophysically deﬁned and cytocompatible cova-
+lently adaptable networks as viscoelastic 3D cell culture
+systems. Adv. Mater. 26:865–872, 2014.
+18Poole, L. B. The basics of thiols and cysteines in redox
+biology and chemistry. Free Radic. Biol. Med. 80:148–157,
+2015.
+19Tang, S., et al . Adaptable fast relaxing boronate-based
+hydrogels for probing cell-matrix interactions. Adv. Sci.
+5:1800638, 2018.
+20Vining, K. H., A. Stafford, and D. J. Mooney. Sequential
+modes of crosslinking tune viscoelasticity of cell-instructive
+hydrogels. Biomaterials 2019. https://doi.org/10.1016/j.bio
+materials.2018.10.013.
+21Yang, C., M. W. Tibbitt, L. Basta, and K. S. Anseth.
+Mechanical memory and dosing inﬂuence stem cell fate.
+Nat. Mater. 13(6):645, 2014.
+22Zanconato, F., M. Cordenonsi, and S. Piccolo. YAP/TAZ
+at the roots of cancer. Cancer Cell 29:783–803, 2016.
+Publisher’s Note Springer Nature remains neutral with re-
+gard to jurisdictional claims in published maps and institu-
+tional afﬁliations.
+BIOMEDICAL
+ENGINEERING 
+SOCIETY
+Phototunable Viscoelasticity in Hydrogels Through Thioester Exchange 2063

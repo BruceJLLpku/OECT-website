@@ -1,0 +1,618 @@
+
+
+===== PDF PAGE 1 =====
+Photoresponsive elastic properties of azobenzene-containing 
+poly(ethylene-glycol)-based hydrogels
+Adrianne M. Rosales1,2, Kelly M. Mabry2, Eric Michael Nehls2, and Kristi S. Anseth1,2,*
+1 Howard Hughes Medical Institute and the BioFrontiers Institute, University of Colorado Boulder, 
+Boulder, CO 80309, USA
+2 Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, 
+CO 80309, USA
+Abstract
+The elastic modulus of the extracellular matrix is a dynamic property that changes during various 
+biological processes, such as disease progression or wound healing. Most cell culture platforms, 
+however, have traditionally exhibited static properties, making it necessary to replate cells to study 
+the effects of different elastic moduli on cell phenotype. Recently, much progress has been made 
+in the development of substrates with mechanisms for either increasing or decreasing stiffness in 
+situ, but there are fewer examples of substrates that can both stiffen and soften, which may be 
+important for simulating the effects of repeated ECM injury and resolution. In the work presented 
+here, poly(ethylene glycol)-based hydrogels reversibly stiffen and soften with multiple light 
+stimuli via photoisomerization of an azobenzene-containing crosslinker. Upon irradiation with 
+cytocompatible doses of 365 nm light (10 mW/cm2, 5 min), isomerization to the azobenzene cis 
+configuration leads to a softening of the hydrogel up to 100-200 Pa (shear storage modulus, G’). 
+This change in gel properties is maintained over a timescale of several hours due to the long half-
+life of the cis isomer. The initial modulus of the gel can be recovered upon irradiation with similar 
+doses of visible light. With applications in mechanobiology in mind, cytocompatibility with a 
+mechanoresponsive primary cell type is demonstrated. Porcine aortic valvular interstitial cells 
+were encapsulated in the developed hydrogels and shown to exhibit high levels of survival, as well 
+as a spread morphology. The developed hydrogels enable a route to the noninvasive control of 
+substrate modulus independent of changes in the chemical composition or network connectivity, 
+allowing for investigations of the effect of dynamic matrix stiffness on adhered cell behavior.
+Keywords
+biomaterials; azobenzene; matrix mechanics; dynamic hydrogel
+* To whom correspondence should be addressed: kristi.anseth@colorado.edu. 
+Supporting Information
+Supporting information includes heating curves for the azobenzene-containing hydrogels, rheology of hydrogels without azobenzene, 
+and additional rheology of various hydrogel formulations. This material is available free of charge via the Internet at http://
+pubs.acs.org.
+Published as: Biomacromolecules. 2015 March 9; 16(3): 798–806.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 2 =====
+Introduction
+In conjunction with biological ligands and proteins, the mechanical properties of the native 
+extracellular matrix (ECM) environment present powerful cues that direct cell phenotype. 
+To decouple the effects of matrix stiffness from other factors, synthetic hydrogels have 
+emerged as a facile route to presenting cells with a substrate of well-defined elasticity.1, 2 
+However, the native ECM modulus is a dynamic property that fluctuates as cells remodel 
+their environment during disease progression, wound healing, or development. While many 
+hydrogel platforms can recapitulate the elasticity of a tissue of interest, fewer provide 
+handles to change this elasticity on demand and in the presence of attached cells.
+Recently, several strategies have emerged to tune the elastic modulus of a substrate in situ. 
+For example, DNA-crosslinked hydrogels have been shown to modulate reversible changes 
+in stiffness over tens of kilopascals by hybridization with introduced DNA strands that are 
+complementary to the crosslinker.3, 4 Another strategy induces the formation of reversible 
+crosslinks through the addition of divalent cations to a collagen-alginate composite 
+hydrogel.5 Both of these strategies show good reversibility; however, they also both rely on 
+the addition of a component (DNA or cations such as Ca2+) that can be uptaken by cells and 
+may alter cellular signaling or behavior. Changes in protein conformation can also be used 
+to confer dynamic properties to a hydrogel.6, 7 For example, Kong et al. took an innovative 
+approach to reversibly controlling modulus in protein hydrogels by using redox chemistry to 
+fold and unfold the protein, thereby altering the crosslinker length.6 Effects of the changes in 
+oxidation state on cells have yet to be explored. As a complement to these systems, 
+photoreactions are an attractive route to controlling ECM elasticity in a non-invasive way. 
+Kloxin et al. developed poly(ethylene glycol) (PEG) networks with a photodegradable 
+moiety incorporated next to the crosslinking site.8 Using cytocompatible doses of 365 nm 
+light, the user can thus decrease the modulus of a hydrogel over several kilopascals by 
+decreasing the crosslinking density. Light-based chemistries can also be used to stiffen a 
+hydrogel, as demonstrated by Guvendiren et al. in a hyaluronic acid-based system that uses 
+sequential addition and radical polymerization crosslinking reactions.9 While both of these 
+strategies offer spatial and temporal control, the changes they confer to the network structure 
+and matrix mechanics are irreversible.
+One of the most enticing platforms for a reversible, photo-based reaction to control matrix 
+mechanics is the use of a photoisomer, especially azobenzene. Azobenzenes have been used 
+to control properties of polymeric networks, such as the gel-sol transition10-12 and the 
+swelling ratio.13 They have emerged as an effective photoswitch for use in biomaterials 
+because they absorb light in a region that is compatible with many biological systems 
+(350-550 nm).14 In small molecule systems, azobenzene converts from the trans isomer to 
+the cis isomer upon irradiation with 360 nm light in a remarkably efficient reaction 
+(~80%-95%). Removal of the light or irradiation in the visible range regenerates the trans 
+isomer almost completely (>99%) because it is the more thermodynamically stable 
+conformation. These properties can be recapitulated in azobenzene-containing hydrogel 
+networks to control matrix properties.
+Rosales et al. Page 2
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 3 =====
+One of the main advantages of controlling hydrogel mechanics with azobenzene is the lack 
+of initiator required to complete photoisomerization. Because this photoreaction proceeds 
+with light alone, no free radicals are created during irradiation. Furthermore, light is a non-
+invasive stimulus that allows for changes without altering the chemical environment of the 
+cells. Azobenzene undergoes a structural change, and it is therefore anticipated that gel 
+mechanics will be controlled without affecting the overall network connectivity. However, 
+because the reverse isomerization of azobenzene occurs thermally, there is likely to be some 
+reversal of the modulus over time. For this reason, it is critical to choose an azobenzene with 
+stable cis isomer and a long half life.
+In the work presented here, azobenzene is incorporated into peptide crosslinkers of PEG 
+hydrogels to modulate the matrix elasticity in a reversible manner with both 365 nm (UV) 
+and 400-500 nm (visible) light. The photoisomerization disrupts hydrogen bonds from the 
+surrounding network, leading to a decrease in matrix elasticity that is fully recovered upon 
+thermal relaxation or the reverse isomerization of the azobenzene. The incorporated 
+photoswitch was carefully chosen to maximize the lifetime of the cis state at 37°C, and 
+cytocompatibility was demonstrated with encapsulated primary porcine aortic valvular 
+interstitial cells (VICs). This work establishes an accessible route to the reversible control of 
+matrix elasticity in the presence of primary cells cultured in three dimensions. Future efforts 
+will focus on maximizing the elastic response to direct cell phenotype.
+Materials and Methods
+Synthesis of 3-[[4-([[(9H-Fluoren-9-ylmethoxy)carbonyl]amino]methyl)phen-
+yl]diazenyl]benzoic Acid (3,4’-Fmoc-AMPB)
+3,4’-Fmoc-AMPB was synthesized in two steps according to previously published 
+methods.15, 16 Briefly, 3-nitrosobenzoic acid was first synthesized by dissolving 3-
+aminobenzoic acid (2 g, 14.6 mmol) in DCM (40 mL). Oxone (18 g, 29.3 mmol, 2 
+equivalents) dissolved in 160 mL water was added to the reaction flask to create a biphasic 
+solution. The solution was stirred under argon at room temperature for 3 hours. The 
+precipitate was separated by first evaporating the DCM, followed by centrifuging. The 
+precipitate was washed two times with water and two times with methanol, then dried in a 
+vacuum oven overnight at 40 °C. 3-nitrosobenzoic acid (Figure S1): 1H NMR (DMSO-d6, 
+500 MHz): δ= 7.88 (m, 1H), 8.19 (d, 1H), 8.39 (m, 2H), 13.52 (s, br., 1H).
+In the second step, the 3-nitrosobenzoic acid (2.0 g, 13.4 mmol) was sonicated in a 1:1 
+mixture of acetic acid and DMSO (50 mL:50 mL). To this green solution, 4-(N-Fmoc-
+aminomethyl)aniline (2.3 g, 6.69 mmol, 0.5 equivalents) was added, and the reaction 
+solution was stirred under argon for three days at room temperature. The precipitated orange 
+product was centrifuged to separate it from the reaction solution and then redissolved in 
+ethyl acetate (~ 4L) and washed with water. The organic layers were dried over MgSO4 and 
+the solvent was evaporated. The product was then used without further purification. 3,4’-
+Fmoc-AMPB (Figure S2): 1H NMR (DMSO-d6, 500 MHz): δ= 4.26 (t, 1H), 4.29 (d, 2H), 
+4.40 (d, 2H), 7.35 (t, 2H), 7.43 (m, 4H), 7.73 (m, 3H), 7.90 (d, 2H), 7.91 (d, 2H), 7.99 (t, 
+1H), 8.14 (m, 2H), 8.39 (s, 1H).
+Rosales et al. Page 3
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 4 =====
+Synthesis of azobenzene-containing peptide
+An azobenzene-containing peptide crosslinker (KCGGPQG-3,4’-AMPB-IWGQGCK) was 
+synthesized on a solid phase peptide synthesizer (Tribute Protein Synthesizer, Protein 
+Technologies, Inc.) using Rink Amide MBHA resin (Novabiochem, 0.59 mmol/g). Briefly, 
+Fmoc deprotection proceeded via 20% piperidine/2% 1,8-diazabicyclo[5.4.0]undec-7-ene in 
+NMP for 20 minutes. Fmoc-protected amino acids were coupled in 4-fold molar excess in 
+the presence of 0.4M N-methylmorpholine in DMF for 30 minutes, except for the 3,4’-
+Fmoc-AMPB, which was used in a 2-fold molar excess. The N-terminus of the peptide was 
+acetylated using 5% acetic anhydride and 6% lutidine in NMP, and the peptide was cleaved 
+from the resin using trifluoroacetic acid (TFA), phenol, triisopropylsilane, and water 
+(95/2.5/1.25/1.25 v/v) for at least 2 hours. Crude peptides were precipitated into chilled 
+diethyl ether, then purified by semi-preparative reverse phase HPLC (AutoPurification 
+HPLC, Waters) using a 10 minute gradient of acetonitrile in water (5-50%, 30 mL/min). The 
+peptide eluted at 36.5% acetonitrile, and the expected mass was confirmed by matrix 
+assisted laser desorption ionization time-of-flight mass spectrometry (Figure S3: MALDI-
+TOF, Applied Biosystems DE Voyager, exp/obs: 1698.9/1697.8). A matrix 
+metalloproteinase (MMP)-degradable sequence (KCG-3,4’-AMPB-GPQGIWGQGCK) was 
+made in the same fashion.
+Hydrogel formation
+Photoresponsive hydrogels were formed using a Michael-type addition of dithiol peptides 
+(described above) onto multi-arm vinyl sulfone-functionalized poly(ethylene glycol)s (PEG-
+VS, JenKem Technology USA). PEG-VS was dissolved in either 0.1 M HEPES buffer (pH 
+7.8) or 0.4 M triethanolamine in PBS (pH 8) at the desired w/v concentration. The peptide 
+crosslinker was dissolved in 3:1 DMSO:H2O at a concentration of 80 mM. Prior to making 
+the peptide stock solutions, the free thiol content of the photoresponsive peptide was 
+measured using an Ellman’s assay. Only peptides with a free thiol content of 70% or greater 
+were used, and adjustment of the functional group concentration with this assay enabled 
+consistent gel formation between peptide batches (Table 1). However, for best results, gels 
+prepared with peptide from the same batch were compared, as in the data presented in 
+Figure 5. The PEG-VS and peptide components were mixed at the desired stoichiometric 
+ratio, quickly vortexed, and reacted in a 0.5 mm thick rubber mold between two SigmaCoted 
+glass slides. The gels were allowed to react at 37°C for 2 hours at pH 8 or 30 minutes at 
+room temperature in the HEPES buffer, as noted. After gelation, the gels were gently 
+removed from the molds and placed into PBS to swell overnight at room temperature.
+UV/Vis spectroscopy
+Absorbance spectra were collected with a Synergy H1 microplate reader (BioTek) using a 
+wavelength range of 280 nm to 700 nm. For swollen hydrogel measurements, 20 μl 
+hydrogels were directly formed in a clear 96-well plate, and they were allowed to swell 
+overnight in 200 μl of PBS before taking absorbance readings. Two high pressure mercury 
+light sources were used for irradiation experiments: Exfo Omnicure S1000, 365 nm, 10 
+mW/cm2 and Exfo Acticure 4000, 400-500 nm, 10 mW/cm2.
+Rosales et al. Page 4
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 5 =====
+Rheology
+For rheological measurements of swollen hydrogels, the gel was loaded onto a rheometer 
+(TA Instruments, Discovery HR-3) with an 8 mm parallel plate geometry and a UV light 
+guide accessory. A 5 mm liquid light guide was manually switched between two high 
+pressure mercury light sources (Exfo Omnicure S1000, 365 nm, 10 mW/cm2 and Exfo 
+Acticure 4000, 400-500 nm, 10 mW/cm2) at the desired time points while measuring the 
+modulus of the gel at 25°C using an oscillatory strain of 1% and a frequency of 1 rad/s 
+(linear viscoelastic regime). The gel was surrounded with water to maintain equilibrium 
+swelling and avoid drying at the gel-air interface. The starting axial force for all 
+measurements was between 0.2 and 0.4 N.
+For in situ gel evolution measurements, 20 μl of the gel precursor solution was quickly 
+vortexed then added to the plate. Modulus measurements were taken immediately after the 
+precursor solution was added to the rheometer, and the formulation was surrounded with 
+dimethylpolysiloxane (Sigma Aldrich) to prevent evaporation of water.
+VIC isolation and culture
+Using a collagenase digestion, primary VICs were isolated from porcine aortic leaflets, 
+which were obtained from fresh hearts acquired from Hormel within 24 hours of 
+slaughter.17, 18 Aliquots were frozen in a liquid nitrogen cooled tank until needed, then 
+thawed and expanded on tissue culture polystyrene (TCPS) plates. VICs were thawed in 
+Media M199 supplemented with 15% fetal bovine serum (FBS), 100 U/mL penicillin, 100 
+ug/mL streptomycin, and 1 ug/mL fungizone at 37°C and 5% CO2. VICs were expanded for 
+two days, then passaged once and expanded for an additional day before encapsulation into 
+the hydrogels.
+VIC encapsulation
+VICs were trypsinized from TCPS plates, pelleted from 15% FBS media, and resuspended 
+in PBS at a concentration of 25 × 106 cells/mL. The appropriate amount of the cell 
+suspension was added to the gel precursor solution to achieve an encapsulation density of 10 
+× 106 cells/mL. The gel precursor solution contained PEG-VS at a concentration of 10 wt. % 
+in sterile-filtered 0.1 M HEPES buffer at pH 7.8, the peptide crosslinker (80 mM) in 3:1 
+DMSO:H2O, and the appropriate amount of sterile PBS to achieve the desired final 
+concentration of PEG-VS and peptide. The cell-containing precursor solution was quickly 
+vortexed, and 40 μL were pipetted into a rubber mold (0.5 mm thick, 8 mm diameter) 
+between two SigmaCoted slides. The gels were allowed to form at room temperature for 30 
+minutes in a sterile tissue culture hood; then they were gently removed from the molds and 
+placed into an ultra-low adhesion well plate with 2 mL of 1% FBS M199 media. Media was 
+changed the next day.
+Cell viability analysis
+VIC viability was quantified using a Live/Dead membrane integrity assay (Live/Dead, Life 
+Technologies). Samples were incubated in PBS containing 1 μM calcein AM and 4 μM 
+ethidium homodimer for 30 minutes. Cells were imaged on a 710 LSM NLO confocal 
+microscope (Zeiss), and images were stacked using maximum intensity projections. Cells in 
+Rosales et al. Page 5
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 6 =====
+which the membrane-permeable calcein AM was cleaved by esterases within the cell were 
+counted as live, while cells permeable to ethidium homodimer were counted as dead. Over 
+100 cells were counted per sample. For each condition, 3 or more biological replicates were 
+performed. Error bars represent standard error of the mean.
+Immunostaining for α-smooth muscle actin (αSMA) and f-actin
+Samples were fixed in 10% formalin and then washed with PBS. Permeabilization with 
+0.1% TritonX in PBS was followed by blocking of non-specific staining with 1% BSA in 
+PBS. Mouse anti-αSMA diluted 1:200 in PBS was applied to the samples. Gels were then 
+rinsed with PBS prior to application of AlexaFluor 488 goat-anti-mouse (1:300) and TRITC-
+phalloidin (1:300) to stain for f-actin. Next, nuclei were stained with 4',6-diamidino-2-
+phenylindole (0.01 mg/mL). Cells were imaged on a 710 LSM NLO confocal microscope 
+(Zeiss).
+Results and Discussion
+Here, a three-dimensional hydrogel platform with photoresponsive mechanical properties 
+was developed. Because the elasticity of biological tissues is a dynamic property, a cell 
+culture substrate with reversible properties could lend insight on the effects of changing 
+stiffness on cell phenotype without confounding factors such as replating cells. Furthermore, 
+a three-dimensional geometry better recapitulates the natural extracellular matrix 
+environment compared to a two-dimensional substrate.
+Gel Formation
+To obtain a hydrogel with photoresponsive mechanical properties, a peptide crosslinker 
+containing a photoisomer (3,4’-AMPB) was first synthesized. Although the photoisomer 
+could also be incorporated at the chain ends of a PEG crosslinker (Figure S4), the use of a 
+peptide crosslinker enabled facile incorporation with solid-phase synthesis methods, as well 
+as site-specific incorporation into the crosslinker. Here, the peptide sequence was based on 
+that of native collagen, and the location of the photoisomer either conferred degradability or 
+non-degradability to the peptide (KCG-3,4’-AMPB-GPQGIWGQGCK or KCGGPQG-3,’4-
+AMPB-IWGQGCK, respectively). The degradable photoresponsive peptide was only used 
+in the cell encapsulation studies detailed below.
+To form the hydrogel, a Michael addition reaction was used under slightly basic conditions 
+with a PEG-VS macromer and the photoresponsive peptide (Figure 1). Previously, Michael 
+addition-type reactions have been shown to be an effective route to encapsulating cells 
+within a hydrogel.19, 20 In addition, the use of Michael addition chemistry avoids the use of 
+a photoinitiator. At 365 nm, the molar absorptivity of the photoresponsive peptide is 
+approximately 2300 M−1cm−1, which is at least an order of magnitude higher than that of 
+other initiators such LAP (218 M−1cm−1)21 or I2959 (4 M−1cm−1)21. The photoresponsive 
+peptide also demonstrates significant absorption in the visible light range (e.g., molar 
+absorptivity at 420 nm ~ 270 M−1cm−1); thus, attempts to photoinitiate gel formation 
+resulted in poor or no gelation with a variety of PEG macromers and photoinitiators. In 
+contrast, the Michael addition reactions allowed for gelation within minutes. Figure 1 
+Rosales et al. Page 6
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 7 =====
+illustrates one example of the rapid gelation that occurs for the PEG-VS/peptide gels in 
+0.1M HEPES buffer at pH 7.8. Crossover of the storage modulus, G’, with the loss modulus, 
+G”, occurs within 2 minutes, and 95% of the final modulus is achieved within 15 minutes. 
+Furthermore, by varying the initial macromer concentration or crosslinking density, a range 
+of initial storage moduli, G’, were achieved that spanned 500 Pa – 8000 Pa.
+Because the Michael addition reaction occurs at basic pH, the reaction competes with 
+disulfide formation between the peptide crosslinkers. For this reason, the measured moduli 
+of the resulting gels were lower than the theoretical moduli. Although the addition of a 
+reducing agent such as tris(2-carboxyethyl)phosphine (TCEP) would not interfere with the 
+Michael addition and thus facilitate complete gelation, its presence could potentially be 
+detrimental to cellular proteins during encapsulation. For this reason, the gel properties were 
+examined without addition of a reducing agent.
+Gel Mechanical Properties
+To understand the viscoelastic properties of the hydrogel, the swollen shear modulus was 
+first measured over frequencies ranging from 0.005 rad/s to 100 rad/s at a constant strain of 
+1% (Figure 2). Over the entire frequency range, G’ (Figure 2a) was approximately two 
+orders of magnitude larger than the loss modulus, G” (Figure 2b), indicating that the elastic 
+properties of the gel dominate over the viscous losses. Furthermore, the hydrogels showed a 
+frequency-independent modulus characteristic of an elastic Hookean solid between 
+frequencies of approximately 0.1 – 10 rad/s. Therefore, a frequency of 1 rad/s was chosen 
+for all subsequent studies. Next, to understand the response of the hydrogel’s mechanical 
+properties to light, the modulus was examined with the UV light either on (open symbols) or 
+off (closed symbols). When the UV light was on, G’ was smaller in the linear viscoelastic 
+range (by approximately 50 Pa for the example shown in Figure 2a), indicating a change in 
+gel structure. Interestingly, at very low frequencies outside of the linear viscoelastic range, 
+there was significant overlap between the irradiated and non-irradiated gels. No significant 
+change was observed in the loss modulus.
+The change in G’ reflects changes in the gel structure conferred by the isomerization of 
+azobenzene between the planar, trans configuration (UV off) and the bent, cis conformation 
+(UV on). Confirmation of the isomeric state of the azobenzene-containing crosslinker was 
+obtained by measuring the absorbance spectrum of the swollen hydrogel (Figure 3a). 
+Azobenzene exhibits two characteristic bands that shift depending on the substituents of the 
+phenyl rings: one in the UV region (~320-360 nm) that corresponds to the π-π* transition 
+and one in the visible region (~420-450 nm) that corresponds to the n-π* transition. Due to 
+symmetry constraints, the n-π* transition is not allowed in the planar trans configuration, 
+therefore making the visible range absorbance very weak. However, upon isomerization, the 
+n-π* transition is allowed, and the absorbance in the visible range increases because the 
+molar extinction coefficient for the cis n-π* transition is larger than that of the trans n-π* 
+transition.22 Simultaneously, the cis π-π* transition in the UV range is weaker than that of 
+the trans configuration. These characteristics are observed in the swollen hydrogels formed 
+here. Before exposure to UV light, the gel displays an absorbance maximum at 330 nm, 
+which is indicative of the π-π* transition and the azobenzene unit in the trans state. 
+Rosales et al. Page 7
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 8 =====
+Immediately after irradiation at 365 nm (10 mW/cm2, 2 min), the peak at 330 nm largely 
+decreases and a new peak emerges at 425 nm, corresponding to the cis n-π* transition and 
+the emergence of a photostationary state that is predominantly composed of the cis isomer. 
+The trans state can be recovered with minimal hysteresis by irradiation with a visible light 
+source (400-500 nm, 10 mW/cm2, 2 min). These light doses are comparable to those used 
+previously in cytocompatible systems,8, 23, 24 thus allowing for non-invasive manipulation 
+of molecular properties in the presence of cells. At this molecular level, the isomerization is 
+very fast; to probe changes on a bulk level, we turned to rheology.
+The dynamic response of the swollen gel storage modulus G’ to both UV and visible light 
+was measured in situ as shown in Figure 3, for three different gels (Figure 3a corresponds to 
+0.5 mM crosslinking density, Figure 3b corresponds to 1.0 mM crosslinking density, and 
+Figure 3c corresponds to 5.0 mM crosslinking density). Upon irradiation with UV light 
+(light gray shading, 365 nm, 10 mW/cm2, 5 min), the gel modulus decreased in an 
+exponential fashion. After removal of the light, G’ stayed constant for 4 minutes, after which 
+a visible light cue was introduced (dark gray shading, 400-500 nm, 10 mW/cm2, 2 min) and 
+G’ quickly increased back to the initial modulus. Again, after removal of the light, G’ stayed 
+constant until the next light cue was introduced. Depending on the hydrogel, sometimes a 
+steady decrease in the modulus was observed (as in Figure 3c). This artifact is due to a 
+decreasing axial force during the measurement, which may arise from small changes in the 
+swelling of the gel during isomerization. Subsequent measurements on the same gel showed 
+similar starting moduli, confirming that no degradation had occurred. Although only two 
+cycles are shown in Figure 3, the gel retained its dynamic switching characteristics over 
+numerous cycles. Furthermore, because of its small absolute value, no significant changes 
+were observed in the loss modulus, G”.
+One interesting characteristic of these gels is the decrease in modulus upon isomerization of 
+the crosslinker to the cis state. Previously, Petr et al. observed a decrease in modulus as the 
+cis state disrupted liquid crystalline order in a polymeric network.25, 26 In addition, several 
+studies have observed gel-sol transitions upon the disruption of hydrogen bonds between 
+neighboring azobenzene units in supramolecular systems.27, 28 Although the hydrogen bond 
+structure in this system is still under investigation, the planar trans conformation may better 
+be able to stabilize hydrogen bonds between the peptide crosslinkers, thereby rigidifying the 
+substrate. Such a structure would then correspond to the “stiff” trans state and “soft” cis 
+state observed here. Heating the hydrogels confirms the presence of hydrogen bonding, as 
+the modulus sharply decreases at higher temperatures (Figure S5). This result is in direct 
+contrast to that predicted by rubber elasticity theory, which states that the modulus of a 
+swollen network should scale with temperature:
+(1)
+where ρxl is the crosslinking density and Q is the swelling ratio. The magnitude of the switch 
+in modulus was dictated by the crosslinking density, or the content of azobenzenes within 
+the gel (gels without azobenzene showed no switch in modulus, Figure S6). As shown in 
+Figure 3 b-d, the magnitude of the change in modulus increased from 12 Pa for a 
+crosslinking density of 0.5 mM to 121 Pa for a crosslinking density of 5 mM. Table 1 lists 
+Rosales et al. Page 8
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 9 =====
+the change in modulus for other gel configurations and concentrations. Both the 8-arm, 20 
+kDa PEG gels and the 4-arm, 10 kDa PEG gels have the same crosslinker length, but the 8-
+arm, 20 kDa gels have a higher theoretical crosslinking density for the same gel 
+concentration, which corresponds to a greater number of azobenzenes per gel. In addition, 
+the 8-arm configuration increases the local concentration of the azobenzene units, which 
+may allow for more hydrophobic interactions. As a result, the equilibrium swelling for the 8-
+arm gels is less than that predicted. This difference in swelling may also be related to the 
+observed magnitude change per mmol of azobenzene, which is greater in the 8-arm gels than 
+the 4-arm gels. Interestingly, attempts to further increase the azobenzene content by 
+increasing the concentration of the gel (higher weight %) or decreasing the size of the 
+crosslinker (lower molecular weight) resulted in no switching (Figure S7). Past a critical 
+concentration of azobenzene, the gel structure is likely altered or further stabilized by 
+interactions between neighboring azobenzene units.
+Although the change in the hydrogel modulus upon exposure to UV light shows good 
+reversibility, the magnitude is quite modest (in the 10-100 Pa range of shear modulus). 
+Many 2D studies of the effects of matrix elasticity on cellular phenotype use a modulus 
+range that spans 10-100 kPa; however, numerous cell types have demonstrated 
+mechanosensitivity over a much smaller modulus range, especially in 3D geometries.29-34 
+For instance, dermal fibroblasts exhibited upregulated mediators of inflammation when 
+encapsulated in stiff hydrogels (1200 Pa) compared to soft hydrogels (50 Pa).29 In another 
+example, MMP activity of encapsulated hMSCs increased with stiffness when comparing 
+soft (200 Pa), medium (500 Pa), and stiff (1200 Pa) hydrogels.34 This range of moduli for 
+3D cell behaviors is similar to that shown by the photoresponsive gels developed here, and 
+current efforts are focused on tuning the parameters of this system to study activation of 
+fibroblasts in 3D.
+Gel Relaxation Behavior
+While Figure 3 demonstrates the photoresponsive behavior of the hydrogels on short time 
+scales (minutes), the time scale of interest for many important cell functions is hours or 
+days. After irradiation with UV light, the azobenzene cis isomer should slowly relax back to 
+the more energetically stable trans state. Thus, the thermal relaxation behavior of the 
+photoresponsive gel was studied by monitoring the change in the absorbance spectra over 
+time. After irradiation with 365 nm light (10 mW/cm2, 5 min), the absorbance of the swollen 
+hydrogel was measured over several hours, and the gel was kept in the dark at the desired 
+temperature in between measurements. As shown in Figure 4a for a hydrogel at 25°C, the 
+peak at 330 nm slowly increased over approximately a week, indicating an increasing 
+population of trans isomers. At 37°C (Figure 4b), this relaxation transition occurred much 
+more quickly, which is in agreement with Arrehenius-type behavior.
+The thermal relaxation behavior follows first order kinetics (Figure 4c), which can be 
+described by Equation 235:
+(2)
+Rosales et al. Page 9
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 10 =====
+In this equation, A∞ is taken to be the absorbance of the trans isomer at 330 nm before 
+irradiation, A0 is the absorbance at 330 nm for the photostationary state of the gel (t=0 after 
+irradiation), and At is the absorbance at 330 nm at time t. Using this equation, the reaction 
+rate constant for the thermal relaxation to the trans isomer at 37°C is an order of magnitude 
+larger than that at 25°C: 0.0756 h−1 compared to 0.0043 h−1, respectively. The half time of 
+the reaction can therefore be calculated and corresponds to 162.3 hours at 25°C and 9.2 
+hours at 37°C.
+The hydrogels presented here remain in a stiffened state over several hours after only 5 
+minutes of UV irradiation. The stability of the cis isomer thus enables minimal exposure to 
+UV light and avoids the creation of potentially harmful free radicals. However, it is worthy 
+to note that the stiffening or softening of biological tissues does not happen on the time scale 
+of minutes. One could better approximate a natural timescale by allowing the cis isomer to 
+thermally relax, which proceeds to completion in 18 hours at 37°C. As for stiffening to 
+intermediate moduli, this can be accomplished by irradiation with wavelengths of light that 
+are further away from the absorption maximum of the trans state. Because the efficiency of 
+the photoisomerization depends on the wavelength of light, the cis content of the 
+photostationary state, and therefore the change in modulus, can theoretically be decreased 
+with irradiation by longer wavelengths of UV light.
+VIC Viability
+To demonstrate cytocompatibility with a mechanoresponsive cell type, valvular interstitial 
+cells (VICs) were encapsulated in the photoresponsive gels at gel compositions of both 4 
+and 5 wt% using an 8-arm, 20 kDa PEG-VS macromer (Figure 5a-c) with 2 mM RGD as an 
+adhesive ligand (final modulus was between 400-800 Pa). Viability was highest when the 
+VICs could locally degrade their environment and spread, as demonstrated in the gels that 
+contained a fraction of MMP-degradable crosslinker. The degradability was accomplished 
+by simply moving the 3,4’-AMPB monomer out of the peptide cleavage site (KCG-3,4’-
+AMPB-GPQGIWGQGCK), and the fraction of non-degradable crosslinks was chosen using 
+Flory-Stockmayer theory to calculate the theoretical critical amount of crosslinks needed to 
+form a gel (38%nd = 38% non-degradable crosslinker). Both the degradable and non-
+degradable versions of the photoresponsive peptides maintained similar reaction efficiencies 
+and therefore affected the mechanical properties of the hydrogels in the same way (Figure 
+S8). As shown in Figure 5d, the VICs maintained high levels of viability (~80%) in 4 wt% 
+hydrogels and were able to achieve a spread fibroblast morphology after three days in the 
+gel. At this time point, cell-laden gels were treated with both 365 nm irradiation (10 
+mW/cm2, 5 min) and 400-500 nm irradiation (10 mW/cm2, 2 min) and demonstrated high 
+viability 24 hours post-irradiation (Figure S9). Matrix-interactions and spreading are 
+required for VIC survival and are also necessary for VICs to exhibit the activated phenotype 
+of the myofibroblast. With longer culture times, VICs continued to elongate, and after 5 
+days, many cells exhibited organized f-actin fibers (Figure 5e). Some cells were also 
+positive for αSMA stress fibers, a hallmark of the myofibroblast phenotype. Therefore, in 
+these gels, there is a baseline level of fibroblast activation that may be affected upon 
+changes in gel modulus.
+Rosales et al. Page 10
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 11 =====
+Conclusions
+Using a crosslinker that responds to both UV and visible light, a PEG-based hydrogel was 
+designed for mechanically dynamic three-dimensional cell culture. The shear modulus 
+exhibited reversible changes without any alterations in network connectivity or monomer 
+composition. Furthermore, due to the use of a photoisomer, the changes in modulus could be 
+effected without the use of chemical initiators or other additives, making this strategy an 
+attractive route toward controlling the matrix environment in the presence of cells. Current 
+efforts are aimed toward tuning the photoresponsive material properties to maximize 
+changes in modulus for biological studies, such as mechanotransduction of cells in 3D.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+This work was supported by an award from the American Heart Association in the form of a postdoctoral 
+fellowship (A.M. Rosales) and a summer undergraduate fellowship (E.M. Nehls). A.M. Rosales also gratefully 
+acknowledges a Postdoctoral Enrichment Program Award from the Burroughs Wellcome Fund. Finally, this work 
+was also made possible by funding from the Howard Hughes Medical Institute and was supported in part by a grant 
+from the National Science Foundation (CBET 1236662).
+References
+1. Kloxin AM, Kloxin CJ, Bowman CN, Anseth KS. Adv. Mater. 2010; 22(31):3484–3494. [PubMed: 
+20473984] 
+2. Tibbitt MW, Anseth KS. Biotechnol. Bioeng. 2009; 103(4):655–663. [PubMed: 19472329] 
+3. Lin DC, Yurke B, Langrana NA. J. Mater. Res. 2005; 20(06):1456–1464.
+4. Jiang FX, Yurke B, Schloss RS, Firestein BL, Langrana NA. Biomaterials. 2010; 31(6):1199–1212. 
+[PubMed: 19931905] 
+5. Gillette BM, Jensen JA, Wang M, Tchao J, Sia SK. Adv. Mater. 2010; 22(6):686–691. [PubMed: 
+20217770] 
+6. Kong N, Peng Q, Li H. Adv. Funct. Mater. 2014 n/a-n/a. 
+7. Murphy WL, Dillmore WS, Modica J, Mrksich M. Angew. Chem., Int. Ed. 2007; 46(17):3066–
+3069.
+8. Kloxin AM, Kasko AM, Salinas CN, Anseth KS. Science. 2009; 324(5923):59–63. [PubMed: 
+19342581] 
+9. Guvendiren M, Burdick JA. Nat. Commun. 2012; 3:792. [PubMed: 22531177] 
+10. Zhao Y-L, Stoddart JF. Langmuir. 2009; 25(15):8442–8446. [PubMed: 20050041] 
+11. Tamesue S, Takashima Y, Yamaguchi H, Shinkai S, Harada A. Angew. Chem., Int. Ed. 2010; 
+49(41):7461–7464.
+12. Guan Y, Zhao H-B, Yu L-X, Chen S-C, Wang Y-Z. RSC Adv. 2014; 4(10):4955–4959.
+13. Peng L, You M, Yuan Q, Wu C, Han D, Chen Y, Zhong Z, Xue J, Tan W. J. Am. Chem. Soc. 
+2012; 134(29):12302–12307. [PubMed: 22742418] 
+14. Beharry AA, Woolley GA. Chem. Soc. Rev. 2011; 40(8):4422–4437. [PubMed: 21483974] 
+15. Priewisch B, Rück-Braun K. J. Org. Chem. 2005; 70(6):2350–2352. [PubMed: 15760229] 
+16. Rück-Braun K, Kempa S, Priewisch B, Richter A, Seedorff S, Wallach L. Synthesis. 2009; 
+2009(24):4256–4267.
+17. Benton JA, Fairbanks BD, Anseth KS. Biomaterials. 2009; 30(34):6593–6603. [PubMed: 
+19747725] 
+Rosales et al. Page 11
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 12 =====
+18. Johnson CM, Hanson MN, Helgeson SC. J. Mol. Cell. Cardiol. 1987; 19(12):1185–1193. 
+[PubMed: 3327949] 
+19. Lutolf MP, Hubbell JA. Biomacromolecules. 2003; 4(3):713–722. [PubMed: 12741789] 
+20. Park Y, Lutolf MP, Hubbell JA, Hunziker EB, Wong M. Tissue Eng. 2004; 10(3-4):515–522. 
+[PubMed: 15165468] 
+21. Fairbanks BD, Schwartz MP, Bowman CN, Anseth KS. Biomaterials. 2009; 30(35):6702–6707. 
+[PubMed: 19783300] 
+22. Bandara HMD, Burdette SC. Chem. Soc. Rev. 2012; 41(5):1809–1825. [PubMed: 22008710] 
+23. Bryant SJ, Nuttelman CR, Anseth KS. J. Biomater. Sci., Polym. Ed. 2000; 11(5):439–457. 
+[PubMed: 10896041] 
+24. Kloxin AM, Benton JA, Anseth KS. Biomaterials. 2010; 31(1):1–8. [PubMed: 19788947] 
+25. Petr M, Hammond PT. Macromolecules. 2011; 44(22):8880–8885.
+26. Petr M, Helgeson ME, Soulages J, McKinley GH, Hammond PT. Polymer. 2013; 54(12):2850–
+2856.
+27. Liu G-F, Ji W, Wang W-L, Feng C-L. ACS Appl. Mater. Interfaces. 2014
+28. Yagai S, Karatsu T, Kitamura A. Langmuir. 2005; 21(24):11048–11052. [PubMed: 16285770] 
+29. Branco da Cunha C, Klumpers DD, Li WA, Koshy ST, Weaver JC, Chaudhuri O, Granja PL, 
+Mooney DJ. Biomaterials. 2014; 35(32):8927–8936. [PubMed: 25047628] 
+30. Zaman MH, Trapani LM, Sieminski AL, MacKellar D, Gong H, Kamm RD, Wells A, 
+Lauffenburger DA, Matsudaira P. Proc. Natl. Acad. Sci. 2006; 103(29):10889–10894. [PubMed: 
+16832052] 
+31. Kyburz KA, Anseth KS. Acta Biomater. 2013; 9(5):6381–6392. [PubMed: 23376239] 
+32. Mason BN, Starchenko A, Williams RM, Bonassar LJ, Reinhart-King CA. Acta Biomater. 2013; 
+9(1):4635–4644. [PubMed: 22902816] 
+33. Shen Y-I, Abaci HE, Krupski Y, Weng L-C, Burdick JA, Gerecht S. Biomater. Sci. 2014; 2(5):
+655–665. [PubMed: 24748963] 
+34. Leight JL, Alge DL, Maier AJ, Anseth KS. Biomaterials. 2013; 34(30):7344–7352. [PubMed: 
+23830581] 
+35. Ruslim C, Ichimura K. J. Mater. Chem. 2000; 10(12):2704–2707.
+Rosales et al. Page 12
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 13 =====
+Figure 1. 
+Photoresponsive hydrogels are formed using Michael addition reactions between multi-arm 
+PEG vinylsulfones (PEG-VS) and thiol-containing peptides in 0.1 M HEPES buffer at pH 
+7.8. The schematic above represents an off-stoichiometry formulation. The crossover of the 
+storage (G’) and the loss (G”) modulus occurs within minutes, and the gel evolution plateaus 
+within 15 minutes.
+Rosales et al. Page 13
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 14 =====
+Figure 2. 
+Typical frequency sweeps of photoresponsive hydrogels with and without UV irradiation 
+(365 nm, 10 mW/cm2) showing both the storage (a) and the loss (b) modulus. The gel shown 
+here is formulated with 8-arm, 20 kDa PEG macromer at 5 wt% and 1.0 mM crosslinking 
+density.
+Rosales et al. Page 14
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 15 =====
+Figure 3. 
+a) Representative UV/Vis of an equilibrium swollen 5 wt% 8-arm PEG-VS gel with 5.0 mM 
+azobenzene-containing peptide crosslinker. UV/Vis shows isomerization of the azobenzene-
+containing crosslinker to the cis form after irradiation with 365 nm light (10 mW/cm2, 2 
+min) and back to the trans form after irradiation with 400-500 nm light (10 mW/cm2, 2 
+min). Rheology shows a cyclic modulus change with alternating irradiation at 365 nm (10 
+mW/cm2, 5 min) and 400-500 nm (10 mW/cm2, 2 min) for an equilibrium-swollen 5 wt% 8-
+arm PEG-VS hydrogel crosslinked at (b) 0.5 mM, (c) 1.0 mM, and (d) 5.0 mM. The 
+magnitude of the change in modulus increases with increasing azobenzene content. All 
+rheological data here is presented on the same scale for ease of comparison.
+Rosales et al. Page 15
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 16 =====
+Figure 4. 
+a) Thermal relaxation at 25 °C for equilibrium swollen 5 wt% 8-arm PEG-VS hydrogel 
+containing the photoresponsive peptide after irradiation with 365 nm light (10 mW/cm2, 5 
+min); b) thermal relaxation at 37 °C; c) kinetic plots show that the relaxation behavior 
+follows first-order kinetics and yields a half life of 162.3 hours at 25°C and 9.2 hours at 
+37°C.
+Rosales et al. Page 16
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 17 =====
+Figure 5. 
+Encapsulated valvular interstitial cells (VICs) stained with calcein-AM (green, live) and 
+ethidium homodimer (red, dead) after 3 days in (a) 5wt% 8-arm PEG-VS, 100% non-
+degradable linker (100%nd), (b) 5wt% 8-arm PEG-VS, 38%nd, and (c) 4wt% 8-arm PEG-
+VS, 38%nd. (d) Quantitative live/dead results at 3 days of culture for 4 wt% and 5 wt% gels 
+with and without MMP-degradable crosslinker (% denotes percentage of non-degradable 
+linker). (e) Immunostaining for αSMA (green), f-actin (red), and nuclei (blue) in 4wt%PEG, 
+38% non-degradable linker after 5 days of culture. All scale bars = 100 μm.
+Rosales et al. Page 17
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+
+===== PDF PAGE 18 =====
+HHMI Author Manuscript HHMI Author Manuscript HHMI Author Manuscript
+Rosales et al. Page 18
+Table 1
+Properties of swollen photoresponsive hydrogels.
+PEG -VS
+Macromer
+[PEG] (mM) ρxl (mM)a Qexp
+b G’ (Pa) ΔG’ (Pa) c
+4-arm, 10 kDa 5.2 0.2 19.8 190 7
+11.1 2.0 15.5 ± 1.5 1987 ± 530 25 ± 5
+11.1 6.0 15.5 ± 1.5 6170 ± 410 51 ± 1
+8-arm, 20 kDa 2.6 0.5 11.8 ± 2.3 500 12
+2.6 1.0 11.8 ± 2.3 1170 ± 155 48 ± 15
+2.6 2.5 11.8 ± 2.3 2829 ± 422 44 ± 6
+2.6 5.0 11.8 ± 2.3 5700 ± 200 121 ± 20
+aCalculated crosslinking density, which corresponds to the concentration of azobenzenes in the gel
+bSwelling ratio, calculated by Qexp = 1 + ρpolymer/ρH20*(Mswollen/Mdry−1), where M is the mass of the gel
+cChange in G’ upon irradiation with 365 nm light, 10 mW/cm 2, 5 min
+Biomacromolecules. Author manuscript; available in PMC 2016 March 09.

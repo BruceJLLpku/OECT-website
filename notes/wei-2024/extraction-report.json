@@ -1,0 +1,70 @@
+{
+  "source_sha256": "3266816ee817f58948cc6e7ea70a5fae52b15ee9b8516ba1cc5f0407116bebbe",
+  "dpi": 400,
+  "figures": [
+    {
+      "label": "Figure 1",
+      "page": 3,
+      "bbox_pt": [
+        48,
+        74,
+        550,
+        310
+      ],
+      "output": "assets/cans-wei-2024-figure1.png",
+      "pixels": [
+        2790,
+        1312
+      ],
+      "sha256": "c7d9962608329a0b1199f3bf345123af3b35f3d589f01b346963436e23701dd5"
+    },
+    {
+      "label": "Figure 2",
+      "page": 4,
+      "bbox_pt": [
+        47,
+        75,
+        550,
+        574
+      ],
+      "output": "assets/cans-wei-2024-figure2.png",
+      "pixels": [
+        2795,
+        2773
+      ],
+      "sha256": "82e71620d7d2bfa4c0f57d58caa7a781e423d5a9328f94c0e663e3bdeb15eb92"
+    },
+    {
+      "label": "Figure 3",
+      "page": 5,
+      "bbox_pt": [
+        48,
+        75,
+        550,
+        599
+      ],
+      "output": "assets/cans-wei-2024-figure3.png",
+      "pixels": [
+        2790,
+        2912
+      ],
+      "sha256": "a8b6788e6922562e1288479daf4de25b453b62e9abe8eb30e82013c3cc7a1505"
+    },
+    {
+      "label": "Figure 4",
+      "page": 7,
+      "bbox_pt": [
+        48,
+        75,
+        550,
+        433
+      ],
+      "output": "assets/cans-wei-2024-figure4.png",
+      "pixels": [
+        2790,
+        1990
+      ],
+      "sha256": "0ada4d7040741dcbad67f227bf5fdd1cd1e8f63bc3769321de46dc8767af1762"
+    }
+  ]
+}

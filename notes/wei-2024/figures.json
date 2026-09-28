@@ -1,0 +1,13 @@
+{
+  "article_id": "cans-2024-am-nelson-campos-living-network",
+  "doi": "10.1002/adma.202313961",
+  "source_pdf": "D:/Work in Zheng Group/Dynamic Network-光/2024 AM Campos 光二硫酯 动态弛豫时间.pdf",
+  "dpi": 400,
+  "coordinate_system": "PDF points from top-left; includes complete original figure and caption",
+  "figures": [
+    {"label": "Figure 1", "page": 3, "bbox_pt": [48, 74, 550, 310], "output": "assets/cans-wei-2024-figure1.png"},
+    {"label": "Figure 2", "page": 4, "bbox_pt": [47, 75, 550, 574], "output": "assets/cans-wei-2024-figure2.png"},
+    {"label": "Figure 3", "page": 5, "bbox_pt": [48, 75, 550, 599], "output": "assets/cans-wei-2024-figure3.png"},
+    {"label": "Figure 4", "page": 7, "bbox_pt": [48, 75, 550, 433], "output": "assets/cans-wei-2024-figure4.png"}
+  ]
+}

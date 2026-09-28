@@ -1,0 +1,834 @@
+
+
+===== PDF PAGE 1 =====
+1905366 (1 of 10) © 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.advmat.de
+CommuniCation
+The Effect of Thiol Structure on Allyl Sulfide 
+Photodegradable Hydrogels and their Application  
+as a Degradable Scaffold for Organoid Passaging
+F. Max Yavitt, Tobin E. Brown, Ella A. Hushka, Monica E. Brown, Nikolche Gjorevski, 
+Peter J. Dempsey, Matthias P. Lutolf, and Kristi S. Anseth*
+Dr. N. Gjorevski, Prof. M. P. Lutolf
+Laboratory of Stem Cell Bioengineering
+Institute of Bioengineering
+School of Life Sciences (SV) and School of Engineering (STI)
+Ecole Polytechnique Fédérale de Lausanne (EPFL)
+Lausanne CH-1015, Switzerland
+Prof. M. P. Lutolf
+Institute of Chemical Sciences and Engineering
+School of Basic Science (SB)
+EPFL
+Lausanne CH-1015, Switzerland
+DOI: 10.1002/adma.201905366
+Under appropriate culture conditions, 
+many stem cells have the remarkable 
+capacity to proliferate and self-organize 
+into organ-specific 3D constructs called 
+organoids. These miniature tissues pos-
+sess hallmarks of the parent tissue, 
+including stem cell compartmentaliza-
+tion and rudimentary function, which 
+enables investigations into organ devel-
+opment,
+[1,2]  disease progression, [3,4]  and 
+opens new avenues for drug discovery 
+and screening.
+[5–7]  Moreover, organoids 
+represent a potentially scalable source of 
+transplantable tissue.
+[8–10]  The broad appli-
+cability of organoid cultures has created an 
+explosion in organoid research involving 
+a growing number of different tissues, 
+including brain, lung, and kidney.
+[11,12]  
+Among epithelial tissues, intestinal orga-
+noids have grown to be one of the most 
+widely used and studied model systems, 
+after Clevers and co-workers first reported 
+the growth of intestinal organoids with 
+crypt-villus architecture from single stem 
+cells isolated from intestinal crypts.
+[13]  
+Intestinal organoids are useful in vitro models for basic and translational 
+studies aimed at understanding and treating disease. However, their routine 
+culture relies on animal-derived matrices that limit translation to clinical 
+applications. In fact, there are few fully defined, synthetic hydrogel systems 
+that allow for the expansion of intestinal organoids. Here, an allyl sulfide 
+photodegradable hydrogel is presented, achieving rapid degradation through 
+radical addition-fragmentation chain transfer (AFCT) reactions, to support 
+routine passaging of intestinal organoids. Shear rheology to first charac-
+terize the effect of thiol and allyl sulfide crosslink structures on degradation 
+kinetics is used. Irradiation with 365 nm light (5 mW cm
+−2 ) in the presence 
+of a soluble thiol (glutathione at 15 ×  10 −3  m), and a photoinitiator (lithium 
+phenyl-2,4,6-trimethylbenzoylphosphinate at 1 ×  10 −3  m), leads to complete 
+hydrogel degradation in less than 15 s. Allyl sulfide hydrogels are used to 
+support the formation of epithelial colonies from single intestinal stem cells, 
+and rapid photodegradation is used to achieve repetitive passaging of stem 
+cell colonies without loss in morphology or organoid formation potential. 
+This platform could support long-term culture of intestinal organoids, poten-
+tially replacing the need for animal-derived matrices, while also allowing 
+systematic variations to the hydrogel properties tailored for the organoid of 
+interest.
+F. M. Yavitt, Dr. T. E. Brown,[+] E. A. Hushka, Prof. K. S. Anseth
+Department of Chemical and Biological Engineering
+University of Colorado Boulder
+Boulder, CO 80309, USA
+E-mail: Kristi.anseth@colorado.edu
+F. M. Yavitt, Dr. T. E. Brown, E. A. Hushka, Prof. K. S. Anseth
+The BioFrontiers Institute
+University of Colorado Boulder
+Boulder, CO 80303, USA
+M. E. Brown, Prof. P. J. Dempsey
+Section of Developmental Biology
+Department of Pediatrics
+University of Colorado
+Denver, CO 80204, USA
+The ORCID identification number(s) for the author(s) of this article 
+can be found under https://doi.org/10.1002/adma.201905366.
+[+]Present address: Material Measurement Laboratory, National Institute 
+of Standards and Technology, Boulder, CO 80305, USA
+Adv. Mater. 2020, 32, 1905366
+
+
+===== PDF PAGE 2 =====
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905366 (2 of 10)
+www.advmat.dewww.advancedsciencenews.com
+Despite these advancements, translation to a clinical setting 
+has yet to come to fruition. This is at least partially due to a 
+lack of appropriate cell culture platforms. Current organoid cul-
+ture techniques rely almost exclusively on basement membrane 
+extracts, such as Matrigel. While supporting cellular growth, 
+these animal-derived matrices are an ill-defined mixture of 
+proteins and growth factors that present problems toward 
+achieving reproducible, scalable, and transplantable tissues.
+[14]  
+As such, there is a need to develop alternatives to Matrigel, 
+based on well-defined material chemistries for the growth and 
+expansion of intestinal organoids.
+Synthetic matrices provide a “blank slate” environment in 
+which the minimal matrix requirements for organoid growth 
+can be determined using a bottom-up approach. As an example 
+of using this approach, Lutolf and co-workers developed a syn-
+thetic poly(ethylene glycol) (PEG) based hydrogel to support 
+intestinal organoid development and determined the depend-
+ence of stem cell colony formation and organoid patterning 
+on matrix elastic modulus and adhesive ligand presentation.
+[15]  
+The proliferation of single encapsulated stem cells requires 
+sufficient mechanical activation through a matrix stiffness of 
+≈1.3 kPa. Progression from the symmetric spheroid to the crypt-
+villus architecture, however, was found to rely on matrix sof -
+tening—in this case introduced through hydrolysis of network 
+ester groups—to relieve the compressive forces built up during 
+proliferation. Similarly, degradation permits the in vitro expan-
+sion of organoids, which requires successive rounds of pas-
+saging and growth in supportive, 3D environments. Through 
+judicious selection of synthetic hydrogel chemistries, condi-
+tions can be identified where organoid formation precede com-
+plete gel erosion; however, the predefined degradation kinetics 
+and lack of spatial control ultimately limit the versatility of this 
+system. This motivated our interest in exploiting photocon-
+trolled degradation mechanisms
+[16,17]  that when integrated into 
+organoid culture scaffolds would offer spatial, temporal, and 
+rate control by manipulating the location, timing, and intensity 
+of applied light. Photodegradation has been used extensively 
+to modulate hydrogel mechanical properties, [18–20]  allowing for 
+investigations into cellular mechanosensation mechanisms[21,22]  
+and cell spreading and migration.[23–25]
+While photochemistry offers certain benefits over other 
+degradation mechanisms, many photodegradable hydro-
+gels utilize inefficient cleavage mechanisms or suffer from 
+light attenuation in thick samples; thus necessitating long 
+exposure times, high light intensities, or thin films that are not 
+always suitable for 3D cell culture. In response, allyl sulfide 
+(AS) hydrogels were developed and shown to degrade rapidly 
+under mild light intensity and photoinitiator concentrations 
+by an amplified chemical process.
+[16,17]  Specifically, a photoini-
+tiator is used to generate free thiyl radicals in solution, which 
+cleave allyl sulfide crosslinks through a reversible addition-
+fragmentation chain transfer (AFTC) reaction. The allyl sulfide 
+is regenerated along with a new thiyl radical that can initiate 
+further cycles of exchange through chain transfer to soluble 
+thiols (Scheme 1 ).
+[16,26]  The rate of thiol-ene addition has been 
+extensively studied[27,28]  and shown to depend on the protona-
+tion state of the thiol in aqueous solutions. [29]  Recently, the 
+formation of disulfide radical anions (DRAs) by the recom-
+bination of a thiolate anion and a thiyl radical was shown to 
+sequester catalytic radical species and slow thiol-ene conver -
+sion rates.
+[30]  These results suggest that the protonation state 
+of thiols involved in allyl sulfide exchange, either as soluble 
+monofunctional thiols or network thiols released from allyl 
+sulfides, could influence the rate of photodegradation. Here, 
+we present a new allyl sulfide crosslinker that undergoes deg-
+radation more rapidly than previously reported kinetics.
+[16]  This 
+platform is then used as a reversible scaffold to promote colony 
+growth from single intestinal stem cells (ISCs), maintaining 
+organoid formation potential through multiple rounds of  
+photodegradation-mediated passaging.
+Crosslinked hydrogels were formed through a strain promoted 
+azide alkyne (SPAAC) reaction with tetrafunctional poly(ethylene 
+glycol) dibenzylcyclooctyne (PEG-4DBCO) and an allyl sulfide 
+bis(PEG3-azide) (Figure 1 a). This bio-orthogonal click reaction 
+proceeds rapidly in solution at physiological conditions and has 
+previously been used as a cytocompatible crosslinking strategy 
+(Figure  1b).
+[24,31]  Three different diazide-functionalized AS 
+crosslinkers were synthesized, with either acetamide (AS-AA),  
+propionamide (AS-PA), or phenyl acetamide (AS-PhAA) groups 
+adjacent to the allyl sulfide functionality. These functionali-
+ties were chosen to study the effect of allyl sulfide crosslinker 
+structure on degradation kinetics. Hydrogels formed with 6 wt% 
+PEG-4DBCO (12 ×  10
+−3  m DBCO) and either AS-AA, AS-PA, 
+and AS-PhAA (14.4 ×  10 −3  m azide) crosslinkers reached the gel 
+point (crossover of G ’ and G’’) in <30  s and achieved the final 
+storage modulus before 600 s, which remained unchanged upon 
+plateauing (Figure  1c and Figure S1, Supporting Information). 
+Hydrogels achieved equilibrated storage moduli of 1400  ±  270, 
+Adv. Mater. 2020, 32, 1905366
+Scheme 1. Light-initiated radical network degradation. a) Thiyl radicals react with an allyl sulfide to form a radical intermediate that subsequently 
+undergoes beta scission, resulting in the fragmentation of crosslinks and the regeneration of a thiyl radical and allyl sulfide. b) A soluble thiol species 
+(red) exchanges with the allyl sulfide, resulting in a cleaved crosslink and the generation of a network tethered thiyl radical. The released network thiyl 
+radical undergoes chain transfer to a soluble thiol species, which can initiate further exchange reactions, amplifying the degradation process.
+ 15214095, 2020, 30, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201905366 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 3 =====
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905366 (3 of 10)
+www.advmat.dewww.advancedsciencenews.com
+1200  ±  200, and 1100  ±  180  Pa, respectively. The differences in 
+storage modulus are not statistically significant (Figure S2, Sup-
+porting Information). This hydrogel formulation was chosen 
+based on the targeted range of stiffness for optimal ISC culture 
+in synthetic hydrogels, previously shown to be 1.3 kPa. [15]  A fre-
+quency sweep revealed that the storage and loss moduli display 
+no frequency dependence, indicating elastic behavior in the 
+absence of radical generation (Figure 1d).
+To determine the effect of the crosslinker structure on 
+degradation kinetics, hydrogels were formed using AS-PA, 
+AS-AA, and AS-PhAA crosslinkers and placed in aqueous 
+solutions containing 3-methyl mercaptopropionate (3MMP, 
+pK
+a =  10.4 [32] ) at 15 × 10 −3  m and the photoinitiator lithium 
+phenyl-2,4,6-trimethylbenzoylphosphinate (LAP) at 1 ×  10 −3  m. A 
+small amount of tri(ethylene glycol) monoazide (PEG 3 -N3 ) was 
+also included to cap any unreacted DBCO functionalities, which 
+have been shown to undergo side reactions in the presence of 
+photoinitiator.
+[33]  The addition of PEG 3 -N3  shows no effect on 
+the  equilibrated modulus over time (Figure S3, Supporting 
+Information). In the presence of a soluble thiol, AS-PA, AS-AA, 
+and AS-PhAA cleavage products present thiols of decreasing 
+pK
+a values (Figure 2 a). Crosslink cleavage was characterized 
+using a rheometer equipped with a light curing accessory to 
+track the change in shear storage (G’) modulus during irradia-
+tion (365 nm, 5 mW cm
+−2 ). As seen in Figure 2b, the AS-PA and 
+AS-AA achieved reverse gelation, with AS-PA being more rapid, 
+while AS-PhAA did not (i.e., remained a percolating 3D net-
+work). The degradation of AS-PA, AS-AA, and AS-PhAA hydro-
+gels with 3MMP corresponds to rate constants of kapp/I0  × 10 −4  
+of 310  ±  50, 190  ±  60, and 70  ±  10  cm 2   mW−1  s−1 , respectively 
+(Figure 1c). This trend follows the pK a of the cleavage product, 
+in which the propylamide thiol has the highest pK a (10.4), [32]  
+while the phenyl thiol has the lowest pK a (6.6). [34]  As thiol pK a 
+decreases, increased thiolate concentration in the presence 
+of thiyl radicals leads to increased formation of DRAs, which 
+sequester radicals and inhibit the degradation process.
+[30]  Pre-
+vious work with AS hydrogels used the AS-AA crosslinker. [16]  
+These results show that the use of the AS-PA crosslinker, which 
+yields a cleavage product with a higher pK a, results in more 
+rapid degradation, ultimately allowing for lower light expo-
+sure and decreased radical generation, potentially improving 
+the cytocompatibilty of the degradation process. The AS-PA 
+crosslinker was therefore chosen to conduct all cell studies.
+To determine the effect of free thiol protonation state on 
+allyl sulfide degradation, hydrogels crosslinked with the AS-PA 
+were then equilibrated with soluble thiols of various pK
+a, along 
+with LAP, and degraded using similar conditions as before. The 
+thiol pKa was chosen as a control handle to change protonation 
+state of the thiol, rather than solution pH, as mammalian cells 
+only survive within a narrow range of pH values. The chosen 
+thiols, 3MMP, reduced glutathione (GSH), methyl thioglyco-
+late (MTG), and thioacetic acid (TAA), which have pK
+a values 
+of 10.4, [32]  9.42, [35]  8.8, [32]  and 3.6, [36]  respectively, were dissolved 
+in a pH 7 .4 buffer. Using the Henderson–Hasselbalch equa-
+tion, the ratio of deprotonated to protonated thiols for 3MMP, 
+GSH, MTG, and TAA at pH 7 .4 are ≈0.001, 0.009, 0.04, and 
+6300, respectively. Again, degradation was monitored on the 
+rheometer while irradiating with 365 nm light at 5 mW cm
+−2 . 
+The AS-PA hydrogels showed rapid degradation using 3MMP, 
+followed by increasingly slower rates of degradation with GSH, 
+MTG, and TAA, respectively (Figure  2d). The degradation of 
+AS-PA hydrogels with 3MMP, GSH, MTG, and TAA corre-
+sponds to rate constants of k
+app/I0  × 10 −4  of 310  ± 50, 240  ± 70, 
+130  ±  60, and 56  ±  25  cm 2   mW−1  s−1 , respectively (Figure  1e). 
+Adv. Mater. 2020, 32, 1905366
+Figure 1. Network structure of AFCT-based photodegradable hydrogels. a) Structures of the cyclooctyne functionalized PEG macromer, PEG-4DBCO, 
+and the azide functionalized crosslinkers, AS-AA, AS-PA, AS-PhAA containing the allyl sulfide functionality. b) Upon mixing, the strained octyne reacts 
+with the azide to form a bond through strain-promoted azide alkyne cycloaddition (SPAAC), resulting in the formation of a hydrogel network incor-
+porating the allyl sulfide functionalities. c) The evolution of shear storage (black) and loss (gray) moduli are monitored with shear rheology for AS-PA 
+(solid line), AS-AA (dotted), and AS-PhAA (dashed) crosslinkers. Hydrogels reach a similar shear modulus after 10 min. d) A frequency sweep of the 
+shear storage (black) and loss (gray) moduli for AS-PA (solid line), AS-AA (dotted), and AS-PhAA (dashed) crosslinked hydrogels shows a lack of 
+frequency dependence, indicative of elastic networks.
+ 15214095, 2020, 30, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201905366 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 4 =====
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905366 (4 of 10)
+www.advmat.dewww.advancedsciencenews.com
+These results show a decreasing rate of degradation with 
+increasing thiol deprotonation. Under conditions of increasing 
+thiol deprotonation, more thiolate anions are present to partici-
+pate in radical sequestration, resulting in a decrease in degrada-
+tion rate. The rate of degradation using MTG at pH 3 (more 
+protonated) is increased (although not significant) compared to 
+the rate at pH 7 .4, while the rate of degradation using MTG at 
+pH 9 (more deprotonated) is significantly decreased (Figure S4,  
+Supporting Information). The rate of degradation shows a clear 
+dependence on the protonation state of the thiol, which can be 
+tuned using thiol pK
+a or solution pH. These results present the 
+use of thiol pKa to tune hydrogel mechanical properties through 
+the rate of degradation.
+Interestingly, the trend in thiol protonation state was not 
+seen when hydrogels were degraded with a soluble, aro-
+matic thiol, 4-mercaptophenylacetic acid (4MPAA). Hydrogels 
+crosslinked with AS-PA, AS-AA, and AS-PhAA and equilibrated 
+with 4MPAA were degraded using similar conditions as above 
+(Figure 3a). Contrary to degradation in the presence of an alkyl 
+thiol, the AS-PA and AS-AA crosslinked hydrogels showed little 
+degradation when irradiated in the presence of an aromatic 
+thiol. Meanwhile, the AS-PhAA crosslinked hydrogel exhibited 
+rapid degradation. The degradation of AS-PA, AS-AA, and AS-
+PhAA hydrogels with 4MPAA corresponds to rate constants of 
+k
+app/I0  × 10 −4  of 2.1  ± 0.5, 1.1  ± 0.3, and 270  ± 130 cm 2  mW−1  s−1 , 
+respectively (Figure 2b). The thiol pK a of 4MPAA is 6.6, [34]  corre-
+sponding to a ratio of deprotonated to protonated thiols of ≈6.3, 
+and so degradation is expected to behave according to the trend 
+of thiol pKa and protonation state described previously. The lack 
+in degradation seen is likely due to the increased radical stability 
+of the aromatic thiol. The lower S–H bond dissociation energy 
+(BDE) of aromatic thiols make them more reactive toward ini-
+tiating radicals than alkyl thiols. [37]  Following thiol-ene addition 
+onto the allyl sulfide and formation of a radical intermediate, 
+reformation of the aromatic thiyl radical is the favored cleavage 
+product (Figure S5a, Supporting Information). In the case of 
+the alkyl thiol crosslinkers, AS-PA and AS-AA, this decomposi-
+tion inhibits cleavage of the allyl sulfide crosslinker and negates 
+any degradation. These hydrogels show moderate degrada-
+tion only in the presence of photoinitiator (no thiol), so lack 
+of degradation following addition of the aromatic thiol species 
+4MPAA indicates active inhibition of the exchange mechanism 
+(Figure S6, Supporting Information). Conversely, the sym-
+metrical aromatic intermediate formed between AS-PhAA and 
+4MPAA has no favored degradation product, in terms of rad-
+ical stability of the generated aromatic thiyl radicals, affording 
+rapid degradation (Figure S5b, Supporting Information). While 
+the effects of radical stability are apparent, the effect of thiol 
+Adv. Mater. 2020, 32, 1905366
+Figure 2. The effect of thiol structure on allyl sulfide hydrogel degradation kinetics. a) Reaction mechanisms for AS-PA, AS-AA, and AS-PhAA 
+crosslinkers, resulting in the generation of network tethered thiol species with pK a values of 10.4, 8.8, and 6.6, respectively. b) AS-PA (red) and AS-AA 
+(green) hydrogels undergo reverse gelation when degraded with the thiol, 3MMP. AS-PhAA crosslinked hydrogels do not achieve reverse gelation. 
+c) Apparent rate constants for photodegradation of crosslinkers AS-PA, AS-AA, and AS-PhAA using 3MMP are shown. Significance determined by 
+one-way Analysis of variance (ANOVA), N  = 3, mean  ± s.d., *p  < 0.05, ***p  < 0.001. d) The extent of degradation of AS-PA hydrogels decreases when 
+degraded with thiols of decreasing pK
+a. The thiols, 3MMP (solid), glutathione (GSH, dash), MTG (dot), and TAA (dot–dash), have pK a values of 10.4, 
+9.42, 8.8, and 3.6, respectively. e) Apparent rate constants for photodegradation of AS-PA crosslinking using 3MMP, GSH, MTG, and TAA are shown. 
+Significance determined by one-way ANOVA, N  = 3, mean  ± s.d., **p  < 0.01, ***p  < 0.001. Hydrogels were equilibrated with 15  × 10
+−3  m soluble thiol 
+and 1  × 10 −3  m lithium phenyl-2,4,6-trimethyl benzoylphosphinate (LAP) at pH 7.4 and exposed to light (365 nm, 5 mW cm −2 ) at t  = 0. All rheological 
+plots show a representative trace from N  = 3.
+ 15214095, 2020, 30, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201905366 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 5 =====
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905366 (5 of 10)
+www.advmat.dewww.advancedsciencenews.com
+protonation state is still present in the case of aromatic thiols. 
+Hydrogels crosslinked with AS-PhAA degrade more rapidly 
+at pH 5, compared to pH 7 .4 where more deprotonated thiols 
+are present (Figure  3c). The degradation of AS-PhAA hydro-
+gels with 4MPAA at pH 5 and pH 7 .4 corresponds to rate con-
+stants of k
+app/I0  × 10 −4  of 570  ± 120 and 270  ± 130 cm 2  mW−1  s−1 , 
+respectively (Figure 3d). While it is clear that protonation state 
+and radical stability are both contributing factors for aryl thiols, 
+the effect of radical stability is less practically relevant, as most 
+biologically relevant thiols are alkyl.
+Using our understanding of the exchange reaction mecha-
+nism, we can begin to tailor the experimental conditions to 
+suit stem cell expansion as related to a key stage of organoid 
+derivation. Previous work with allyl sulfide degradable hydro-
+gels used PEG-thiol (PEG-SH) as the soluble monofunctional 
+thiol species.
+[16]  However, it is desirable to extend the applica-
+bility of photodegradation to biologically relevant thiols, such 
+as cysteine or glutathione. Glutathione (pK
+a =  9.42) was ulti-
+mately chosen over cysteine (pK a =  8.6 [38] ) due to the elevated 
+pKa, indicating more thiol protonation at physiological pH 
+and thus rapid degradation kinetics. Also, the concentration of 
+glutathione is (5–10) × 10 −3  m within cells, which approaches 
+conditions necessary for  degradation.[39]  Additionally, glu-
+tathione acts as an antioxidant to protect against radical damage 
+from reactive oxygen species [40]  and ultraviolet light [41]  and 
+could therefore be beneficial during photodegradation. How-
+ever, as the extracellular environment is generally viewed as 
+oxidizing, it may be advantageous to avoid exposing encap-
+sulated cells to elevated levels of reduced thiols.
+[42]  Disulfide 
+bonds have a lower BDE compared to S H bonds in thiols 
+and are also reactive in radical reactions. [37,43]  AS-PA hydrogels 
+were equilibrated with 15 × 10 −3  m solutions of both oxidized 
+(GSSG) and reduced (GSH) glutathione, along with 1 × 10 −3  m 
+LAP, and subsequently exposed to 365 nm light at 5 mW cm −2  
+(Figure 4a). The degradation of AS-PA hydrogels with GSH 
+and GSSG corresponds to rate constants of k app/I0  ×  10 −4  of 
+240  ± 70, and 150  ± 70 cm 2  mW−1  s−1 , respectively (Figure 4b). 
+Rates of degradation for GSSG and GSH were statistically 
+similar and equally rapid compared to degradation with thiols 
+of similar protonation states. These results indicate that glu-
+tathione is a biologically relevant alternative, which still allows 
+for rapid degradation.
+Adv. Mater. 2020, 32, 1905366
+Figure 3. The effect of aromatic thiols on allyl sulfide hydrogel degradation kinetics. a) When equilibrated with the aromatic thiol, 4MPAA, AS-PhAA 
+(blue) hydrogels degrade rapidly, while AS-PA (red) and AS-AA (green) hydrogels experience limited degradation. b) Apparent rate constants for pho-
+todegradation of crosslinkers AS-PA, AS-AA, and AS-PhAA using 4MPAA are shown. Significance determined by one way ANOVA, N  = 3, mean  ± s.d., 
+**p  < 0.01. c) AS-PhAA crosslinked hydrogels equilibrated with 4MPAA degrade more rapidly at pH 5 (dash) than at pH 7.4 (solid). d) Apparent rate 
+constants for photodegradation of AS-PhAA using 4MPAA at pH 5 and pH 7.4 are shown. Significance determined by t-test, N  =  3, mean  ±  s.d., 
+**p  < 0.01. Hydrogels equilibrated with 15  × 10 −3  m soluble thiol and 1  × 10 −3  m LAP at pH 7.4 (or pH 5) were exposed to light (365 nm, 5 mW cm −2 ) 
+at t  = 0. All rheological plots show a representative trace from N  = 3.
+ 15214095, 2020, 30, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201905366 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 6 =====
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905366 (6 of 10)
+www.advmat.dewww.advancedsciencenews.com
+In addition to the rapid and versatile nature of the thiol-ene 
+reaction, it has the ability to be photoinitiated by a variety of 
+strategies, including visible light and/or type II photoinitiators. 
+Eosin Y is a water-soluble type II photoinitiator that has found 
+utility as a visible light photoinitiator for 3D cell encapsula-
+tion.
+[44,45]  AS-PA hydrogels equilibrated with 15 × 10 −3  m GSH 
+and 1 × 10 −3  m eosin Y degraded more rapidly at 405/436  nm 
+(5 mW cm−2 ) than hydrogels initiated with 1 × 10 −3  m LAP at the 
+same wavelength (Figure  4c), due to the larger molar absorp-
+tivity of eosin Y . As expected, hydrogels equilibrated with LAP 
+degraded more slowly when irradiated with 405/436  nm light 
+compared to 365 nm light, due to the lower molar absorptivity 
+of LAP at longer wavelengths.
+[46]  Additionally, hydrogels equili-
+brated with 15 × 10 −3  m GSSG and 1 × 10 −3  m eosin Y showed no 
+degradation (Figure 4b). As a type II initiator, eosin Y requires 
+abstraction of a hydrogen from a coinitiating species.
+[45]  Such a 
+role can be fulfilled by the sulfhydryl group of GSH; however, 
+GSSG lacks a reduced thiol to facilitate generation of a radical 
+by type II photoinitiation. The degradation of AS-PA hydrogels 
+with GSH/eosin Y , GSH/LAP, and GSSG/eosin Y using 
+405/436 nm (5 mW cm
+−2 ) light corresponds to rate constants of 
+kapp/I0  × 10 −4  of 63  ± 15, 4.8  ± 0.5, and 0.7  ± 0.7 cm 2  mW−1  s−1 , 
+respectively (Figure 4e) The use of visible light photoinitiators 
+extends the application of allyl sulfide degradable hydrogels, 
+as visible light allows for deeper tissue penetration than UV 
+light.[47]
+The current study reveals that cleavage of the AS-PA 
+crosslinker with glutathione allows for more biologically rel-
+evant and rapid degradation than previously reported.
+[16]  These 
+advancements allow for lower UV light doses and lower concen-
+trations of photoinitiating species, which extend the utility of 
+this photodegradation strategy for use with sensitive cell types. 
+In combination with the bioorthogonal SPAAC click reaction for 
+gel formation, allyl sulfide degradable hydrogels provide a prac-
+tical reversible scaffold for intestinal organoids. Additionally, 
+the dimensions of hydrogel pucks used for rheology are similar 
+to the dimensions of cell-laden matrices used for routine orga-
+noid passaging, ensuring translation to in vitro studies. Murine 
+Adv. Mater. 2020, 32, 1905366
+Figure 4. The effect of thiol oxidation state and initiator type on allyl sulfide hydrogel degradation kinetics. a) AS-PA hydrogels equilibrated with glu-
+tathione (GSH, black) and glutathione disulfide (GSSG, gray) display similar degradation kinetics when degraded using 1  × 10 −3  m LAP and 365 nm 
+light (5 mW cm −2 ). b) Apparent rate constants for photodegradation of AS-PA using GSH and GSSG are shown. Significance determined by t-test, 
+N  = 3, mean  ± s.d. c) Degradation is slower using GSH and LAP at higher wavelengths, such as 405 nm light (solid black). However, using 405 nm 
+light and the photoinitiator eosin Y , degradation is more rapid with GSH (black dot), while GSSG (gray dot) exhibits little degradation. d) Apparent rate 
+constants for photodegradation of AS-PA using thiols, GSH and GSSG, and photoinitiators, LAP and eosin Y , are shown. Significance determined by 
+one way ANOVA, N  = 3, mean  ± s.d., ***p  < 0.001. Hydrogels equilibrated with 15  × 10
+−3  m soluble thiol and 1  × 10 −3  m photoinitiator at pH 7.4 were 
+exposed to light (365 nm or 405/436, 5 mW cm −2 ) at t  = 0. All rheological plots show a representative trace from N  = 3.
+ 15214095, 2020, 30, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201905366 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 7 =====
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905366 (7 of 10)
+www.advmat.dewww.advancedsciencenews.com
+leucine-rich repeat-containing G-protein coupled receptor 5 
+(Lgr5)-green fluorescent protein (GFP) intestinal organoids 
+(maintained in Matrigel) were isolated, dissociated into single 
+cells, and  encapsulated into allyl sulfide containing hydrogels 
+supplemented with the integrin-binding ligand RGD (Arg–
+Gly–Asp) to promote cell survival and proliferation.
+[15,48]  Impor-
+tantly, hydrogels were not supplemented with laminin-111, a 
+component of the basement membrane necessary for intes-
+tinal crypt homeostasis
+[49,50]  that is included in formulations 
+of other synthetic hydrogel platforms for intestinal organoid 
+development.[15,48]  The formation of colonies from single ISCs 
+encapsulated into synthetic hydrogels is mechanosensitive and 
+depends on the hydrogel storage modulus.
+[15]  Therefore, hydro-
+gels were formulated with increasing concentrations of PEG 
+macromer, providing increasing modulus values (Figure 5 a). 
+After 4 d, single cells had grown into spherical colonies of 
+Lgr5+  stem cells, where the colony forming efficiency (CFE) is 
+defined as the fraction of single cells that grows into an epithe-
+lial cyst (Figure 5b). The CFE is lowest at low modulus values, 
+reaches a plateau around 1500 Pa, and then starts to decline at 
+higher modulus values, a trend that has been seen in other syn-
+thetic hydrogel platforms.
+[15,48]  The colonies polarized to form 
+epithelium and central lumen, a key morphological feature of 
+intestinal organoids (Figure  5c). Gene expression determined 
+by quantitative real-time polymerase chain reaction (PCR) of 
+stem (Lgr5) and differentiation markers (Lct, Lyz1, Muc2, and 
+Chga) was similar in organoids grown in allyl sulfide hydrogels 
+compared to organoids grown in Matrigel under stem-inducing 
+conditions (Figure  5d), further indicating the maintenance of 
+the stem population in allyl sulfide photodegradable hydrogels. 
+The expression of Dclk1 was significantly elevated compared to 
+the Matrigel control, indicating the increased presence of Tuft 
+cells. However, this difference is not expected to be significant 
+to the cellular organization of intestinal organoids, consid-
+ering Tuft cells account for only 0.4% of cells in the intestinal 
+epithelium.
+[51]
+The utility of this system as a reversible scaffold is dependent 
+on the ability to repetitively passage ISC colonies. AS-PA hydro-
+gels containing colonies grown from single encapsulated cells 
+were equilibrated with GSH (15 × 10
+−3  m) and LAP (1 × 10 −3  m), 
+and exposed to 365 nm light (5 mW cm −2 ), leading to complete 
+network degradation. The colonies were collected, dissociated 
+into single cells and encapsulated into allyl sulfide hydrogels 
+as “p1.” After 4 d, colonies had formed from the encapsulated 
+stem cells and the passaging process was again repeated on 
+these colony laden gels to form “p2.” Single cells encapsulated 
+as p1 and p2 formed colonies with slightly decreasing efficiency, 
+possibly due to a decrease in the encapsulated cell density fol-
+lowing each passaging step (Figure  5e). However, the values 
+for CFE are still similar to other reported values.
+[15]  Colonies of 
+p2 and p3 also formed polarized epithelium similar to their p1 
+counterparts (Figure 5c). These results indicate that allyl sulfide 
+hydrogels can support the growth and expansion of intestinal 
+organoids.
+To enhance utility as a reversible scaffold, the degrada-
+tion reactions must proceed in the presence of cells without 
+Adv. Mater. 2020, 32, 1905366
+Figure 5. Allyl sulfide photodegradable hydrogels support the expansion and repetitive passaging of intestinal organoids. a) Shear rheology of swollen 
+allyl sulfide hydrogels shows a correlation between macromer concentration and shear storage modulus. b) The efficiency of colony formation from 
+single encapsulated ISCs shows a dependence on the macromer concentration. c) Allyl sulfide photodegradation was used to repetitively passage 
+ISC colonies (p1, p2, and p3), which maintained polarized epithelium, as seen by 4′,6′-diamidino-2-phenylindole (DAPI) (blue) and f-actin (green) 
+staining. Scale bars: 50  µm. d) Relative mRNA expression for intestinal genes was similar in organoids grown in allyl sulfide photodegradable hydrogels 
+compared to Matrigel controls. Significance determined by one-way ANOVA, N  = 3, mean  ± s.d., ***p  < 0.001. e) Colonies were formed at a slightly 
+decreasing rate upon repetitive passaging. The open circles represent average measurements from one gel replicate, while the bars represent the 
+average of the three gel replicates.
+ 15214095, 2020, 30, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201905366 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 8 =====
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905366 (8 of 10)
+www.advmat.dewww.advancedsciencenews.com
+compromising viability or stemness. AS-PA hydrogels laden with 
+ISC colonies were equilibrated with GSH (15 × 10 −3  m) and LAP  
+(1 × 10 −3  m), and exposed to 365  nm light (5  mW  cm −2 ), 
+leading to complete network degradation. Temporary subjec-
+tion of intestinal organoids to these concentrations of GSH 
+and LAP do not result in any loss of cell viability (Figure S7, 
+ Supporting  Information). The colonies were collected, reseeded 
+into Matrigel, and cultured in differentiation medium lacking 
+exogeneous CHIR 99021 and valproic acid to promote crypt 
+formation. After 3 d, visible crypts were noticed budding from 
+the encapsulated organoids. Immunostaining confirmed the 
+presence of lysozyme, a marker for the differentiated Paneth 
+cell, a key cell type of the intestinal crypt (Figure 6a). Addi-
+tionally, 5-ethynyl-2’-deoxyuridine (EdU, 24  h pulse) staining 
+was restricted to the crypt (Figure  6b). Crypts staining posi-
+tive for lysozyme and EdU were found in 22.5%  ±  1.0% and 
+27 .5%  ± 0.9% of transplanted organoids, respectively (Figure 6c). 
+The cohabitation of Paneth cells and proliferative stem cells in 
+the formed crypts indicate the formation of morphologically 
+accurate crypts that display correct compartmentalization of 
+intestinal epithelial cell types. Allyl sulfide photodegradable 
+hydrogels are able to maintain cell viability and multipotency 
+during the photodegradation process.
+Current culture platforms rely on Matrigel, a murine-
+derived mixture of proteins and growth factors notorious for 
+its undefined and xenogeneic composition and batch-to-batch 
+variation.
+[14]  These limitations can confound interpretation 
+of mechanistic studies of organoids and prevents the applica-
+tion of intestinal organoids for clinical use. While synthetic 
+hydrogel platforms are beginning to be developed that sup-
+port the growth and expansion of intestinal organoids, [15,48,52–54]  
+these platforms rely on predefined degradation kinetics, lacking 
+spatial, and temporal control over material properties. How-
+ever, the use of allyl sulfide photodegradable hydrogels allows 
+for the spontaneous release and capture of encapsulated cells, 
+potentially providing a replacement for Matrigel and other 
+animal derived scaffolds. Passaging in animal derived matrices 
+is often a time-consuming and rate limiting step in the use 
+of organoids that introduces variability, creating problems for 
+applications such as drug screening. The ability to degrade rap-
+idly using light provides a standardized means to release orga-
+noids without compromising function, thus improving quality 
+and yield of cultures. Additionally, allyl sulfide hydrogels do not 
+require supplementation with tissue derived proteins, such as 
+laminin, for the growth of ISC cultures. These hydrogels uti-
+lize only RGD to facilitate cell–matrix interactions, therefore 
+providing a completely defined and synthetic system to sup-
+port ISC development. While this system supports the growth 
+of ISC cultures, the absence of laminin prevents applications 
+with differentiated cultures, which is a necessary component 
+of intestinal organoid differentiation.
+[15,48]  The utility of allyl 
+sulfide photodegradable hydrogels is therefore restricted to the 
+expansion and culture of ISC cultures.
+In addition to the use of this platform as a means to prop-
+agate ISC colonies with the potential to form organoids, allyl 
+sulfide hydrogels can also be used to investigate cell–matrix 
+interactions that govern intestinal organoid development. 
+While intestinal development has been linked to changes in 
+cell shape following localized tissue remodeling, the exact bio-
+mechanical pathway involved in intestinal organoid develop-
+ment is unknown.
+[55,56]  Allyl sulfide degradable hydrogels could 
+provide a controlled environment to study the biomechanical 
+ pathways involved in mechanosensation, allowing on-demand 
+control of the scaffold properties, which should be a useful tool 
+for research aimed at understanding intestinal development.
+Allyl sulfide moieties have been previously used to facilitate 
+photoinduced plasticity in crosslinked polymer networks [26,57,58]  
+and to reversibly photopattern biomolecules. [59,60]  However, 
+their use in modulating hydrogel mechanical properties has 
+been significantly limited, in part, due to the lack of under -
+standing of the exchange mechanism. In this work, we report 
+the thiol pK
+a as the determining factor mediating the kinetics 
+Adv. Mater. 2020, 32, 1905366
+Figure 6. Allyl sulfide photodegradation maintains stem cell differentiation potential. Allyl sulfide hydrogels laden with colonies were degraded to 
+release the encapsulated colonies, which were encapsulated into Matrigel and cultured with differentiation media (lacking CHIR 99021 and valproic 
+acid). a) After 3 d, buds had protruded off of the colonies to form crypts, which immunostained for lysozyme (red), an indicator of Paneth cells and a 
+mature crypt as well as DAPI (blue) and f-actin (green). b) Staining for EdU (red, 24 h pulse) and DAPI (blue) showed proliferative cells residing in the 
+crypt ends. Scale bars: 50  µm. c) A low percentage of organoids formed from ISC colonies expanded in allyl sulfide gels and transplanted into Matrigel 
+formed crypts containing lysozyme (22.5%  ± 1.0%, N  = 3) and EdU positive cells (27.5%  ± 0.9%, N  = 4). Mean  ± s.d.
+ 15214095, 2020, 30, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201905366 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 9 =====
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905366 (9 of 10)
+www.advmat.dewww.advancedsciencenews.com
+of allyl sulfide exchange. This understanding was leveraged to 
+improve the rate of degradation by selecting crosslinker and 
+soluble thiols that present high pK
+a values. The use of the AS-PA 
+crosslinker and glutathione (15 × 10 −3  m) allowed for complete 
+hydrogel degradation in under 15  s of irradiation, using LAP  
+(1 × 10 −3  m) and 5 mW cm−2  of 365 nm light, which improves on 
+previously reported results. [16]  Ultimately, this advance allows 
+for reduced light and radical exposure as well as degradation of 
+thicker samples. This scaffold was then shown to support the 
+expansion of ISC colonies from single encapsulated stem cells, 
+using only RGD adhesive peptides, with similar efficiencies to 
+previously reported results. Rapid photodegradation allowed 
+for repetitive passaging, which preserved the potential of intes-
+tinal stem cells to form colonies and fully developed organoids 
+bearing crypt-villus domains. The use of this platform could 
+provide a replacement for Matrigel used in routine organoid 
+culture or can be used to investigate the mechanobiological 
+processes involved in organ development.
+Supporting Information
+Supporting Information is available from the Wiley Online Library or 
+from the author.
+Acknowledgements
+F.M.Y . and T.E.B. contributed equally to this work. This work was 
+supported in part by grants from the National Institute of Health (NIH) 
+(R01 DK120921 and T32 GM-065103). F.M.Y . and E.A.H. acknowledge 
+Department of Education Graduate Assistance in Areas of National 
+Need (DoEd GAANN) fellowship for funding. T.E.B. acknowledges 
+National Science Foundation Graduate Research Fellowship Program 
+(NSF GRFP) for funding. The animal protocol (#B-0084) for this research 
+was approved by the University of Colorado Institutional Animal Care 
+and Use Committee.
+Conflict of Interest
+The authors declare no conflict of interest.
+Keywords
+intestinal organoids, photodegradable hydrogels, tissue engineering
+Received: August 19, 2019
+Revised: April 19, 2020
+Published online: June 17, 2020
+[1] M.  Eiraku, N.  Takata, H.  Ishibashi, M.  Kawada, E.  Sakakura, 
+S. Okuda, K. Sekiguchi, T. Adachi, Y . Sasai, Nature 2011, 472, 51.
+[2] K. W.  McCracken, E. M.  Catá, C. M.  Crawford, K. L.  Sinagoga, 
+M.  Schumacher, B. E.  Rockich, Y . H.  Tsai, C. N.  Mayhew,  
+J. R. Spence, Y . Zavros, J. M. Wells, Nature 2014, 516, 400.
+[3] Y .  Xia, E.  Nivet, I.  Sancho-Martinez, T.  Gallegos, K.  Suzuki, 
+D.  Okamura, M. Z.  Wu, I.  Dubova, C. R.  Esteban, N.  Montserrat,  
+J. M.  Campistol, J. C.  Izpisua Belmonte, Nat. Cell Biol. 2013, 15, 
+1507.
+[4] M. A. Lancaster, M. Renner, C.-A. Martin, D. Wenzel, L. S. Bicknell, 
+M. E.  Hurles, T.  Homfray, J. M.  Penninger, A. P.  Jackson,  
+J. A. Knoblich, Nature 2013, 501, 373.
+[5] X.  Qian, H. N.  Nguyen, M. M.  Song, C.  Hadiono, S. C.  Ogden, 
+C.  Hammack, B.  Yao, G. R.  Hamersky, F.  Jacob, C.  Zhong,  
+K. J.  Yoon, W.  Jeang, L.  Lin, Y .  Li, J.  Thakor, D. A.  Berg, C.  Zhang, 
+E. Kang, M. Chickering, D. Nauen, C. Y . Ho, Z. Wen, K. M. Christian,  
+P. Y . Shi, B. J. Maher, H. Wu, P. Jin, H. Tang, H. Song, G. L. Ming, 
+Cell 2016, 165, 1238.
+[6] M. Takasato, P. X. Er, H. S. Chiu, B. Maier, G. J. Baillie, C. Ferguson, 
+R. G. Parton, E. J. Wolvetang, M. S. Roost, S. M. C. De Sousa Lopes, 
+M. H. Little, Nature 2015, 526, 564.
+[7] R. J.  Mills, D. M.  Titmarsh, X.  Koenig, B. L.  Parker, J. G.  Ryall,  
+G. A.  Quaife-Ryan, H. K.  Voges, M. P.  Hodson, C.  Ferguson, 
+L.  Drowley, A. T.  Plowright, E. J.  Needham, Q.-D.  Wang, 
+P.  Gregorevic, M.  Xin, W. G.  Thomas, R. G.  Parton, L. K.  Nielsen,  
+B. S.  Launikonis, D. E.  James, D. A.  Elliott, E. R.  Porrello,  
+J. E. Hudson, Proc. Natl. Acad. Sci. USA 2017, 114, E8372.
+[8] S.  Yui, T.  Nakamura, T.  Sato, Y .  Nemoto, T.  Mizutani, X.  Zheng, 
+S.  Ichinose, T.  Nagaishi, R.  Okamoto, K.  Tsuchiya, H.  Clevers, 
+M. Watanabe, Nat. Med. 2012, 18, 618.
+[9] R. P.  Fordham, S.  Yui, N. R. F.  Hannan, C.  Soendergaard, 
+A.  Madgwick, P. J.  Schweiger, O. H.  Nielsen, L.  Vallier,  
+R. A. Pedersen, T. Nakamura, M. Watanabe, K. B. Jensen, Cell Stem 
+Cell 2013, 13, 734.
+[10] T. Takebe, K. Sekine, M. Enomura, H. Koike, M. Kimura, T. Ogaeri, 
+R. R. Zhang, Y . Ueno, Y . W. Zheng, N. Koike, S. Aoyama, Y . Adachi, 
+H. Taniguchi, Nature 2013, 499, 481.
+[11] M. A. Lancaster, J. A. Knoblich, Science 2014, 345, 1247125.
+[12] H. Clevers, Cell 2016, 165, 1586.
+[13] T. Sato, R. G. Vries, H. J. Snippert, M. Van De Wetering, N. Barker, 
+D. E. Stange, J. H. Van Es, A. Abo, P. Kujala, P. J. Peters, H. Clevers, 
+Nature 2009, 459, 262.
+[14] C. S.  Hughes, L. M.  Postovit, G. A.  Lajoie, Proteomics 2010, 10,  
+1886.
+[15] N.  Gjorevski, N.  Sachs, A.  Manfrin, S.  Giger, M. E.  Bragina, 
+P.  Ordóñez-Morán, H.  Clevers, M. P.  Lutolf, Nature 2016, 539,  
+560.
+[16] T. E.  Brown, I. A.  Marozas, K. S.  Anseth, Adv. Mater. 2017, 29, 
+1605001.
+[17] A. R.  Killaars, J. C.  Grim, C. J.  Walker, E. A.  Hushka, T. E.  Brown,  
+K. S. Anseth, Adv. Sci. 2018, 3, 1801483.
+[18] K. M. C.  Tsang, N.  Annabi, F.  Ercole, K.  Zhou, D. J.  Karst, F.  Li, 
+J. M.  Haynes, R. A.  Evans, H.  Thissen, A.  Khademhosseini,  
+J. S. Forsythe, Adv. Funct. Mater. 2015, 25, 977.
+[19] A. M. Kloxin, A. M. Kasko, C. N. Salinas, K. S. Anseth, Science 2009, 
+324, 59.
+[20] M. He, J. Li, S. Tan, R. Wang, Y . Zhang, J. Am. Chem. Soc. 2013, 135, 
+18718.
+[21] C. Yang, M. W. Tibbitt, L. Basta, K. S. Anseth, Nat. Mater. 2014, 13, 
+645.
+[22] A. M. Rosales, S. L. Vega, F. W. DelRio, J. A. Burdick, K. S. Anseth, 
+Angew. Chem., Int. Ed. 2017, 56, 12132.
+[23] D. D. McKinnon, T. E. Brown, K. A. Kyburz, E. Kiyotake, K. S. Anseth, 
+Biomacromolecules 2014, 15, 2808.
+[24] C. A. DeForest, K. S. Anseth, Nat. Chem. 2011, 3, 925.
+[25] A. M. Kloxin, M. W. Tibbitt, A. M. Kasko, J. A. Fairbairn, K. S. Anseth, 
+Adv. Mater. 2010, 22, 61.
+[26] T. F.  Scott, A. D.  Schneider, W. D.  Cook, C. N.  Bowman, Science 
+2005, 308, 1615.
+[27] C. E. Hoyle, T. Y . Lee, T. Roper, J. Polym. Sci., Part A: Polym. Chem. 
+2004, 42, 5301.
+[28] C. E. Hoyle, C. N. Bowman, Angew. Chem., Int. Ed. 2010, 49, 1540.
+[29] B.  Colak, J. C. S.  Da Silva, T. A.  Soares, J. E.  Gautrot, Bioconjug. 
+Chem. 2016, 27, 2111.
+Adv. Mater. 2020, 32, 1905366
+ 15214095, 2020, 30, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201905366 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PDF PAGE 10 =====
+© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim1905366 (10 of 10)
+www.advmat.dewww.advancedsciencenews.com
+[30] D. M.  Love, K.  Kim, J. T.  Goodrich, B. D.  Fairbanks, B. T.  Worrell,  
+M. P.  Stoykovich, C. B.  Musgrave, C. N.  Bowman, J. Org. Chem. 
+2018, 83, 2912.
+[31] C. A. DeForest, B. D. Polizzotti, K. S. Anseth, Nat. Mater. 2009, 8, 
+659.
+[32] C. F. Bernasconi, R. B. Killion, J. Am. Chem. Soc. 1988, 110, 7506.
+[33] T. E.  Brown, J. S.  Silver, B. T.  Worrell, I. A.  Marozas, F. M.  Yavitt,  
+K. A. Günay, C. N. Bowman, K. S. Anseth, J. Am. Chem. Soc. 2018, 
+140, 11585.
+[34] T. Moyal, H. P. Hemantha, P. Siman, M. Refua, A. Brik, Chem. Sci. 
+2013, 4, 2496.
+[35] S. G.  Tajc, B. S.  Tolbert, R.  Basavappa, B. L.  Miller, J. Am. Chem. 
+Soc. 2004, 126, 10508.
+[36] R. J.  Irving, L.  Nelander, I.  Wadso, Acta Chem. Scand. 1964, 18,  
+769.
+[37] F. Dénès, M. Pichowicz, G. Povie, P. Renaud, Chem. Rev. 2014, 114, 
+2587.
+[38] E. Awoonor-Williams, C. N. Rowley, J. Chem. Theory Comput. 2016, 
+12, 4662.
+[39] O. W. Griffith, Free Radic. Biol. Med. 1999, 27, 922.
+[40] E. C.  Cheung, D.  Athineos, P.  Lee, R. A.  Ridgway, W.  Lambie, 
+C. Nixon, D. Strathdee, K. Blyth, O. J. Sansom, K. H. Vousden, Dev. 
+Cell 2013, 25, 463.
+[41] J. E. Biaglow, M. E. Varnes, E. P. Clack, E. R. Epp, Radiat. Res. 1983, 
+95, 437.
+[42] E. Bakaic, N. M. B. Smeets, T. Hoare, RSC Adv. 2015, 5, 35469.
+[43] B. D.  Fairbanks, S. P.  Singh, C. N.  Bowman, K. S.  Anseth, 
+ Macromolecules 2011, 44, 2444.
+[44] S.  Halstenberg, A.  Panitch, S.  Rizzi, H.  Hall, J. A.  Hubbell, 
+ Biomacromolecules 2002, 3, 710.
+[45] G. M. Cruise, O. D. Hegre, D. S. Scharp, J. A. Hubbell, Biotechnol. 
+Bioeng. 1998, 57, 655.
+[46] B. D.  Fairbanks, M. P.  Schwartz, C. N.  Bowman, K. S.  Anseth, 
+ Biomaterials 2009, 30, 6702.
+[47] C. Ash, M. Dubec, K. Donne, T. Bashford, Lasers Med. Sci. 2017, 32, 
+1909.
+[48] R.  Cruz-Acuña, M.  Quirós, A. E.  Farkas, P. H.  Dedhia, S.  Huang, 
+D. Siuda, V. García-Hernández, A. J. Miller, J. R. Spence, A. Nusrat, 
+A. J. García, Nat. Cell Biol. 2017, 19, 1326.
+[49] P.  Simon-Assmann, V.  Orian-Rousseau, C.  Arnold, M.  Kedinger, 
+B. Duclos, C. Mathelin, E. Engvall, Dev. Dyn. 1994, 201, 71.
+[50] Y . D.  Benoit, J.-F.  Groulx, D.  Gagné, J.-F.  Beaulieu, J. Signal Trans-
+duct. 2012, 2012, 248759.
+[51] F. Gerbe, C. Legraverend, P. Jay, Cell. Mol. Life Sci. 2012, 69, 2907.
+[52] Y . Wang, D. B. Gunasekara, M. I. Reed, M. DiSalvo, S. J. Bultman,  
+C. E.  Sims, S. T.  Magness, N. L.  Allbritton, Biomaterials 2017,  
+128, 44.
+[53] Z.  Tong, K.  Martyn, A.  Yang, X.  Yin, B. E.  Mead, N.  Joshi,  
+N. E.  Sherman, R. S.  Langer, J. M.  Karp, Biomaterials 2018,  
+154, 60.
+[54] N. Broguiere, L. Isenmann, C. Hirt, T. Ringel, S. Placzek, E. Cavalli, 
+F.  Ringnalda, L.  Villiger, R.  Züllig, R.  Lehmann, G.  Rogler,  
+M. H. Heim, J. Schüler, M. Zenobi-Wong, G. Schwank, Adv. Mater. 
+2018, 30, 1801621.
+[55] K. D. Walton, S. Wang, D. L. Gumucio, in Current Topics in Devel-
+opmental Biology, 2019, pp. 31–65.
+[56] C.  Bonnans, J.  Chou, Z.  Werb, Nat. Rev. Mol. Cell Biol. 2014, 15, 
+786.
+[57] T. F. Scott, R. B. Draughon, C. N. Bowman, Adv. Mater. 2006, 18, 2128.
+[58] C. J. Kloxin, T. F. Scott, C. N. Bowman, Macromolecules 2009, 42, 2551.
+[59] N. R.  Gandavarapu, M. A.  Azagarsamy, K. S.  Anseth, Adv. Mater. 
+2014, 26, 2521.
+[60] J. C. Grim, T. E. Brown, B. A. Aguado, D. A. Chapnick, A. L. Viert, 
+X. Liu, K. S. Anseth, ACS Cent. Sci. 2018, 4, 909.
+Adv. Mater. 2020, 32, 1905366
+ 15214095, 2020, 30, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201905366 by Yale University, Wiley Online Library on [27/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

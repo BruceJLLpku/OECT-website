@@ -1,0 +1,28 @@
+﻿network,paper,tau_min_s,tau_max_s,display_value,range_type,driver
+ALYDS（AFM 局部）,Lu/Zheng 2025,0.012,0.017,约 12–17 ms,local,488 nm 光/暗
+gel-MA,Zhang/Kalow 2023,0.672,0.672,0.672 s,fixed,固定条件
+CY-Net,El-Zaatari/Kalow 2020,3.7,39.3,3.7–39.3 s,temperature,150→100 °C
+Marozas allyl-sulfide gel,Marozas 2019,14.1,214,14.1–214 s,light,365 nm 光强
+Wei living polymer network,Wei/Campos 2024,20,670,约 20–670 s,light,蓝光/暗；tau_R
+BA-Net,El-Zaatari/Kalow 2020,36.1,393,36.1–393 s,temperature,150→100 °C
+CY/MA-Net,El-Zaatari/Kalow 2020,45.785,45.785,45.8 s,fixed,140 °C
+PBEDS,Lu/Zheng 2025,100,500,100–500 s,light,445 nm 光强/暗
+BA/MA-Net,El-Zaatari/Kalow 2020,106.799,106.799,106.8 s,fixed,140 °C
+gel-CH,Zhang/Kalow 2023,115,115,115 s,fixed,固定条件
+IND-Net,El-Zaatari/Kalow 2020,148,2043,148–2043 s,temperature,150→100 °C
+gel-AA,Zhang/Kalow 2023,173,173,173 s,fixed,固定条件
+BA/DP-Net,El-Zaatari/Kalow 2020,233.629,233.629,233.6 s,fixed,140 °C
+MA-Net,El-Zaatari/Kalow 2020,288,2967,288–2967 s,temperature,150→100 °C
+gel-MM,Zhang/Kalow 2023,621,621,621 s,fixed,固定条件
+DASA Net-1,Garcia Villatoro/Kalow 2025,660,9000,约 660–9000 s,temperature,160→100 °C
+gel-AA_cap,Zhang/Kalow 2023,675,675,675 s,composition,巯基封端
+MDADS,Lu/Zheng 2025,1300,2500,约 1300–2500 s,light,445 nm 光/暗
+ALYDS（宏观流变）,Lu/Zheng 2025,1500,3400,1500–3400 s,light,445 nm 光/暗
+gel-ctrl,Zhang/Kalow 2023,1553,1553,1553 s,fixed,非动态对照
+C3-ALY,Lu/Zheng 2025,2700,2700,2700 s,fixed,光不响应对照
+DASA Net-2,Garcia Villatoro/Kalow 2025,4020,12000,约 4020–12000 s,temperature,160→100 °C
+CN-Net,El-Zaatari/Kalow 2020,18152,18152,18152 s,fixed,150 °C；外推
+DP-Net,El-Zaatari/Kalow 2020,22481,22481,22481 s,fixed,150 °C；外推
+DASA Control-1,Garcia Villatoro/Kalow 2025,30000,30000,30000 s,fixed,100 °C；外推
+DASA Control-2,Garcia Villatoro/Kalow 2025,99000,99000,99000 s,fixed,100 °C；外推
+PEG thioester gels,Carberry/Anseth 2020,210000.0,1800000.0,约 2.1×10^5–1.8×10^6 s,composition,过量巯基 200→0%

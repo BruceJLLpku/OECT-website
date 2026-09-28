@@ -1,0 +1,1098 @@
+
+
+===== PDF PAGE 1 =====
+Reversible On-Demand Activation of Acid-Catalyzed Dynamic
+Polymers for Gradient-Driven Reshaping
+David Reisinger, Laura Wimberger, Roman Korotkov, Markus Alfreider, Timothy F. Scott,
+Neil R. Cameron,* Cyrille Boyer,* and Sandra Schlögl*
+Cite This: J. Am. Chem. Soc. 2025, 147, 39671−39680
+ Read Online
+ACCESS
+Metrics & More
+ Article Recommendations *
+sı Supporting Information
+ABSTRACT: Covalent adaptable networks (CANs) unite recyclability and mechanical
+stability by leveraging externally triggered bond exchange. However, a significant challenge
+remains in achieving a sharp reversible transition between dynamic and static network
+states, which broadly limits their applicability. This work introduces a merocyanine
+photoacid for precise and reversible spatiotemporal control over dynamic bond exchange in
+thiol−ene photopolymers. When exposed to visible light, the photoacid’s activated
+spiropyran form enables dynamic network rearrangements through acid-catalyzed
+transesterification. Switching off the light yields the deactivated merocyanine form and a
+creep-resistant polymer network. Stress relaxation experiments clearly demonstrate a
+remarkable difference in mechanical properties resulting from the photoacid’s isomerization
+state. The rapid isomerization kinetics and fatigue resistance of this system are utilized to
+generate gradients of active photoacid at the micrometer level. Applied in a novel mold-free
+reshaping approach, bending radii are predictable based on the introduction of an empirical
+model. Finally, the successful fabrication of diverse microstructures via multiphoton laser writing highlights the future potential of
+these reversibly switchable CANs in light-controlled micromechanics.
+1. INTRODUCTION
+Thermosetting polymers, with their covalently cross-linked
+network structure, offer outstanding mechanical performance
+and chemical resistance. However, this robust nature comes at
+a cost, as they are neither recyclable, weldable, nor malleable.
+1,2
+Covalent adaptable networks (CANs) aim to bridge this gap
+between performance and sustainability by the introduction of
+dynamic covalent bonds capable of reorganizing the network
+topology in response to an external stimulus (most often
+heat).
+2−4
+Among various dynamic bond chemistries, including
+transamination of vinylogous urethanes,
+5
+siloxane exchange,
+6
+thiol−thioester exchange,
+7,8
+and transcarbamoylation,
+9,10
+trans-
+esterification is a widely applied mechanism.
+3,11
+Required
+reactive groups, i.e., ester links and hydroxy groups, are easily
+introduced in various polymer systems and several catalysts
+like acids, bases, and organometallic salts, can be used.
+3,11−14
+However, conventional, permanently active catalysts limit the
+adjustment of dynamic bond exchange rates solely to the
+temperature. This can lead to significant drawbacks in terms of
+creep resistance, especially in applications requiring elevated
+temperatures or in CANs exhibiting low glass transition
+temperatures.
+4
+While latent acid and base catalysts provide a well-
+established concept for temperature-decoupled and spatially
+resolved control over dynamic bond exchange, their irrever-
+sible activation pathways are a key limitation. Once activated,
+they are effectively “downgraded” to conventional, perma-
+nently active CANs.
+7,15−19
+The development of CANs aiming
+for a reversible activation of covalent bond exchange is
+significantly hampered by a limited number of suitable
+switchable catalysts. Additional constraints include poor
+solubility in the polymer, residual catalytic activity in the
+deactivated state, slow switching kinetics, and poor fatigue
+resistance over multiple switching cycles. Consequently, only a
+small number of reversibly switchable CANs have been
+developed to date.
+8,10,20,21
+Recently, our group demonstrated the use of a photo-
+switchable nitrogen superbase, i.e., a photochromic dithieny-
+lethene derivative equipped with a guanidine unit,
+22
+for local
+and reversible control over the base-catalyzed dynamic
+exchange of thioester links and thiol groups. Exposure to
+visible light generated the active ring-opened isomer, while
+exposure to UV light regenerated the less active ring-closed
+isomer. Stress relaxation and UV−vis experiments, carried out
+over multiple cycles, revealed a significant difference in
+mechanical properties depending on the isomerization state,
+good fatigue resistance, and fast switching kinetics in both
+Received: August 1, 2025
+Revised: October 6, 2025
+Accepted: October 7, 2025
+Published: October 20, 2025
+Articlepubs.acs.org/JACS
+© 2025 American Chemical Society
+39671
+https://doi.org/10.1021/jacs.5c13227
+J. Am. Chem. Soc. 2025, 147, 39671−39680
+Downloaded via STANFORD UNIV on December 11, 2025 at 13:43:56 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+
+===== PDF PAGE 2 =====
+directions. Despite residual activity in the deactivated state, the
+system’s applicability for locally controlled and spatially
+resolved reshaping and microimprinting was successfully
+demonstrated.
+8
+In a separate development, Sardon and co-workers used
+different merocyanine (MC) photoacids as reversibly switch-
+able catalysts. Exposing them to 440 nm LED light generated
+the more acidic spiropyran (SP) form, whereas the MC form
+was reobtained in the dark. When incorporated into polyur-
+ethane, the SP form accelerated covalent bond exchange via
+acid-catalyzed transcarbamoylation. Although a difference in
+the stress relaxation rate based on the isomerization state of the
+catalyst was achieved, pronounced relaxation was also observed
+in the presence of the less active MC form. Furthermore,
+switching from the MC to the SP form required a considerable
+amount of time (7 days in the dark), likely due to the MC
+photoacids’ limited solubility in the polymer, as dissolution
+during production required significant quantities of tetrahy-
+drofuran.
+10
+Herein, we demonstrate the use of an MC photoacid with
+optimized structural properties for application in polymer
+systems exhibiting a polar chain structure, as valid for most of
+the CANs commonly used.
+5−7,9,11
+When applied in a thiol−
+ene photopolymer, we achieve fast switching kinetics (on the
+order of seconds) between the MC and SP form. Accompanied
+by a significant difference in pK
+a
+, stress relaxation experiments
+highlight an outstanding reversible control over the dynamic,
+associative exchange between ester links and hydroxy groups.
+The rapid switching kinetics is further exploited for on-demand
+generation of catalyst gradients at the microscale level,
+enabling relaxation-controlled reshaping of the material.
+Curvatures are precisely predictable through the introduced
+mathematical model.
+2. RESULTS AND DISCUSSION
+2.1. Design of a Fast Switching CAN. Transferring
+efficient reversible (photo)isomerization from solution to a
+solid polymer matrix is challenging. Key factors influencing the
+isomerization rate are (i) concentration and solubility of the
+(photo)switchable molecule, (ii) the polymer matrix’s glass
+transition temperature, (iii) the free volume surrounding the
+switching unit, and (iv) steric constraints of the switching
+process.
+23
+Considering these factors, we selected an MC
+photoacid (Figure 1a) with superior solubility and switching
+properties in polar media, synthesized in three steps according
+to the literature. Irradiation with 440 nm light yields the more
+acidic SP form (pK
+a
+hv
+= 4.03 ± 0.03), while the MC form
+(pK
+a
+dark
+= 7.33 ± 0.01) is recovered in the dark.
+24
+When incorporated into a covalently cross-linked polymer
+with sufficient ester and hydroxy groups, transesterification-
+based bond exchange proceeds rapidly in the presence of the
+light-generated SP form. In the dark (MC form), dynamic
+bond exchange is suppressed (Figure 1b). The progression of
+acid-catalyzed transesterification within a polymer matrix has
+been confirmed by various studies using different acid
+catalysts.
+3,14,17,19
+In this work, we selected soft and transparent
+thiol−ene photopolymers, which were obtained via air and
+moisture-tolerant radical click polymerization at ambient
+Figure 1. Conceptual design of the reversibly switchable CAN. (a) Chemical structures and switching between the photoacid’s deactivated MC
+form and its activated (more acidic) SP form. (b) Schematic representation of the light-controlled switching of an acid-catalyzed CAN by regulating
+the dynamic exchange of ester links and hydroxy groups. (c) Chemical composition of the two monomer formulations (MFs) used.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c13227
+J. Am. Chem. Soc. 2025, 147, 39671−39680
+39672
+
+
+===== PDF PAGE 3 =====
+conditions.
+25
+Compared to acrylate-based systems, significantly
+less polymerization shrinkage and internal network stresses are
+generated, which lead to uncontrolled physical network
+relaxations.
+26,27
+Despite a high cross-link density, exceptional
+network dynamics are observed at comparatively low temper-
+atures and concentrations of the transesterification catalyst. All
+these features make the thiol−ene polymerization system ideal
+for analyzing catalytic effects on bond exchange.
+7,8
+Monomer
+formulations (MFs) were prepared with a stoichiometric ratio
+of thiol to allyl moieties, resulting in rapid polymerization with
+quantitative conversion.
+25
+In order to enable transesterification
+within the polymer networks, monomers bearing ester bonds
+and hydroxy groups were specifically selected. MF1 contained
+pentaerythritol tetrakis(3-mercaptopropionate) (PETMP),
+trimethylolpropane diallyl ether (TMPDE, 80% of the total
+amount of allyl groups), and trimethylolpropane allyl ether
+(TMPE, 20% of the total amount of allyl groups). MF2,
+containing partially esterified pentaerythritol tetrakis(3-
+mercaptopropionate) (PETMP-75) and TMPDE, aimed to
+achieve a different network connectivity and an improved
+distribution of hydroxy groups while maintaining the global
+molar concentrations of ester links and hydroxy groups. The
+molecular structures of allyl and thiol compounds are shown in
+Figure 1c.
+Initially, we screened a range of MC photoacids to obtain
+information about resin compatibility. The selected MC
+photoacid (Figure 1a) dissolved readily without the addition
+of solvents, unlike similar derivatives (Figure S1). This
+improved solubility is attributed to a methoxy group on the
+indolenine fragment, which enhances the molecule’s polar-
+ity.
+10,24,28
+Unless otherwise stated, all MFs prepared contained
+2 mol % of MC photoacid relative to ester links. For the light-
+mediated polymerization of MF1 and MF2, ethyl (2,4,6-
+trimethylbenzoyl)phenylphosphinate (1 mol % relative to thiol
+Figure 2. (a−d) UV−vis absorption behavior and switching kinetics of a 50 μm thick MF1 polymer film containing 0.75 mol % of the MC
+photoacid relative to ester links: (a) absorption behavior during light-induced activation; (b) absorption behavior during deactivation at room
+temperature in the dark; (c) temperature influence on the deactivation kinetics in the dark, plotted as conversion of the SP form, i.e., the increase in
+area of the absorption peak at 454 nm; (d) fatigue resistance of the MC photoacid followed by changes in area of the absorption peak at 454 nm
+over six full switching cycles; (e) spatially resolved drawing and erasing of different icons in a 70 μm thick MF1 polymer film containing 0.75 mol %
+of the MC photoacid relative to ester links through exposure to 440 nm LED light and storage in the dark at elevated temperatures.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c13227
+J. Am. Chem. Soc. 2025, 147, 39671−39680
+39673
+
+
+===== PDF PAGE 4 =====
+groups) was added. FTIR spectroscopy confirmed the
+complete consumption of allyl ether (3080 cm
+−1
+) and thiol
+(2565 cm
+−1
+) groups during polymerization. Importantly, ester
+links (1735 cm
+−1
+) and hydroxy groups (3445 cm
+−1
+), essential
+for dynamic transesterification, remained unaffected (Figure
+S2). Determined by differential scanning calorimetry, the
+polymers resulting from MF1 and MF2 exhibited a glass
+transition temperature of about −25 °C with no discernible
+influence from the MC photoacid (Figure S3). Their Young’s
+moduli of 55 ± 3 kPa for MF1 and 61 ± 4 kPa for MF2 are
+also in a similar range (individual tensile testing measurements
+are shown in Figure S4). In thermogravimetric analysis, the
+total mass loss remained below 1% up to at least 160 °C
+(Figure S5). Overall, the soft nature of the polymers, including
+the low glass transition temperature, facilitates high rates of
+dynamic bond exchange and reversible isomerization of the
+MC photoacid, while thermal stability is crucial for material
+characterization at elevated temperatures.
+2.2. Switching of the Photoacid. To analyze the
+efficiency, kinetics, and reversibility of isomerization between
+the MC form and the SP form within the polymer network, a
+50 μm thick polymer film of MF1 containing the photoacid at
+a concentration of 0.75 mol % (relative to ester links) was
+prepared. This lowered concentration of photoacid enabled us
+to monitor the isomerization process by UV−vis spectroscopy
+while preventing full absorption across the entire wavelength
+range analyzed (650 to 250 nm). For quantitative switching to
+the more acidic SP form, less than 480 mJ cm
+−2
+of 440 nm
+LED light were needed (Figure 2a). The reverse reaction to
+the MC form, occurring in the dark, required approximately 16
+h at room temperature (Figure 2b). Interestingly, the reaction
+rate showed a strong temperature dependence and could be
+significantly increased by increasing the temperature (Figure
+2c). For example, only 10 min was needed for complete
+isomerization to the MC form at 80 °C, enabling precise
+control over the reaction.
+In the next step, six full switching cycles (turning the light
+ON and OFF) were followed by UV−vis spectroscopy (Figure
+2d). The absorption characteristics of the MC form and the SP
+form remained unaffected over the entire experiment, which
+highlights the outstanding fatigue resistance of the isomer-
+ization process within the thiol−ene photopolymer containing
+ester links and hydroxy groups for dynamic transesterification.
+To demonstrate local control over the switching process,
+different icons were drawn reversibly into a 70 μm thick MF1
+polymer film (Figure 2e). In its MC form, the photoacid
+caused an orange coloration. Using light and opaque masks,
+surrounding areas were switched to the SP form, which
+appeared yellow due to its limited absorption at 454 nm. The
+remaining icon in the shape of the mask used showed no
+Figure 3. Dynamic network properties of MF1 and MF2 prepared with (cat.) and without (ref.) the MC photoacid as a reversibly switchable
+transesterification catalyst. All data were recorded at 100 °C in either the presence (ON) or absence (OFF) of 440 nm LED light. (a) Normalized
+stress relaxation curves obtained through 8-fold alternating switching between the catalytically active SP form (ON) and the catalytically inactive
+MC form (OFF). The magnified graph area and the sketches illustrate the changed network states. (b, c) Stress relaxation behavior of MF1 (b) and
+MF2 (c) under constant exposure conditions. For better comparability, curves recorded under ON/OFF switching are additionally shown in gray.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c13227
+J. Am. Chem. Soc. 2025, 147, 39671−39680
+39674
+
+
+===== PDF PAGE 5 =====
+visible spreading and was erased at elevated temperatures
+before the process was repeated twice.
+2.3. Dynamic Network Properties. The ability of
+covalent bond exchange through acid-catalyzed transesterifica-
+tion, dependent on the MC photoacid’s isomerization state,
+was determined by stress relaxation measurements. Unless
+otherwise stated, all measurements were conducted in tension
+mode at 100 °C by using a convection heating system with an
+inspection glass that allowed illumination with 440 nm LED
+light (Figure S6). The emission spectrum and intensity,
+recorded at the distance of the sample, are shown in Figure
+S7a.
+Initially, we performed measurements for both MFs
+involving 8-fold alternating switching between the MC
+photoacid’s isomerization states (Figure 3a). In the absence
+of 440 nm LED light, a (largely) creep-resistant network state
+Figure 4. Gradient-driven bending of MF2 polymer films under continuous exposure to 440 nm LED light at 100 °C: (a) schematic representation
+of the gradient-driven bending process; (b) stress relaxation rates as a function of sample thickness; (c) bending behavior as a function of sample
+thickness and relaxation time; at relaxation times of 3 and 4 h for the 70 μm thick samples and 4 h for the 100 μm thick sample, the resulting
+bending radii were too small for placing them upright on their broadside; (d) examples of radii of curvature determined for modeling purposes; (e)
+geometric relationships of the starting parameters used for modeling; (f) final fitting result of the developed model (eq 5), as a function of sample
+thickness and relaxation time, to the data set of measured radii of curvature.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c13227
+J. Am. Chem. Soc. 2025, 147, 39671−39680
+39675
+
+
+===== PDF PAGE 6 =====
+was obtained, which is due to the MC form’s negligible
+catalytic effect on dynamic transesterification. However, once
+the light was switched on, fast isomerization to the SP form
+occurred, significantly increasing the stress relaxation rate
+through acid-catalyzed transesterification. The higher stress
+relaxation rate observed for MF2 compared to MF1 was
+attributed to the improved distribution of hydroxy groups and
+network connectivity. Based on the quantities specified in the
+Supporting Information for resin preparation (total mass of
+212 mg), MF1 and MF2 contain 3.3 wt % MC photoacid and
+0.82 mmol ester links. Also, the contents of hydroxy groups
+with 0.67 mmol in MF1 and 0.71 mmol in MF2 do not differ
+substantially from each other. However, in the resulting
+polymers, many of the hydroxy groups are directly adjacent to
+each other and terminal when MF1 is used (TMPE monomer,
+Figure 1c), whereas they are uniformly separated and
+distributed throughout the network structure when MF2 is
+used. Owing to the fast reverse isomerization to the MC form
+at elevated temperatures in the absence of 440 nm LED light
+(Figure 2c), the relaxation process stopped immediately after
+the light was switched off again. To ensure that the light-
+induced relaxation was truly a result of catalyst isomerization
+and no other effects, e.g., a local heating of the sample by light,
+we prepared MF1 and MF2 reference samples that did not
+contain the MC photoacid. Measured under the exact same
+conditions, neither sample showed any significant response to
+the 440 nm LED light, and only minor relaxation was recorded
+over the entire testing period. This confirmed that the
+generation of the acidic SP form was responsible for covalent
+bond exchange and the reorganization of the cross-linked
+network structure under light exposure.
+Second, measurements were performed under constant
+exposure conditions. In accordance with the previous findings,
+MF1 (Figure 3b) and MF2 (Figure 3c) samples showed only
+limited relaxation in the presence of the MC form, i.e., in the
+dark. Conversely, under continuous exposure to 440 nm LED
+light, which generated the catalytically active SP form, a
+distinct stress relaxation was observed. Furthermore, the
+relaxation levels achieved at the end of these continuous
+irradiation measurements largely matched the final values of
+the stress relaxation experiments conducted under ON/OFF
+switching of the MC photoacid (Figure 3a). To facilitate the
+comparison between ON/OFF and continuous irradiation, the
+respective ON/OFF curves were included in Figure 3b,c in
+gray color. The measurement time under continuous
+irradiation was adjusted to the cumulated segment measure-
+ment time under light exposure (total measurement duration
+of all five ON segments of 840 min). Additionally, for MF1
+and MF2, the five respective ON segments were arranged
+directly after each other (OFF segments were removed) and
+compared with the measurement curves obtained under
+continuous irradiation (Figure S8). The nearly identical
+curve progression in both cases confirms the superior creep
+resistance in the presence of the deactivated MC form and the
+absence of significant side reactions.
+Compared to conventional CANs, which usually contain a
+permanently active catalyst and whose rate of bond exchange
+increases with rising temperature,
+3
+thermal influences on the
+introduced system are considerably more complex to describe.
+This is the case because the MC photoacid’s isomerization
+equilibrium is also highly temperature-dependent (Figure 2c).
+Consequently, an increase in temperature does not inherently
+correspond to an acceleration of stress relaxation nor does a
+decrease in temperature inherently imply its deceleration. At
+90 and 100 °C, an almost identical stress relaxation behavior
+was observed for MF2 photopolymer samples (Figure S9).
+Due to the slower reverse isomerization to the deactivated MC
+form at 90 °C, a higher concentration of active catalyst, i.e., SP
+form, was generated within the sample under continuous
+exposure to 440 nm LED light of the same intensity. This
+increased concentration of the active transesterification catalyst
+counterbalanced the usually anticipated deceleration of stress
+relaxation at lower temperatures. On the other hand, when the
+temperature was increased to 110 °C, significantly slower stress
+relaxation was observed, which is a very unique behavior in the
+field of CANs. In this case, the faster reverse isomerization to
+the deactivated MC form led to a reduced concentration of the
+active SP form within the polymer, surpassing the conven-
+tionally temperature-induced acceleration of stress relaxation
+conventionally anticipated for CANs.
+2.4. Gradient-Driven Reshaping. The rapid isomer-
+ization of the MC form at elevated temperatures (Figure 2c)
+limits the penetration depth of the 440 nm LED light. Instead
+of uniform isomerization, a gradient of the catalytically active
+SP form is generated along the sample’s cross-section (Figure
+4a). During stress relaxation experiments, this catalyst gradient
+also defines the rate of covalent bond exchange, i.e., acid-
+catalyzed dynamic transesterification, across the sample.
+Because of the significantly faster relaxation process on the
+side facing the light compared to that on the side facing away
+from the light, the sample undergoes defined bending once
+residual tension is removed. This work represents a
+considerable improvement over previous light-triggered
+bending concepts introduced by Bowman and co-workers,
+29
+offering enhanced control and understanding of the shaping
+process. First, quantification of the resulting bending
+deformation as a function of sample thickness and relaxation
+time allowed us to develop an empirical model for the accurate
+prediction of bending radii. Second, the reversibility of the
+bending process was demonstrated over multiple cycles; and
+third, we created specialized, nonuniformly bent shapes by
+adjusting the exposure pattern.
+Contrary to sample thickness and relaxation time, all other
+parameters, including the monomer system (MF2), measure-
+ment temperature (100 °C), and set lamp intensity (69 mW
+cm
+−2
+), were kept constant. To determine the light penetration
+depth, i.e., the extension of the catalyst gradient, at the
+measurement temperature, samples of different thicknesses
+were placed between the 440 nm LED lamp and the sensor of
+a microspectrometer. The test arrangement used is shown in
+Figure S7b. While the 70 μm sample absorbed the entire base
+intensity of 69.0 mW cm
+−2
+, a residual intensity of 0.5 mW
+cm
+−2
+(equivalent to 0.72% of the base intensity) was detected
+at the backside of the 50 μm sample (Figure S7a). Thus, the
+penetration depth of the 440 nm LED light was determined to
+be minimally above 50 μm. Since the empirical modeling
+carried out in this section is subject to the boundary condition
+that the penetration depth must be lower than the sample
+thickness, only samples 70 and 100 μm thick were used for
+controlled catalyst gradient-driven reshaping experiments.
+Compared with the 50 μm thick MF2 sample, a reduction in
+the stress relaxation rate was observed with increasing sample
+thickness (Figure 4b). This was the case because an
+increasingly smaller proportion of the cross-section partici-
+pated in the relaxation process as a consequence of the limited
+penetration depth. Accordingly, decreasing bending radii were
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c13227
+J. Am. Chem. Soc. 2025, 147, 39671−39680
+39676
+
+
+===== PDF PAGE 7 =====
+produced with an increasing relaxation time and decreasing
+specimen thickness (Figure 4c). The corresponding stress
+relaxation data are summarized in Figure S10a,b. Although the
+active SP form is generated in about 30 min under ambient
+conditions (daylight and room temperature), the obtained
+bending radii remained unchanged over several weeks/months.
+To quantify the material’s creep resistance at room temper-
+ature, additional stress relaxation measurements were con-
+ducted (Figure S11). Under daylight and even under exposure
+to 440 nm LED light, no evidence of creep was observed at a
+measurement temperature of 30 °C. When temperatures rise to
+levels at which bond exchange could undesirably deform the
+polymer, exposure to daylight becomes irrelevant because the
+thermally driven isomerization to the deactivated MC form
+(Figure 2c) surpasses daylight effects.
+2.4.1. Modeling of the Bending Behavior. To quantify the
+degree of bending, we determined the inner radius of each
+sample, shown in Figure 4c. Prior to measuring, both ends of
+the sample were equally shortened to prevent contact and to
+minimize the impact of friction on the radius. Figure 4d shows
+two examples of radii determined for 100 μm thick samples
+after stress relaxation for 1 and 3 h. The full set of samples is
+summarized in Figure S10c.
+For modeling, i.e., the predication of the bending radius as a
+function of sample thickness and relaxation time, we set the
+collected raw data in the form of the measured radii (r) in
+relation to the inner and outer arc length (L
+in
+, L
+out
+, and their
+difference D), and the sample thickness (h). Geometric
+relationships used in the resulting eqs 1 and 2 are outlined
+in Figure 4e.
+=
+·
+r
+h L
+ D
+in
+(1)
+=D L L out in
+(2)
+In the following step, the sample’s irreversible elongation as
+a consequence of stress relaxation was described by the
+Kohlrausch−Williams−Watts (KWW) model. It represents a
+stretched exponential function (eq 3) with ε
+irr
+being the
+resulting irreversible deformation, ε
+0
+the deformation used in
+the stress relaxation experiment, τ the characteristic relaxation
+time, t the relaxation time, and β the stretching exponent.
+30
+= ·
+t
+1 exp
+irr 0
+i
+ k
+j
+j
+j
+j
+j
+ j
+i
+ k
+j
+j
+j
+j
+j
+i
+ k
+j
+j
+j
+y
+ {
+z
+z
+z
+y
+ {
+z
+z
+z
+z
+z
+y
+ {
+z
+z
+z
+z
+z
+ z
+(3)
+Obtained by fitting the stress relaxation data of the 50 μm
+thick MF2 sample to the stretched exponential decay of eq 3
+using the Levenberg−Marquardt algorithm, τ was determined
+to be 51957 ± 40 s, and β 0.5286 ± 4 × 10
+−4
+(Figure S12a).
+Figure 5. Reversible gradient-driven bending and gradient-driven reshaping of MF2 polymer films under continuous exposure to 440 nm LED light
+at 100 °C. (a) Four-step reversible bending by alternately exposing the 70 μm thick sample’s front and back in the relaxation steps. (b−d)
+Reshaping experiments based on adjustments to the exposure pattern and photographs of the resulting structures including their topographic
+profile: (b) 100 μm thick film, 3 h stress relaxation; (c) 100 μm thick film, 1 h stress relaxation; (d) 70 μm thick film, 1 h stress relaxation.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c13227
+J. Am. Chem. Soc. 2025, 147, 39671−39680
+39677
+
+
+===== PDF PAGE 8 =====
+Due to the limited light penetration depth (Figure S7a),
+changes in L
+in
+approach 0 for samples thicker than 50 μm and
+were therefore neglected in the remaining procedure. Thus, the
+difference between the outer and inner arc lengths (eq 2) was
+described based on the stress relaxation, i.e., irreversible
+elongation, of the initial sample length (L
+0
+and L
+0
+= L
+in
+) on the
+side facing the light (eq 3), resulting in eq 4.
+= ·
+D L
+t
+1 exp
+in 0
+ out
+i
+ k
+j
+j
+j
+j
+j
+j
+i
+ k
+j
+j
+j
+j
+j
+i
+ k
+j
+j
+j
+y
+ {
+z
+z
+z
+y
+ {
+z
+z
+z
+z
+z
+y
+ {
+z
+z
+z
+z
+z
+z
+(4)
+By the subsequent substitution of eq 4 into eq 1, the final
+equation for the prediction of bending radii was obtained (eq
+5). Parameters A and B were introduced for the compensation
+of potential systematic errors in the irreversible deformation of
+the outer and inner layers, respectively.
+=
+ ( )
+r
+h
+A B1 exp
+t
+0
+i
+ k
+j
+j
+j
+j
+i
+ k
+j
+j
+j
+ j
+i
+ k
+j
+j
+j
+y
+ {
+z
+z
+z
+y
+ {
+z
+z
+z
+ z
+y
+ {
+z
+z
+z
+z
+(5)
+Because of the limited light penetration depth (Figure S7a)
+and the relaxation data obtained in the absence of light (Figure
+3c), we considered the error in the irreversible deformation of
+the inner layer as negligible and fixed B at zero. However, for
+other polymer systems affected by physical relaxation, even in
+the absence of an active catalyst, B is significant, which justifies
+its introduction in eq 5. The numerical value for parameter A
+of 3.51 ± 0.07 was determined by linearizing eq 5 under the
+condition that B is equal to zero (eq 6), and linear least-
+squares fitting to the data set of experimentally determined
+radii (Figure S12b).
+=
+( )
+ r
+A
+ h
+1
+1 exp
+t
+0
+i
+k
+j
+j
+j
+j
+i
+k
+j
+j
+j
+y
+{
+z
+z
+z
+y
+{
+z
+z
+z
+z
+(6)
+In fact, the value of A (significantly higher than one) was
+also in line with our expectations, as the irreversible
+deformation of an infinitely thin outermost layer is considered
+in eq 5. Since it is not possible to experimentally validate the
+relaxation behavior of an infinitely thin sample, the numerical
+values for τ and β had to be obtained from a 50 μm thick
+sample (Figure S12a). As a consequence of the gradient of
+active catalyst generated over these 50 μm, the measured
+relaxation rate was significantly lower than that considered in
+eq 5 and required the expected correction via parameter A.
+Figure 4f shows a graphical comparison of the experimentally
+determined radii and the model. Finally, the adjusted R
+2
+of
+0.996 indicates excellent model accuracy for the prediction of
+bending radii as a function of sample thickness and relaxation
+time. The universal design of the model additionally enables a
+simple transfer to other light-activated CANs.
+2.4.2. Reversibility and Advanced Geometries. Building on
+the precise control and understanding of the gradient-driven
+bending behavior of our photoswitchable CAN, its reversibility
+was examined in a four-step experiment (Figure 5a). Switching
+between the straight initial shape and a curved shape was
+carried out by turning the sample (the side facing away from
+the light became the side facing the light) after each stress
+relaxation step. The distinct and uniform shape changes
+observed were confirmed by the recorded stress relaxation
+curves (Figure S13), which all show comparable rates,
+indicating the absence of significant degradation phenomena.
+Dynamic mechanical analysis, carried out prior to and after a
+stress relaxation experiment, further verified that no significant
+degradation of the polymer network occurs during light-
+controlled network rearrangement (Figure S14).
+Based on the same conceptional approach, different
+geometries were created by adjusting the exposure pattern
+(Figure 5b−d): (b) by narrowing the exposure area, a pointed
+roof shape was created instead of a round arch; (c) by splitting
+the exposure area, two bends separated by a flat intermediate
+area were formed; and (d) by the centered exposure of the
+sample’s upper half, a three-dimensional elevation was created.
+Altogether, we demonstrated the mold-free creation of
+advanced shapes based on the introduction of a gradient-
+driven reshaping concept. Resulting curvatures were precisely
+predictable as a function of sample thickness and relaxation
+time, and the approach’s reversibility was verified over multiple
+steps.
+2.5. Multiphoton Polymerization 3D Printing. To fully
+exploit the catalyst gradients generated at the micrometer level,
+we designed the MFs to be suitable for high-precision additive
+manufacturing. Multiphoton direct laser writing with a 780 nm
+femtosecond laser was used for 3D printing of MF2 on
+silanized glass.
+31
+A parameter sweep, in which the laser power
+(40 to 100%) and the writing speed (10 to 70 mm s
+−1
+) were
+varied, revealed the optimum settings. The scanning electron
+microscopy (SEM) image in Figure S15 shows a section of
+structures printed at different settings. With features down to 2
+μm, we achieved the highest accuracy at a writing speed of 10
+mm s
+−1
+and a laser power of 70% (Figure 6). Both round and
+angular geometries (including recesses) were successfully
+produced at the low micrometer level.
+Overall, our material opens novel research avenues in
+microscopic engineering and testing concepts. As opposed to
+the common sole application of external loads through
+indentation testing,
+31−33
+light can serve as a secondary
+stimulus for localized relaxation. Although this work only
+demonstrates the fundamental feasibility of multiphoton
+polymerization 3D printing, it highlights the potential of
+combining high-precision additive manufacturing with the
+precise light-controlled modulation of material properties.
+Thus, tailored microscale postproduction modifications of
+different geometries and their transformation into new shapes
+are potentially enabled.
+3. CONCLUSION
+The introduction of an MC photoacid in cross-linked thiol−
+ene photopolymers containing ester links and hydroxy groups
+enabled spatiotemporal control over dynamic network
+rearrangements. UV−vis spectroscopy confirmed efficient
+isomerization to the photoacid’s active SP form (pK
+a
+hv
+=
+4.03 ± 0.03) upon exposure to 440 nm LED light. The back
+reaction to the MC form (pK
+a
+dark
+= 7.33 ± 0.01), occurring in
+the dark, showed a strong temperature dependence. Un-
+changed absorption behavior over six full switching cycles
+indicates an outstanding fatigue resistance of the switching
+process within the polymer matrix.
+Stress relaxation experiments revealed a remarkable differ-
+ence in mechanical properties, i.e., an ON/OFF behavior of
+dynamic bond exchange, depending on the photoacid’s
+isomerization state. While pronounced stress relaxation was
+observed in the presence of the light-generated, active SP form,
+rapid recovery of the MC form, which resulted in a creep-
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c13227
+J. Am. Chem. Soc. 2025, 147, 39671−39680
+39678
+
+
+===== PDF PAGE 9 =====
+resistant network state, was recorded in the dark. The
+exceptionally high level of control achieved over the isomer-
+ization state of the MC photoacid was utilized for the
+generation of microgradients of active catalyst. Taking
+advantage of the resulting nonuniform profile of mechanical
+properties enabled the successful demonstration of gradient-
+driven mold-free reshaping. Bending radii were accurately
+predictable based on the presented empirical model, designed
+to be easily transferable to other polymer systems exhibiting
+nonuniform stress relaxation properties. In addition, the
+introduced catalytic concept itself can be applied to other
+acid-catalyzed CANs, rendering them reversibly switchable in
+terms of light-controlled ON/OFF behavior. Finally, the
+application of multiphoton laser writing as a high-precision
+additive manufacturing technique with printed 3D elements
+ranging in size down to 2 μm highlighted potential prospects in
+the field of light-controlled micromechanics.
+■
+ASSOCIATED CONTENT
+*
+sı
+Supporting Information
+The Supporting Information is available free of charge at
+https://pubs.acs.org/doi/10.1021/jacs.5c13227.
+Additional details on the modeling procedure, materials,
+and methods, Figures S1−S15 showing solubility tests,
+lamp emission spectra, FTIR spectra, DSC, TGA, and
+DMA curves, machine setups, light penetration depth
+measurements, stress relaxation data, photographs of
+bent samples, additional modeling results, and an
+additional SEM image of multiphoton-polymerized
+structures (PDF)
+■
+AUTHOR INFORMATION
+Corresponding Authors
+Neil R. Cameron − Department of Materials Science and
+Engineering, Monash University, Clayton, Victoria 3800,
+Australia; School of Engineering, University of Warwick,
+Coventry CV4 7AL, United Kingdom; Nanotechnology and
+Catalysis Research Centre (NANOCAT), Universiti Malaya,
+50603 Kuala Lumpur, Malaysia; Université Sorbonne Paris
+Nord, 93000 Bobigny, France;
+ orcid.org/0000-0003-
+3679-7667; Email: neil.cameron@monash.edu
+Cyrille Boyer − School of Chemical Engineering, UNSW
+Sydney, Sydney, New South Wales 2052, Australia;
+orcid.org/0000-0002-4564-4702; Email: cboyer@
+unsw.edu.au
+Sandra Schlögl − Polymer Competence Center Leoben GmbH,
+8700 Leoben, Austria; Institute of Chemistry of Polymeric
+Materials, Technical University of Leoben, 8700 Leoben,
+Austria;
+ orcid.org/0000-0002-2840-9700;
+Email: Sandra.Schloegl@pccl.at
+Authors
+David Reisinger − Polymer Competence Center Leoben
+GmbH, 8700 Leoben, Austria
+Laura Wimberger − School of Chemical Engineering, UNSW
+Sydney, Sydney, New South Wales 2052, Australia
+Roman Korotkov − Polymer Competence Center Leoben
+GmbH, 8700 Leoben, Austria
+Markus Alfreider − Department of Materials Science,
+Technical University of Leoben, 8700 Leoben, Austria;
+orcid.org/0000-0001-9562-4497
+Timothy F. Scott − Department of Materials Science and
+Engineering, Monash University, Clayton, Victoria 3800,
+Australia;
+ orcid.org/0000-0002-5893-3140
+Complete contact information is available at:
+https://pubs.acs.org/10.1021/jacs.5c13227
+Notes
+The authors declare no competing financial interest.
+■
+ACKNOWLEDGMENTS
+The research work was carried out within the COMET-
+Module Project ”Repairtecture” (Project No. 904927) at the
+Polymer Competence Center Leoben GmbH (PCCL, Austria)
+within the framework of the COMET program of the Federal
+Ministry for Innovation, Mobility and Infrastructure and the
+Federal Ministry of Economy, Energy and Tourism. The
+COMET-Module is funded by the Austrian Government and
+the State Governments of Styria and Upper Austria. A part of
+the research work has received funding from the European
+Union’s Horizon 2020 research and innovation program under
+the Marie Skłodowska-Curie Grant Agreement No. 101085759
+(SURE-Poly). C.B. thanks the Australian Research Council for
+his Australian Laureate Fellowship, Grant FL220100016. The
+Figure 6. (a, b) SEM images of multiphoton-polymerized structures
+of MF2 prepared at a writing speed of 10 mm s
+−1
+and a laser power of
+70%: (a) image recorded at an angle of 30° tilt; (b) image recorded
+from the top.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c13227
+J. Am. Chem. Soc. 2025, 147, 39671−39680
+39679
+
+
+===== PDF PAGE 10 =====
+authors thank Milena Olga Gleirscher (Polymer Competence
+Center Leoben) for recording the topographic profiles of the
+structures obtained by reshaping and Bruno Bock (Mar-
+schacht, Germany) for the custom synthesis of the thiol cross-
+linker PETMP-75.
+■
+REFERENCES
+(1) Ratna, D. Recent Advances and Applications of Thermoset Resins;
+Elsevier, 2022.
+(2) Winne, J. M.; Leibler, L.; Du Prez, F. E. Dynamic covalent
+chemistry in polymer networks: a mechanistic perspective. Polym.
+Chem. 2019, 10, 6091.
+(3) Alabiso, W.; Schlögl, S. The Impact of Vitrimers on the Industry
+of the Future: Chemistry, Properties and Sustainable Forward-
+Looking Applications. Polymers 2020, 12, 1660.
+(4) Van Lijsebetten, F.; Debsharma, T.; Winne, J. M.; Du Prez, F. E.
+A Highly Dynamic Covalent Polymer Network without Creep:
+Mission Impossible? Angew. Chem., Int. Ed. 2022, 61,
+No. e202210405.
+(5) Denissen, W.; Rivero, G.; Nicolay ̈, R.; Leibler, L.; Winne, J. M.;
+Du Prez, F. E. Vinylogous Urethane Vitrimers. Adv. Funct. Mater.
+2015, 25, 2451.
+(6) Debsharma, T.; Amfilochiou, V.; Wróblewska, A. A.; De Baere,
+I.; van Paepegem, W.; Du Prez, F. E. Fast Dynamic Siloxane Exchange
+Mechanism for Reshapable Vitrimer Composites. J. Am. Chem. Soc.
+2022, 144, 12280.
+(7) Worrell, B. T.; McBride, M. K.; Lyon, G. B.; Cox, L. M.; Wang,
+C.; Mavila, S.; Lim, C.-H.; Coley, H. M.; Musgrave, C. B.; Ding, Y.;
+Bowman, C. N. Bistable and photoswitchable states of matter. Nat.
+Commun. 2018, 9, 2804.
+(8) Reisinger, D.; Sietmann, A.; Das, A.; Plutzar, S.; Korotkov, R.;
+Rossegger, E.; Walluch, M.; Holler-Stangl, S.; Hofer, T. S.; Dielmann,
+F.; Glorius, F.; Schlögl, S. Light-Driven, Reversible Spatiotemporal
+Control of Dynamic Covalent Polymers. Adv. Mater. 2024, 36,
+No. e2411307.
+(9) Zhao, L.; Semetey, V. Recycling Polyurethanes through
+Transcarbamoylation. ACS omega 2021, 6, 4175.
+(10) Vozzolo, G.; Elizalde, F.; Mantione, D.; Aguirresarobe, R.;
+Ximenis, M.; Sardon, H. Controlling associative transcarbamoylation
+reactions by light in dynamic polyurethane networks using reversible
+spiropyran photoswitches. Polymer 2024, 302, No. 127051.
+(11) Liu, T.; Zhao, B.; Zhang, J. Recent development of repairable,
+malleable and recyclable thermosetting polymers through dynamic
+transesterification. Polymer 2020, 194, No. 122392.
+(12) Capelot, M.; Unterlass, M. M.; Tournilhac, F.; Leibler, L.
+Catalytic Control of the Vitrimer Glass Transition. ACS Macro Lett.
+2012, 1, 789.
+(13) Montarnal, D.; Capelot, M.; Tournilhac, F.; Leibler, L. Silica-
+like malleable materials from permanent organic networks. Science
+2011, 334, 965.
+(14) Rossegger, E.; Höller, R.; Reisinger, D.; Strasser, J.; Fleisch, M.;
+Griesser, T.; Schlögl, S. Digital light processing 3D printing with
+thiol−acrylate vitrimers. Polym. Chem. 2021, 12, 639.
+(15) Reisinger, D.; Kaiser, S.; Rossegger, E.; Alabiso, W.; Rieger, B.;
+Schlögl, S. Introduction of Photolatent Bases for Locally Controlling
+Dynamic Exchange Reactions in Thermo-Activated Vitrimers. Angew.
+Chem., Int. Ed. 2021, 60, 14302.
+(16) Reisinger, D.; Hellmayr, A.; Paris, M.; Haas, M.; Griesser, T.;
+Schlögl, S. Spatially resolved photoactivation of dynamic exchange
+reactions in 3D-printed thiol−ene vitrimers. Polym. Chem. 2023, 14,
+3082.
+(17) Korotkov, R.; Alabiso, W.; Jelinek, A.; Schmallegger, M.; Li, Y.;
+Schlögl, S.; Rossegger, E. Microscale manipulation of bond exchange
+reactions in photocurable vitrimers with a covalently attachable
+photoacid generator. Chem. Sci. 2024, 15, 16271.
+(18) Reisinger, D.; Kriehuber, M. U.; Bender, M.; Bautista-Anguís,
+D.; Rieger, B.; Schlögl, S. Thermally Latent Bases in Dynamic
+Covalent Polymer Networks and their Emerging Applications. Adv.
+Mater. 2023, 35, No. e2300830.
+(19) Rossegger, E.; Moazzen, K.; Fleisch, M.; Schlögl, S. Locally
+controlling dynamic exchange reactions in 3D printed thiol-acrylate
+vitrimers using dual-wavelength digital light processing. Polym. Chem.
+2021, 12, 3077.
+(20) Vozzolo, G.; Ximenis, M.; Mantione, D.; Fernández, M.;
+Sardon, H. Thermally Reversible Organocatalyst for the Accelerated
+Reprocessing of Dynamic Networks with Creep Resistance. ACS
+Macro Lett. 2023, 12, 1536.
+(21) Van Lijsebetten, F.; Maes, S.; Winne, J. M.; Du Prez, F. E.
+Thermoswitchable catalysis to inhibit and promote plastic flow in
+vitrimers. Chem. Sci. 2024, 15, 7061.
+(22) Wilm, L. F. B.; Das, M.; Janssen-Mu ̈ller, D.; Mu ̈ck-Lichtenfeld,
+C.; Glorius, F.; Dielmann, F. Photoswitchable Nitrogen Superbases:
+Using Light for Reversible Carbon Dioxide Capture. Angew. Chem.,
+Int. Ed. 2022, 61, No. e202112344.
+(23) Kuntze, K.; Viljakka, J.; Virkki, M.; Huang, C.-Y. D.; Hecht, S.;
+Priimagi, A. Red-light photoswitching of indigos in polymer thin films.
+Chem. Sci. 2023, 14, 2482.
+(24) Wimberger, L.; Andréasson, J.; Beves, J. E. Basic-to-acidic
+reversible pH switching with a merocyanine photoacid. Chem.
+Commun. 2022, 58, 5610.
+(25) Hoyle, C. E.; Bowman, C. N. Thiol-ene click chemistry. Angew.
+Chem., Int. Ed. 2010, 49, 1540.
+(26) Lu, H.; Carioscia, J. A.; Stansbury, J. W.; Bowman, C. N.
+Investigations of step-growth thiol-ene polymerizations for novel
+dental restoratives. Dent. Mater. 2005, 21, 1129.
+(27) Ye, S.; Cramer, N. B.; Smith, I. R.; Voigt, K. R.; Bowman, C. N.
+Reaction Kinetics and Reduced Shrinkage Stress of Thiol-Yne-
+Methacrylate and Thiol-Yne-Acrylate Ternary Systems. Macro-
+molecules 2011, 44, 9084.
+(28) Wimberger, L.; Prasad, S. K. K.; Peeks, M. D.; Andréasson, J.;
+Schmidt, T. W.; Beves, J. E. Large, Tunable, and Reversible pH
+Changes by Merocyanine Photoacids. J. Am. Chem. Soc. 2021, 143,
+20758.
+(29) Scott, T. F.; Draughon, R. B.; Bowman, C. N. Actuation in
+Crosslinked Polymers via Photoinduced Stress Relaxation. Adv. Mater.
+2006, 18, 2128.
+(30) Lyu, J.; Lee, S.; Bae, H. E.; Jung, H.; Park, Y. I.; Jin, Y.-J.; Jeong,
+J.-E.; Kim, J. C. Non-Isocyanate Synthesis of Covalent Adaptable
+Networks Based on Dynamic Hindered Urea Bonds: Sequential
+Polymerization and Chemical Recycling. Angew. Chem., Int. Ed. 2024,
+63, No. e202411397.
+(31) Jelinek, A.; Rossegger, E.; Schlögl, S.; Kiener, D.; Alfreider, M.
+Probing local adhesion: A miniaturized multi-photon lithography
+design demonstrated on silanized vs. untreated surfaces. Mater. Des.
+2024, 242, No. 112994.
+(32) Jelinek, A.; Zak, S.; Cordill, M. J.; Kiener, D.; Alfreider, M.
+Nanoscale printed tunable specimen geometry enables high-
+throughput miniaturized fracture testing. Materials & Design 2023,
+234, No. 112329.
+(33) Keckes, J. F.; Jelinek, A.; Kiener, D.; Alfreider, M. Neural
+Network Supported Microscale In Situ Deformation Tracking: A
+Comparative Study of Testing Geometries. JOM 2024, 76, 2336.
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+https://doi.org/10.1021/jacs.5c13227
+J. Am. Chem. Soc. 2025, 147, 39671−39680
+39680

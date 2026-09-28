@@ -1,0 +1,37 @@
+{
+  "doi": "10.1126/science.adg8758",
+  "source": "User-supplied figure screenshots with embedded English captions; no PDF was supplied.",
+  "figures": [
+    {
+      "figure": "Fig. 1",
+      "file": "assets/bioadhesive-oect-wang-2023-figure1.png",
+      "source_file": "codex-clipboard-6fce1aa5-5c39-49b2-a5be-a22de2267d84.png"
+    },
+    {
+      "figure": "Fig. 2",
+      "file": "assets/bioadhesive-oect-wang-2023-figure2.png",
+      "source_file": "codex-clipboard-e403a6b9-832a-45dd-8d3a-75604fd429ac.png"
+    },
+    {
+      "figure": "Fig. 3",
+      "file": "assets/bioadhesive-oect-wang-2023-figure3.png",
+      "source_file": "codex-clipboard-3972b959-aa3b-43d6-8acc-f48a3f6af685.png"
+    },
+    {
+      "figure": "Fig. 4",
+      "file": "assets/bioadhesive-oect-wang-2023-figure4.png",
+      "source_file": "codex-clipboard-bb64c9e0-67f8-4eab-9217-bbca327713f1.png"
+    },
+    {
+      "figure": "Fig. 5",
+      "file": "assets/bioadhesive-oect-wang-2023-figure5.png",
+      "source_file": "codex-clipboard-0592b428-f066-4346-b993-b38a6bc83775.png"
+    }
+  ],
+  "duplicates_ignored": [
+    "codex-clipboard-19281e50-722e-496b-b81f-00ef5c34c604.png",
+    "codex-clipboard-574cce9b-aea7-4317-b334-cae34e75d1b4.png",
+    "codex-clipboard-c1863ae1-3e43-4cce-9175-da64469474fa.png",
+    "codex-clipboard-6d6b4986-65b6-486a-ae6f-ec63f78b8f48.png"
+  ]
+}

@@ -1,0 +1,556 @@
+
+
+===== PDF PAGE 1 =====
+17. T. C. J. Moore et al. , Eds., Leg 74 (U.S. Government
+Printing Office, Washington, DC, 1984), vol. 74.
+18. J. C. Zachos et al. , Proc. ODP Init. Rep. , 208 (2004),
+available at http://www-odp.tamu.edu/publications/
+208_IR/208ir.htm.
+19. Paleodepths of the Leg 208 sites at 55 million years
+ago (Ma) were estimated using a standard thermal
+subsidence curve and a sediment accumulation
+model ( 18). At 55 Ma, the paleodepths of sites
+1263 and 1262 were 1.5 and 3.6 km, respectively.
+20. Materials and methods are available as supporting
+material on Science Online.
+21. The initial phase of dissolution would involve Paleocene
+sediments already present on the sea floor. As such, the
+base of the clay layer, perhaps as much as a few
+centimeters in the deepest site, was deposited before
+the carbon isotope excursion. The traces of carbonate
+remaining must be a mixture of pre-excursion and
+excursion fragments that survived dissolution.
+22. S. Bains, R. M. Corfield, R. D. Norris, Science 285, 724
+(1999).
+23. K. A. Farley, S. F. Eltgroth, Earth Planet. Sci. Lett. 208,
+135 (2003).
+24. The weathering of silicates on land is generally repre-
+sented by the following equation: CaSiO
+3 þ 2CO2 þ
+H2O Y 2HCO3
+– þ Ca2þ þ SiO2. Ensuing precipitation
+of calcite from the bicarbonate (and carbonate) ions
+supplied by the above reaction is represented by this
+equation: HCO3
+– þ Ca2þ Y CaCO3 þ CO2 þ H2O, so
+that there is a net uptake of one unit of CO2 for each
+unit of silicate weathered.
+25. D. C. Kelly, Paleoceanography 17, 1071 (2002).
+26. D. Archer, H. Kheshgi, E. Maier-Reimer, Geophys. Res.
+Lett. 24, 205 (1997).
+27. K. Caldeira, M. E. Wicket, Nature 425, 365 (2003).
+28. R. A. Feely et al. , Science 305, 362 (2004).
+29. T. J. Bralower et al., Proc. ODP Init. Rep. 198 (2002).
+30. B. Schmitz, V. Pujalte, K. Nunez-Betelu, Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 165, 299 (2001).
+31. B. Schmitz, R. P. Speijer, M. P. Aubry, Geology 24, 347
+(1996).
+32. N. Ortiz, Mar. Micropaleontol. 26, 341 (1995).
+33. R. Coccioni, R. Di Leo, S. Galeotti, S. Monechi,
+Palaeopelagos 4, 87 (1994).
+34. A. Kurtz, L. R. Kump, M. A. Arthur, J. C. Zachos, A.
+Paytan, Paleoceanography 18, 1090 (2003).
+35. G. J. Bowen, D. J. Beerling, P. L. Koch, J. C. Zachos, T.
+Quattlebaum, Nature 432, 495 (2004).
+36. G. Dickens, Geochem. Geophys. Geosyst.2, NIL_1 (2001).
+37. T. J. Bralower, Paleoceanography 17, 1060 (2002).
+38. The primary buffering capacity of the ocean is
+provided by the deep ocean and sea-floor sediments.
+Because the mixing time of the ocean is 9500 years,
+most of the anthropogenic CO 2 will accumulate in
+the atmosphere and surface ocean before it can be
+conveyed to the deep sea to be neutralized ( 27).
+39. We thank the ODP Leg 208 Science Crew for their
+contributions and C. John and S. Bohaty for technical
+assistance. The ODP supplied samples. Supported by
+NSF grant EAR-0120727 to J.C.Z. and E.T. and by
+DFG grant no. Ro 1113/3 to U.R.
+Supporting Online Material
+www.sciencemag.org/cgi/content/full/308/5728/1611/
+DC1
+Materials and Methods
+Figs. S1 and S2
+Tables S1 to S4
+References
+21 December 2004; accepted 18 April 2005
+10.1126/science.1109004
+Photoinduced Plasticity in
+Cross-Linked Polymers
+Timothy F. Scott, 1 Andrew D. Schneider, 1 Wayne D. Cook, 2
+Christopher N. Bowman 1*
+Chemically cross-linked polymers are inherently limited by stresses that are
+introduced by post-gelation volume changes during polymerization. It is also
+difficult to change a cross-linked polymer’s shape without a corresponding loss
+of material properties or substantial stress development. We demonstrate a
+cross-linked polymer that, upon exposure to light, exhibits stress and/or strain
+relaxation without any concomitant change in material properties. This result
+is achieved by introducing radicals via photocleavage of residual photoinitia-
+tor in the polymer matrix, which then diffuse via addition-fragmentation chain
+transfer of midchain functional groups. These processes lead to photoinduced
+plasticity, actuation, and equilibrium shape changes without residual stress. Such
+polymeric materials are critical to the development of microdevices, bioma-
+terials, and polymeric coatings.
+Cross-linked, gelled polymers have anBinfinite’’
+molecular weight and are described as ther-
+mosets, implying a network that cannot be
+melted or molded (1). This description is true
+for most chemically cross-linked polymers;
+however, several cross-linked networks are
+known to undergo bond cleavage or depolym-
+erization at high temperatures or under various
+chemical or other treatments ( 2). Although
+such treatments are useful for recycling pur-
+p o s e s ,t h e r ei sa na s s o c i a t e dd e g r a d a t i o ni nt h e
+mechanical properties of the polymers.BCrack-
+healing[ networks, such as those that use
+groups in the polymer backbone able to un-
+dergo thermoreversible Diels-Alder reactions
+(3), are able to relieve stress without mechan-
+ical degradation. However, this reaction must
+be performed at elevated temperatures, mak-
+ing it unsuitable in thermally sensitive applica-
+tions such as dental composites. Internal stress
+buildup during polymerization is typical when
+shrinkage occurs. This stress decreases the ul-
+timate mechanical properties of the cured poly-
+mer, which is highly detrimental in fields such
+as polymeric coatings, fiber-reinforced compos-
+ites, and dental materials, or it may introduce
+birefringence, unwanted in optical materials.
+Additionally, given that the equilibrium shape
+of conventional cross-linked polymers is de-
+fined by the shape at gelation, stress relief
+would enable a material to be Bmolded[ and
+subsequently destressed, allowing for arbitrary
+equilibrium shapes to be attained after cure.
+We describe a covalently cross-linked net-
+work that is able to undergo photomediated,
+reversible cleavage of its backbone to allow
+chain rearrangement for rapid stress relief at
+ambient conditions without mechanical prop-
+erty degradation. The key to this reversible
+backbone cleavage is addition-fragmentation
+chain transfer. Reaction diffusion of radicals
+through the cross-linked matrix occurs initially
+by reaction of a radical with an in-chain func-
+tionality, forming an intermediate, which in
+turn fragments, reforming the initial function-
+ality and radical. Allyl sulfides have been used
+as efficient addition-fragmentation chain trans-
+fer agents (4–6). This addition-fragmentation
+process alters the topology of the network, but
+the polymer chemistry and network connec-
+tivity remain unchanged. In the absence of
+radical termination events or other side reac-
+tions, the number of allyl sulfide groups, and
+hence network strands, remains unchanged
+(Scheme 1), although relaxation of the stresses
+in each bond is facilitated by the alternating
+cleavage and reformation reactions.
+The monomers used to produce the net-
+works are shown in Scheme 2. The base net-
+work studied was formed from a stoichiometric
+mixture of pentaerythritol tetra(3-mercapto-
+propionate) (PETMP) and triethyleneglycol
+divinylether (TEGDVE), which produces a
+rubbery network with a glass transition tem-
+perature (T
+g) of about –25 -C. This monomer
+s y s t e mw a sm o d i f i e db yt h ea d d i t i o no fv a r y i n g
+concentrations of the ring-opening monomer
+2-methyl-7-methylene-1,5-dithiacyclooctane
+(MDTO) (7) as a comonomer. Addition of a stoi-
+1Department of Chemical and Biological Engineering,
+University of Colorado, Boulder, CO 80309, USA.
+2School of Physics and Materials Engineering, Monash
+University, Clayton, Victoria 3800, Australia.
+*To whom correspondence should be addressed.
+E-mail: christopher.bowman@colorado.edu
+Scheme 1. Reaction mechanism for chain trans-
+fer within the polymer backbone.
+www.sciencemag.org SCIENCE VOL 308 10 JUNE 2005 1615
+R EPORTS
+Downloaded from https://www.science.org at Yale University on August 26, 2026
+
+
+===== PDF PAGE 2 =====
+chiometric amount of 1,6-hexanedithiol (HDT)
+and TEGDVE to the tetrathiol/divinylether was
+used to produce an alternative traditional net-
+work with a lower cross-link density and rubbery
+modulus. Typically, thiol-ene polymerizations
+follow a step-growth radical mechanism (8) with
+alternating thiol and ene monomer units. Addi-
+tion of the ring-opening monomer does not alter
+the stoichiometry of this network, because the
+carbon-centered vinyl ether radical only abstracts
+a hydrogen from the thiol and the ring-opening
+monomer propagates via a sulfur-centered rad-
+ical ( 7, 9–11). Thus, whereas ring-opening
+monomers are more typically used to reduce
+the shrinkage due to polymerization ( 12), we
+used MDTO to conveniently introduce the re-
+versibly cleavable allyl sulfide functionality reg-
+ularly throughout the polymer backbone.
+Confirmation of the cross-linked nature of
+fully cured specimens was obtained by dynam-
+ic mechanical analysis, in which a specimen
+is sinusoidally deformed during a temperature
+ramp to determine the real (storage) and imag-
+inary (loss) components of the modulus. The
+value of T
+g was systematically reduced as the
+concentration of ring-opening monomer was
+increasedETg 0 –34-C for 75 weight percent
+(wt %) MDTO ^ as a result of the reduced
+cross-link density; however, all specimens dis-
+played a rubbery plateau modulus typical of
+cross-linked polymers. All the specimens were
+clearly within the rubbery regime at ambient
+temperature. Additionally, although all the spec-
+imens were readily swollen with common
+organic solvents, none were soluble—again a
+defining feature of cross-linked polymers.
+Strain profiles of the specimens during
+and after irradiation are presented in Fig. 1.
+During irradiation, homolytic photolysis of
+residual photoinitiator produces radicals in
+the specimens. Diffusion of these radicals oc-
+curs via addition-fragmentation chain transfer
+through the allyl sulfide functionalities. As a
+result, the polymer backbone is repeatedly
+cleaved, stress is alleviated, and the backbone
+is reformed in a less stressed conformation.
+Neither of the neat thiol-ene specimens con-
+tain any groups in the backbone capable of
+this cleavage; thus, the small amount of de-
+formation that occurs upon irradiation is pri-
+marily due to the minimal heating induced by
+the light exposure. The sequential cleavage
+and reformation in the remaining networks
+repeats as long as radicals are produced, be-
+cause the addition-fragmentation chain trans-
+fer reaction does not consume functional
+groups. The ductility or malleability of these
+cross-linked networks is limited only by the
+radical generation and termination reactions.
+The variation in the degree of strain for
+specimens with differing MDTO concentra-
+tions (Fig. 1) is due to the increasing con-
+centration of allyl sulfide groups in the
+network strands. At elevated MDTO concen-
+trations, the concentration of allyl sulfide
+groups in the network increases, and there is
+a small, corresponding increase in the length
+of the average network strand and a decrease
+in the cross-link density (Table 1). Conse-
+quently, the rate at which strands are broken
+and stress is relieved is substantially higher at
+elevated MDTO concentrations.
+The reversible strain in the neat thiol-ene
+polymer networks (Fig. 1) was attributed to a
+small thermal expansion effect due to heating
+during irradiation. Temperature rise measure-
+ments indicated an increase in temperature of
+È5-C during the first minute; the temperature
+then remained at 5-C above room temperature
+for the remainder of the irradiation. The mea-
+sured temperature rise profile was unaffected
+by the specimen composition. The apparent
+strain recovery of the neat thiol-ene polymer
+networks upon cessation of irradiation was due
+to the specimens cooling in the dark.
+In the absence of radiation, upon application
+of stress, each specimen underwent a degree of
+strain that was dependent on the modulus and
+therefore the concentration of MDTO in the
+specimen. When the stress was released, the
+specimen returned to its original length. This
+situation was altered when the specimens were
+irradiated during the stress application. The
+reversible and irreversible components of the
+strain during the application of stress and
+irradiation are readily observed in Fig. 2. The
+strain is completely reversible when a cyclic
+stress is applied without irradiation (Fig. 2A);
+however, an irreversible component is clearly
+observed when irradiation is applied at the
+same time as the stress (Fig. 2B) for all sam-
+ples that contain MDTO. As shown in Fig. 2
+for both the lower and higher modulus control
+materials that do not contain MDTO, no alter-
+ation of the equilibrium strain is possible in the
+absence of the allyl sulfide linkages.
+Stress relaxation experiments were per-
+formed by deforming the specimens to a cer-
+tain strain and subsequently irradiating them.
+The results (Fig. 3A) directly show the re-
+laxation of stress in the specimens during
+irradiation. A small decrease in the stress
+experienced in the unmodified thiol-ene spec-
+imens was again attributed to thermal expan-
+sion due to heating from the lamp; however,
+the specimens containing the allyl sulfide
+groups all show substantial stress relaxation.
+PETMP
+MDTO
+HDT
+TEGDVE
+S
+S
+Scheme 2. Monomers used to produce the
+networks.
+25
+20
+15
+10
+5
+0
+01 02 03 0
+Time (min)
+Strain (%)
+40 50 60
+Fig. 1. Strain profiles of tetrathiol/divinyl ether
+specimens with varying concentrations of MDTO
+(solid line, 0 wt %; dashed line, 25 wt %; dotted
+line, 50 wt %; dashed-dotted line, 75 wt %). The
+specimens were under tensile stress of È10
+5 Pa
+throughout the experiment and were irradiated
+(320 to 500 nm, 30 mW cm
+j2) from t 0 2 min
+to t 0 62 min.
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+01 0 2 0 3 0 4 0
+0 5 10 15 20
+Time (min)
+Time (min)
+Strain (%)Strain (%)
+25 30 35 40
+A
+B
+Fig. 2. Strain/recovery profiles of tetrathiol/
+divinyl ether specimens with varying concen-
+trations of MDTO (solid line, 0 wt %; dashed
+line, 25 wt %; dotted line, 50 wt %; dashed-
+dotted line, 75 wt %) and a 25 wt % tetrathiol/
+divinyl ether–75 wt% dithiol/divinyl ether
+specimen (short-dashed line). The stress was
+alternated between 0 and 10
+5 Pa. (A) Without
+irradiation. (B) Irradiation (320 to 500 nm, 30
+mW cm j2) during stress application after the
+first load cycle (irradiation indicated by the
+shaded areas).
+10 JUNE 2005 VOL 308 SCIENCE www.sciencemag.org1616
+R EPORTS
+Downloaded from https://www.science.org at Yale University on August 26, 2026
+
+
+===== PDF PAGE 3 =====
+The stress relaxation is accompanied by a
+variation in the specimen dimensions when
+the specimens are removed from the instru-
+ment clamps (greater than 1 mm lengthwise
+for the 75 wt% MDTO specimen in Fig. 3A),
+demonstrating the induced plasticity via the
+introduction of radicals in the system.
+A clearer picture of the effect of the MDTO
+concentration on the rate and degree of stress
+relaxation is seen in Fig. 3B. At a constant
+applied stress, both the rate and degree of
+stress relaxation increase with MDTO con-
+centration. We again attribute this response
+to an increased probability of addition-
+fragmentation chain transfer groups in the
+network strands. After cessation of irradi-
+ation, the stress actually rises slightly be-
+cause of specimen shrinkage upon cooling.
+If the stress relaxation had been the result
+of photodegradation, the results in Figs. 1 and
+3 would have been similar. It is possible to
+determine whether the network is simply un-
+dergoing photodegradation during irradiation
+by measuring the modulus of the material be-
+fore and after irradiation. The elastic moduli
+(determined in tension) of the specimens be-
+fore and after the irradiation experiments
+s h o w ni nF i g .3 Aa r ep r e s e n t e di nT a b l e1 .
+The slight increase in the modulus after irradi-
+ation clearly indicates that photodegradation
+is not responsible for the stress relaxation.
+Additionally, the results in Fig. 2 would appear
+different if photodegradation were responsible
+for the observed behavior, because the magni-
+tude of the reversible strain would vary with
+irradiation; however, such variation is not ob-
+served. Fourier transform infrared spectrosco-
+py analysis of the allyl sulfide linkages in the
+polymer also shows no measurable net degra-
+dation of these groups as a result of irradiation.
+One of the many interesting applications of
+this phenomenon is the deliberate introduction
+of stress gradients in a cross-linked material.
+Irradiation of an optically dense specimen
+under stress leads to the release of stress only
+on the exposed side. As a result, once the stress
+is released, the specimen warps away from the
+direction of irradiation (Fig. 4). This curvature
+is released by irradiation of the previously
+unexposed side. As a result, a shape-change or
+actuation phenomenon may be effected with-
+out the typical increase in temperature required
+by shape-memory polymers (13, 14).
+Although our study involved model rubbery
+networks, this process may also be applied to a
+vast array of other applications for which the
+control or elimination of stress is critical.
+Specifically, it is feasible to produce low resid-
+ual stress in high-T
+g materials by incorporating
+this relaxation process throughout the curing
+reaction. Groups capable of undergoing these
+chain transfer reactions need not be introduced
+via the copolymerization of a ring-opening
+monomer as performed in this work. Rather,
+cross-linking monomers (e.g., diacrylates,
+dimethacrylates) can be envisaged that contain
+linear addition-fragmentation functionalities
+incorporated in the monomer structure between
+the multiple polymerizable functional ities.
+Thus, networks with high cross-link density
+and high T
+g that contain the relevant func-
+tionalities may be readily synthesized, with
+the concomitant benefit of reduced stress re-
+sulting from the polymerization.
+References and Notes
+1. F. W. Billmeyer, Textbook of Polymer Science (Wiley,
+New York, ed. 3, 1984), p. 436.
+2. B. Adhikari, D. De, S. Maiti,Prog. Polym. Sci.25, 909 (2000).
+3. X. Chen et al. , Science 295, 1698 (2002).
+4. G. F. Meijs, E. Rizzardo, S. H. Thang, Macromolecules
+21, 3122 (1988).
+5. G. F. Meijs, T. C. Morton, E. Rizzardo, S. H. Thang,
+Macromolecules 24, 3689 (1991).
+6. A. Sunder, R. Mulhaupt, Macromol. Chem. Phys. 200,
+58 (1999).
+7. R. A. Evans, E. Rizzardo, J. Polym. Sci. A 39, 202 (2001).
+8. N. B. Cramer, C. N. Bowman, J. Polym. Sci. A 39,
+3311 (2001).
+9. R. A. Evans, G. Moad, E. Rizzardo, S. H. Thang,
+Macromolecules 27, 7935 (1994).
+10. R. A. Evans, E. Rizzardo,Macromolecules29, 6983 (1996).
+11. R. A. Evans, E. Rizzardo,Macromolecules33, 6722 (2000).
+12. F. Sanda, T. Endo, J. Polym. Sci. A 89, 265 (2001).
+13. B. K. Kim, S. Y. Lee, M. Xu, Polymer 37, 5781 (1996).
+14. A. Lendlein, A. M. Schmidt, R. Langer, Proc. Natl.
+Acad. Sci. U.S.A. 98, 842 (2001).
+15. Supported by NIH grants DE10959 and DE12998.
+Supporting Online Material
+www.sciencemag.org/cgi/content/full/308/5728/1615/
+DC1
+Materials and Methods
+1 February 2005; accepted 21 April 2005
+10.1126/science.1110505
+0.35
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+0
+-800 -600 -400 -200 0 200 400 600 800 1000
+200 400 600
+Time (sec)
+Time (sec)
+Stress (MPa)Stress (MPa)
+800 1000 1200
+0.16
+0.14
+0.12
+0.10
+0.08
+0.06
+0.04
+0.02
+0.00
+A
+B
+Fig. 3. Stress versus time for four MDTO con-
+centrations (solid line, 0 wt %; dashed line, 25
+wt %; dotted line, 50 wt %; dashed-dotted line,
+75 wt %). (A) Constant strain (irradiation started
+at t 0 330 s). (B) Constant initial stress (offset to
+align the start of irradiation at t 0 0, irradiation
+stopped at 900 s). The specimens were irradiated
+at 320 to 500 nm, 20 mW cm
+j2.
+Fig. 4. Specimens with stress gradients
+through their thickness on a 2 mm by 2
+mm grid. Specimens from left to right:
+0, 25, 50, and 75 wt % MDTO. The di-
+rection of irradiation (365 nm, 20 mW
+cm
+j2 for 15 s) used for the creation of
+the stress gradient for each specimen
+was from left to right.
+Table 1. Tensile moduli of specimens before and after experiments performed in Fig. 3A.
+MDTO (wt%)
+Ratio of cross-links
+to allyl sulfide
+groups
+Modulus before
+extension and
+irradiation (MPa)
+Modulus after
+extension and
+irradiation (MPa)
+0 1: 0 11.5 11.8
+25 1.17: 1 7.33 7.72
+50 0.390: 1 4.58 5.17
+75 0.130: 1 2.38 2.92
+0 (75 wt % dithiol/divinyl ether) 1: 0 3.21 3.38
+www.sciencemag.org SCIENCE VOL 308 10 JUNE 2005 1617
+R EPORTS
+Downloaded from https://www.science.org at Yale University on August 26, 2026
+
+
+===== PDF PAGE 4 =====
+Photoinduced Plasticity in Cross-Linked Polymers
+Timothy F. Scott, Andrew D. Schneider, Wayne D. Cook, and Christopher N. Bowman
+Science 308 (5728), .  DOI: 10.1126/science.1110505
+View the article online
+https://www.science.org/doi/10.1126/science.1110505
+Permissions
+https://www.science.org/help/reprints-and-permissions
+Use of this article is subject to the Terms of service
+Science (ISSN 1095-9203) is published by the American Association for the Advancement of Science. 1200 New York Avenue NW,
+Washington, DC 20005. The title Science is a registered trademark of AAAS. 
+American Association for the Advancement of Science
+Downloaded from https://www.science.org at Yale University on August 26, 2026

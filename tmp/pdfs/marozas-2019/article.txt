@@ -1,0 +1,682 @@
+=== PAGE 1 ===
+             
+PAPER • OPEN ACCESS
+Photo-induced viscoelasticity in cytocompatible
+hydrogel substrates
+To cite this article: Ian A Marozas et al 2019 New J. Phys. 21 045004
+ 
+View the article online for updates and enhancements.
+You may also like
+Real-Time Monitoring of HL-1 Cell
+Viscoelasticity for Drug Cardiotoxicity
+Assessment using a Love Wave Biosensor
+Junyu Zhang, Xinwei Wei, Yong Qiu et al.
+-
+Frequency-independent viscoelasticity of
+carbonyl iron particle suspensions under a
+magnetic field
+Lei Shan, Wenpeng Jia, Ming Zhou et al.
+-
+Modeling and experimental verification of
+frequency-, amplitude-, and magneto-
+dependent viscoelasticity of
+magnetorheological elastomers
+Fu-Long Xin, Xian-Xu Bai and Li-Jun Qian
+-
+This content was downloaded from IP address 130.132.173.105 on 27/08/2026 at 16:06
+
+=== PAGE 2 ===
+New J. Phys.21 (2019) 045004 https://doi.org/10.1088/1367-2630/ab1309
+PAPER
+Photo-induced viscoelasticity in cytocompatible hydrogel substrates
+Ian A Marozas1,2, Justin J Cooper-White3,4 and Kristi S Anseth1,2
+1 Department of Chemical and Biological Engineering, University of Colorado, Boulder, CO 80303, United States of America
+2 BioFrontiers Institute, University of Colorado, Boulder, CO 80303, United States of America
+3 The UQ Centre in Stem Cell Ageing and Regenerative Engineering(StemCARE), Australian Institute for Bioengineering and
+Nanotechnology, The University of Queensland, St. Lucia, QLD 4072, Australia
+4 School of Chemical Engineering, The University of Queensland, St. Lucia, QLD 4072, Australia
+E-mail: kristi.anseth@colorado.edu
+Keywords: hydrogel, allyl sulﬁde, adaptable networks, viscoelasticity, mechanotransduction, AFCT
+Supplementary material for this article is availableonline
+Abstract
+Human mesenchymal stem cells(hMSCs) sense and respond to the bulk elastic and viscoelastic
+properties of their microenvironment, as well as the spatial distribution of these mechanical signals.
+Hydrogel substrates with photo-controlled mechanical properties can allow one to probe the cellular
+response to localized variations in substrate viscoelasticity. Here, we report on a cytocompatible
+hydrogel culture system that allows photo-induced changes in viscoelasticity via an addition-
+fragmentation chain transfer reaction triggered by a network tethered photoinitiator. Tethering the
+photoinitiator to the network allowed for on-demand material property changes and spatiotemporal
+control of viscoelasticity. It was found that both the photoinitiation rate and chain transfer agent
+concentration contributed to the degree of photo-induced viscoelasticity. The loss factor(tan δ) of this
+system was tuned with the illumination intensity and chain transfer agent concentration, with a
+maximum value of 0.27 at 1 rad s
+–1. In experiments with hMSCs cultured on the hydrogels, the cellular
+protrusions retracted in response to photo-induced viscoelasticity and this retraction could be
+conﬁned to a single cellular protrusion through controlled photo-illumination. The retraction length
+and area of each protrusion was dependent on the initial proximity to the viscoelastic region.
+1. Introduction
+Many cells are anchorage-dependent and reside within the interstitial space of tissues, embedded in a protein-
+rich extracellular matrix(ECM). These cells are physically coupled to the ECM through integrin connections
+and exert a stress on it through actomyosin contractility. The resulting deformation of the ECM informs the cells
+about the mechanical properties of their microenvironment and can ultimately lead to a change in the
+production of cytoskeletal proteins and cytoskeletal stress[1, 2]. Physiologically, these biophysical signals
+provide cells with critical information necessary for the development, maintenance, function, and wound
+healing of tissues[3–5]. Thus, a better understanding of the mechanisms by which cells perceive biophysical
+signals that ultimately affect transcriptional regulation and cytoskeletal organization, in a process called
+mechanotransduction, will help inform the design of future therapeutic biomaterials for functional tissue
+generation.
+Synthetic hydrogels have for some time been employed as cell culture substrates to probe the conversion of
+biophysical inputs into chemical outputs via mechanotransduction[3, 5–8]. Synthetic gels allow for systematic
+tuning of the properties of the matrix, but oftentimes, theﬁnal materials are covalently cross-linked, rending
+them purely elastic with respect to their mechanical properties. However, there is a growing interest in the
+development of viscoelastic synthetic hydrogels[9, 10], as most tissue are viscoelastic in nature[11, 12]. Under
+an imposed load or stress, the viscous component of a viscoelastic substrate is energy dissipative and gives rise to
+various time-dependent phenomena including creep—a time-dependent increase in deformation(i.e. strain)
+under an imposed constant stress—and stress relaxation—a time-dependent decrease in stress at constant
+OPEN ACCESS
+RECEIVED
+30 November 2018
+REVISED
+19 February 2019
+ACCEPTED FOR PUBLICATION
+25 March 2019
+PUBLISHED
+15 April 2019
+Original content from this
+work may be used under
+the terms of theCreative
+Commons Attribution 3.0
+licence.
+Any further distribution of
+this work must maintain
+attribution to the
+author(s) and the title of
+the work, journal citation
+and DOI.
+© 2019 The Author(s). Published by IOP Publishing Ltd on behalf of the Institute of Physics and Deutsche Physikalische Gesellschaft
+
+=== PAGE 3 ===
+strain. These viscoelastic processes are thought to be an important component of the biophysical signals that
+direct tissue speciﬁc cell function through mechanotransduction[10]. Indeed, human mesenchymal stem cells
+(hMSCs) cultured on high-creep hydrogels spontaneously differentiate towards a smooth muscle cell lineage
+and also exhibit a greater potential for multipotent differentiation compared to low-creep hydrogel[13, 14]. The
+concept of tissue speciﬁc mechanotransduction is also supported by the fact that the characteristic timescales of
+viscoelastic processes varies largely between tissues. For instance, a recent study found that bone fracture
+hematoma dissipate stress much faster than brain or liver tissue[12]. Furthermore, the viscoelastic properties of
+a single tissue can vary with age; disease, such as liverﬁbrosis and multiple sclerosis; and even between malignant
+and benign tumors[15–18]. In fact, physicians assess the severity of liverﬁbrosis by measuring the viscoelastic
+properties with magnetic resonance imaging elastography[19]. In addition to temporal changes of
+viscoelasticity, spatial heterogeneity can exist within some tissues such as articular cartilage and white matter in
+the brain [20, 21]. Taken together, the spatiotemporal variations of viscoelasticity within the body may act as a
+cue to guide speciﬁc cellular processes throughout development.
+Beyond the documented spatial and temporal heterogeneity of viscoelasticity in tissues, those interested in
+cell-based therapies may leverage the viscoelasticity of carrier materials to improve the retention, matrix
+deposition, and therapeutic outcome of cells delivered to a wound site. Consideration of the substrate
+mechanical properties is especially important in the stem cell community where elasticity alone has been shown
+to induce and direct the differentiation of hMSCs[5]. Consequently, viscoelastic materials may prove useful for
+increasing the number and quality of therapeutic cells expandedin vitro, which is supported by a recent report
+showing that hMSC expansion on highly elastic materials(i.e. tissue culture polystyrene) negatively inﬂuences
+the ‘stemness’ of the cells[4]. By more closely recapitulating the mechanical properties of the native tissue
+microenvironment, viscoelastic biomaterials could enhance the potency of a cellular payload by tailoring the
+substrate mechanics to elicit a speciﬁc cell response. As an example, hMSCs encapsulated in a hydrogel akin to
+the collagenous phase of bone, which was stiff and rapidly stress relaxing, underwent osteogenic differentiation
+more efﬁciently and deposited more mineralized collagen-1 than cells encapsulated in a slower stress relaxing
+hydrogel [12].
+In addition to the aforementioned effects that macroscopic material properties have on cell function,
+mechanical properties on the micron-scale may play a signiﬁcant role in mechanotransduction as well. Cells
+adhere to ECM proteins with focal adhesions that are approximately 0.5–8
+μm2 in size, and consequently, they
+sense the structure and mechanics of the ECM on a much smaller scale than bulk rheology captures[22, 23]. For
+example, cells on a substrate with an elasticity gradient will migrate towards the region of greater elasticity by
+sensing the substrate mechanics with focal adhesions and then, execute a directional decision by evaluating the
+spatial distribution of stiffness[24]. This process is known as durotaxis, and it provides evidence that micron-
+scale patterns of mechanical properties, including viscoelasticity, may be a crucial component to the design of
+materials that promote proper cell function. For this reason, a recent focus has been on the development of
+methods to fabricate and characterize micron-scale patterns of mechanical properties in soft materials. As a
+recent example, Maet al leveraged photo-labile hydrogel cross-linkers to create homogeneous and
+heterogeneous patterns of elasticity with a‘pixel’ size of 4 μm
+2 and conﬁrmed the patternﬁdelity with atomic
+force microscopy. It was found that valvular interstitial cells cultured on gels with a heterogeneous pattern of
+elasticity had smaller focal adhesions, increased rates of proliferation, and decreased markers of myoﬁbroblast
+activation compared to cells cultured on a homogeneous pattern[25]. Given the physiological relevance of
+spatially variable biophysical signals on the cell-scale, there exists a need for materials with spatiotemporal
+control over the viscoelastic properties so that the cellular response to local viscoelasticity can be probed.
+Here, we describe the development and characterization of a biocompatible hydrogel capable of photo-
+induced viscoelasticity. Use of a cross-linker that participates in a radical-mediated addition-fragmentation
+chain transfer (AFCT) reaction, together with a pendant photoinitiator, enabled hydrogel viscoelasticity during
+light exposure via cross-link rearrangement. Photo-controlled viscoelasticity was characterized as a function of
+the light intensity, which is directly related to the photoinitiation rate. The use of a chain transfer agent was also
+investigated to increase the quantum yield of AFCT and enhance viscoelasticity. Finally, a study was conducted
+to determine the timescales that cells respond to local sub-cellular changes in the viscoelastic nature of their
+substrate. The system presented herein provides a user-controlled, dynamic platform to study the role of
+patterned biophysical signals in mechanotransduction.
+2. Materials and methods
+All reagents were reagent grade and purchased from commercial sources, unless otherwise noted. 1H-NMR
+spectra were collected on a 400 MHz Bruker NMR spectrometer.
+2
+New J. Phys.21 (2019) 045004 I A Marozaset al
+
+=== PAGE 4 ===
+Allyl sulﬁde bis(azide) and azido-RGD (RGD-N3) were synthesized according to previously described
+methods [26].
+2.1. Synthesis of I2959-NHS
+A ﬂame dried 250 ml round bottomﬂask was charged with anhydrous dimethylformamide(DMF), N,N’-
+disuccinimidyl carbonate (Sigma, 3.8 g, 15 mmol) and 2-hydroxy-4′-(2-hydroxyethoxy)-2-
+methylpropiophenone (Irgacure 2959, Ciba, 2.2 g, 10 mmol). The resulting solution was stirred for 5 min while
+purging with argon. Triethylamine(Sigma, 7.7 ml, 55 mmol) was added dropwise to the reaction vessel with
+continued purging and then the mixture was stirred overnight at room temperature in the dark. The crude
+product was concentrated with rotary evaporation to yield dark yellow sap. The crude product was adsorbed
+onto silica gel and then puriﬁed with ﬂash chromatography. The solvent system for chromatography was varied
+as follows: 1 l of 11:9, 500 ml of 1:1, 500 ml of 2:3, and 500 ml of 0:1 Hexanes:EtOAc. The combined fractions
+with R
+f=0.1 in 11:9 Hexanes:EtOAc were concentrated with rotary evaporation to yield a white powder(1g ,
+27% yield). 1H NMR (400 MHz, Methanol-d4) δ8.28–8.20 (m, 1 H), 7.07–6.99 (m, 1 H), 4.75–4.68 (m, 1 H),
+4.41–4.34 (m, 1 H), 2.84 (s, 2 H), 1.51 (s, 3 H).
+2.2. Synthesis of PEG-amine5-I29593
+I2959-NHS (55 mg, 98 μmol, 3/8 eq.) was added to a solution of 8-arm 20 kDa PEG(pentaerythritol)-amine
+(JenΚ em Technologies USA, 0.65 g, 260μmol amine) and N,N-Diisopropylethylamine (Sigma, 455 μl,
+2.6 mmol, 10 eq.) in anhydrous DCM. The reaction vessel was purged with argon and the mixture was stirred
+overnight at room temperature. The reaction mixture was precipitated and washed in cold diethyl ether four
+times and then vacuum dried. The resulting cake was dissolved in deionized water, and dialyzed(22 mm
+SnakeSkin dialysis tubing, MWCO=10 kDa) against deionized water for 72 h in the dark. The solution was
+then lyophilized to obtain the product(PEG-amine
+5-I29593, 530 mg, 81% yield) as a ﬂuffy white powder. 1 H
+NMR revealed that functionalization of the PEG-macromer was approximately 38%(i.e. 3 arms were
+functionalized with I2959, and 5 arms remained amines) by comparing the area of the PEG methylene peak to
+the I2959 methyl peak.
+2.3. Synthesis of PEG-DBCO3-I29593 (PEG-D/I)
+A solution of PEG-amine5-I29593 (530 mg, 160 μmol amine) and N,N-Diisopropylethylamine (83 μl,
+480 μmol, 3 eq.) in anhydrous DCM was stirred for ten minutes followed by the addition of DBCO-C6-NHS
+Ester (Click Chemistry Tools, 140 mg, 320μmol, 2 eq). The reaction vessel was purged with argon and the
+mixture was stirred for three days at room temperature. The reaction mixture was precipitated and washed in
+cold diethyl ether four times, then vacuum dried. The resulting cake was dissolved in deionized water and
+dialyzed (22 mm SnakeSkin dialysis tubing, MWCO=10 kDa) against deionized water for 72 h in the dark. The
+solution was lyophilized to obtain the product(PEG-DBCO
+3-I29593, 480 mg, 91% yield) as a light-yellowﬂuffy
+powder. 1 H NMR revealed that functionalization of the remaining amine arms was approximately 60%(i.e. 3
+arms functionalized with DBCO) by comparing the area of the PEG methylene peak to the aromatic DBCO
+peaks.
+2.4. Rheological characterization
+Rheology was performed on a TA Instruments AR G2 stress controlled rheometer equipped with an 8 mm
+sandblasted parallel plate and a quartz plate accessory to allow for controlled illumination. Allyl sulﬁde cross-
+linked SPAAC hydrogels were prepared from stock solutions of 20 wt% PEG-DBCO3-I29593 in
+dimethylsulfoxide (DMSO), 74 mM RGD-N3 in PBS, and 120 mM AS2N3 in DMSO. The prepolymer solution
+was vortexed for 5 s, placed on the rheometer, and the gap was immediately lowered to 300μm. Gelation
+kinetics were evaluatedin situ by measuring the storage and loss moduli(G′and G″) at an oscillatory shear strain
+of 10% and a frequency of 1 rad s–1 (within the linear viscoelastic range). Mineral oil was added to the gap to
+prevent dehydration. The gels were cured for 15 min, after which, the normal force was zeroed and held at 1 N.
+2.4.1. Characterization of dynamic moduli
+For time-sweep characterization, hydrogels were fabricated on the rheometer by mixing stock solutions to aﬁnal
+concentration of 12 wt% PEG-DBCO3-I29593, 1 mM RGD, and 9.7 mM AS2N3 in DMSO. TheG′and G″ were
+measured with the fast-sampling mode at an oscillatory shear strain of 10% and a frequency of 1 rad s–1. One
+minute after the time-sweep step had commenced, the gels were irradiated for 10 s, followed by three minutes of
+equilibration, and then another time-sweep step.
+3
+New J. Phys.21 (2019) 045004 I A Marozaset al
+
+=== PAGE 5 ===
+2.4.2. Characterization of stress relaxation
+For stress relaxation characterization, hydrogels were fabricated on the rheometer by mixing stock solutions to a
+ﬁnal concentration of 10 wt% PEG-DBCO3-I29593 and 10 mM AS2N3 in DMSO. The gels were subjected to
+10% strain with a rise time of 0.02 s, and after one minute had elapsed the light was turned on for 10 s. The gels
+were allowed to equilibrate for 2 min before the strain was reapplied.
+2.4.3. Characterization of creep
+For creep characterization, hydrogels were fabricated on the rheometer by mixing stock solutions to aﬁnal
+concentration of 12 wt% PEG-DBCO
+3-I29593 , 1 mM RGD, and 9.7 mM AS2N3 in DMSO. The gels were
+subjected to 100 Pa stress with a rise time of 0.01 s, and after one minute had elapsed the light was turned on for
+10 s. The gels were allowed to equilibrate for 2 min before the stress was reapplied.
+2.4.4. Statistical analysis
+All statistical comparisons and nonlinear regressions were performed in Prism 6(GraphPad Software, Inc.). For
+all rheological experiments, at least three replicates were performed. Model parameters were obtained by
+performing a nonlinear regression on mean creep and stress relaxation data using equations(1) and (2),
+respectively, with an ordinary least squares approach. All data presented is the mean±the standard deviation.
+2.5. Cell culture and imaging
+2.5.1. Gel fabrication
+Allyl sulﬁde cross-linked SPAAC hydrogels were prepared with stock solutions of 20 wt% PEG-DBCO
+3-I29593
+in dimethylsulfoxide (DMSO), 74 mM RGD-N3 in PBS, and 120 mM AS2N3 in DMSO. PEG-DBCO3-I29593
+and RGD-N3 were pre-reacted for 45 min prior to gel fabrication. AS2N3 was added to the macromer solution to
+a ﬁnal concentration of 12 wt% PEG-D/I, 1 mM RGD-N3, and 9.7 mM AS2N3 in DMSO. The precursor
+solution was vortexed for 5 s and dropped onto a microscope slide treated with Sigmacote(Sigma) and a thiol
+functionalized glass coverslip was placed on top of the precursor solution. The gels were cured for 15 min,
+soaked in PBS for an additional 10 min, then carefully removed from the microscope slide with razor. The gels
+were sterilized in 70% EtOH for 10 min, then washed two times and swollen overnight in sterile PBS.
+2.5.2. Cell culture
+Human mesenchymal stem cells(hMSC) were obtained from RoosterBio Inc. For all experiments, hMSCs were
+thawed and passaged at 70%–80% conﬂuence at 37 °C and 5% CO
+2 , with medium changes every 2–3d (low
+glucose DMEM supplemented with 10% FBS, 50 U ml−1 of penicillin and streptomycin).
+2.5.3. Transfection
+To visualize the f-actin cytoskeleton in live cells, hMSCs at passage six were transfected with the mCherry-
+LifeAct-7 plasmid, which was a gift from Michael Davidson(Addgene plasmid #54 491). Speciﬁcally, 3×105
+hMSCs were transfected with 10 ng mCherry-LifeAct-7 DNA in a 4D Nucleofector(Lonza) using the FF104
+program. Transfected hMSCs were incubated for 10 min at room temperature, then seeded directly onto PEG-
+D/I gels at 4×10
+4 cells cm−2.
+2.5.4. Live cell imaging and analysis
+For bulk photo-induced viscoelasticity, hMSCs were grown on gels for 24 h, gently washed with PBS, and
+transferred to a glass bottom 24-well plate(Cellvis), upside-down, with fresh imaging medium(Gibco
+FluoroBrite DMEM supplemented with 10% FBS). A rubber gasket was placed on top of the gel to preclude
+movement. The live cells were imaged on an inverted wideﬁeld microscope (Nikon Eclipse Ti-E) equipped with
+a 10x objective and an environmental chamber maintained at 37°C and 5% CO2. For local photo-induced
+viscoelasticity, transfected hMSCs were grown on gels for 24 h were gently washed with PBS and transferred to a
+glass bottom dish(MatTek, 14 mm, No. 1.5) with fresh imaging medium. To prevent the gel from moving in the
+dish, a coverslip(20×20 mm) was placed on top of the gel and excess media was aspirated. Live cells were
+imaged on a confocal microscope(Zeiss LSM 710) equipped with a 40x objective and an environmental chamber
+maintained at 37 °C and 5% CO
+2. Viscoelasticity was induced during imaging by creating a photobleaching
+experiment with the 405 nm laser in Zen software(Zeiss). In a user deﬁned region, the gels were exposed toﬁve
+rounds of 405 nm light exposure with a 1.58μs pixel dwell, then an image of the actin cytoskeleton was acquired.
+This process was repeated for 200 cycles, which resulted in 1.6 ms of photo-induced viscoelasticity in the deﬁned
+region. Image analysis was performed in FIJI[27]. Protrusion retraction was measured by marking the furthest
+position of the lamellipodia boundary before and after illumination. Proximity to the viscoelastic region was
+deﬁned as the shortest distance from the lamellipodia boundary to the illuminated region within the cell body.
+4
+New J. Phys.21 (2019) 045004 I A Marozaset al
+
+=== PAGE 6 ===
+The percent reduction of area for each protrusion was calculated by creating a binary mask containing the cell
+body and lamellipodia at each frame. The mask was divided into four quadrants, each containing a protrusion,
+and the percent area reduction was calculated according to equation(S1), which is available online atstacks.iop.
+org/NJP/21/045004/mmedia, where Ai is the area of theith quadrant andA0 is the initial area of the whole cell.
+3. Results and discussion
+3.1. Design of hydrogels with photochemically derived viscoelasticity
+A poly(ethylene glycol)( PEG) based hydrogel was designed with an allyl sulﬁde cross-linker and a covalently
+tethered photoinitiator to enable photo-controlled viscoelasticity. There are four advantages of using a network-
+tethered photoinitiator—as opposed to a soluble photoinitiator—to drive the AFCT process that allows the
+hydrogel to become viscoelastic. Firstly, a radical derived from a tethered photoinitiator is physically connected
+to the polymer network, so there is no change in cross-linking from the reaction with an allyl sulﬁde cross-link.
+Termination of a network tethered radical with another network radical does, however, result in increased cross-
+linking. It is also important to note that the tethered photoinitiator is not capable of allyl sulﬁde cross-link
+degradation, which has been previously observed with soluble photoinitiators[26]. Secondly, covalent tethering
+of the photoinitiator to the polymer network prevents cross-link degradation caused by diffusiveﬂux of a soluble
+photoinitiator from the bulk phase during irradiation. Thirdly, covalent modiﬁcation of the hydrogel with a
+photoinitiator eliminates the need to‘swell’ the photoinitiator into the gel prior to each exposure. Finally,
+covalent modiﬁcation of the hydrophobic photoinitiator 2-hydroxy-4′-(2-hydroxyethoxy)-2-
+methylpropiophenone (I2959) with PEG increases its aqueous solubility, which is reportedly less than 2 wt%
+[28], allowing one to utilize higher concentrations and achieve longer durations of photoinitiation. I2959 was
+covalently tethered to the network by use of a multi-armed PEG macromer functionalized with both click-
+chemistry and photoinitiator groups. I2959 is a Norrish type 1 photoinitiator that absorbs light at 365 nm and
+405 nm, making it suitable for initiation on microscope setups[29]. I2959 was selected as the photoinitiator
+because of its previous use in numerous cell studies with little cytotoxic effects[30, 31]. As an added beneﬁt,
+I2959 possesses a hydroxy handle, which greatly simpliﬁed conjugation to the PEG macromer.
+In addition to a tethered photoinitiator, the use of a cross-linker containing the allyl sulﬁde moiety is key to
+controlling the viscoelasticity with light. The allyl sulﬁde moiety is known to participate in a radical-mediated
+AFCT reaction, which results in covalent adaptability from allyl sulﬁde rearrangement [32–34]. The adaptable
+nature of the allyl sulﬁde cross-linker has previously been leveraged to degrade hydrogels with photo-generated
+mono-functional thiyl radicals[26]. In this work, however, degradation of the allyl sulﬁde cross-linker is
+avoided, and adaptability is retained, by omitting mono-functional thiols and by utilizing a tethered
+photoinitiator. Formation of the hydrogels was achieved by copolymerizing azide-ﬂanked allyl sulﬁde cross-
+linkers (AS2N3) and six-armed, dibenzocyclooctyne3/I29593 functionalized macromers (PEG-D/I, 20 kDa)
+through a strain promoted alkyne azide cycloaddition(ﬁgure 1(a)). Photo-viscoelastic gels were fabricated by
+combining PEG-D/I (12 wt%), AS2N3 (9.7 mM), and the azide functionalized cell adhesion motif RGD-N3
+(1m M) in DMSO. Rheological measurements revealed that network formation reached completion in
+approximately 15 min at aﬁnal shear storage modulus(G′) of 2 kPa and loss modulus(G″) of 20 Pa (ﬁgure 1(b)).
+The tan δ(G′/G″) of the base network was 1×10–2, which is characteristic of a purely elastic hydrogel.
+Upon excitation by light, the tethered photoinitiator dissociates into two radical species; the ketyl radical
+species is released into solution and it rapidly reacts with water[29], whereas the benzoyl radical species remains
+tethered to the network and it either reacts with the allyl sulﬁde cross-linker or it terminates with another radical
+species (ﬁgure 2(a)). For the AFCT process in this system, a tethered radical(i.e. benzoyl or thiyl) reacts with the
+allyl sulﬁde moiety to form an unstable tertiary intermediate. Fragmentation of the intermediate regenerates the
+allyl sulﬁde moiety and produces either the original tethered radical, or a new tethered thiyl radical(ﬁgure 2(a)).
+Importantly, AFCT events do not change the cross-linking density and primarily result in the reorganization of
+the cross-linking structure. Each photo-generated benzoyl radical can trigger multiple AFCT reorganization
+events in the cross-links, and consequently, a large degree of adaptability can be achieved in the network with a
+relatively small amount of photo-generated benzoyl radicals.
+Photo-induced viscoelasticity of the gels was assessed by monitoring the oscillatory shearG′and G″ in situ at
+1 rad s-1 during exposure to 365 nm light for 10 s at 2.5 mW cm−2. The G′increased to 2.2 kPa(10% increase)
+post-exposure, which was attributed to secondary cross-linking from a combination of radical-mediated DBCO
+oligomerization [35] and non-geminate recombination of network tethered radicals(ﬁgure S1). The G″
+increased asymptotically from 20 to 48 Pa(240% increase) over 10 s of illumination, indicating increased
+viscoelasticity, then reverted back to 20 Pa within 8 s of the light shuttering off(ﬁgure 2(b)). These results suggest
+that photo-generated I2959 radicals led to photo-induced viscoelasticity of the hydrogels, and moreover, the
+accumulation of radicals increased the AFCT kinetics over time, and consequently, resulted in the transiently
+5
+New J. Phys.21 (2019) 045004 I A Marozaset al
+
+=== PAGE 7 ===
+Figure 1. Design of hydrogels with photochemically induced viscoelasticity. Strain promoted alkyne-azide cycloaddition occurs upon
+mixing the hydrogel macromolecular precursors(left) to form an elastic base hydrogel as indicated by rheological measurements
+(right) of the storage modulus(G′, black) and the loss modulus(G″, grey).
+Figure 2. Photo-induced viscoelasticity via addition-fragmentation chain transfer.(a) Upon exposure to light, tethered I2959
+photoinitiator undergoes fragmentation (i) and then reacts with allyl sulﬁde cross-linkers to produce a tethered thiyl radical(ii), which
+propagates through many AFCT reactions and results in cross-link reorganization(iii). Wavy bonds represent the polymer backbone.
+(b) Rheological measurements of theG″ during, and after, illumination(2.5 mW cm −2, 365 nm, purple region). (c) The maximal
+change of G″ for consecutive exposures(2.5 mW cm −2, 365 nm, 10 s). Data points represent the average of three measure-
+ments±SD.
+6
+New J. Phys.21 (2019) 045004 I A Marozaset al
+
+=== PAGE 8 ===
+increasing G″. In the absence of light, however, the network thiyl radicals terminated, which lead to a loss of
+viscoelasticity. We further examined the evolution of the complex dynamic modulus during prolonged 180 s
+exposures and observed that similar to short exposures, theG″ changed rapidly within 10 s of light shuttering.
+However, we also observed that the G″ and tan δvaried during illumination, which was presumably due to
+photoinitiator consumption (ﬁgure S2). For this reason, we limited illumination times to 10 s for subsequent
+experiments. Photo-induced viscoelasticity in these gels was found to be reproducible over eight successive
+rounds of 10 s irradiation at 2.5 mW cm
+−2 (ﬁgure 2(c)). In support of these results, it was determined that for
+each exposure the consumption of I2959 was less than 0.01%, and accordingly, the rate of photoinitiation
+remained essentially constant for each exposure(ﬁgure S3(a)). These ﬁndings imply that the viscoelasticity,
+which is dependent on the photoinitiation rate, can be photo-induced for up to an hour without needing to
+replenish the photoinitiator. At higher light intensities, the viscoelasticity is expected increase at the expense of a
+shorter duration of photo-induced viscoelasticity.
+3.2. The loss modulus scales with photoinitiation rate
+We next evaluated the ability to tune the viscoelasticity with the photoinitiation rate, which scales linearly with
+light intensity (I0) and I2959 concentration according to equation(1) [36].
+fl= ()R fI C
+Nh c .1i
+I
+A
+0 2959
+Here, λ is the wavelength of light,j is the quantum yield of photo-fragmentation,εis the molar extinction
+coefﬁcient of I2959 atλ, and f is the efﬁciency of photoinitiation(i.e. the probability of benzoyl radicals escaping
+their nascent solvent cage). I2959 has a reportedj of 0.29 andε365 of 2.4 M–1 cm–1 in PBS [29, 37, 38], and for
+rheological measurements of photo-induced viscoelasticity, a 365 nm light was used at an intensity of
+0.5–25 mW cm−2. For the experimental conditions herein, it was determined that the thinﬁlm approximation
+was valid, and accordingly, the rate of photoinitiation ranged from 0.04–1.9 μMs –1 (ﬁgure S3(b), (c)).W e
+monitored the G″ in situ at 1 rad s-1 and 10% strain, while the light source shuttered on for 10 s at
+0.5–20 mW cm−2. We observed that theG″ increased over the illumination period and additionally, theG’
+increased more rapidly with increased light intensity(ﬁgure 3(a)). Correspondingly, the maximal increase of the
+G″ increased linearly with the photoinitiation rate(ﬁgure 3(b)). It is important to add that hydrogels fabricated
+without the AFCT cross-linker or the I2959 photoinitiator were found to have a signiﬁcantly smaller G″ increase
+compared to hydrogels containing both moieties(ﬁgure S4). Together these results support our hypothesis that
+the hydrogels dissipate stored elastic energy through photoinitiated AFCT cross-link rearrangement and that the
+rate of AFCT events affects the efﬁcacy of energy dissipation.
+3.3. Photo-induced stress relaxation scales with photoinitiation rate
+To further verify that photo-induced viscoelasticity was indeed derived from AFCT based network
+rearrangement—and not an artifact caused by stiffening—stress relaxation was evaluated by measuring the
+shear stress at 10% strain while the light source shuttered on for 10 s at 0.5–15 mW cm
+−2. As expected, we found
+that the normalized stress(σ/σ0) decreased as a function of light intensity during light exposure but remained
+constant in the absence of light. Furthermore, a larger degree of stress relaxation occurred with increasing light
+intensity (ﬁgure 3(c)). In order to calculate the time constant of stress relaxation(τsr) as a function of light
+intensity, we ﬁt the shear relaxation modulus(G) to equation (2), which describes stress relaxation in a Zener
+material.
+*
+s
+t h
+== + + + -
+= +
+t-⎡
+⎣⎢
+⎛
+⎝⎜
+⎞
+⎠⎟
+⎤
+⎦⎥() ()
+()
+Gt tE E
+EE
+EE
+E e
+EE
+11
+where, . 2
+t
+sr
+12
+12
+12
+2
+12
+sr
+For equation (2), σ(t) represents the shear stress,εrepresents the applied strain,E1 and E2 represent the
+elastic moduli of the spring elements, andη represents the coefﬁcient of viscosity for the dashpot element
+(ﬁgure 3(d), inset). We found thatτsr decreased from 214±47 s to 14.1±2.6 s with increased light intensity
+(ﬁgure 3(d)). Again, we ascribed these results to a greater rate of AFCT events with increased photoinitiation rate,
+and as a result, the gels dissipated the stored elastic energy more rapidly. Unexpectedly, the relationship between
+τ
+sr and light intensity was nonlinear, although, this observation might be explained by increased rates of radical
+termination with higher photoinitiation rates. While the Zener model, which is typically used to describe the
+viscoelasticity of unreactive systems, successfully illustrated that the rate of stress relaxation scaled with the
+photoinitiation rate, it is important to note that for this system,ηshould vary with illumination time because the
+viscoelastic properties are transient.
+7
+New J. Phys.21 (2019) 045004 I A Marozaset al
+
+=== PAGE 9 ===
+3.4. Photo-induced creep scales with photoinitiation rate
+Lastly, hydrogel creep was assessed by measuring the shear strain at 100 Pa stress while the light source shuttered
+on for 10 s at 2.5–25 mW cm−2. As expected, the gels deformed irreversibly during illumination, but did not
+deform in the absence of light. We also found that the photo-induced creep scaled with light intensity
+(ﬁgure 3(e)). In order to calculate the time constant of creep(τ
+c) for each exposure intensity, weﬁt the creep
+compliance (J) to equation (3), which describes creep in a Zener material.
+Figure 3. Characterization of photo-induced viscoelasticity in hydrogel scaffolds.(a) Rheological measurements of theG″ during, and
+after, illumination (purple region) with increasing light intensity. The red arrow represents the trend of increasing light intensity
+(0.5–20 mW cm−2, 365 nm, 10 s). (b) The maximal change ofG″ as a function of light intensity. The trend line was constructed from
+linear regression. (c) The normalized relaxation modulus(G/G0) of the hydrogels during, and after, illumination with increasing light
+intensity. The red arrow represents the trend of increasing light intensity(0.5–15 mW cm −2, 365 nm, 10 s). The trend line was
+constructed from nonlinear regression with equation(2). (d) The relaxation time(τsr) as a function of light intensity. Inset depicts the
+Zener model used to determine the time constants for stress relaxation and creep.(e) The creep compliance(J) during, and after,
+illumination with increasing light intensity. The red arrow represents the trend of increasing light intensity(2.5–25 mW cm −2,
+365 nm, 10 s). The trend line was constructed from nonlinear regression with equation(3). (f) The creep retardation time(τc) as a
+function of light intensity. Data points of rheological measurements represent the average of three measurements±SD and the
+dotted line represents the properties of the elastic base hydrogel. Data points of time constants represent the bestﬁt value±standard
+error.
+8
+New J. Phys.21 (2019) 045004 I A Marozaset al
+
+=== PAGE 10 ===
+*
+s
+t h
+== + -
+=
+t-
+() () ()
+()
+Jt t
+EE e
+E
+11 1
+where, . 3
+t
+c
+12
+2
+c
+Similar to stress relaxation, we found thatτc decreased nonlinearly with increased light intensity, from
+158±31 s to 47±17 s (ﬁgure 3(f)). Again, we attributed these results to an increased rate of AFCT cross-link
+rearrangement, which allowed for faster creep. In support of the Zener model, we found that the predicted
+values of τsr from the creep test were in good agreement with the measured values ofτsr from the stress relaxation
+test and differed by a maximum of 32±19 s. Likewise, the predicted values ofτc from stress relaxation were
+comparable with the measured values ofτc from creep and differed by 67±36 s at most. It is also important to
+point out that, as anticipated, hydrogels fabricated without the AFCT cross-linker or the I2959 photoinitiator
+did not creep upon light exposure(ﬁgure S5). Together, these results reinforce the proposed mechanism of
+photo-induced viscoelasticity through AFCT based cross-link rearrangement. In accordance with this
+mechanism, we anticipated that the rate of AFCT events could be further enhanced by limiting benzoyl radical
+termination through chain transfer pathways.
+3.5. Chain transfer enhances photochemically induced viscoelasticity
+We next investigated whether multi-functional thiols could boost the rate of AFCT based cross-link
+rearrangements. We reasoned that free thiols in the system would enhance the rate of AFCT by favoring the rate
+of benzoyl chain transfer relative to the rate of benzoyl termination. To test this hypothesis, we incorporated
+8-arm PEG-thiol (20 kDa, PEG-SH) into our prepolymer formulations at thiol concentrations ranging from
+2.5–20 mM. We found that tanδincreased asymptotically with thiol concentration, to a value of 0.08 at
+2.5 mW cm
+−2 (ﬁgure 4(a)) and to a value of 0.27 at 20 mW cm−2 (ﬁgure 4(b)). Generally, we found that tanδ
+increased with both light intensity and thiol concentration, which conﬁrmed our hypothesis that thiols act to
+boost the rate of AFCT events(ﬁgure 4(c)). With a better understanding of the viscoelastic properties of this
+photo-controlled system, we were interested in investigating the cellular response to local viscoelasticity
+changes.
+3.6. hMSCs contract in response to bulk and localized photo-induced viscoelasticity
+We ﬁrst cultured hMSCs, which are known to be mechanosensitive[5, 14], on the gels and found that they
+remained viable and spread by day two. Next, we irradiated the entire gel with 405 nm light at 100 mW cm−2,
+which results in a photoinitiation rate approximately equivalent to 365 nm light at 0.25 mW cm−2, for 3 min
+(over 10 min of observation) and noted that the hMSCs contracted and occasionally detached from the
+substrate. Additionally, we noticed that some cells physically deformed the substrate as they contracted on the
+viscoelastic substrate (ﬁgure S6(a)). Interestingly, we found that theτc, which was calculated by tracking the
+displacement of debris near the cell, was in good agreement with theτc estimated from our rheological analysis
+(ﬁgure S6(b), (c)). We further found that hMSCs cultured on glass and elastic hydrogel substrates did not show
+changes in morphology during exposure—even in the presence of soluble I2959 photoinitiator(ﬁgure S7).
+Collectively, these observations indicate that the photo-induced viscoelasticity of the underlying hydrogel
+substrate indeed caused the morphological changes observed in the hMSCs.
+Figure 4. Characterization of photo-induced viscoelasticity in the presence of a chain transfer agent.(a) The maximal tanδduring
+illumination with low-intensity light(10 s, 2.5 mW cm −2) for hydrogels formed with 8-arm PEG-SH(0–20 mM thiol). (b) The
+maximal tan δduring illumination with high-intensity light(10 s, 20 mW cm −2) for hydrogels formed with 8-arm PEG-SH.(c) The
+maximal tan δduring illumination at increasing light intensities for hydrogels formed with thiol concentrations of 0 mM(green
+diamond), 2.5 mM (red triangle),5m M (blue triangle),1 0m M (gold square), and 20 mM (black circle). Data points represent the
+average of three measurements±SD.
+9
+New J. Phys.21 (2019) 045004 I A Marozaset al
+
+=== PAGE 11 ===
+Next, in an effort to investigate the effect of localized viscoelasticity on cytoskeletal organization in real-time,
+we locally induced viscoelasticity under a single cellular protrusion while the other protrusions remained on an
+elastic substrate. The actin cytoskeleton was visualized in real-time with mCherry-LifeAct over an 11 min
+period, in which the selected protrusion was illuminated with 405 nm light for 1.6 ms. We observed that all of
+the protrusions retracted instantaneously in response to the local viscoelasticity change(ﬁgure 5(a)). The ﬁnal
+retraction length of the protrusions was proportional to the distance from the viscoelastic region, where the
+protrusion residing on the viscoelastic region had retracted 3.6μm and a protrusion approximately 37μm from
+the viscoelastic region had retracted only 0.9μm (ﬁgure 5(b)). The percent reduction in the area of the
+protrusions was also proportional to the distance from the viscoelastic region, where the cross-sectional area of
+the two protrusions closest to the viscoelastic region had decreased over 6% within theﬁrst 240 s of exposure
+(ﬁgure 5(c)). At 240 s, the cross-sectional area on the viscoelastic region had decreased by approximately 45%,
+which could account for the diminished response beyond that time. At 650 s, the total cross-sectional area of the
+cell had decreased from 1.46×10
+3 μm2 to 1.25×103 μm2, representing a 14% reduction in total area. It is
+difﬁcult to interpret these results in terms of the motor-clutch model because(1) the projected cell area residing
+on the viscoelastic region decreases over time and(2) the magnitude of viscoelasticity evolves over time, which in
+turn, alters the period of‘load-and-fail’ cycles and thus, the traction force exerted by the cell[39]. However, we
+ascribed the rapid and far-reaching reduction in the area and length of cellular protrusions upon a local
+induction of viscoelasticity to the principles of durotaxis and cellular tensegrity[24, 40]. The proposed
+mechanism for durotaxis predicts that cellular stress relaxation on a viscoelastic gel would decrease the reactive
+force acting on stress activated channels and stress activated cryptic binding sites, which both affect the local
+cytoskeletal organization [24]. The tensegrity model of cytoskeletal structure would predict that a local change in
+actin tension caused by viscoelasticity will affect actin tension in protrusions that are signiﬁcantly farther from
+the localized source[40].
+The hydrogel materials developed herein are well suited to study the viscoelastic mechanotransduction of
+cells in real-time. Although the viscoelasticity of these hydrogels is derived from a consumable photoinitiator
+source, which limits the duration of altered viscoelasticity to minutes or hours, studies on relatively short
+timescales may still provide valuable insight into mechanotransduction processes that allow cells to quickly
+sense and respond to the viscoelastic properties of their microenvironment. As an example of short timescale
+mechanotransduction, Tajik et al and Elosegui et al recently demonstrated that instantaneous strains applied to
+focal adhesions increase the diffusivity of transcription factors through the nuclear pore complex and increase
+mRNA transcription within a minute[41, 42]. The present hydrogel is also unsuitable for cell encapsulation
+Figure 5. hMSC retraction in response to substrate viscoelasticity.(a) The morphology of the hMSC cytoskeleton was monitored in
+real-time while viscoelasticity was locally induced(yellow box). Observation time is shown in the upper left corner and protrusion
+identiﬁcation number is marked in theﬁrst panel. Scale bar=20 μm. (b) The retraction length of each protrusion as a function of the
+initial proximity to the viscoelastic region.(c) Percent reduction of area for each protrusion during photo-induced viscoelasticity. The
+protrusion identiﬁcation number is indicated in the legend.
+10
+New J. Phys.21 (2019) 045004 I A Marozaset al
+
+=== PAGE 12 ===
+within a 3D culture context, which is more physiologically relevant than 2D cell culture. 3D culture with these
+gels is precluded because they are non-degradable, which prohibits cell spreading and causes deleterious effects
+in certain cell types, including primary hMSCs[43, 44]. In future studies, a cross-linker composed of the allyl
+sulﬁde moiety ﬂanked by hydrophilic enzymatically degradable peptide sequences may ameliorate the limited
+aqueous solubility of the current cross-linker while also allowing for cellularly directed degradation.
+4. Conclusion
+In this work, a photochemical reaction was leveraged to induce molecular rearrangements on-demand that
+render the hydrogel networks viscoelastic. The precise location, duration, and magnitude of the hydrogel
+viscoelasticity was controlled through an AFCT reaction using allyl sulﬁde cross-linkers and tethered thiyl
+radicals. Speciﬁcally, we demonstrated that tanδ, creep, and stress relaxation of the hydrogels increase as a
+function of the photoinitiation rate. Chain transfer via multi-armed PEG thiol was found to further enhance
+these photo-induced changes in viscoelasticity. As an added beneﬁt, the hydrogels were loaded with large
+concentrations of a covalently immobilized initiator so that the viscoelasticity changes could be photo-induced
+at will, without needing to swell photoinitiator into the hydrogel, which can be especially beneﬁcial for studying
+cellular mechanotransduction. Finally, hMSCs cultured on RGD functionalized allyl sulﬁde PEG hydrogels
+spread and were viable throughout the photochemically induced viscoelasticity changes. Upon controlled
+illumination, hMSCs contracted in response to localized and bulk viscoelasticity changes. The protrusions of
+hMSCs retracted and decreased in area proportional to their proximity to the local viscoelastic region. While the
+transient photo-controlled viscoelastic properties of this hydrogel system make it difﬁcult to quantify long-term
+mechanotransduction in response viscoelasticity, this hydrogel system could be exploited to provide insight into
+short timescale mechanotransduction processes that allow cells to quickly sense and respond to the viscoelastic
+properties of their microenvironment as they migrate within it.
+Acknowledgments
+This work was supportedﬁnancially in part by grants from the National Science Foundation(DMR 1408955),
+the National Institutes of Health(R01 DE016523), and the Australian Research Council Discovery Grant
+(DP140104217). The authors also gratefully acknowledge fellowship support from the NSF GFRP(I.A.M) and
+from the Whitaker International Program(I.A.M.). Confocal imaging was performed at the Queensland node of
+the Australian National Fabrication Facility(ANFF-Q), a company established under the National Collaborative
+Research Infrastructure Strategy to provide nano- and microfabrication facilities for Australia’s researchers.
+Time-lapse imaging was performed at the BioFrontiers Institute Advanced Light Microscopy Core on a Nikon
+Ti-E microscope supported by the Howard Hughes Medical Institute. The authors would like to thank Dr Kemal
+Arda Günay for critically reading the manuscript, as well as Dr Pingping Han for assistance with plasmid
+production and transfection, and Dr Benoit Maisonneuve for helpful rheological discussions.
+References
+[1] Discher D E, Janmey P and Wang Y L 2005 Tissue cells feel and respond to the stiffness of their substrateScience 310 1139–43
+[2] Moore S W, Roca-Cusachs P and Sheetz M P 2010 Stretchy proteins on stretchy substrates: the important elements of integrin-
+mediated rigidity sensingDev. Cell 19 194–206
+[3] Wen J H, Vincent L G, Fuhrmann A, Choi Y S, Hribar K C, Taylor-Weiner H, Chen S and Engler A J 2014 Interplay of matrix stiffness
+and protein tethering in stem cell differentiationNat. Mater. 13 979–87
+[4] Rao V V, Vu M K, Ma H, Killaars A R and Anseth K S 2019 Rescuing mesenchymal stem cell regenerative properties on hydrogel
+substrates post serial expansionBioeng. Transl. Med.4 51–60
+[5] Engler A J, Sen S, Sweeney H L and Discher D E 2006 Matrix elasticity directs stem cell lineage speciﬁcation Cell 126 677–89
+[6] Dupont S et al 2011 Role of YAP/TAZ in mechanotransductionNature 474 179–83
+[7] Yang C, Tibbitt M W, Basta L and Anseth K S 2014 Mechanical memory and dosing inﬂuence stem cell fateNat. Mater. 13 645–52
+[8] Alam S Get al 2016 The mammalian LINC complex regulates genome transcriptional responses to substrate rigiditySci. Rep. 6 38063
+[9] Tang S, Ma H, Tu H C, Wang H R, Lin P C and Anseth K S 2018 Adaptable fast relaxing boronate-based hydrogels for probing cell–
+matrix interactions Adv. Sci. 5 1–8
+[10] Charrier E E, Pogoda K, Wells R G and Janmey P A 2018 Control of cell morphology and differentiation by substrates with
+independently tunable elasticity and viscous dissipationNat. Commun. 9 1–13
+[11] Storm C, Pastore J J, MacKintosh F C, Lubensky T C and Janmey P A 2005 Nonlinear elasticity in biological gelsNature 435 191–4
+[12] Chaudhuri O et al 2015 Hydrogels with tunable stress relaxation regulate stem cell fate and activityNat. Mater. 15 326–34
+[13] Cameron A R, Frith J E and Cooper-White J J 2011 The inﬂuence of substrate creep on mesenchymal stem cell behaviour and
+phenotype Biomaterials 32 5979–93
+[14] Cameron A R, Frith J E, Gomez G A, Yap A S and Cooper-White J J 2014 The effect of time-dependent deformation of viscoelastic
+hydrogels on myogenic induction and Rac1 activity in mesenchymal stem cellsBiomaterials 35 1857–68
+11
+New J. Phys.21 (2019) 045004 I A Marozaset al
+
+=== PAGE 13 ===
+[15] Isaksson H, Malkiewicz M, Nowak R, Helminen H J and Jurvelin J S 2010 Rabbit cortical bone tissue increases its elastic stiffness but
+becomes less viscoelastic with ageBone 47 1030–8
+[16] Salameh N, Peeters F, Sinkus R, Abarca-Quinones J, Annet L, Ter Beek L C, Leclercq I. and Van Beers B E 2007 Hepatic viscoelastic
+parameters measured with MR elastography: correlations with quantitative analysis of liverﬁbrosis in the ratJ. Magn. Reson. Imaging26
+956–62
+[17] Streitberger K J, Sack I, Krefting D, Pfüller C, Braun J, Paul F and Wuerfel J 2012 Brain viscoelasticity alteration in chronic-progressive
+multiple sclerosis PLoS One 7 e29888
+[18] Garteiser P, Doblas S, Daire J L, Wagner M, Leitao H, Vilgrain V, Sinkus R and Van Beers B E 2012 MR elastography of liver tumours:
+value of viscoelastic properties for tumour characterisationEur. Radiol. 22 2169–77
+[19] Venkatesh S K, Yin M and Ehman R L 2013 Magnetic resonance elastography of liver: clinical applicationsJ. Comput. Assist. Tomogr.37
+887–96
+[20] Tang S Y, Souza R B, Ries M, Hansma P K, Alliston T and Li X 2011 Local tissue properties of human osteoarthritic cartilage correlate
+with magnetic resonance T1rho relaxation timesJ. Orthop. Res.29 1312–9
+[21] Johnson C L, McGarry M D J, Gharibans A A, Weaver J B, Paulsen K D, Wang H, Olivero W C, Sutton B P and Georgiadis J G 2013
+Local mechanical properties of white matter structures in the human brainNeuroimage 79 145–52
+[22] Balaban N Qet al 2001 Force and focal adhesion assembly: a close relationship studied using elastic micropatterned substratesNat. Cell
+Biol. 3 466–72
+[23] Fu J, Wang Y K, Yang M T, Desai R A, Yu X, Liu Z and Chen C S 2010 Mechanical regulation of cell function with geometrically
+modulated elastomeric substratesNat. Methods 7 733–6
+[24] Lo C-M, Wang H-B, Dembo M and Wang Y-L 2000 Cell movement is guided by the rigidity of the substrateBiophys. J. 79 144–52
+[25] Ma H, Killaars A R, DelRio F W, Yang C and Anseth K S 2017 Myoﬁbroblastic activation of valvular interstitial cells is modulated by
+spatial variations in matrix elasticity and its organizationBiomaterials 131 131–44
+[26] Brown T E, Marozas I A and Anseth K S 2017 Ampliﬁed Photodegradation of cell-laden hydrogels via an addition–fragmentation chain
+transfer reaction Adv. Mater. 29 1605001
+[27] Schindelin J et al 2012 Fiji: an open-source platform for biological-image analysisNat. Methods 9 676–82
+[28] Fouassier J-P, Burr D and Wieder F 1991 Water-soluble photoinitiators: primary processes in hydroxy alkyl phenyl ketonesJ. Polym.
+Sci. A 29 1319–27
+[29] O’Connell C Det al 2018 Tailoring the mechanical properties of gelatin methacryloyl hydrogels through manipulation of the
+photocrosslinking conditions Soft Matter 14 2142–51
+[30] Bryant S J, Nuttelman C R and Anseth K S 2000 Cytocompatibility of UV and visible light photoinitiating systems on cultured NIH/
+3T3 ﬁbroblasts in vitro J. Biomater. Sci. Polym. Ed.11 439–57
+[31] Williams C G, Malik A N, Kim T K, Manson P N and Elisseeff J H 2005 Variable cytocompatibility of six cell lines with photoinitiators
+used for polymerizing hydrogels and cell encapsulationBiomaterials 26 1211–8
+[32] Scott T F, Schneider A D, Cook W D and Bowman C N 2005 Photoinduced plasticity in cross-linked polymersScience 308 1615–7
+[33] Gandavarapu N R, Azagarsamy M A and Anseth K S 2014 Photo-click living strategy for controlled, reversible exchange of biochemical
+ligands Adv. Mater. 26 2521–6
+[34] Kloxin C J, Scott T F and Bowman C N 2009 Stress relaxation via addition−fragmentation chain transfer in a thiol-ene
+photopolymerization Macromolecules 42 2551–6
+[35] Brown T E, Silver J S, Worrell B T, Marozas I A, Yavitt F M, Günay K A, Bowman C N and Anseth K S 2018 Secondary
+photocrosslinking of click hydrogels to probe myoblast mechanotransduction in three dimensionsJ. Am. Chem. Soc.140 11585–8
+[36] Odian G 2004Principles of Polimerization(Hoboken, NJ: Wiley)
+[37] Jockusch S, Landis M S, Freiermuth B and Turro N J 2001 Photochemistry and photophysics ofα -hydroxy ketones Macromolecules 34
+1619–26
+[38] Woodward J R 2002 Radical pairs in solutionProg. React. Kinet. Mech.27 165–207
+[39] Bangasser B L, Rosenfeld S S and Odde D J 2013 Determinants of maximal force transmission in a motor-clutch model of cell traction
+in a compliant microenvironmentBiophys. J. 105 581–92
+[40] Ingber D E 2003 Tensegrity II. how structural networks inﬂuence cellular information processing networksJ. Cell Sci.116 1397–408
+[41] Tajik A, Zhang Y, Wei F, Sun J, Jia Q, Zhou W, Singh R, Khanna N, Belmont A S and Wang N 2016 Transcription upregulation via
+force-induced direct stretching of chromatinNat. Mater. 15 1287–96
+[42] Elosegui-Artola A et al 2017 Force triggers YAP nuclear entry by regulating transport across nuclear poresCell 171 1397–410
+[43] Anderson S B, Lin C-C, Kuntzler D V and Anseth K S 2011 The performance of human mesenchymal stem cells encapsulated in cell-
+degradable polymer-peptide hydrogelsBiomaterials 32 3564–74
+[44] Jongpaiboonkit L, King W J and Murphy W L 2009 Screening for 3D environments that support human mesenchymal stem cell
+viability using hydrogel arraysTissue Eng. A 15 343–53
+12
+New J. Phys.21 (2019) 045004 I A Marozaset al
